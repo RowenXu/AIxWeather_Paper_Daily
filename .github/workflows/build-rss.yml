@@ -1,0 +1,43 @@
+name: Build & Publish RSS
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # 每日 02:00 UTC ≈ 新加坡/北京时间 10:00
+  workflow_dispatch:      # 允许手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run generator
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}  # 可选，用于更高质量摘要
+          TZ: Asia/Singapore
+        run: |
+          python scripts/arxiv_meteo_ai_rss.py
+
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(rss): update feed"
+          commit_user_name: rss-bot
+          commit_user_email: rss-bot@example.com
+          file_pattern: |
+            docs/index.xml
+            state/state.json
