@@ -14,7 +14,7 @@ import arxiv
 # ---------------------- 配置区（可按需改动） ----------------------
 TIMEZONE = os.getenv("TZ", "Asia/Shanghai")
 LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", 36))
-MAX_RESULTS = int(os.getenv("ARXIV_MAX_RESULTS", 10))
+MAX_RESULTS = int(os.getenv("ARXIV_MAX_RESULTS", 30))
 MAX_ITEMS_PER_RUN = int(os.getenv("MAX_ITEMS_PER_RUN", 20))
 
 CATEGORIES = [
@@ -24,7 +24,8 @@ CATEGORIES = [
 KEYWORDS_ANY = [
     "climate", "weather", "precipitation", "ENSO",
     "nowcasting", "reanalysis", "downscaling", "data assimilation",
-    "typhoon", "cyclone", "monsoon", "teleconnection", "MJO", "WRF", "ERA5"
+    "typhoon", "cyclone", "monsoon", "teleconnection", "MJO", "WRF", "ERA5", "model",
+    "AI", "Transformer"
 ]
 BLACKLIST_TERMS = ["quantum field", "string theory"]
 
