@@ -7,76 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 29 Oct 2025 15:35:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 15:39:09 +0000</lastBuildDate>
     <item>
-      <title>All in one timestep: Enhancing Sparsity and Energy efficiency in Multi-level Spiking Neural Networks</title>
-      <link>http://arxiv.org/abs/2510.24637v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andrea Castagnetti, Alain Pegatoquet, Benoît Miramond&lt;/p&gt;&lt;p&gt;Spiking Neural Networks (SNNs) are one of the most promising bio-inspired neural networks models and have drawn increasing attention in recent years. The event-driven communication mechanism of SNNs allows for sparse and theoretically low-power operations on dedicated neuromorphic hardware. However, the binary nature of instantaneous spikes also leads to considerable information loss in SNNs, resulting in accuracy degradation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2510.24637v1</guid>
-      <pubDate>Tue, 28 Oct 2025 17:03:33 +0000</pubDate>
+      <title>Diffusion Models for Wireless Transceivers: From Pilot-Efficient Channel Estimation to AI-Native 6G Receivers</title>
+      <link>http://arxiv.org/abs/2510.24495v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuzhi Yang, Sen Yan, Weijie Zhou, Brahim Mefgouda, Ridong Li, Zhaoyang Zhang, Mérouane Debbah&lt;/p&gt;&lt;p&gt;With the development of artificial intelligence (AI) techniques, implementing AI-based techniques to improve wireless transceivers becomes an emerging research topic. Within this context, AI-based channel characterization and estimation become the focus since these methods have not been solved by traditional methods very well and have become the bottleneck of transceiver efficiency in large-scale orthogonal frequency division multiplexing (OFDM) systems. Specifically, by formulating channel estimation as a generative AI problem, generative AI methods such as diffusion models (DMs) can efficien&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24495v1</guid>
+      <pubDate>Tue, 28 Oct 2025 15:10:11 +0000</pubDate>
     </item>
     <item>
-      <title>Causal Ordering for Structure Learning From Time Series</title>
-      <link>http://arxiv.org/abs/2510.24639v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pedro P. Sanchez, Damian Machlanski, Steven McDonagh, Sotirios A. Tsaftaris&lt;/p&gt;&lt;p&gt;Predicting causal structure from time series data is crucial for understanding complex phenomena in physiology, brain connectivity, climate dynamics, and socio-economic behaviour. Causal discovery in time series is hindered by the combinatorial complexity of identifying true causal relationships, especially as the number of variables and time points grow. A common approach to simplify the task is the so-called ordering-based methods&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2510.24639v1</guid>
-      <pubDate>Tue, 28 Oct 2025 17:06:15 +0000</pubDate>
+      <title>Design and Optimization of Cloud Native Homomorphic Encryption Workflows for Privacy-Preserving ML Inference</title>
+      <link>http://arxiv.org/abs/2510.24498v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tejaswini Bollikonda&lt;/p&gt;&lt;p&gt;As machine learning (ML) models become increasingly deployed through cloud infrastructures, the confidentiality of user data during inference poses a significant security challenge. Homomorphic Encryption (HE) has emerged as a compelling cryptographic technique that enables computation on encrypted data, allowing predictions to be generated without decrypting sensitive inputs. However, the integration of HE within large scale cloud native pipelines remains constrained by high computational overhead, orchestration complexity, and model compatibility issues&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24498v1</guid>
+      <pubDate>Tue, 28 Oct 2025 15:13:32 +0000</pubDate>
     </item>
     <item>
-      <title>FunReason-MT Technical Report: Overcoming the Complexity Barrier in Multi-Turn Function Calling</title>
-      <link>http://arxiv.org/abs/2510.24645v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zengzhuang Xu, Bingguang Hao, Zechuan Wang, Yuntao Wen, Maolin Wang, Yang Liu, Long Chen, Dong Wang&lt;/p&gt;&lt;p&gt;Function calling (FC) empowers large language models (LLMs) and autonomous agents to interface with external tools, a critical capability for solving complex, real-world problems. As this ability becomes increasingly central to advanced AI systems, the need for high-quality, multi-turn training data to develop and refine it cannot be overstated. Existing data synthesis methods, such as random environment sampling or multi-agent role-playing, are not powerful enough to generate high-quality data in real-world environments&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2510.24645v1</guid>
-      <pubDate>Tue, 28 Oct 2025 17:15:26 +0000</pubDate>
+      <title>Local Performance vs. Out-of-Distribution Generalization: An Empirical Analysis of Personalized Federated Learning in Heterogeneous Data Environments</title>
+      <link>http://arxiv.org/abs/2510.24503v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mortesa Hussaini, Jan Theiß, Anthony Stein&lt;/p&gt;&lt;p&gt;In the context of Federated Learning with heterogeneous data environments, local models tend to converge to their own local model optima during local training steps, deviating from the overall data distributions. Aggregation of these local updates, e.g., with FedAvg, often does not align with the global model optimum (client drift), resulting in an update that is suboptimal for most clients. Personalized Federated Learning approaches address this challenge by exclusively focusing on the average local performances of clients' models on their own data distribution&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24503v1</guid>
+      <pubDate>Tue, 28 Oct 2025 15:15:14 +0000</pubDate>
     </item>
     <item>
-      <title>Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning</title>
-      <link>http://arxiv.org/abs/2510.24650v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nitin Rai, Daeun, Choi, Nathan S. Boyd, Arnold W. Schumann&lt;/p&gt;&lt;p&gt;Site-specific disease management (SSDM) in crops has advanced rapidly through machine and deep learning (ML and DL) for real-time computer vision. Research evolved from handcrafted feature extraction to large-scale automated feature learning. With foundation models (FMs), crop disease datasets are now processed in fundamentally new ways&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2510.24650v1</guid>
-      <pubDate>Tue, 28 Oct 2025 17:16:47 +0000</pubDate>
+      <title>Audio Signal Processing Using Time Domain Mel-Frequency Wavelet Coefficient</title>
+      <link>http://arxiv.org/abs/2510.24519v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rinku Sebastian, Simon O'Keefe, Martin Trefzer&lt;/p&gt;&lt;p&gt;Extracting features from the speech is the most critical process in speech signal processing. Mel Frequency Cepstral Coefficients (MFCC) are the most widely used features in the majority of the speaker and speech recognition applications, as the filtering in this feature is similar to the filtering taking place in the human ear. But the main drawback of this feature is that it provides only the frequency information of the signal but does not provide the information about at what time which frequency is present&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24519v1</guid>
+      <pubDate>Tue, 28 Oct 2025 15:31:52 +0000</pubDate>
     </item>
     <item>
-      <title>OrchDAG: Complex Tool Orchestration in Multi-Turn Interactions with Plan DAGs</title>
-      <link>http://arxiv.org/abs/2510.24663v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yifu Lu, Shengjie Liu, Li Dong&lt;/p&gt;&lt;p&gt;Agentic tool use has gained traction with the rise of agentic tool calling, yet most existing work overlooks the complexity of multi-turn tool interactions. We introduce OrchDAG, a synthetic data generation pipeline that models tool execution as directed acyclic graphs (DAGs) with controllable complexity. Using this dataset, we benchmark model performance and propose a graph-based reward to enhance RLVR training&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2510.24663v1</guid>
-      <pubDate>Tue, 28 Oct 2025 17:28:01 +0000</pubDate>
+      <title>From Cross-Task Examples to In-Task Prompts: A Graph-Based Pseudo-Labeling Framework for In-context Learning</title>
+      <link>http://arxiv.org/abs/2510.24528v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zihan Chen, Song Wang, Xingbo Fu, Chengshuai Shi, Zhenyu Lei, Cong Shen, Jundong Li&lt;/p&gt;&lt;p&gt;The capability of in-context learning (ICL) enables large language models (LLMs) to perform novel tasks without parameter updates by conditioning on a few input-output examples. However, collecting high-quality examples for new or challenging tasks can be costly and labor-intensive. In this work, we propose a cost-efficient two-stage pipeline that reduces reliance on LLMs for data labeling&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24528v1</guid>
+      <pubDate>Tue, 28 Oct 2025 15:37:51 +0000</pubDate>
     </item>
     <item>
-      <title>Multi-Agent Scenario Generation in Roundabouts with a Transformer-enhanced Conditional Variational Autoencoder</title>
-      <link>http://arxiv.org/abs/2510.24671v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Li Li, Tobias Brinkmann, Till Temmen, Markus Eisenbarth, Jakob Andert&lt;/p&gt;&lt;p&gt;With the increasing integration of intelligent driving functions into serial-produced vehicles, ensuring their functionality and robustness poses greater challenges. Compared to traditional road testing, scenario-based virtual testing offers significant advantages in terms of time and cost efficiency, reproducibility, and exploration of edge cases. We propose a Transformer-enhanced Conditional Variational Autoencoder (CVAE-T) model for generating multi-agent traffic scenarios in roundabouts, which are characterized by high vehicle dynamics and complex layouts, yet remain relatively underexplor&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2510.24671v1</guid>
-      <pubDate>Tue, 28 Oct 2025 17:36:52 +0000</pubDate>
+      <title>Generative AI for Healthcare: Fundamentals, Challenges, and Perspectives</title>
+      <link>http://arxiv.org/abs/2510.24551v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gang Chen, Changshuo Liu, Gene Anne Ooi, Marcus Tan, Zhongle Xie, Jianwei Yin, James Wei Luen Yip, Wenqiao Zhang&lt;/p&gt;&lt;p&gt;Generative Artificial Intelligence (GenAI) is taking the world by storm. It promises transformative opportunities for advancing and disrupting existing practices, including healthcare. From large language models (LLMs) for clinical note synthesis and conversational assistance to multimodal systems that integrate medical imaging, electronic health records, and genomic data for decision support, GenAI is transforming the practice of medicine and the delivery of healthcare, such as diagnosis and personalized treatments, with great potential in reducing the cognitive burden on clinicians, thereby &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24551v1</guid>
+      <pubDate>Tue, 28 Oct 2025 15:47:44 +0000</pubDate>
     </item>
     <item>
-      <title>Repurposing Synthetic Data for Fine-grained Search Agent Supervision</title>
-      <link>http://arxiv.org/abs/2510.24694v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yida Zhao, Kuan Li, Xixi Wu, Liwen Zhang, Dingchu Zhang, Baixuan Li, Maojia Song, Zhuo Chen&lt;/p&gt;&lt;p&gt;LLM-based search agents are increasingly trained on entity-centric synthetic data to solve complex, knowledge-intensive tasks. However, prevailing training methods like Group Relative Policy Optimization (GRPO) discard this rich entity information, relying instead on sparse, outcome-based rewards. This critical limitation renders them unable to distinguish informative "near-miss" samples-those with substantially correct reasoning but a flawed final answer-from complete failures, thus discarding valuable learning signals&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2510.24694v1</guid>
-      <pubDate>Tue, 28 Oct 2025 17:50:40 +0000</pubDate>
+      <title>LoRA-DA: Data-Aware Initialization for Low-Rank Adaptation via Asymptotic Analysis</title>
+      <link>http://arxiv.org/abs/2510.24561v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Qingyue Zhang, Chang Chu, Tianren Peng, Qi Li, Xiangyang Luo, Zhihao Jiang, Shao-Lun Huang&lt;/p&gt;&lt;p&gt;With the widespread adoption of LLMs, LoRA has become a dominant method for PEFT, and its initialization methods have attracted increasing attention. However, existing methods have notable limitations: many methods do not incorporate target-domain data, while gradient-based methods exploit data only at a shallow level by relying on one-step gradient decomposition, which remains unsatisfactory due to the weak empirical performance of the one-step fine-tuning model that serves as their basis, as well as the fact that these methods either lack a rigorous theoretical foundation or depend heavily o&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24561v1</guid>
+      <pubDate>Tue, 28 Oct 2025 15:55:36 +0000</pubDate>
     </item>
     <item>
-      <title>Tongyi DeepResearch Technical Report</title>
-      <link>http://arxiv.org/abs/2510.24701v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tongyi DeepResearch Team, Baixuan Li, Bo Zhang, Dingchu Zhang, Fei Huang, Guangyu Li, Guoxin Chen, Huifeng Yin&lt;/p&gt;&lt;p&gt;We present Tongyi DeepResearch, an agentic large language model, which is specifically designed for long-horizon, deep information-seeking research tasks. To incentivize autonomous deep research agency, Tongyi DeepResearch is developed through an end-to-end training framework that combines agentic mid-training and agentic post-training, enabling scalable reasoning and information seeking across complex tasks. We design a highly scalable data synthesis pipeline that is fully automatic, without relying on costly human annotation, and empowers all training stages&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2510.24701v1</guid>
-      <pubDate>Tue, 28 Oct 2025 17:53:02 +0000</pubDate>
+      <title>DistDF: Time-Series Forecasting Needs Joint-Distribution Wasserstein Alignment</title>
+      <link>http://arxiv.org/abs/2510.24574v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hao Wang, Licheng Pan, Yuan Lu, Zhixuan Chu, Xiaoxi Li, Shuting He, Zhichao Chen, Haoxuan Li&lt;/p&gt;&lt;p&gt;Training time-series forecast models requires aligning the conditional distribution of model forecasts with that of the label sequence. The standard direct forecast (DF) approach resorts to minimize the conditional negative log-likelihood of the label sequence, typically estimated using the mean squared error. However, this estimation proves to be biased in the presence of label autocorrelation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24574v1</guid>
+      <pubDate>Tue, 28 Oct 2025 16:09:59 +0000</pubDate>
     </item>
     <item>
-      <title>Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents</title>
-      <link>http://arxiv.org/abs/2510.24702v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yueqi Song, Ketan Ramaneti, Zaid Sheikh, Ziru Chen, Boyu Gou, Tianbao Xie, Yiheng Xu, Danyang Zhang&lt;/p&gt;&lt;p&gt;Public research results on large-scale supervised finetuning of AI agents remain relatively rare, since the collection of agent training data presents unique challenges. In this work, we argue that the bottleneck is not a lack of underlying data sources, but that a large variety of data is fragmented across heterogeneous formats, tools, and interfaces. To this end, we introduce the agent data protocol (ADP), a light-weight representation language that serves as an "interlingua" between agent datasets in diverse formats and unified agent training pipelines downstream&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2510.24702v1</guid>
-      <pubDate>Tue, 28 Oct 2025 17:53:13 +0000</pubDate>
+      <title>Comparison of generalised additive models and neural networks in applications: A systematic review</title>
+      <link>http://arxiv.org/abs/2510.24601v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jessica Doohan, Lucas Kook, Kevin Burke&lt;/p&gt;&lt;p&gt;Neural networks have become a popular tool in predictive modelling, more commonly associated with machine learning and artificial intelligence than with statistics. Generalised Additive Models (GAMs) are flexible non-linear statistical models that retain interpretability. Both are state-of-the-art in their own right, with their respective advantages and disadvantages&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24601v1</guid>
+      <pubDate>Tue, 28 Oct 2025 16:28:42 +0000</pubDate>
     </item>
     <item>
-      <title>Machine-Learning-Assisted Comparison of Regression Functions</title>
-      <link>http://arxiv.org/abs/2510.24714v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jian Yan, Zhuoxi Li, Yang Ning, Yong Chen&lt;/p&gt;&lt;p&gt;We revisit the classical problem of comparing regression functions, a fundamental question in statistical inference with broad relevance to modern applications such as data integration, transfer learning, and causal inference. Existing approaches typically rely on smoothing techniques and are thus hindered by the curse of dimensionality. We propose a generalized notion of kernel-based conditional mean dependence that provides a new characterization of the null hypothesis of equal regression functions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2510.24714v1</guid>
-      <pubDate>Tue, 28 Oct 2025 17:59:15 +0000</pubDate>
+      <title>Statistical physics of deep learning: Optimal learning of a multi-layer perceptron near interpolation</title>
+      <link>http://arxiv.org/abs/2510.24616v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jean Barbier, Francesco Camilli, Minh-Toan Nguyen, Mauro Pastore, Rudy Skerk&lt;/p&gt;&lt;p&gt;For three decades statistical physics has been providing a framework to analyse neural networks. A long-standing question remained on its capacity to tackle deep learning models capturing rich feature learning effects, thus going beyond the narrow networks or kernel methods analysed until now. We positively answer through the study of the supervised learning of a multi-layer perceptron&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24616v1</guid>
+      <pubDate>Tue, 28 Oct 2025 16:44:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero-Shot Cross-Lingual Transfer using Prefix-Based Adaptation</title>
+      <link>http://arxiv.org/abs/2510.24619v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Snegha A, Sayambhu Sen, Piyush Singh Pasi, Abhishek Singhania, Preethi Jyothi&lt;/p&gt;&lt;p&gt;With the release of new large language models (LLMs) like Llama and Mistral, zero-shot cross-lingual transfer has become increasingly feasible due to their multilingual pretraining and strong generalization capabilities. However, adapting these decoder-only LLMs to new tasks across languages remains challenging. While parameter-efficient fine-tuning (PeFT) techniques like Low-Rank Adaptation (LoRA) are widely used, prefix-based techniques such as soft prompt tuning, prefix tuning, and Llama Adapter are less explored, especially for zero-shot transfer in decoder-only models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24619v1</guid>
+      <pubDate>Tue, 28 Oct 2025 16:48:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coreset for Robust Geometric Median: Eliminating Size Dependency on Outliers</title>
+      <link>http://arxiv.org/abs/2510.24621v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziyi Fang, Lingxiao Huang, Runkai Yang&lt;/p&gt;&lt;p&gt;We study the robust geometric median problem in Euclidean space $\mathbb{R}^d$, with a focus on coreset construction.A coreset is a compact summary of a dataset $P$ of size $n$ that approximates the robust cost for all centers $c$ within a multiplicative error $\varepsilon$. Given an outlier count $m$, we construct a coreset of size $\tilde{O}(\varepsilon^{-2} \cdot \min\{\varepsilon^{-2}, d\})$ when $n \geq 4m$, eliminating the $O(m)$ dependency present in prior work [Huang et al., 2022 &amp; 2023]. For the special case of $d = 1$, we achieve an optimal coreset size of $\tilde{\Theta}(\varepsilon&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24621v1</guid>
+      <pubDate>Tue, 28 Oct 2025 16:49:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bridging Simulators with Conditional Optimal Transport</title>
+      <link>http://arxiv.org/abs/2510.24631v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Justine Zeghal, Benjamin Remy, Yashar Hezaveh, Francois Lanusse, Laurence Perreault Levasseur&lt;/p&gt;&lt;p&gt;We propose a new field-level emulator that bridges two simulators using unpaired simulation datasets. Our method leverages a flow-based approach to learn the likelihood transport from one simulator to the other. Since multiple transport maps exist, we employ Conditional Optimal Transport Flow Matching (COT-FM) to ensure that the transformation minimally distorts the underlying structure of the data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24631v1</guid>
+      <pubDate>Tue, 28 Oct 2025 16:59:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>InteractComp: Evaluating Search Agents With Ambiguous Queries</title>
+      <link>http://arxiv.org/abs/2510.24668v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mingyi Deng, Lijun Huang, Yani Fan, Jiayi Zhang, Fashen Ren, Jinyi Bai, Fuzhen Yang, Dayi Miao&lt;/p&gt;&lt;p&gt;Language agents have demonstrated remarkable potential in web search and information retrieval. However, these search agents assume user queries are complete and unambiguous, an assumption that diverges from reality where users begin with incomplete queries requiring clarification through interaction. Yet most agents lack interactive mechanisms during the search process, and existing benchmarks cannot assess this capability&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24668v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:35:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dissecting Role Cognition in Medical LLMs via Neuronal Ablation</title>
+      <link>http://arxiv.org/abs/2510.24677v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xun Liang, Huayi Lai, Hanyu Wang, Wentao Zhang, Linfeng Zhang, Yanfang Chen, Feiyu Xiong, Zhiyu Li&lt;/p&gt;&lt;p&gt;Large language models (LLMs) have gained significant traction in medical decision support systems, particularly in the   context of medical question answering and role-playing simulations. A common practice, Prompt-Based Role Playing (PBRP),   instructs models to adopt different clinical roles (e.g., medical students, residents, attending physicians) to simulate varied   professional behaviors. However, the impact of such role prompts on model reasoning capabilities remains unclear&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24677v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:40:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bridging Tool Dependencies and Domain Knowledge: A Graph-Based Framework for In-Context Planning</title>
+      <link>http://arxiv.org/abs/2510.24690v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shengjie Liu, Li Dong, Zhenyu Zhang&lt;/p&gt;&lt;p&gt;We present a framework for uncovering and exploiting dependencies among tools and documents to enhance exemplar artifact generation. Our method begins by constructing a tool knowledge graph from tool schemas,including descriptions, arguments, and output payloads, using a DeepResearch-inspired analysis. In parallel, we derive a complementary knowledge graph from internal documents and SOPs, which is then fused with the tool graph&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24690v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:50:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AgentFold: Long-Horizon Web Agents with Proactive Context Management</title>
+      <link>http://arxiv.org/abs/2510.24699v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rui Ye, Zhongwang Zhang, Kuan Li, Huifeng Yin, Zhengwei Tao, Yida Zhao, Liangcai Su, Liwen Zhang&lt;/p&gt;&lt;p&gt;LLM-based web agents show immense promise for information seeking, yet their effectiveness on long-horizon tasks is hindered by a fundamental trade-off in context management. Prevailing ReAct-based agents suffer from context saturation as they accumulate noisy, raw histories, while methods that fixedly summarize the full history at each step risk the irreversible loss of critical details. Addressing these, we introduce AgentFold, a novel agent paradigm centered on proactive context management, inspired by the human cognitive process of retrospective consolidation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24699v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:51:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Greedy Sampling Is Provably Efficient for RLHF</title>
+      <link>http://arxiv.org/abs/2510.24700v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Di Wu, Chengshuai Shi, Jing Yang, Cong Shen&lt;/p&gt;&lt;p&gt;Reinforcement Learning from Human Feedback (RLHF) has emerged as a key technique for post-training large language models. Despite its empirical success, the theoretical understanding of RLHF is still limited, as learning the KL-regularized target with only preference feedback poses additional challenges compared with canonical RL. Existing works mostly study the reward-based Bradley-Terry (BT) preference model, and extend classical designs utilizing optimism or pessimism&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24700v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:52:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>ComboBench: Can LLMs Manipulate Physical Devices to Play Virtual Reality Games?</title>
+      <link>http://arxiv.org/abs/2510.24706v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shuqing Li, Jiayi Yan, Chenyu Niu, Jen-tse Huang, Yun Peng, Wenxuan Wang, Yepang Liu, Michael R. Lyu&lt;/p&gt;&lt;p&gt;Virtual Reality (VR) games require players to translate high-level semantic actions into precise device manipulations using controllers and head-mounted displays (HMDs). While humans intuitively perform this translation based on common sense and embodied understanding, whether Large Language Models (LLMs) can effectively replicate this ability remains underexplored. This paper introduces a benchmark, ComboBench, evaluating LLMs' capability to translate semantic actions into VR device manipulation sequences across 262 scenarios from four popular VR games: Half-Life: Alyx, Into the Radius, Moss:&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24706v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:55:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Does Object Binding Naturally Emerge in Large Pretrained Vision Transformers?</title>
+      <link>http://arxiv.org/abs/2510.24709v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yihao Li, Saeed Salehi, Lyle Ungar, Konrad P. Kording&lt;/p&gt;&lt;p&gt;Object binding, the brain's ability to bind the many features that collectively represent an object into a coherent whole, is central to human cognition. It groups low-level perceptual features into high-level object representations, stores those objects efficiently and compositionally in memory, and supports human reasoning about individual object instances. While prior work often imposes object-centric attention (e.g., Slot Attention) explicitly to probe these benefits, it remains unclear whether this ability naturally emerges in pre-trained Vision Transformers (ViTs)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24709v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:57:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
