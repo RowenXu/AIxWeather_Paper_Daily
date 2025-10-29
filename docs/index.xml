@@ -1,2 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>placeholder</title></channel></rss>
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>arXiv · 气象 × AI 精选论文</title>
+    <link>https://example.github.io/arxiv-meteo-ai-rss/</link>
+    <description>每日10:00自动更新 · 气象与AI交叉最新论文与要点</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 29 Oct 2025 15:35:05 +0000</lastBuildDate>
+    <item>
+      <title>All in one timestep: Enhancing Sparsity and Energy efficiency in Multi-level Spiking Neural Networks</title>
+      <link>http://arxiv.org/abs/2510.24637v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andrea Castagnetti, Alain Pegatoquet, Benoît Miramond&lt;/p&gt;&lt;p&gt;Spiking Neural Networks (SNNs) are one of the most promising bio-inspired neural networks models and have drawn increasing attention in recent years. The event-driven communication mechanism of SNNs allows for sparse and theoretically low-power operations on dedicated neuromorphic hardware. However, the binary nature of instantaneous spikes also leads to considerable information loss in SNNs, resulting in accuracy degradation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24637v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Causal Ordering for Structure Learning From Time Series</title>
+      <link>http://arxiv.org/abs/2510.24639v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pedro P. Sanchez, Damian Machlanski, Steven McDonagh, Sotirios A. Tsaftaris&lt;/p&gt;&lt;p&gt;Predicting causal structure from time series data is crucial for understanding complex phenomena in physiology, brain connectivity, climate dynamics, and socio-economic behaviour. Causal discovery in time series is hindered by the combinatorial complexity of identifying true causal relationships, especially as the number of variables and time points grow. A common approach to simplify the task is the so-called ordering-based methods&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24639v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:06:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>FunReason-MT Technical Report: Overcoming the Complexity Barrier in Multi-Turn Function Calling</title>
+      <link>http://arxiv.org/abs/2510.24645v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zengzhuang Xu, Bingguang Hao, Zechuan Wang, Yuntao Wen, Maolin Wang, Yang Liu, Long Chen, Dong Wang&lt;/p&gt;&lt;p&gt;Function calling (FC) empowers large language models (LLMs) and autonomous agents to interface with external tools, a critical capability for solving complex, real-world problems. As this ability becomes increasingly central to advanced AI systems, the need for high-quality, multi-turn training data to develop and refine it cannot be overstated. Existing data synthesis methods, such as random environment sampling or multi-agent role-playing, are not powerful enough to generate high-quality data in real-world environments&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24645v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:15:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning</title>
+      <link>http://arxiv.org/abs/2510.24650v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nitin Rai, Daeun, Choi, Nathan S. Boyd, Arnold W. Schumann&lt;/p&gt;&lt;p&gt;Site-specific disease management (SSDM) in crops has advanced rapidly through machine and deep learning (ML and DL) for real-time computer vision. Research evolved from handcrafted feature extraction to large-scale automated feature learning. With foundation models (FMs), crop disease datasets are now processed in fundamentally new ways&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24650v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:16:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>OrchDAG: Complex Tool Orchestration in Multi-Turn Interactions with Plan DAGs</title>
+      <link>http://arxiv.org/abs/2510.24663v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yifu Lu, Shengjie Liu, Li Dong&lt;/p&gt;&lt;p&gt;Agentic tool use has gained traction with the rise of agentic tool calling, yet most existing work overlooks the complexity of multi-turn tool interactions. We introduce OrchDAG, a synthetic data generation pipeline that models tool execution as directed acyclic graphs (DAGs) with controllable complexity. Using this dataset, we benchmark model performance and propose a graph-based reward to enhance RLVR training&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24663v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:28:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multi-Agent Scenario Generation in Roundabouts with a Transformer-enhanced Conditional Variational Autoencoder</title>
+      <link>http://arxiv.org/abs/2510.24671v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Li Li, Tobias Brinkmann, Till Temmen, Markus Eisenbarth, Jakob Andert&lt;/p&gt;&lt;p&gt;With the increasing integration of intelligent driving functions into serial-produced vehicles, ensuring their functionality and robustness poses greater challenges. Compared to traditional road testing, scenario-based virtual testing offers significant advantages in terms of time and cost efficiency, reproducibility, and exploration of edge cases. We propose a Transformer-enhanced Conditional Variational Autoencoder (CVAE-T) model for generating multi-agent traffic scenarios in roundabouts, which are characterized by high vehicle dynamics and complex layouts, yet remain relatively underexplor&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24671v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:36:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Repurposing Synthetic Data for Fine-grained Search Agent Supervision</title>
+      <link>http://arxiv.org/abs/2510.24694v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yida Zhao, Kuan Li, Xixi Wu, Liwen Zhang, Dingchu Zhang, Baixuan Li, Maojia Song, Zhuo Chen&lt;/p&gt;&lt;p&gt;LLM-based search agents are increasingly trained on entity-centric synthetic data to solve complex, knowledge-intensive tasks. However, prevailing training methods like Group Relative Policy Optimization (GRPO) discard this rich entity information, relying instead on sparse, outcome-based rewards. This critical limitation renders them unable to distinguish informative "near-miss" samples-those with substantially correct reasoning but a flawed final answer-from complete failures, thus discarding valuable learning signals&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24694v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:50:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tongyi DeepResearch Technical Report</title>
+      <link>http://arxiv.org/abs/2510.24701v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tongyi DeepResearch Team, Baixuan Li, Bo Zhang, Dingchu Zhang, Fei Huang, Guangyu Li, Guoxin Chen, Huifeng Yin&lt;/p&gt;&lt;p&gt;We present Tongyi DeepResearch, an agentic large language model, which is specifically designed for long-horizon, deep information-seeking research tasks. To incentivize autonomous deep research agency, Tongyi DeepResearch is developed through an end-to-end training framework that combines agentic mid-training and agentic post-training, enabling scalable reasoning and information seeking across complex tasks. We design a highly scalable data synthesis pipeline that is fully automatic, without relying on costly human annotation, and empowers all training stages&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24701v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:53:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents</title>
+      <link>http://arxiv.org/abs/2510.24702v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yueqi Song, Ketan Ramaneti, Zaid Sheikh, Ziru Chen, Boyu Gou, Tianbao Xie, Yiheng Xu, Danyang Zhang&lt;/p&gt;&lt;p&gt;Public research results on large-scale supervised finetuning of AI agents remain relatively rare, since the collection of agent training data presents unique challenges. In this work, we argue that the bottleneck is not a lack of underlying data sources, but that a large variety of data is fragmented across heterogeneous formats, tools, and interfaces. To this end, we introduce the agent data protocol (ADP), a light-weight representation language that serves as an "interlingua" between agent datasets in diverse formats and unified agent training pipelines downstream&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24702v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:53:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Machine-Learning-Assisted Comparison of Regression Functions</title>
+      <link>http://arxiv.org/abs/2510.24714v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jian Yan, Zhuoxi Li, Yang Ning, Yong Chen&lt;/p&gt;&lt;p&gt;We revisit the classical problem of comparing regression functions, a fundamental question in statistical inference with broad relevance to modern applications such as data integration, transfer learning, and causal inference. Existing approaches typically rely on smoothing techniques and are thus hindered by the curse of dimensionality. We propose a generalized notion of kernel-based conditional mean dependence that provides a new characterization of the null hypothesis of equal regression functions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2510.24714v1</guid>
+      <pubDate>Tue, 28 Oct 2025 17:59:15 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

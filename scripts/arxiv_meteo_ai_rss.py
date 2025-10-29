@@ -14,15 +14,15 @@ import arxiv
 # ---------------------- 配置区（可按需改动） ----------------------
 TIMEZONE = os.getenv("TZ", "Asia/Shanghai")
 LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", 36))
-MAX_RESULTS = int(os.getenv("ARXIV_MAX_RESULTS", 120))
+MAX_RESULTS = int(os.getenv("ARXIV_MAX_RESULTS", 10))
 MAX_ITEMS_PER_RUN = int(os.getenv("MAX_ITEMS_PER_RUN", 20))
 
 CATEGORIES = [
     "physics.ao-ph",  # Atmospheric and Oceanic Physics
-    "cs.LG", "cs.AI", "stat.ML", "eess.SP", "cs.CV"
+    "cs.AI", "stat.ML"
 ]
 KEYWORDS_ANY = [
-    "meteorolog*", "climate", "weather", "precipitation", "ENSO",
+    "climate", "weather", "precipitation", "ENSO",
     "nowcasting", "reanalysis", "downscaling", "data assimilation",
     "typhoon", "cyclone", "monsoon", "teleconnection", "MJO", "WRF", "ERA5"
 ]
@@ -58,13 +58,17 @@ def build_query():
 
 def fetch_arxiv():
     query = build_query()
+    # arxiv.Client 实例本身是可迭代的，直接遍历即可
+    client = arxiv.Client(page_size=5, delay_seconds=5, num_retries=5)
     search = arxiv.Search(
         query=query,
         max_results=MAX_RESULTS,
         sort_by=arxiv.SortCriterion.SubmittedDate,
         sort_order=arxiv.SortOrder.Descending,
     )
-    for r in search.results():
+    
+    # 直接迭代 search.results()
+    for r in client.results(search):
         yield {
             "id": r.get_short_id(),  # '2501.01234'
             "title": r.title.strip(),
