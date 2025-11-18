@@ -7,6 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 17 Nov 2025 03:17:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 03:13:32 +0000</lastBuildDate>
+    <item>
+      <title>MMWSTM-ADRAN+: A Novel Hybrid Deep Learning Architecture for Enhanced Climate Time Series Forecasting and Extreme Event Prediction</title>
+      <link>http://arxiv.org/abs/2511.13419v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shaheen Mohammed Saleh Ahmed, Hakan Hakan Guneyli&lt;/p&gt;&lt;p&gt;Accurate short-range prediction of extreme air temperature events remains a fundamental challenge in operational climate-risk management. We present Multi-Modal Weather State Transition Model with Anomaly-Driven Recurrent Attention Network Plus (MMWSTM-ADRAN+), a dual-stream deep learning architecture that couples a regime-aware dynamics model with an anomaly-focused attention mechanism to forecast daily maximum temperature and its extremes. The first stream, MMWSTM, combines bidirectional Long Short-Term Memory (BiLSTM) units with a learnable Markov state transition matrix to capture synoptic&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13419v1</guid>
+      <pubDate>Mon, 17 Nov 2025 14:31:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Larger Datasets Can Be Repeated More: A Theoretical Analysis of Multi-Epoch Scaling in Linear Regression</title>
+      <link>http://arxiv.org/abs/2511.13421v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tingkai Yan, Haodong Wen, Binghui Li, Kairong Luo, Wenguang Chen, Kaifeng Lyu&lt;/p&gt;&lt;p&gt;While data scaling laws of large language models (LLMs) have been widely examined in the one-pass regime with massive corpora, their form under limited data and repeated epochs remains largely unexplored. This paper presents a theoretical analysis of how a common workaround, training for multiple epochs on the same dataset, reshapes the data scaling laws in linear regression. Concretely, we ask: to match the performance of training on a dataset of size $N$ for $K$ epochs, how much larger must a dataset be if the model is trained for only one pass? We quantify this using the \textit{effective r&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13421v1</guid>
+      <pubDate>Mon, 17 Nov 2025 14:34:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unlocking the Forgery Detection Potential of Vanilla MLLMs: A Novel Training-Free Pipeline</title>
+      <link>http://arxiv.org/abs/2511.13442v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rui Zuo, Qinyue Tong, Zhe-Ming Lu, Ziqian Lu&lt;/p&gt;&lt;p&gt;With the rapid advancement of artificial intelligence-generated content (AIGC) technologies, including multimodal large language models (MLLMs) and diffusion models, image generation and manipulation have become remarkably effortless. Existing image forgery detection and localization (IFDL) methods often struggle to generalize across diverse datasets and offer limited interpretability. Nowadays, MLLMs demonstrate strong generalization potential across diverse vision-language tasks, and some studies introduce this capability to IFDL via large-scale training&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13442v1</guid>
+      <pubDate>Mon, 17 Nov 2025 14:49:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discovering Operational Patterns Using Image-Based Convolutional Clustering and Composite Evaluation: A Case Study in Foundry Melting Processes</title>
+      <link>http://arxiv.org/abs/2511.13444v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhipeng Ma, Bo Nørregaard Jørgensen, Zheng Grace Ma&lt;/p&gt;&lt;p&gt;Industrial process monitoring increasingly relies on sensor-generated time-series data, yet the lack of labels, high variability, and operational noise make it difficult to extract meaningful patterns using conventional methods. Existing clustering techniques either rely on fixed distance metrics or deep models designed for static data, limiting their ability to handle dynamic, unstructured industrial sequences. Addressing this gap, this paper proposes a novel framework for unsupervised discovery of operational modes in univariate time-series data using image-based convolutional clustering wit&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13444v1</guid>
+      <pubDate>Mon, 17 Nov 2025 14:50:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artificial Intelligence-Enabled Spirometry for Early Detection of Right Heart Failure</title>
+      <link>http://arxiv.org/abs/2511.13457v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bin Liu, Qinghao Zhao, Yuxi Zhou, Zhejun Sun, Kaijie Lei, Deyun Zhang, Shijia Geng, Shenda Hong&lt;/p&gt;&lt;p&gt;Right heart failure (RHF) is a disease characterized by abnormalities in the structure or function of the right ventricle (RV), which is associated with high morbidity and mortality. Lung disease often causes increased right ventricular load, leading to RHF. Therefore, it is very important to screen out patients with cor pulmonale who develop RHF from people with underlying lung diseases&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13457v1</guid>
+      <pubDate>Mon, 17 Nov 2025 15:03:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trust in Vision-Language Models: Insights from a Participatory User Workshop</title>
+      <link>http://arxiv.org/abs/2511.13458v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Agnese Chiatti, Lara Piccolo, Sara Bernardini, Matteo Matteucci, Viola Schiaffonati&lt;/p&gt;&lt;p&gt;With the growing deployment of Vision-Language Models (VLMs), pre-trained on large image-text and video-text datasets, it is critical to equip users with the tools to discern when to trust these systems. However, examining how user trust in VLMs builds and evolves remains an open problem. This problem is exacerbated by the increasing reliance on AI models as judges for experimental validation, to bypass the cost and implications of running participatory design studies directly with users&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13458v1</guid>
+      <pubDate>Mon, 17 Nov 2025 15:04:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multi-task GINN-LP for Multi-target Symbolic Regression</title>
+      <link>http://arxiv.org/abs/2511.13463v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hussein Rajabu, Lijun Qian, Xishuang Dong&lt;/p&gt;&lt;p&gt;In the area of explainable artificial intelligence, Symbolic Regression (SR) has emerged as a promising approach by discovering interpretable mathematical expressions that fit data. However, SR faces two main challenges: most methods are evaluated on scientific datasets with well-understood relationships, limiting generalization, and SR primarily targets single-output regression, whereas many real-world problems involve multi-target outputs with interdependent variables. To address these issues, we propose multi-task regression GINN-LP (MTRGINN-LP), an interpretable neural network for multi-ta&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13463v1</guid>
+      <pubDate>Mon, 17 Nov 2025 15:07:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>AdamX: An Adam improvement algorithm based on a novel exponential decay mechanism for the second-order moment estimate</title>
+      <link>http://arxiv.org/abs/2511.13465v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Meng Zhu, Quan Xiao, Weidong Min&lt;/p&gt;&lt;p&gt;Since the 21st century, artificial intelligence has been leading a new round of industrial revolution. Under the training framework, the optimization algorithm aims to stably converge high-dimensional optimization to local and even global minima. Entering the era of large language models, although the scale of model parameters and data has increased, Adam remains the mainstream optimization algorithm&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13465v1</guid>
+      <pubDate>Mon, 17 Nov 2025 15:07:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Quick Red Fox gets the best Data Driven Classroom Interviews: A manual for an interview app and its associated methodology</title>
+      <link>http://arxiv.org/abs/2511.13466v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jaclyn Ocumpaugh, Luc Paquette, Ryan S. Baker, Amanda Barany, Jeff Ginger, Nathan Casano, Andres F. Zambrano, Xiner Liu&lt;/p&gt;&lt;p&gt;Data Driven Classroom Interviews (DDCIs) are an interviewing technique that is facilitated by recent technological developments in the learning analytics community. DDCIs are short, targeted interviews that allow researchers to contextualize students' interactions with a digital learning environment (e.g., intelligent tutoring systems or educational games) while minimizing the amount of time that the researcher interrupts that learning experience, and focusing researcher time on the events they most want to focus on DDCIs are facilitated by a research tool called the Quick Red Fox (QRF)--an op&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13466v1</guid>
+      <pubDate>Mon, 17 Nov 2025 15:08:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multi-Agent Multimodal Large Language Model Framework for Automated Interpretation of Fuel Efficiency Analytics in Public Transportation</title>
+      <link>http://arxiv.org/abs/2511.13476v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhipeng Ma, Ali Rida Bahja, Andreas Burgdorf, André Pomp, Tobias Meisen, Bo Nørregaard Jørgensen, Zheng Grace Ma&lt;/p&gt;&lt;p&gt;Enhancing fuel efficiency in public transportation requires the integration of complex multimodal data into interpretable, decision-relevant insights. However, traditional analytics and visualization methods often yield fragmented outputs that demand extensive human interpretation, limiting scalability and consistency. This study presents a multi-agent framework that leverages multimodal large language models (LLMs) to automate data narration and energy insight generation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13476v1</guid>
+      <pubDate>Mon, 17 Nov 2025 15:14:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semantic Document Derendering: SVG Reconstruction via Vision-Language Modeling</title>
+      <link>http://arxiv.org/abs/2511.13478v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Adam Hazimeh, Ke Wang, Mark Collier, Gilles Baechler, Efi Kokiopoulou, Pascal Frossard&lt;/p&gt;&lt;p&gt;Multimedia documents such as slide presentations and posters are designed to be interactive and easy to modify. Yet, they are often distributed in a static raster format, which limits editing and customization. Restoring their editability requires converting these raster images back into structured vector formats&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13478v1</guid>
+      <pubDate>Mon, 17 Nov 2025 15:16:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Lexical Analysis of online Reviews on Human-AI Interactions</title>
+      <link>http://arxiv.org/abs/2511.13480v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Parisa Arbab, Xiaowen Fang&lt;/p&gt;&lt;p&gt;This study focuses on understanding the complex dynamics between humans and AI systems by analyzing user reviews. While previous research has explored various aspects of human-AI interaction, such as user perceptions and ethical considerations, there remains a gap in understanding the specific concerns and challenges users face. By using a lexical approach to analyze 55,968 online reviews from G2.com, Producthunt.com, and Trustpilot.com, this preliminary research aims to analyze human-AI interaction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13480v1</guid>
+      <pubDate>Mon, 17 Nov 2025 15:17:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Shape of Data: Topology Meets Analytics. A Practical Introduction to Topological Analytics and the Stability Index (TSI) in Business</title>
+      <link>http://arxiv.org/abs/2511.13503v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ioannis Diamantis&lt;/p&gt;&lt;p&gt;Modern business and economic datasets often exhibit nonlinear, multi-scale structures that traditional linear tools under-represent. Topological Data Analysis (TDA) offers a geometric lens for uncovering robust patterns, such as connected components, loops and voids, across scales. This paper provides an intuitive, figure-driven introduction to persistent homology and a practical, reproducible TDA pipeline for applied analysts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13503v1</guid>
+      <pubDate>Mon, 17 Nov 2025 15:41:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Naga: Vedic Encoding for Deep State Space Models</title>
+      <link>http://arxiv.org/abs/2511.13510v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Melanie Schaller, Nick Janssen, Bodo Rosenhahn&lt;/p&gt;&lt;p&gt;This paper presents Naga, a deep State Space Model (SSM) encoding approach inspired by structural concepts from Vedic mathematics. The proposed method introduces a bidirectional representation for time series by jointly processing forward and time-reversed input sequences. These representations are then combined through an element-wise (Hadamard) interaction, resulting in a Vedic-inspired encoding that enhances the model's ability to capture temporal dependencies across distant time steps&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13510v1</guid>
+      <pubDate>Mon, 17 Nov 2025 15:43:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>FreeAskWorld: An Interactive and Closed-Loop Simulator for Human-Centric Embodied AI</title>
+      <link>http://arxiv.org/abs/2511.13524v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuhang Peng, Yizhou Pan, Xinning He, Jihaoyu Yang, Xinyu Yin, Han Wang, Xiaoji Zheng, Chao Gao&lt;/p&gt;&lt;p&gt;As embodied intelligence emerges as a core frontier in artificial intelligence research, simulation platforms must evolve beyond low-level physical interactions to capture complex, human-centered social behaviors. We introduce FreeAskWorld, an interactive simulation framework that integrates large language models (LLMs) for high-level behavior planning and semantically grounded interaction, informed by theories of intention and social cognition. Our framework supports scalable, realistic human-agent simulations and includes a modular data generation pipeline tailored for diverse embodied tasks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13524v1</guid>
+      <pubDate>Mon, 17 Nov 2025 15:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Fairness Beyond Complete Demographics: Current Achievements and Future Directions</title>
+      <link>http://arxiv.org/abs/2511.13525v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zichong Wang, Zhipeng Yin, Roland H. C. Yap, Wenbin Zhang&lt;/p&gt;&lt;p&gt;Fairness in artificial intelligence (AI) has become a growing concern due to discriminatory outcomes in AI-based decision-making systems. While various methods have been proposed to mitigate bias, most rely on complete demographic information, an assumption often impractical due to legal constraints and the risk of reinforcing discrimination. This survey examines fairness in AI when demographics are incomplete, addressing the gap between traditional approaches and real-world challenges&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13525v1</guid>
+      <pubDate>Mon, 17 Nov 2025 15:59:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated Construction of Medical Indicator Knowledge Graphs Using Retrieval Augmented Large Language Models</title>
+      <link>http://arxiv.org/abs/2511.13526v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhengda Wang, Daqian Shi, Jingyi Zhao, Xiaolei Diao, Xiongfeng Tang, Yanguo Qin&lt;/p&gt;&lt;p&gt;Artificial intelligence (AI) is reshaping modern healthcare by advancing disease diagnosis, treatment decision-making, and biomedical research. Among AI technologies, large language models (LLMs) have become especially impactful, enabling deep knowledge extraction and semantic reasoning from complex medical texts. However, effective clinical decision support requires knowledge in structured, interoperable formats&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13526v1</guid>
+      <pubDate>Mon, 17 Nov 2025 16:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toward Conversational Hungarian Speech Recognition: Introducing the BEA-Large and BEA-Dialogue Datasets</title>
+      <link>http://arxiv.org/abs/2511.13529v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Máté Gedeon, Piroska Zsófia Barta, Péter Mihajlik, Tekla Etelka Gráczi, Anna Kohári, Katalin Mády&lt;/p&gt;&lt;p&gt;The advancement of automatic speech recognition (ASR) has been largely enhanced by extensive datasets in high-resource languages, while languages such as Hungarian remain underrepresented due to limited spontaneous and conversational corpora. To address this gap, we introduce two new datasets -- BEA-Large and BEA-Dialogue -- constructed from the previously unprocessed portions of the Hungarian speech corpus named BEA. BEA-Large extends BEA-Base with 255 hours of spontaneous speech from 433 speakers, enriched with detailed segment-level metadata&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13529v1</guid>
+      <pubDate>Mon, 17 Nov 2025 16:02:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Towards Affect-Adaptive Human-Robot Interaction: A Protocol for Multimodal Dataset Collection on Social Anxiety</title>
+      <link>http://arxiv.org/abs/2511.13530v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vesna Poprcova, Iulia Lefter, Matthias Wieser, Martijn Warnier, Frances Brazier&lt;/p&gt;&lt;p&gt;Social anxiety is a prevalent condition that affects interpersonal interactions and social functioning. Recent advances in artificial intelligence and social robotics offer new opportunities to examine social anxiety in the human-robot interaction context. Accurate detection of affective states and behaviours associated with social anxiety requires multimodal datasets, where each signal modality provides complementary insights into its manifestations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13530v1</guid>
+      <pubDate>Mon, 17 Nov 2025 16:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robust Defense Strategies for Multimodal Contrastive Learning: Efficient Fine-tuning Against Backdoor Attacks</title>
+      <link>http://arxiv.org/abs/2511.13545v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Md. Iqbal Hossain, Afia Sajeeda, Neeresh Kumar Perla, Ming Shao&lt;/p&gt;&lt;p&gt;The advent of multimodal deep learning models, such as CLIP, has unlocked new frontiers in a wide range of applications, from image-text understanding to classification tasks. However, these models are not safe for adversarial attacks, particularly backdoor attacks, which can subtly manipulate model behavior. Moreover, existing defense methods typically involve training from scratch or fine-tuning using a large dataset without pinpointing the specific labels that are affected&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2511.13545v1</guid>
+      <pubDate>Mon, 17 Nov 2025 16:16:50 +0000</pubDate>
+    </item>
   </channel>
 </rss>
