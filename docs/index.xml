@@ -7,6 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 01 Dec 2025 03:52:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 03:19:35 +0000</lastBuildDate>
+    <item>
+      <title>Graph Distance as Surprise: Free Energy Minimization in Knowledge Graph Reasoning</title>
+      <link>http://arxiv.org/abs/2512.01878v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gaganpreet Jhajj, Fuhua Lin&lt;/p&gt;&lt;p&gt;In this work, we propose that reasoning in knowledge graph (KG) networks can be guided by surprise minimization. Entities that are close in graph distance will have lower surprise than those farther apart. This connects the Free Energy Principle (FEP) from neuroscience to KG systems, where the KG serves as the agent's generative model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01878v1</guid>
+      <pubDate>Mon, 01 Dec 2025 16:59:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Predicting Human Chess Moves: An AI Assisted Analysis of Chess Games Using Skill-group Specific n-gram Language Models</title>
+      <link>http://arxiv.org/abs/2512.01880v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daren Zhong, Dingcheng Huang, Clayton Greenberg&lt;/p&gt;&lt;p&gt;Chess, a deterministic game with perfect information, has long served as a benchmark for studying strategic decision-making and artificial intelligence. Traditional chess engines or tools for analysis primarily focus on calculating optimal moves, often neglecting the variability inherent in human chess playing, particularly across different skill levels.   To overcome this limitation, we propose a novel and computationally efficient move prediction framework that approaches chess move prediction as a behavioral analysis task&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01880v1</guid>
+      <pubDate>Mon, 01 Dec 2025 17:02:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unifying Sign and Magnitude for Optimizing Deep Vision Networks via ThermoLion</title>
+      <link>http://arxiv.org/abs/2512.01881v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ahmed Nebli&lt;/p&gt;&lt;p&gt;The training of deep vision models is fundamentally a signal recovery problem amidst high-dimensional stochastic noise. Current optimization paradigms impose a static compromise on information channel capacity. For instance, magnitude-based methods, such as AdamW, operate on the assumption that gradient norms are high-fidelity curvature signals&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01881v1</guid>
+      <pubDate>Mon, 01 Dec 2025 17:04:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploring Human Perceptions of AI Responses: Insights from a Mixed-Methods Study on Risk Mitigation in Generative Models</title>
+      <link>http://arxiv.org/abs/2512.01892v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Heloisa Candello, Muneeza Azmat, Uma Sushmitha Gunturi, Raya Horesh, Rogerio Abreu de Paula, Heloisa Pimentel, Marcelo Carpinette Grave, Aminat Adebiyi&lt;/p&gt;&lt;p&gt;With the rapid uptake of generative AI, investigating human perceptions of generated responses has become crucial. A major challenge is their `aptitude' for hallucinating and generating harmful contents. Despite major efforts for implementing guardrails, human perceptions of these mitigation strategies are largely unknown&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01892v1</guid>
+      <pubDate>Mon, 01 Dec 2025 17:12:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Provably Safe Model Updates</title>
+      <link>http://arxiv.org/abs/2512.01899v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Leo Elmecker-Plakolm, Pierre Fasterling, Philip Sosnin, Calvin Tsay, Matthew Wicker&lt;/p&gt;&lt;p&gt;Safety-critical environments are inherently dynamic. Distribution shifts, emerging vulnerabilities, and evolving requirements demand continuous updates to machine learning models. Yet even benign parameter updates can have unintended consequences, such as catastrophic forgetting in classical models or alignment drift in foundation models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01899v1</guid>
+      <pubDate>Mon, 01 Dec 2025 17:19:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Real-World Robot Control by Deep Active Inference With a Temporally Hierarchical World Model</title>
+      <link>http://arxiv.org/abs/2512.01924v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kentaro Fujii, Shingo Murata&lt;/p&gt;&lt;p&gt;Robots in uncertain real-world environments must perform both goal-directed and exploratory actions. However, most deep learning-based control methods neglect exploration and struggle under uncertainty. To address this, we adopt deep active inference, a framework that accounts for human goal-directed and exploratory actions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01924v1</guid>
+      <pubDate>Mon, 01 Dec 2025 17:41:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rectifying LLM Thought from Lens of Optimization</title>
+      <link>http://arxiv.org/abs/2512.01925v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junnan Liu, Hongwei Liu, Songyang Zhang, Kai Chen&lt;/p&gt;&lt;p&gt;Recent advancements in large language models (LLMs) have been driven by their emergent reasoning capabilities, particularly through long chain-of-thought (CoT) prompting, which enables thorough exploration and deliberation. Despite these advances, long-CoT LLMs often exhibit suboptimal reasoning behaviors, such as overthinking and excessively protracted reasoning chains, which can impair performance. In this paper, we analyze reasoning processes through an optimization lens, framing CoT as a gradient descent procedure where each reasoning step constitutes an update toward problem resolution&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01925v1</guid>
+      <pubDate>Mon, 01 Dec 2025 17:41:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>SVRG and Beyond via Posterior Correction</title>
+      <link>http://arxiv.org/abs/2512.01930v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nico Daheim, Thomas Möllenhoff, Ming Liang Ang, Mohammad Emtiyaz Khan&lt;/p&gt;&lt;p&gt;Stochastic Variance Reduced Gradient (SVRG) and its variants aim to speed-up training by using gradient corrections, but have seen limited success in deep learning. Here, we show surprising new foundational connections of SVRG to a recently proposed Bayesian method called posterior correction. Specifically, we show that SVRG is recovered as a special case of posterior correction over the isotropic-Gaussian family, while novel extensions are automatically obtained by using more flexible exponential families&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01930v1</guid>
+      <pubDate>Mon, 01 Dec 2025 17:45:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Empirical Study of Agent Developer Practices in AI Agent Frameworks</title>
+      <link>http://arxiv.org/abs/2512.01939v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yanlin Wang, Xinyi Xu, Jiachi Chen, Tingting Bi, Wenchao Gu, Zibin Zheng&lt;/p&gt;&lt;p&gt;The rise of large language models (LLMs) has sparked a surge of interest in agents, leading to the rapid growth of agent frameworks. Agent frameworks are software toolkits and libraries that provide standardized components, abstractions, and orchestration mechanisms to simplify agent development. Despite widespread use of agent frameworks, their practical applications and how they influence the agent development process remain underexplored&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01939v1</guid>
+      <pubDate>Mon, 01 Dec 2025 17:52:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic Policy Optimization via Instruction-Policy Co-Evolution</title>
+      <link>http://arxiv.org/abs/2512.01945v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Han Zhou, Xingchen Wan, Ivan Vulić, Anna Korhonen&lt;/p&gt;&lt;p&gt;Reinforcement Learning with Verifiable Rewards (RLVR) has advanced the reasoning capability of large language models (LLMs), enabling autonomous agents that can conduct effective multi-turn and tool-integrated reasoning. While instructions serve as the primary protocol for defining agents, RLVR typically relies on static and manually designed instructions. However, those instructions may be suboptimal for the base model, and the optimal instruction may change as the agent's policy improves and explores the interaction with the environment&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01945v1</guid>
+      <pubDate>Mon, 01 Dec 2025 17:56:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment</title>
+      <link>http://arxiv.org/abs/2512.01952v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haoyang He, Jay Patrikar, Dong-Ki Kim, Max Smith, Daniel McGann, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei, Sebastian Scherer&lt;/p&gt;&lt;p&gt;Recent advances in video world modeling have enabled large-scale generative models to simulate embodied environments with high visual fidelity, providing strong priors for prediction, planning, and control. Yet, despite their realism, these models often lack geometric grounding, limiting their use in navigation tasks that require spatial coherence and long-horizon stability. We introduce Reinforcement Learning with World Grounding (RLWG), a self-supervised post-training framework that aligns pretrained world models with a physically verifiable structure through geometric and perceptual rewards&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01952v1</guid>
+      <pubDate>Mon, 01 Dec 2025 18:03:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learned-Rule-Augmented Large Language Model Evaluators</title>
+      <link>http://arxiv.org/abs/2512.01958v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jie Meng, Jin Mao&lt;/p&gt;&lt;p&gt;Large language models (LLMs) are predominantly used as evaluators for natural language generation (NLG) tasks, but their application to broader evaluation scenarios remains limited. In this work, we explore the potential of LLMs as general evaluators across diverse tasks. Although LLM-based evaluators have made progress in different areas, existing methods struggle to generalize due to their reliance on costly, human-designed evaluation principles, which are often misaligned with both annotated data and LLMs' understanding.To address these challenges, we propose a rule-augmented evaluation par&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01958v1</guid>
+      <pubDate>Mon, 01 Dec 2025 18:08:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning</title>
+      <link>http://arxiv.org/abs/2512.01970v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sitao Cheng, Xunjian Yin, Ruiwen Zhou, Yuxuan Li, Xinyi Wang, Liangming Pan, William Yang Wang, Victor Zhong&lt;/p&gt;&lt;p&gt;The mechanism by which RL contributes to reasoning capabilities-whether it incentivizes the synthesis of new skills or merely amplifies existing behaviors-remains a subject of intense debate. In this work, we investigate this question through the lens of Complementary Reasoning, a complex task that requires integrating internal parametric knowledge with external contextual information. Using a controlled synthetic dataset of human biographies, we strictly decouple this ability into two atomic skills: Parametric Reasoning (relying on internal knowledge) and Contextual Reasoning (depending on ex&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01970v1</guid>
+      <pubDate>Mon, 01 Dec 2025 18:27:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-Driven Optimization under Uncertainty for Mineral Processing Operations</title>
+      <link>http://arxiv.org/abs/2512.01977v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; William Xu, Amir Eskanlou, Mansur Arief, David Zhen Yin, Jef K. Caers&lt;/p&gt;&lt;p&gt;The global capacity for mineral processing must expand rapidly to meet the demand for critical minerals, which are essential for building the clean energy technologies necessary to mitigate climate change. However, the efficiency of mineral processing is severely limited by uncertainty, which arises from both the variability of feedstock and the complexity of process dynamics. To optimize mineral processing circuits under uncertainty, we introduce an AI-driven approach that formulates mineral processing as a Partially Observable Markov Decision Process (POMDP)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01977v1</guid>
+      <pubDate>Mon, 01 Dec 2025 18:35:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chain-of-Ground: Improving GUI Grounding via Iterative Reasoning and Reference Feedback</title>
+      <link>http://arxiv.org/abs/2512.01979v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aiden Yiliu Li, Bizhi Yu, Daoan Lei, Tianhe Ren, Shilong Liu&lt;/p&gt;&lt;p&gt;GUI grounding aims to align natural language instructions with precise regions in complex user interfaces. Advanced multimodal large language models show strong ability in visual GUI grounding but still struggle with small or visually similar targets and ambiguity in real world layouts. These limitations arise from limited grounding capacity and from underuse of existing reasoning potential&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01979v1</guid>
+      <pubDate>Mon, 01 Dec 2025 18:37:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forecasting in Offline Reinforcement Learning for Non-stationary Environments</title>
+      <link>http://arxiv.org/abs/2512.01987v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Suzan Ece Ada, Georg Martius, Emre Ugur, Erhan Oztop&lt;/p&gt;&lt;p&gt;Offline Reinforcement Learning (RL) provides a promising avenue for training policies from pre-collected datasets when gathering additional interaction data is infeasible. However, existing offline RL methods often assume stationarity or only consider synthetic perturbations at test time, assumptions that often fail in real-world scenarios characterized by abrupt, time-varying offsets. These offsets can lead to partial observability, causing agents to misperceive their true state and degrade performance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01987v1</guid>
+      <pubDate>Mon, 01 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLM CHESS: Benchmarking Reasoning and Instruction-Following in LLMs through Chess</title>
+      <link>http://arxiv.org/abs/2512.01992v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sai Kolasani, Maxim Saplin, Nicholas Crispino, Kyle Montgomery, Jared Quincy Davis, Matei Zaharia, Chi Wang, Chenguang Wang&lt;/p&gt;&lt;p&gt;We introduce LLM CHESS, an evaluation framework designed to probe the generalization of reasoning and instruction-following abilities in large language models (LLMs) through extended agentic interaction in the domain of chess. We rank over 50 open and closed source models by playing against a random opponent using a range of behavioral metrics, including win and loss rates, move quality, move legality, hallucinated actions, and game duration. For a subset of top reasoning models, we derive an Elo estimate by playing against a chess engine with variably configured skill, which allows for compar&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01992v1</guid>
+      <pubDate>Mon, 01 Dec 2025 18:51:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies</title>
+      <link>http://arxiv.org/abs/2512.01993v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guillermo Garcia-Cobo, Maximilian Igl, Peter Karkus, Zhejun Zhang, Michael Watson, Yuxiao Chen, Boris Ivanovic, Marco Pavone&lt;/p&gt;&lt;p&gt;Autonomous driving policies are typically trained via open-loop behavior cloning of human demonstrations. However, such policies suffer from covariate shift when deployed in closed loop, leading to compounding errors. We introduce Rollouts as Demonstrations (RoaD), a simple and efficient method to mitigate covariate shift by leveraging the policy's own closed-loop rollouts as additional training data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.01993v1</guid>
+      <pubDate>Mon, 01 Dec 2025 18:52:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Diffusion Model Framework for Maximum Entropy Reinforcement Learning</title>
+      <link>http://arxiv.org/abs/2512.02019v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sebastian Sanokowski, Kaustubh Patil, Alois Knoll&lt;/p&gt;&lt;p&gt;Diffusion models have achieved remarkable success in data-driven learning and in sampling from complex, unnormalized target distributions. Building on this progress, we reinterpret Maximum Entropy Reinforcement Learning (MaxEntRL) as a diffusion model-based sampling problem. We tackle this problem by minimizing the reverse Kullback-Leibler (KL) divergence between the diffusion policy and the optimal policy distribution using a tractable upper bound&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.02019v1</guid>
+      <pubDate>Mon, 01 Dec 2025 18:59:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI</title>
+      <link>http://arxiv.org/abs/2512.02020v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jianlei Chang, Ruofeng Mei, Wei Ke, Xiangyu Xu&lt;/p&gt;&lt;p&gt;Generative modeling has recently shown remarkable promise for visuomotor policy learning, enabling flexible and expressive control across diverse embodied AI tasks. However, existing generative policies often struggle with data inefficiency, requiring large-scale demonstrations, and sampling inefficiency, incurring slow action generation during inference. We introduce EfficientFlow, a unified framework for efficient embodied AI with flow-based policy learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.02020v1</guid>
+      <pubDate>Mon, 01 Dec 2025 18:59:59 +0000</pubDate>
+    </item>
   </channel>
 </rss>
