@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 04 Dec 2025 03:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 03:20:00 +0000</lastBuildDate>
     <item>
-      <title>Hierarchical Vision Language Action Model Using Success and Failure Demonstrations</title>
-      <link>http://arxiv.org/abs/2512.03913v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jeongeun Park, Jihwan Yoon, Byungwoo Jeon, Juhan Park, Jinwoo Shin, Namhoon Cho, Kyungjae Lee, Sangdoo Yun&lt;/p&gt;&lt;p&gt;Prior Vision-Language-Action (VLA) models are typically trained on teleoperated successful demonstrations, while discarding numerous failed attempts that occur naturally during data collection. However, these failures encode where and how policies can be fragile, information that can be exploited to improve robustness. We address this problem by leveraging mixed-quality datasets to learn failure-aware reasoning at planning time&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.03913v1</guid>
-      <pubDate>Wed, 03 Dec 2025 15:58:38 +0000</pubDate>
+      <title>Learning Causality for Longitudinal Data</title>
+      <link>http://arxiv.org/abs/2512.04980v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mouad EL Bouchattaoui&lt;/p&gt;&lt;p&gt;This thesis develops methods for causal inference and causal representation learning (CRL) in high-dimensional, time-varying data.   The first contribution introduces the Causal Dynamic Variational Autoencoder (CDVAE), a model for estimating Individual Treatment Effects (ITEs) by capturing unobserved heterogeneity in treatment response driven by latent risk factors that affect only outcomes. CDVAE comes with theoretical guarantees on valid latent adjustment and generalization bounds for ITE error&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.04980v1</guid>
+      <pubDate>Thu, 04 Dec 2025 16:51:49 +0000</pubDate>
     </item>
     <item>
-      <title>A Theoretical Framework for Auxiliary-Loss-Free Load Balancing of Sparse Mixture-of-Experts in Large-Scale AI Models</title>
-      <link>http://arxiv.org/abs/2512.03915v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; X. Y. Han, Yuan Zhong&lt;/p&gt;&lt;p&gt;In large-scale AI training, Sparse Mixture-of-Experts (s-MoE) layers enable scaling by activating only a small subset of experts per token. An operational challenge in this design is load balancing: routing tokens to minimize the number of idle experts, which is important for the efficient utilization of (costly) GPUs. We provide a theoretical framework for analyzing the Auxiliary-Loss-Free Load Balancing (ALF-LB) procedure -- proposed by DeepSeek's Wang et al&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.03915v1</guid>
-      <pubDate>Wed, 03 Dec 2025 16:00:02 +0000</pubDate>
+      <title>Towards a unified framework for guided diffusion models</title>
+      <link>http://arxiv.org/abs/2512.04985v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuchen Jiao, Yuxin Chen, Gen Li&lt;/p&gt;&lt;p&gt;Guided or controlled data generation with diffusion models\blfootnote{Partial preliminary results of this work appeared in International Conference on Machine Learning 2025 \citep{li2025provable}.} has become a cornerstone of modern generative modeling. Despite substantial advances in diffusion model theory, the theoretical understanding of guided diffusion samplers remains severely limited. We make progress by developing a unified algorithmic and theoretical framework that accommodates both diffusion guidance and reward-guided diffusion&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.04985v1</guid>
+      <pubDate>Thu, 04 Dec 2025 16:55:20 +0000</pubDate>
     </item>
     <item>
-      <title>Autonomous Agents and Policy Compliance: A Framework for Reasoning About Penalties</title>
-      <link>http://arxiv.org/abs/2512.03931v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vineel Tummala, Daniela Inclezan&lt;/p&gt;&lt;p&gt;This paper presents a logic programming-based framework for policy-aware autonomous agents that can reason about potential penalties for non-compliance and act accordingly. While prior work has primarily focused on ensuring compliance, our approach considers scenarios where deviating from policies may be necessary to achieve high-stakes goals. Additionally, modeling non-compliant behavior can assist policymakers by simulating realistic human decision-making&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.03931v1</guid>
-      <pubDate>Wed, 03 Dec 2025 16:29:09 +0000</pubDate>
+      <title>Strategic Self-Improvement for Competitive Agents in AI Labour Markets</title>
+      <link>http://arxiv.org/abs/2512.04988v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Christopher Chiu, Simpson Zhang, Mihaela van der Schaar&lt;/p&gt;&lt;p&gt;As artificial intelligence (AI) agents are deployed across economic domains, understanding their strategic behavior and market-level impact becomes critical. This paper puts forward a groundbreaking new framework that is the first to capture the real-world economic forces that shape agentic labor markets: adverse selection, moral hazard, and reputation dynamics. Our framework encapsulates three core capabilities that successful LLM-agents will need: \textbf{metacognition} (accurate self-assessment of skills), \textbf{competitive awareness} (modeling rivals and market dynamics), and \textbf{lon&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.04988v1</guid>
+      <pubDate>Thu, 04 Dec 2025 16:57:28 +0000</pubDate>
     </item>
     <item>
-      <title>Benchmark for Planning and Control with Large Language Model Agents: Blocksworld with Model Context Protocol</title>
-      <link>http://arxiv.org/abs/2512.03955v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Niklas Jobs, Luis Miguel Vieira da Silva, Jayanth Somashekaraiah, Maximilian Weigand, David Kube, Felix Gehlhoff&lt;/p&gt;&lt;p&gt;Industrial automation increasingly requires flexible control strategies that can adapt to changing tasks and environments. Agents based on Large Language Models (LLMs) offer potential for such adaptive planning and execution but lack standardized benchmarks for systematic comparison. We introduce a benchmark with an executable simulation environment representing the Blocksworld problem providing five complexity categories&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.03955v1</guid>
-      <pubDate>Wed, 03 Dec 2025 16:49:14 +0000</pubDate>
+      <title>Evolutionary Architecture Search through Grammar-Based Sequence Alignment</title>
+      <link>http://arxiv.org/abs/2512.04992v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Adri Gómez Martín, Felix Möller, Steven McDonagh, Monica Abella, Manuel Desco, Elliot J. Crowley, Aaron Klein, Linus Ericsson&lt;/p&gt;&lt;p&gt;Neural architecture search (NAS) in expressive search spaces is a computationally hard problem, but it also holds the potential to automatically discover completely novel and performant architectures. To achieve this we need effective search algorithms that can identify powerful components and reuse them in new candidate architectures. In this paper, we introduce two adapted variants of the Smith-Waterman algorithm for local sequence alignment and use them to compute the edit distance in a grammar-based evolutionary architecture search&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.04992v1</guid>
+      <pubDate>Thu, 04 Dec 2025 16:57:49 +0000</pubDate>
     </item>
     <item>
-      <title>Sponsored Questions and How to Auction Them</title>
-      <link>http://arxiv.org/abs/2512.03975v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kshipra Bhawalkar, Alexandros Psomas, Di Wang&lt;/p&gt;&lt;p&gt;Online platforms connect users with relevant products and services using ads. A key challenge is that a user's search query often leaves their true intent ambiguous. Typically, platforms passively predict relevance based on available signals and in some cases offer query refinements&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.03975v1</guid>
-      <pubDate>Wed, 03 Dec 2025 17:06:27 +0000</pubDate>
+      <title>Reflection Removal through Efficient Adaptation of Diffusion Transformers</title>
+      <link>http://arxiv.org/abs/2512.05000v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daniyar Zakarin, Thiemo Wandel, Anton Obukhov, Dengxin Dai&lt;/p&gt;&lt;p&gt;We introduce a diffusion-transformer (DiT) framework for single-image reflection removal that leverages the generalization strengths of foundation diffusion models in the restoration setting. Rather than relying on task-specific architectures, we repurpose a pre-trained DiT-based foundation model by conditioning it on reflection-contaminated inputs and guiding it toward clean transmission layers. We systematically analyze existing reflection removal data sources for diversity, scalability, and photorealism&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05000v1</guid>
+      <pubDate>Thu, 04 Dec 2025 17:12:39 +0000</pubDate>
     </item>
     <item>
-      <title>BlurDM: A Blur Diffusion Model for Image Deblurring</title>
-      <link>http://arxiv.org/abs/2512.03979v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jin-Ting He, Fu-Jen Tsai, Yan-Tsung Peng, Min-Hung Chen, Chia-Wen Lin, Yen-Yu Lin&lt;/p&gt;&lt;p&gt;Diffusion models show promise for dynamic scene deblurring; however, existing studies often fail to leverage the intrinsic nature of the blurring process within diffusion models, limiting their full potential. To address it, we present a Blur Diffusion Model (BlurDM), which seamlessly integrates the blur formation process into diffusion for image deblurring. Observing that motion blur stems from continuous exposure, BlurDM implicitly models the blur formation process through a dual-diffusion forward scheme, diffusing both noise and blur onto a sharp image&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.03979v1</guid>
-      <pubDate>Wed, 03 Dec 2025 17:10:44 +0000</pubDate>
+      <title>Detecting Perspective Shifts in Multi-agent Systems</title>
+      <link>http://arxiv.org/abs/2512.05013v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Eric Bridgeford, Hayden Helm&lt;/p&gt;&lt;p&gt;Generative models augmented with external tools and update mechanisms (or \textit{agents}) have demonstrated capabilities beyond intelligent prompting of base models. As agent use proliferates, dynamic multi-agent systems have naturally emerged. Recent work has investigated the theoretical and empirical properties of low-dimensional representations of agents based on query responses at a single time point&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05013v1</guid>
+      <pubDate>Thu, 04 Dec 2025 17:24:56 +0000</pubDate>
     </item>
     <item>
-      <title>DIQ-H: Evaluating Hallucination Persistence in VLMs Under Temporal Visual Degradation</title>
-      <link>http://arxiv.org/abs/2512.03992v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zexin Lin, Hawen Wan, Yebin Zhong, Xiaoqiang&lt;/p&gt;&lt;p&gt;Vision-Language Models (VLMs) deployed in safety-critical applications such as autonomous driving must handle continuous visual streams under imperfect conditions. However, existing benchmarks focus on static, high-quality images and ignore temporal degradation and error propagation, which are critical failure modes where transient visual corruption induces hallucinations that persist across subsequent frames. We introduce DIQ-H, the first benchmark for evaluating VLM robustness under dynamic visual degradation in temporal sequences&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.03992v1</guid>
-      <pubDate>Wed, 03 Dec 2025 17:22:29 +0000</pubDate>
+      <title>Model-Free Assessment of Simulator Fidelity via Quantile Curves</title>
+      <link>http://arxiv.org/abs/2512.05024v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Garud Iyengar, Yu-Shiou Willy Lin, Kaizheng Wang&lt;/p&gt;&lt;p&gt;Simulation of complex systems originated in manufacturing and queuing applications. It is now widely used for large-scale, ML-based systems in research, education, and consumer surveys. However, characterizing the discrepancy between simulators and ground truth remains challenging for increasingly complex, machine-learning-based systems&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05024v1</guid>
+      <pubDate>Thu, 04 Dec 2025 17:39:51 +0000</pubDate>
     </item>
     <item>
-      <title>Highly Efficient Test-Time Scaling for T2I Diffusion Models with Text Embedding Perturbation</title>
-      <link>http://arxiv.org/abs/2512.03996v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hang Xu, Linjiang Huang, Feng Zhao&lt;/p&gt;&lt;p&gt;Test-time scaling (TTS) aims to achieve better results by increasing random sampling and evaluating samples based on rules and metrics. However, in text-to-image(T2I) diffusion models, most related works focus on search strategies and reward models, yet the impact of the stochastic characteristic of noise in T2I diffusion models on the method's performance remains unexplored. In this work, we analyze the effects of randomness in T2I diffusion models and explore a new format of randomness for TTS: text embedding perturbation, which couples with existing randomness like SDE-injected noise to enh&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.03996v1</guid>
-      <pubDate>Wed, 03 Dec 2025 17:27:53 +0000</pubDate>
+      <title>Arbitrage: Efficient Reasoning via Advantage-Aware Speculation</title>
+      <link>http://arxiv.org/abs/2512.05033v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Monishwaran Maheswaran, Rishabh Tiwari, Yuezhou Hu, Kerem Dilmen, Coleman Hooper, Haocheng Xi, Nicholas Lee, Mehrdad Farajtabar&lt;/p&gt;&lt;p&gt;Modern Large Language Models achieve impressive reasoning capabilities with long Chain of Thoughts, but they incur substantial computational cost during inference, and this motivates techniques to improve the performance-cost ratio. Among these techniques, Speculative Decoding accelerates inference by employing a fast but inaccurate draft model to autoregressively propose tokens, which are then verified in parallel by a more capable target model. However, due to unnecessary rejections caused by token mismatches in semantically equivalent steps, traditional token-level Speculative Decoding stru&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05033v1</guid>
+      <pubDate>Thu, 04 Dec 2025 17:50:53 +0000</pubDate>
     </item>
     <item>
-      <title>Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding</title>
-      <link>http://arxiv.org/abs/2512.04000v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jialuo Li, Bin Li, Jiahao Li, Yan Lu&lt;/p&gt;&lt;p&gt;The application of Large Multimodal Models (LMMs) to long-form video understanding is constrained by limited context lengths and the computationally prohibitive cost of processing dense video tokens. Consequently, recent research has focused on query-aware frame selection, methods that often incur significant computational overhead. This paper challenges the assumption that such complex search mechanisms are universally necessary&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.04000v1</guid>
-      <pubDate>Wed, 03 Dec 2025 17:36:06 +0000</pubDate>
+      <title>QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory</title>
+      <link>http://arxiv.org/abs/2512.05049v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yu-Chao Hsu, Jiun-Cheng Jiang, Chun-Hua Lin, Kuo-Chung Peng, Nan-Yow Chen, Samuel Yen-Chi Chen, En-Jui Kuo, Hsi-Sheng Goan&lt;/p&gt;&lt;p&gt;Long short-term memory (LSTM) models are a particular type of recurrent neural networks (RNNs) that are central to sequential modeling tasks in domains such as urban telecommunication forecasting, where temporal correlations and nonlinear dependencies dominate. However, conventional LSTMs suffer from high parameter redundancy and limited nonlinear expressivity. In this work, we propose the Quantum-inspired Kolmogorov-Arnold Long Short-Term Memory (QKAN-LSTM), which integrates Data Re-Uploading Activation (DARUAN) modules into the gating structure of LSTMs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05049v1</guid>
+      <pubDate>Thu, 04 Dec 2025 18:03:23 +0000</pubDate>
     </item>
     <item>
-      <title>Diagonalizing the Softmax: Hadamard Initialization for Tractable Cross-Entropy Dynamics</title>
-      <link>http://arxiv.org/abs/2512.04006v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Connall Garrod, Jonathan P. Keating, Christos Thrampoulidis&lt;/p&gt;&lt;p&gt;Cross-entropy (CE) training loss dominates deep learning practice, yet existing theory often relies on simplifications, either replacing it with squared loss or restricting to convex models, that miss essential behavior. CE and squared loss generate fundamentally different dynamics, and convex linear models cannot capture the complexities of non-convex optimization. We provide an in-depth characterization of multi-class CE optimization dynamics beyond the convex regime by analyzing a canonical two-layer linear neural network with standard-basis vectors as inputs: the simplest non-convex extens&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.04006v1</guid>
-      <pubDate>Wed, 03 Dec 2025 17:45:09 +0000</pubDate>
+      <title>Meta-Learning for Quantum Optimization via Quantum Sequence Model</title>
+      <link>http://arxiv.org/abs/2512.05058v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yu-Cheng Lin, Yu-Chao Hsu, Samuel Yen-Chi Chen&lt;/p&gt;&lt;p&gt;The Quantum Approximate Optimization Algorithm (QAOA) is a leading approach for solving combinatorial optimization problems on near-term quantum processors. However, finding good variational parameters remains a significant challenge due to the non-convex energy landscape, often resulting in slow convergence and poor solution quality. In this work, we propose a quantum meta-learning framework that trains advanced quantum sequence models to generate effective parameter initialization policies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05058v1</guid>
+      <pubDate>Thu, 04 Dec 2025 18:13:45 +0000</pubDate>
     </item>
     <item>
-      <title>On the Temporality for Sketch Representation Learning</title>
-      <link>http://arxiv.org/abs/2512.04007v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marcelo Isaias de Moraes Junior, Moacir Antonelli Ponti&lt;/p&gt;&lt;p&gt;Sketches are simple human hand-drawn abstractions of complex scenes and real-world objects. Although the field of sketch representation learning has advanced significantly, there is still a gap in understanding the true relevance of the temporal aspect to the quality of these representations. This work investigates whether it is indeed justifiable to treat sketches as sequences, as well as which internal orders play a more relevant role&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.04007v1</guid>
-      <pubDate>Wed, 03 Dec 2025 17:46:05 +0000</pubDate>
+      <title>Multi-LLM Collaboration for Medication Recommendation</title>
+      <link>http://arxiv.org/abs/2512.05066v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Huascar Sanchez, Briland Hitaj, Jules Bergmann, Linda Briesemeister&lt;/p&gt;&lt;p&gt;As healthcare increasingly turns to AI for scalable and trustworthy clinical decision support, ensuring reliability in model reasoning remains a critical challenge. Individual large language models (LLMs) are susceptible to hallucinations and inconsistency, whereas naive ensembles of models often fail to deliver stable and credible recommendations. Building on our previous work on LLM Chemistry, which quantifies the collaborative compatibility among LLMs, we apply this framework to improve the reliability in medication recommendation from brief clinical vignettes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05066v1</guid>
+      <pubDate>Thu, 04 Dec 2025 18:25:15 +0000</pubDate>
     </item>
     <item>
-      <title>TARA Test-by-Adaptive-Ranks for Quantum Anomaly Detection with Conformal Prediction Guarantees</title>
-      <link>http://arxiv.org/abs/2512.04016v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Davut Emre Tasar, Ceren Ocal Tasar&lt;/p&gt;&lt;p&gt;Quantum key distribution (QKD) security fundamentally relies on the ability to distinguish genuine quantum correlations from classical eavesdropper simulations, yet existing certification methods lack rigorous statistical guarantees under finite-sample conditions and adversarial scenarios. We introduce TARA (Test by Adaptive Ranks), a novel framework combining conformal prediction with sequential martingale testing for quantum anomaly detection that provides distribution-free validity guarantees. TARA offers two complementary approaches&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.04016v1</guid>
-      <pubDate>Wed, 03 Dec 2025 17:53:38 +0000</pubDate>
+      <title>David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?</title>
+      <link>http://arxiv.org/abs/2512.05073v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shashwat Shankar, Subhranshu Pandey, Innocent Dengkhw Mochahari, Bhabesh Mali, Animesh Basak Chowdhury, Sukanta Bhattacharjee, Chandan Karfa&lt;/p&gt;&lt;p&gt;Large Language Model(LLM) inference demands massive compute and energy, making domain-specific tasks expensive and unsustainable. As foundation models keep scaling, we ask: Is bigger always better for hardware design? Our work tests this by evaluating Small Language Models coupled with a curated agentic AI framework on NVIDIA's Comprehensive Verilog Design Problems(CVDP) benchmark. Results show that agentic workflows: through task decomposition, iterative feedback, and correction - not only unlock near-LLM performance at a fraction of the cost but also create learning opportunities for agents,&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05073v1</guid>
+      <pubDate>Thu, 04 Dec 2025 18:37:29 +0000</pubDate>
     </item>
     <item>
-      <title>PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation</title>
-      <link>http://arxiv.org/abs/2512.04025v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaolong Li, Youping Gu, Xi Lin, Weijie Wang, Bohan Zhuang&lt;/p&gt;&lt;p&gt;Attention mechanisms are the core of foundation models, but their quadratic complexity remains a critical bottleneck for scaling. This challenge has driven the development of efficient attention mechanisms, with sparsity emerging as the dominant paradigm. Current methods typically retain or discard entire key-value blocks with binary masks, resulting in substantial information loss under high sparsity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.04025v1</guid>
-      <pubDate>Wed, 03 Dec 2025 18:02:11 +0000</pubDate>
+      <title>Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction</title>
+      <link>http://arxiv.org/abs/2512.05092v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vincent Pauline, Tobias Höppe, Kirill Neklyudov, Alexander Tong, Stefan Bauer, Andrea Dittadi&lt;/p&gt;&lt;p&gt;Although diffusion models now occupy a central place in generative modeling, introductory treatments commonly assume Euclidean data and seldom clarify their connection to discrete-state analogues. This article is a self-contained primer on diffusion over general state spaces, unifying continuous domains and discrete/categorical structures under one lens. We develop the discrete-time view (forward noising via Markov kernels and learned reverse dynamics) alongside its continuous-time limits -- stochastic differential equations (SDEs) in $\mathbb{R}^d$ and continuous-time Markov chains (CTMCs) on&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05092v1</guid>
+      <pubDate>Thu, 04 Dec 2025 18:55:36 +0000</pubDate>
     </item>
     <item>
-      <title>Large Language Models for Limited Noisy Data: A Gravitational Wave Identification Study</title>
-      <link>http://arxiv.org/abs/2512.04031v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yixuan Li, Yuhao Lu, Yang Liu, Liang Li, R. Ruffini, Di Li, Rong-Gen Cai, Xiaoyan Zhu&lt;/p&gt;&lt;p&gt;This work investigates whether large language models (LLMs) offer advantages over traditional neural networks for astronomical data processing, in regimes with non-Gaussian, non-stationary noise and limited labeled samples. Gravitational wave observations provide an suitable test case, using only 90 LIGO events, finetuned LLMs achieve 97.4\% accuracy for identifying signals. Further experiments show that, in contrast to traditional networks that rely on large simulated datasets, additional simulated samples do not improve LLM performance, while scaling studies reveal predictable gains with inc&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.04031v1</guid>
-      <pubDate>Wed, 03 Dec 2025 18:13:01 +0000</pubDate>
+      <title>SA-IQA: Redefining Image Quality Assessment for Spatial Aesthetics with Multi-Dimensional Rewards</title>
+      <link>http://arxiv.org/abs/2512.05098v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuan Gao, Jin Song&lt;/p&gt;&lt;p&gt;In recent years, Image Quality Assessment (IQA) for AI-generated images (AIGI) has advanced rapidly; however, existing methods primarily target portraits and artistic images, lacking a systematic evaluation of interior scenes. We introduce Spatial Aesthetics, a paradigm that assesses the aesthetic quality of interior images along four dimensions: layout, harmony, lighting, and distortion. We construct SA-BENCH, the first benchmark for spatial aesthetics, comprising 18,000 images and 50,000 precise annotations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05098v1</guid>
+      <pubDate>Thu, 04 Dec 2025 18:58:18 +0000</pubDate>
     </item>
     <item>
-      <title>Jina-VLM: Small Multilingual Vision Language Model</title>
-      <link>http://arxiv.org/abs/2512.04032v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andreas Koukounas, Georgios Mastrapas, Florian Hönicke, Sedigheh Eslami, Guillaume Roncari, Scott Martens, Han Xiao&lt;/p&gt;&lt;p&gt;We present Jina-VLM, a 2.4B parameter vision-language model that achieves state-of-the-art multilingual visual question answering among open 2B-scale VLMs. The model couples a SigLIP2 vision encoder with a Qwen3 language backbone through an attention-pooling connector that enables token-efficient processing of arbitrary-resolution images. Across standard VQA benchmarks and multilingual evaluations, Jina-VLM outperforms comparable models while preserving competitive text-only performance.&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.04032v1</guid>
-      <pubDate>Wed, 03 Dec 2025 18:13:41 +0000</pubDate>
+      <title>Structured Document Translation via Format Reinforcement Learning</title>
+      <link>http://arxiv.org/abs/2512.05100v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haiyue Song, Johannes Eschbach-Dymanus, Hour Kaing, Sumire Honda, Hideki Tanaka, Bianka Buschbeck, Masao Utiyama&lt;/p&gt;&lt;p&gt;Recent works on structured text translation remain limited to the sentence level, as they struggle to effectively handle the complex document-level XML or HTML structures. To address this, we propose \textbf{Format Reinforcement Learning (FormatRL)}, which employs Group Relative Policy Optimization on top of a supervised fine-tuning model to directly optimize novel structure-aware rewards: 1) TreeSim, which measures structural similarity between predicted and reference XML trees and 2) Node-chrF, which measures translation quality at the level of XML nodes. Additionally, we apply StrucAUC, a f&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05100v1</guid>
+      <pubDate>Thu, 04 Dec 2025 18:58:30 +0000</pubDate>
     </item>
     <item>
-      <title>Fast &amp; Efficient Normalizing Flows and Applications of Image Generative Models</title>
-      <link>http://arxiv.org/abs/2512.04039v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sandeep Nagar&lt;/p&gt;&lt;p&gt;This thesis presents novel contributions in two primary areas: advancing the efficiency of generative models, particularly normalizing flows, and applying generative models to solve real-world computer vision challenges. The first part introduce significant improvements to normalizing flow architectures through six key innovations: 1) Development of invertible 3x3 Convolution layers with mathematically proven necessary and sufficient conditions for invertibility, (2) introduction of a more efficient Quad-coupling layer, 3) Design of a fast and efficient parallel inversion algorithm for kxk con&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.04039v1</guid>
-      <pubDate>Wed, 03 Dec 2025 18:29:03 +0000</pubDate>
+      <title>TV2TV: A Unified Framework for Interleaved Language and Video Generation</title>
+      <link>http://arxiv.org/abs/2512.05103v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaochuang Han, Youssef Emad, Melissa Hall, John Nguyen, Karthik Padthe, Liam Robbins, Amir Bar, Delong Chen&lt;/p&gt;&lt;p&gt;Video generation models are rapidly advancing, but can still struggle with complex video outputs that require significant semantic branching or repeated high-level reasoning about what should happen next. In this paper, we introduce a new class of omni video-text models that integrate ideas from recent LM reasoning advances to address this challenge. More specifically, we present TV2TV, a unified generative modeling framework which decomposes video generation into an interleaved text and video generation process&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05103v1</guid>
+      <pubDate>Thu, 04 Dec 2025 18:59:09 +0000</pubDate>
     </item>
     <item>
-      <title>MarkTune: Improving the Quality-Detectability Trade-off in Open-Weight LLM Watermarking</title>
-      <link>http://arxiv.org/abs/2512.04044v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yizhou Zhao, Zhiwei Steven Wu, Adam Block&lt;/p&gt;&lt;p&gt;Watermarking aims to embed hidden signals in generated text that can be reliably detected when given access to a secret key. Open-weight language models pose acute challenges for such watermarking schemes because the inference-time interventions that dominate contemporary approaches cannot be enforced once model weights are public. Existing watermaking techniques for open-weight models, such as the recently proposed GaussMark, typically rely on small modifications to model weights, which can yield signals detectable to those equipped with a secret key, but achieving detection power comparable &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.04044v1</guid>
-      <pubDate>Wed, 03 Dec 2025 18:32:19 +0000</pubDate>
+      <title>Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning</title>
+      <link>http://arxiv.org/abs/2512.05105v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Purbesh Mitra, Sennur Ulukus&lt;/p&gt;&lt;p&gt;Long context reasoning in large language models (LLMs) has demonstrated enhancement of their cognitive capabilities via chain-of-thought (CoT) inference. Training such models is usually done via reinforcement learning with verifiable rewards (RLVR) in reasoning based problems, like math and programming. However, RLVR is limited by several bottlenecks, such as, lack of dense reward, and inadequate sample efficiency&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05105v1</guid>
+      <pubDate>Thu, 04 Dec 2025 18:59:18 +0000</pubDate>
     </item>
     <item>
-      <title>Polarization by Design: How Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs</title>
-      <link>http://arxiv.org/abs/2512.04047v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nadav Kunievsky&lt;/p&gt;&lt;p&gt;In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constrain&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.04047v1</guid>
-      <pubDate>Wed, 03 Dec 2025 18:33:26 +0000</pubDate>
+      <title>ShadowDraw: From Any Object to Shadow-Drawing Compositional Art</title>
+      <link>http://arxiv.org/abs/2512.05110v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rundong Luo, Noah Snavely, Wei-Chiu Ma&lt;/p&gt;&lt;p&gt;We introduce ShadowDraw, a framework that transforms ordinary 3D objects into shadow-drawing compositional art. Given a 3D object, our system predicts scene parameters, including object pose and lighting, together with a partial line drawing, such that the cast shadow completes the drawing into a recognizable image. To this end, we optimize scene configurations to reveal meaningful shadows, employ shadow strokes to guide line drawing generation, and adopt automatic evaluation to enforce shadow-drawing coherence and visual quality&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05110v1</guid>
+      <pubDate>Thu, 04 Dec 2025 18:59:51 +0000</pubDate>
     </item>
     <item>
-      <title>Fare Comparison App of Uber, Ola and Rapido</title>
-      <link>http://arxiv.org/abs/2512.04065v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ashlesha Gopinath Sawant, Sahil S. Jadhav, Vidhan R. Jain, Shriraj S. Jagtap, Prachi Jadhav, Soham Jadhav, Ichha Raina&lt;/p&gt;&lt;p&gt;In todays increasing world, it is very important to have good hailing services like Ola, Uber, and Rapido as it is very essential for our daily transportation. Users often face difficulties in choosing the most appropriate and efficient ride that would lead to both cost-effective and would take us to our destination in less time. This project provides you with the web application that helps you to select the most beneficial ride for you by providing users with the fare comparison between Ola, Uber, Rapido for the destination entered by the user&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.04065v1</guid>
-      <pubDate>Wed, 03 Dec 2025 18:48:33 +0000</pubDate>
+      <title>DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation</title>
+      <link>http://arxiv.org/abs/2512.05112v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dongzhi Jiang, Renrui Zhang, Haodong Li, Zhuofan Zong, Ziyu Guo, Jun He, Claire Guo, Junyan Ye&lt;/p&gt;&lt;p&gt;Recent unified multimodal large language models (MLLMs) have shown impressive capabilities, incorporating chain-of-thought (CoT) reasoning for enhanced text-to-image generation. However, existing approaches remain limited, either treating the model merely as a standalone generator or relying on abstract textual planning. To this end, we propose Draft-as-CoT (DraCo), a novel interleaved reasoning paradigm that fully leverages both textual and visual contents in CoT for better planning and verification&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05112v1</guid>
+      <pubDate>Thu, 04 Dec 2025 18:59:53 +0000</pubDate>
     </item>
     <item>
-      <title>SkillFactory: Self-Distillation For Learning Cognitive Behaviors</title>
-      <link>http://arxiv.org/abs/2512.04072v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zayne Sprague, Jack Lu, Manya Wadhwa, Sedrick Keh, Mengye Ren, Greg Durrett&lt;/p&gt;&lt;p&gt;Reasoning models leveraging long chains of thought employ various cognitive skills, such as verification of their answers, backtracking, retrying by an alternate method, and more. Previous work has shown that when a base language model exhibits these skills, training that model further with reinforcement learning (RL) can learn to leverage them. How can we get models to leverage skills that aren't exhibited by base models? Our work, SkillFactory, is a method for fine-tuning models to roughly learn these skills during a supervised fine-tuning (SFT) stage prior to RL&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.04072v1</guid>
-      <pubDate>Wed, 03 Dec 2025 18:54:53 +0000</pubDate>
+      <title>The Universal Weight Subspace Hypothesis</title>
+      <link>http://arxiv.org/abs/2512.05117v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Prakhar Kaushik, Shravan Chaudhari, Ankit Vaidya, Rama Chellappa, Alan Yuille&lt;/p&gt;&lt;p&gt;We show that deep neural networks trained across diverse tasks exhibit remarkably similar low-dimensional parametric subspaces. We provide the first large-scale empirical evidence that demonstrates that neural networks systematically converge to shared spectral subspaces regardless of initialization, task, or domain. Through mode-wise spectral analysis of over 1100 models - including 500 Mistral-7B LoRAs, 500 Vision Transformers, and 50 LLaMA-8B models - we identify universal subspaces capturing majority variance in just a few principal directions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.05117v1</guid>
+      <pubDate>Thu, 04 Dec 2025 18:59:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
