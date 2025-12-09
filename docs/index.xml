@@ -7,6 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 08 Dec 2025 03:22:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 03:19:52 +0000</lastBuildDate>
+    <item>
+      <title>When Large Language Models Do Not Work: Online Incivility Prediction through Graph Neural Networks</title>
+      <link>http://arxiv.org/abs/2512.07684v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zihan Chen, Lanyu Yu&lt;/p&gt;&lt;p&gt;Online incivility has emerged as a widespread and persistent problem in digital communities, imposing substantial social and psychological burdens on users. Although many platforms attempt to curb incivility through moderation and automated detection, the performance of existing approaches often remains limited in both accuracy and efficiency. To address this challenge, we propose a Graph Neural Network (GNN) framework for detecting three types of uncivil behavior (i.e., toxicity, aggression, and personal attacks) within the English Wikipedia community&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07684v1</guid>
+      <pubDate>Mon, 08 Dec 2025 16:22:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guiding What Not to Generate: Automated Negative Prompting for Text-Image Alignment</title>
+      <link>http://arxiv.org/abs/2512.07702v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sangha Park, Eunji Kim, Yeongtak Oh, Jooyoung Choi, Sungroh Yoon&lt;/p&gt;&lt;p&gt;Despite substantial progress in text-to-image generation, achieving precise text-image alignment remains challenging, particularly for prompts with rich compositional structure or imaginative elements. To address this, we introduce Negative Prompting for Image Correction (NPC), an automated pipeline that improves alignment by identifying and applying negative prompts that suppress unintended content. We begin by analyzing cross-attention patterns to explain why both targeted negatives-those directly tied to the prompt's alignment error-and untargeted negatives-tokens unrelated to the prompt bu&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07702v1</guid>
+      <pubDate>Mon, 08 Dec 2025 16:49:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models</title>
+      <link>http://arxiv.org/abs/2512.07705v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Saroj Gopali, Bipin Chhetri, Deepika Giri, Sima Siami-Namini, Akbar Siami Namin&lt;/p&gt;&lt;p&gt;Existing data-driven approaches in modeling and predicting time series data include ARIMA (Autoregressive Integrated Moving Average), Transformer-based models, LSTM (Long Short-Term Memory) and TCN (Temporal Convolutional Network). These approaches, and in particular deep learning-based models such as LSTM and TCN, have shown great results in predicting time series data. With the advancement of leveraging pre-trained foundation models such as Large Language Models (LLMs) and more notably Google's recent foundation model for time series data, {\it TimesFM} (Time Series Foundation Model), it is &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07705v1</guid>
+      <pubDate>Mon, 08 Dec 2025 16:52:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Each Prompt Matters: Scaling Reinforcement Learning Without Wasting Rollouts on Hundred-Billion-Scale MoE</title>
+      <link>http://arxiv.org/abs/2512.07710v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anxiang Zeng, Haibo Zhang, Hailing Zhang, Kaixiang Mo, Liang Yao, Ling Hu, Long Zhang, Shuman Liu&lt;/p&gt;&lt;p&gt;We present CompassMax-V3-Thinking, a hundred-billion-scale MoE reasoning model trained with a new RL framework built on one principle: each prompt must matter. Scaling RL to this size exposes critical inefficiencies-zero-variance prompts that waste rollouts, unstable importance sampling over long horizons, advantage inversion from standard reward models, and systemic bottlenecks in rollout processing. To overcome these challenges, we introduce several unified innovations: (1) Multi-Stage Zero-Variance Elimination, which filters out non-informative prompts and stabilizes group-based policy opti&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07710v1</guid>
+      <pubDate>Mon, 08 Dec 2025 16:57:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enabling Delayed-Full Charging Through Transformer-Based Real-Time-to-Departure Modeling for EV Battery Longevity</title>
+      <link>http://arxiv.org/abs/2512.07723v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yonggeon Lee, Jibin Hwang, Alfred Malengo Kondoro, Juhyun Song, Youngtae Noh&lt;/p&gt;&lt;p&gt;Electric vehicles (EVs) are key to sustainable mobility, yet their lithium-ion batteries (LIBs) degrade more rapidly under prolonged high states of charge (SOC). This can be mitigated by delaying full charging \ours until just before departure, which requires accurate prediction of user departure times. In this work, we propose Transformer-based real-time-to-event (TTE) model for accurate EV departure prediction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07723v1</guid>
+      <pubDate>Mon, 08 Dec 2025 17:14:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Native Spiking Microarchitecture: From Iontronic Primitives to Bit-Exact FP8 Arithmetic</title>
+      <link>http://arxiv.org/abs/2512.07724v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhengzheng Tang&lt;/p&gt;&lt;p&gt;The 2025 Nobel Prize in Chemistry for Metal-Organic Frameworks (MOFs) and recent breakthroughs by Huanting Wang's team at Monash University establish angstrom-scale channels as promising post-silicon substrates with native integrate-and-fire (IF) dynamics. However, utilizing these stochastic, analog materials for deterministic, bit-exact AI workloads (e.g., FP8) remains a paradox. Existing neuromorphic methods often settle for approximation, failing Transformer precision standards&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07724v1</guid>
+      <pubDate>Mon, 08 Dec 2025 17:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAVE: Sparse Autoencoder-Driven Visual Information Enhancement for Mitigating Object Hallucination</title>
+      <link>http://arxiv.org/abs/2512.07730v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sangha Park, Seungryong Yoo, Jisoo Mok, Sungroh Yoon&lt;/p&gt;&lt;p&gt;Although Multimodal Large Language Models (MLLMs) have advanced substantially, they remain vulnerable to object hallucination caused by language priors and visual information loss. To address this, we propose SAVE (Sparse Autoencoder-Driven Visual Information Enhancement), a framework that mitigates hallucination by steering the model along Sparse Autoencoder (SAE) latent features. A binary object-presence question-answering probe identifies the SAE features most indicative of the model's visual information processing, referred to as visual understanding features&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07730v1</guid>
+      <pubDate>Mon, 08 Dec 2025 17:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Physics-Informed Neural Networks for Source Inversion and Parameters Estimation in Atmospheric Dispersion</title>
+      <link>http://arxiv.org/abs/2512.07755v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Brenda Anague, Bamdad Hosseini, Issa Karambal, Jean Medard Ngnotchouye&lt;/p&gt;&lt;p&gt;Recent studies have shown the success of deep learning in solving forward and inverse problems in engineering and scientific computing domains, such as physics-informed neural networks (PINNs). In the fields of atmospheric science and environmental monitoring, estimating emission source locations is a central task that further relies on multiple model parameters that dictate velocity profiles and diffusion parameters. Estimating these parameters at the same time as emission sources from scarce data is a difficult task&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07755v1</guid>
+      <pubDate>Mon, 08 Dec 2025 17:38:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>RL-MTJail: Reinforcement Learning for Automated Black-Box Multi-Turn Jailbreaking of Large Language Models</title>
+      <link>http://arxiv.org/abs/2512.07761v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiqiao Xiong, Ouxiang Li, Zhuo Liu, Moxin Li, Wentao Shi, Fuli Feng, Xiangnan He&lt;/p&gt;&lt;p&gt;Large language models are vulnerable to jailbreak attacks, threatening their safe deployment in real-world applications. This paper studies black-box multi-turn jailbreaks, aiming to train attacker LLMs to elicit harmful content from black-box models through a sequence of prompt-output interactions. Existing approaches typically rely on single turn optimization, which is insufficient for learning long-term attack strategies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07761v1</guid>
+      <pubDate>Mon, 08 Dec 2025 17:42:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Distribution-informed Online Conformal Prediction</title>
+      <link>http://arxiv.org/abs/2512.07770v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dongjian Hu, Junxi Wu, Shu-Tao Xia, Changliang Zou&lt;/p&gt;&lt;p&gt;Conformal prediction provides a pivotal and flexible technique for uncertainty quantification by constructing prediction sets with a predefined coverage rate. Many online conformal prediction methods have been developed to address data distribution shifts in fully adversarial environments, resulting in overly conservative prediction sets. We propose Conformal Optimistic Prediction (COP), an online conformal prediction algorithm incorporating underlying data pattern into the update rule&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07770v1</guid>
+      <pubDate>Mon, 08 Dec 2025 17:51:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>ReasonBENCH: Benchmarking the (In)Stability of LLM Reasoning</title>
+      <link>http://arxiv.org/abs/2512.07795v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nearchos Potamitis, Lars Klein, Akhil Arora&lt;/p&gt;&lt;p&gt;Large language models (LLMs) are increasingly deployed in settings where reasoning, such as multi-step problem solving and chain-of-thought, is essential. Yet, current evaluation practices overwhelmingly report single-run accuracy while ignoring the intrinsic uncertainty that naturally arises from stochastic decoding. This omission creates a blind spot because practitioners cannot reliably assess whether a method's reported performance is stable, reproducible, or cost-consistent&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07795v1</guid>
+      <pubDate>Mon, 08 Dec 2025 18:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Large Causal Models from Large Language Models</title>
+      <link>http://arxiv.org/abs/2512.07796v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sridhar Mahadevan&lt;/p&gt;&lt;p&gt;We introduce a new paradigm for building large causal models (LCMs) that exploits the enormous potential latent in today's large language models (LLMs). We describe our ongoing experiments with an implemented system called DEMOCRITUS (Decentralized Extraction of Manifold Ontologies of Causal Relations Integrating Topos Universal Slices) aimed at building, organizing, and visualizing LCMs that span disparate domains extracted from carefully targeted textual queries to LLMs. DEMOCRITUS is methodologically distinct from traditional narrow domain and hypothesis centered causal inference that build&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07796v1</guid>
+      <pubDate>Mon, 08 Dec 2025 18:28:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collaborative Causal Sensemaking: Closing the Complementarity Gap in Human-AI Decision Support</title>
+      <link>http://arxiv.org/abs/2512.07801v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Raunak Jain, Mudita Khurana&lt;/p&gt;&lt;p&gt;LLM-based agents are rapidly being plugged into expert decision-support, yet in messy, high-stakes settings they rarely make the team smarter: human-AI teams often underperform the best individual, experts oscillate between verification loops and over-reliance, and the promised complementarity does not materialise. We argue this is not just a matter of accuracy, but a fundamental gap in how we conceive AI assistance: expert decisions are made through collaborative cognitive processes where mental models, goals, and constraints are continually co-constructed, tested, and revised between human a&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07801v1</guid>
+      <pubDate>Mon, 08 Dec 2025 18:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Group Representational Position Encoding</title>
+      <link>http://arxiv.org/abs/2512.07805v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yifan Zhang, Zixiang Chen, Yifeng Liu, Zhen Qin, Huizhuo Yuan, Kangping Xu, Yang Yuan, Quanquan Gu&lt;/p&gt;&lt;p&gt;We present GRAPE (Group RepresentAtional Position Encoding), a unified framework for positional encoding based on group actions. GRAPE brings together two families of mechanisms: (i) multiplicative rotations (Multiplicative GRAPE) in $\mathrm{SO}(d)$ and (ii) additive logit biases (Additive GRAPE) arising from unipotent actions in the general linear group $\mathrm{GL}$. In Multiplicative GRAPE, a position $n \in \mathbb{Z}$ (or $t \in \mathbb{R}$) acts as $\mathbf{G}(n)=\exp(n\,ω\,\mathbf{L})$ with a rank-2 skew generator $\mathbf{L} \in \mathbb{R}^{d \times d}$, yielding a relative, compositi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07805v1</guid>
+      <pubDate>Mon, 08 Dec 2025 18:39:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auditing Games for Sandbagging</title>
+      <link>http://arxiv.org/abs/2512.07810v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jordan Taylor, Sid Black, Dillon Bowen, Thomas Read, Satvik Golechha, Alex Zelenka-Martin, Oliver Makins, Connor Kissane&lt;/p&gt;&lt;p&gt;Future AI systems could conceal their capabilities ('sandbagging') during evaluations, potentially misleading developers and auditors. We stress-tested sandbagging detection techniques using an auditing game. First, a red team fine-tuned five models, some of which conditionally underperformed, as a proxy for sandbagging&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07810v1</guid>
+      <pubDate>Mon, 08 Dec 2025 18:44:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach</title>
+      <link>http://arxiv.org/abs/2512.07814v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hua Yang, Alejandro Velasco, Sen Fang, Bowen Xu, Denys Poshyvanyk&lt;/p&gt;&lt;p&gt;Large language models for code (LLM4Code) have greatly improved developer productivity but also raise privacy concerns due to their reliance on open-source repositories containing abundant personally identifiable information (PII). Prior work shows that commercial models can reproduce sensitive PII, yet existing studies largely treat PII as a single category and overlook the heterogeneous risks among different types. We investigate whether distinct PII types vary in their likelihood of being learned and leaked by LLM4Code, and whether this relationship is causal&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07814v1</guid>
+      <pubDate>Mon, 08 Dec 2025 18:47:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Provable Long-Range Benefits of Next-Token Prediction</title>
+      <link>http://arxiv.org/abs/2512.07818v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xinyuan Cao, Santosh S. Vempala&lt;/p&gt;&lt;p&gt;Why do modern language models, trained to do well on next-word prediction, appear to generate coherent documents and capture long-range structure? Here we show that next-token prediction is provably powerful for learning longer-range structure, even with common neural network architectures. Specifically, we prove that optimizing next-token prediction over a Recurrent Neural Network (RNN) yields a model that closely approximates the training distribution: for held-out documents sampled from the training distribution, no algorithm of bounded description length limited to examining the next $k$ t&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07818v1</guid>
+      <pubDate>Mon, 08 Dec 2025 18:51:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>WorldReel: 4D Video Generation with Consistent Geometry and Motion Modeling</title>
+      <link>http://arxiv.org/abs/2512.07821v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shaoheng Fang, Hanwen Jiang, Yunpeng Bai, Niloy J. Mitra, Qixing Huang&lt;/p&gt;&lt;p&gt;Recent video generators achieve striking photorealism, yet remain fundamentally inconsistent in 3D. We present WorldReel, a 4D video generator that is natively spatio-temporally consistent. WorldReel jointly produces RGB frames together with 4D scene representations, including pointmaps, camera trajectory, and dense flow mapping, enabling coherent geometry and appearance modeling over time&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07821v1</guid>
+      <pubDate>Mon, 08 Dec 2025 18:54:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Layer Is Enough: Adapting Pretrained Visual Encoders for Image Generation</title>
+      <link>http://arxiv.org/abs/2512.07829v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuan Gao, Chen Chen, Tianrong Chen, Jiatao Gu&lt;/p&gt;&lt;p&gt;Visual generative models (e.g., diffusion models) typically operate in compressed latent spaces to balance training efficiency and sample quality. In parallel, there has been growing interest in leveraging high-quality pre-trained visual representations, either by aligning them inside VAEs or directly within the generative model. However, adapting such representations remains challenging due to fundamental mismatches between understanding-oriented features and generation-friendly latent spaces&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07829v1</guid>
+      <pubDate>Mon, 08 Dec 2025 18:57:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Relational Visual Similarity</title>
+      <link>http://arxiv.org/abs/2512.07833v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Thao Nguyen, Sicheng Mo, Krishna Kumar Singh, Yilin Wang, Jing Shi, Nicholas Kolkin, Eli Shechtman, Yong Jae Lee&lt;/p&gt;&lt;p&gt;Humans do not just see attribute similarity -- we also see relational similarity. An apple is like a peach because both are reddish fruit, but the Earth is also like a peach: its crust, mantle, and core correspond to the peach's skin, flesh, and pit. This ability to perceive and recognize relational similarity, is arguable by cognitive scientist to be what distinguishes humans from other species&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.07833v1</guid>
+      <pubDate>Mon, 08 Dec 2025 18:59:56 +0000</pubDate>
+    </item>
   </channel>
 </rss>
