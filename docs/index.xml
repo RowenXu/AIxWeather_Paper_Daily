@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 16 Dec 2025 03:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 03:21:13 +0000</lastBuildDate>
     <item>
-      <title>MedCEG: Reinforcing Verifiable Medical Reasoning with Critical Evidence Graph</title>
-      <link>http://arxiv.org/abs/2512.13510v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Linjie Mu, Yannian Gu, Zhongzhen Huang, Yakun Zhu, Shaoting Zhang, Xiaofan Zhang&lt;/p&gt;&lt;p&gt;Large language models with reasoning capabilities have demonstrated impressive performance across a wide range of domains. In clinical applications, a transparent, step-by-step reasoning process provides physicians with strong evidence to support decision-making. While reinforcement learning has effectively enhanced reasoning performance in medical contexts, the clinical reliability of these reasoning processes remains limited because their accuracy and validity are often overlooked during training&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13510v1</guid>
-      <pubDate>Mon, 15 Dec 2025 16:38:46 +0000</pubDate>
+      <title>VLegal-Bench: Cognitively Grounded Benchmark for Vietnamese Legal Reasoning of Large Language Models</title>
+      <link>http://arxiv.org/abs/2512.14554v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nguyen Tien Dong, Minh-Anh Nguyen, Thanh Dat Hoang, Nguyen Tuan Ngoc, Dao Xuan Quang Minh, Phan Phi Hai, Nguyen Thi Ngoc Anh, Dang Van Tu&lt;/p&gt;&lt;p&gt;The rapid advancement of large language models (LLMs) has enabled new possibilities for applying artificial intelligence within the legal domain. Nonetheless, the complexity, hierarchical organization, and frequent revisions of Vietnamese legislation pose considerable challenges for evaluating how well these models interpret and utilize legal knowledge. To address this gap, Vietnamese Legal Benchmark (VLegal-Bench) is introduced, the first comprehensive benchmark designed to systematically assess LLMs on Vietnamese legal tasks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14554v1</guid>
+      <pubDate>Tue, 16 Dec 2025 16:28:32 +0000</pubDate>
     </item>
     <item>
-      <title>Verifying Rumors via Stance-Aware Structural Modeling</title>
-      <link>http://arxiv.org/abs/2512.13559v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gibson Nkhata, Uttamasha Anjally Oyshi, Quan Mai, Susan Gauch&lt;/p&gt;&lt;p&gt;Verifying rumors on social media is critical for mitigating the spread of false information. The stances of conversation replies often provide important cues to determine a rumor's veracity. However, existing models struggle to jointly capture semantic content, stance information, and conversation strructure, especially under the sequence length constraints of transformer-based encoders&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13559v1</guid>
-      <pubDate>Mon, 15 Dec 2025 17:16:56 +0000</pubDate>
+      <title>CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer</title>
+      <link>http://arxiv.org/abs/2512.14560v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xianwei Cao, Dou Quan, Shuang Wang, Ning Huyan, Wei Wang, Yunan Li, Licheng Jiao&lt;/p&gt;&lt;p&gt;Image retrieval-based cross-view geo-localization (IRCVGL) aims to match images captured from significantly different viewpoints, such as satellite and street-level images. Existing methods predominantly rely on learning robust global representations or implicit feature alignment, which often fail to model explicit spatial correspondences crucial for accurate localization. In this work, we propose a novel correspondence-aware feature refinement framework, termed CLNet, that explicitly bridges the semantic and geometric gaps between different views&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14560v1</guid>
+      <pubDate>Tue, 16 Dec 2025 16:31:41 +0000</pubDate>
     </item>
     <item>
-      <title>Memory in the Age of AI Agents</title>
-      <link>http://arxiv.org/abs/2512.13564v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuyang Hu, Shichun Liu, Yanwei Yue, Guibin Zhang, Boyang Liu, Fangyi Zhu, Jiahang Lin, Honglin Guo&lt;/p&gt;&lt;p&gt;Memory has emerged, and will continue to remain, a core capability of foundation model-based agents. As research on agent memory rapidly expands and attracts unprecedented attention, the field has also become increasingly fragmented. Existing works that fall under the umbrella of agent memory often differ substantially in their motivations, implementations, and evaluation protocols, while the proliferation of loosely defined memory terminologies has further obscured conceptual clarity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13564v1</guid>
-      <pubDate>Mon, 15 Dec 2025 17:22:34 +0000</pubDate>
+      <title>Polypersona: Persona-Grounded LLM for Synthetic Survey Responses</title>
+      <link>http://arxiv.org/abs/2512.14562v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tejaswani Dash, Dinesh Karri, Anudeep Vurity, Gautam Datla, Tazeem Ahmad, Saima Rafi, Rohith Tangudu&lt;/p&gt;&lt;p&gt;This paper introduces PolyPersona, a generative framework for synthesizing persona-conditioned survey responses across multiple domains. The framework instruction-tunes compact chat models using parameter-efficient LoRA adapters with 4-bit quantization under a resource-adaptive training setup. A dialogue-based data pipeline explicitly preserves persona cues, ensuring consistent behavioral alignment across generated responses&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14562v1</guid>
+      <pubDate>Tue, 16 Dec 2025 16:33:23 +0000</pubDate>
     </item>
     <item>
-      <title>A Nonparametric Statistics Approach to Feature Selection in Deep Neural Networks with Theoretical Guarantees</title>
-      <link>http://arxiv.org/abs/2512.13565v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junye Du, Zhenghao Li, Zhutong Gu, Long Feng&lt;/p&gt;&lt;p&gt;This paper tackles the problem of feature selection in a highly challenging setting: $\mathbb{E}(y | \boldsymbol{x}) = G(\boldsymbol{x}_{\mathcal{S}_0})$, where $\mathcal{S}_0$ is the set of relevant features and $G$ is an unknown, potentially nonlinear function subject to mild smoothness conditions. Our approach begins with feature selection in deep neural networks, then generalizes the results to H{ö}lder smooth functions by exploiting the strong approximation capabilities of neural networks. Unlike conventional optimization-based deep learning methods, we reformulate neural networks as inde&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13565v1</guid>
-      <pubDate>Mon, 15 Dec 2025 17:22:49 +0000</pubDate>
+      <title>Residual GRU+MHSA: A Lightweight Hybrid Recurrent Attention Model for Cardiovascular Disease Detection</title>
+      <link>http://arxiv.org/abs/2512.14563v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tejaswani Dash, Gautam Datla, Anudeep Vurity, Tazeem Ahmad, Mohd Adnan, Saima Rafi, Saisha Patro, Saina Patro&lt;/p&gt;&lt;p&gt;Cardiovascular disease (CVD) remains the leading cause of mortality worldwide, underscoring the need for reliable and efficient predictive tools that support early intervention. Traditional diagnostic approaches rely on handcrafted features and clinician expertise, while machine learning methods improve reproducibility but often struggle to generalize across noisy and heterogeneous clinical data. In this work, we propose Residual GRU with Multi-Head Self-Attention, a compact deep learning architecture designed for tabular clinical records&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14563v1</guid>
+      <pubDate>Tue, 16 Dec 2025 16:33:59 +0000</pubDate>
     </item>
     <item>
-      <title>Superposition as Lossy Compression: Measure with Sparse Autoencoders and Connect to Adversarial Vulnerability</title>
-      <link>http://arxiv.org/abs/2512.13568v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Leonard Bereska, Zoe Tzifa-Kratira, Reza Samavi, Efstratios Gavves&lt;/p&gt;&lt;p&gt;Neural networks achieve remarkable performance through superposition: encoding multiple features as overlapping directions in activation space rather than dedicating individual neurons to each feature. This challenges interpretability, yet we lack principled methods to measure superposition. We present an information-theoretic framework measuring a neural representation's effective degrees of freedom&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13568v1</guid>
-      <pubDate>Mon, 15 Dec 2025 17:25:39 +0000</pubDate>
+      <title>Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies</title>
+      <link>http://arxiv.org/abs/2512.14576v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ekaterina Artemova, Laurie Burchell, Daryna Dementieva, Shu Okabe, Mariya Shmatova, Pedro Ortiz Suarez&lt;/p&gt;&lt;p&gt;This tutorial (https://tum-nlp.github.io/low-resource-tutorial) is designed for NLP practitioners, researchers, and developers working with multilingual and low-resource languages who seek to create more equitable and socially impactful language technologies. Participants will walk away with a practical toolkit for building end-to-end NLP pipelines for underrepresented languages -- from data collection and web crawling to parallel sentence mining, machine translation, and downstream applications such as text classification and multimodal reasoning. The tutorial presents strategies for tackling&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14576v1</guid>
+      <pubDate>Tue, 16 Dec 2025 16:44:17 +0000</pubDate>
     </item>
     <item>
-      <title>DP-CSGP: Differentially Private Stochastic Gradient Push with Compressed Communication</title>
-      <link>http://arxiv.org/abs/2512.13583v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zehan Zhu, Heng Zhao, Yan Huang, Joey Tianyi Zhou, Shouling Ji, Jinming Xu&lt;/p&gt;&lt;p&gt;In this paper, we propose a Differentially Private Stochastic Gradient Push with Compressed communication (termed DP-CSGP) for decentralized learning over directed graphs. Different from existing works, the proposed algorithm is designed to maintain high model utility while ensuring both rigorous differential privacy (DP) guarantees and efficient communication. For general non-convex and smooth objective functions, we show that the proposed algorithm achieves a tight utility bound of $\mathcal{O}\left( \sqrt{d\log \left( \frac{1}δ \right)}/(\sqrt{n}Jε) \right)$ ($J$ and $d$ are the number of l&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13583v1</guid>
-      <pubDate>Mon, 15 Dec 2025 17:37:02 +0000</pubDate>
+      <title>Towards Nepali-language LLMs: Efficient GPT training with a Nepali BPE tokenizer</title>
+      <link>http://arxiv.org/abs/2512.14585v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Adarsha Shrestha, Basanta Pokharel, Binit Shrestha, Smriti Adhikari, Dinesh Gothe&lt;/p&gt;&lt;p&gt;Nepali, a low-resource language spoken by over 32 million people, continues to face challenges in natural language processing (NLP) due to its complex grammar, agglutinative morphology, and limited availability of high-quality corpora. Most efforts to date have centered on basic encoder architectures; they remain insufficient for Nepali-specific text generation. This study presents a GPT-2-based Nepali language model trained using several training strategies inspired by GPT-3, including optimized learning rate schedules, batch scaling, and architectural refinements&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14585v1</guid>
+      <pubDate>Tue, 16 Dec 2025 16:53:11 +0000</pubDate>
     </item>
     <item>
-      <title>ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding</title>
-      <link>http://arxiv.org/abs/2512.13586v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jia-Nan Li, Jian Guan, Wei Wu, Chongxuan Li&lt;/p&gt;&lt;p&gt;Autoregressive models (ARMs) are hindered by slow sequential inference. While masked diffusion models (MDMs) offer a parallel alternative, they suffer from critical drawbacks: high computational overhead from precluding Key-Value (KV) caching, and incoherent generation arising from learning dependencies over an intractable space of token combinations. To address these limitations, we introduce ReFusion, a novel masked diffusion model that achieves superior performance and efficiency by elevating parallel decoding from the token level to a higher slot level, where each slot is a fixed-length, c&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13586v1</guid>
-      <pubDate>Mon, 15 Dec 2025 17:41:19 +0000</pubDate>
+      <title>FakeRadar: Probing Forgery Outliers to Detect Unknown Deepfake Videos</title>
+      <link>http://arxiv.org/abs/2512.14601v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhaolun Li, Jichang Li, Yinqi Cai, Junye Chen, Xiaonan Luo, Guanbin Li, Rushi Lan&lt;/p&gt;&lt;p&gt;In this paper, we propose FakeRadar, a novel deepfake video detection framework designed to address the challenges of cross-domain generalization in real-world scenarios. Existing detection methods typically rely on manipulation-specific cues, performing well on known forgery types but exhibiting severe limitations against emerging manipulation techniques. This poor generalization stems from their inability to adapt effectively to unseen forgery patterns&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14601v1</guid>
+      <pubDate>Tue, 16 Dec 2025 17:11:45 +0000</pubDate>
     </item>
     <item>
-      <title>DA-SSL: self-supervised domain adaptor to leverage foundational models in turbt histopathology slides</title>
-      <link>http://arxiv.org/abs/2512.13600v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haoyue Zhang, Meera Chappidi, Erolcan Sayar, Helen Richards, Zhijun Chen, Lucas Liu, Roxanne Wadia, Peter A Humphrey&lt;/p&gt;&lt;p&gt;Recent deep learning frameworks in histopathology, particularly multiple instance learning (MIL) combined with pathology foundational models (PFMs), have shown strong performance. However, PFMs exhibit limitations on certain cancer or specimen types due to domain shifts - these cancer types were rarely used for pretraining or specimens contain tissue-based artifacts rarely seen within the pretraining population. Such is the case for transurethral resection of bladder tumor (TURBT), which are essential for diagnosing muscle-invasive bladder cancer (MIBC), but contain fragmented tissue chips and&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13600v1</guid>
-      <pubDate>Mon, 15 Dec 2025 17:53:18 +0000</pubDate>
+      <title>LLmFPCA-detect: LLM-powered Multivariate Functional PCA for Anomaly Detection in Sparse Longitudinal Texts</title>
+      <link>http://arxiv.org/abs/2512.14604v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Prasanjit Dubey, Aritra Guha, Zhengyi Zhou, Qiong Wu, Xiaoming Huo, Paromita Dubey&lt;/p&gt;&lt;p&gt;Sparse longitudinal (SL) textual data arises when individuals generate text repeatedly over time (e.g., customer reviews, occasional social media posts, electronic medical records across visits), but the frequency and timing of observations vary across individuals. These complex textual data sets have immense potential to inform future policy and targeted recommendations. However, because SL text data lack dedicated methods and are noisy, heterogeneous, and prone to anomalies, detecting and inferring key patterns is challenging&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14604v1</guid>
+      <pubDate>Tue, 16 Dec 2025 17:14:10 +0000</pubDate>
     </item>
     <item>
-      <title>Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models</title>
-      <link>http://arxiv.org/abs/2512.13607v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Boxin Wang, Chankyu Lee, Nayeon Lee, Sheng-Chieh Lin, Wenliang Dai, Yang Chen, Yangyi Chen, Zhuolin Yang&lt;/p&gt;&lt;p&gt;Building general-purpose reasoning models with reinforcement learning (RL) entails substantial cross-domain heterogeneity, including large variation in inference-time response lengths and verification latency. Such variability complicates the RL infrastructure, slows training, and makes training curriculum (e.g., response length extension) and hyperparameter selection challenging. In this work, we propose cascaded domain-wise reinforcement learning (Cascade RL) to develop general-purpose reasoning models, Nemotron-Cascade, capable of operating in both instruct and deep thinking modes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13607v1</guid>
-      <pubDate>Mon, 15 Dec 2025 18:02:35 +0000</pubDate>
+      <title>Model-Based Reinforcement Learning in Discrete-Action Non-Markovian Reward Decision Processes</title>
+      <link>http://arxiv.org/abs/2512.14617v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alessandro Trapasso, Luca Iocchi, Fabio Patrizi&lt;/p&gt;&lt;p&gt;Many practical decision-making problems involve tasks whose success depends on the entire system history, rather than on achieving a state with desired properties. Markovian Reinforcement Learning (RL) approaches are not suitable for such tasks, while RL with non-Markovian reward decision processes (NMRDPs) enables agents to tackle temporal-dependency tasks. This approach has long been known to lack formal guarantees on both (near-)optimality and sample efficiency&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14617v1</guid>
+      <pubDate>Tue, 16 Dec 2025 17:26:24 +0000</pubDate>
     </item>
     <item>
-      <title>Machine learning to optimize precision in the analysis of randomized trials: A journey in pre-specified, yet data-adaptive learning</title>
-      <link>http://arxiv.org/abs/2512.13610v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Laura B. Balzer, Mark J. van der Laan, Maya L. Petersen&lt;/p&gt;&lt;p&gt;Covariate adjustment is an approach to improve the precision of trial analyses by adjusting for baseline variables that are prognostic of the primary endpoint. Motivated by the SEARCH Universal HIV Test-and-Treat Trial (2013-2017), we tell our story of developing, evaluating, and implementing a machine learning-based approach for covariate adjustment. We provide the rationale for as well as the practical concerns with such an approach for estimating marginal effects&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13610v1</guid>
-      <pubDate>Mon, 15 Dec 2025 18:05:45 +0000</pubDate>
+      <title>JMMMU-Pro: Image-based Japanese Multi-discipline Multimodal Understanding Benchmark via Vibe Benchmark Construction</title>
+      <link>http://arxiv.org/abs/2512.14620v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Atsuyuki Miyai, Shota Onohara, Jeonghun Baek, Kiyoharu Aizawa&lt;/p&gt;&lt;p&gt;This paper introduces JMMMU-Pro, an image-based Japanese Multi-discipline Multimodal Understanding Benchmark, and Vibe Benchmark Construction, a scalable construction method. Following the evolution from MMMU to MMMU-Pro, JMMMU-Pro extends JMMMU by composing the question image and question text into a single image, thereby creating a benchmark that requires integrated visual-textual understanding through visual perception. To build JMMMU-Pro, we propose Vibe Benchmark Construction, a methodology in which an image generative model (e.g., Nano Banana Pro) produces candidate visual questions, and&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14620v1</guid>
+      <pubDate>Tue, 16 Dec 2025 17:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>Universality of high-dimensional scaling limits of stochastic gradient descent</title>
-      <link>http://arxiv.org/abs/2512.13634v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Reza Gheissari, Aukosh Jagannath&lt;/p&gt;&lt;p&gt;We consider statistical tasks in high dimensions whose loss depends on the data only through its projection into a fixed-dimensional subspace spanned by the parameter vectors and certain ground truth vectors. This includes classifying mixture distributions with cross-entropy loss with one and two-layer networks, and learning single and multi-index models with one and two-layer networks. When the data is drawn from an isotropic Gaussian mixture distribution, it is known that the evolution of a finite family of summary statistics under stochastic gradient descent converges to an autonomous ordin&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13634v1</guid>
-      <pubDate>Mon, 15 Dec 2025 18:30:26 +0000</pubDate>
+      <title>Learning the score under shape constraints</title>
+      <link>http://arxiv.org/abs/2512.14624v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rebecca M. Lewis, Oliver Y. Feng, Henry W. J. Reeve, Min Xu, Richard J. Samworth&lt;/p&gt;&lt;p&gt;Score estimation has recently emerged as a key modern statistical challenge, due to its pivotal role in generative modelling via diffusion models. Moreover, it is an essential ingredient in a new approach to linear regression via convex $M$-estimation, where the corresponding error densities are projected onto the log-concave class. Motivated by these applications, we study the minimax risk of score estimation with respect to squared $L^2(P_0)$-loss, where $P_0$ denotes an underlying log-concave distribution on $\mathbb{R}$&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14624v1</guid>
+      <pubDate>Tue, 16 Dec 2025 17:39:54 +0000</pubDate>
     </item>
     <item>
-      <title>From Code to Field: Evaluating the Robustness of Convolutional Neural Networks for Disease Diagnosis in Mango Leaves</title>
-      <link>http://arxiv.org/abs/2512.13641v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gabriel Vitorino de Andrade, Saulo Roberto dos Santos, Itallo Patrick Castro Alves da Silva, Emanuel Adler Medeiros Pereira, Erick de Andrade Barboza&lt;/p&gt;&lt;p&gt;The validation and verification of artificial intelligence (AI) models through robustness assessment are essential to guarantee the reliable performance of intelligent systems facing real-world challenges, such as image corruptions including noise, blurring, and weather variations. Despite the global importance of mango (Mangifera indica L.), there is a lack of studies on the robustness of models for the diagnosis of disease in its leaves. This paper proposes a methodology to evaluate convolutional neural networks (CNNs) under adverse conditions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13641v1</guid>
-      <pubDate>Mon, 15 Dec 2025 18:36:48 +0000</pubDate>
+      <title>MuseCPBench: an Empirical Study of Music Editing Methods through Music Context Preservation</title>
+      <link>http://arxiv.org/abs/2512.14629v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yash Vishe, Eric Xue, Xunyi Jiang, Zachary Novack, Junda Wu, Julian McAuley, Xin Xu&lt;/p&gt;&lt;p&gt;Music editing plays a vital role in modern music production, with applications in film, broadcasting, and game development. Recent advances in music generation models have enabled diverse editing tasks such as timbre transfer, instrument substitution, and genre transformation. However, many existing works overlook the evaluation of their ability to preserve musical facets that should remain unchanged during editing a property we define as Music Context Preservation (MCP)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14629v1</guid>
+      <pubDate>Tue, 16 Dec 2025 17:44:56 +0000</pubDate>
     </item>
     <item>
-      <title>From Many Models, One: Macroeconomic Forecasting with Reservoir Ensembles</title>
-      <link>http://arxiv.org/abs/2512.13642v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Giovanni Ballarin, Lyudmila Grigoryeva, Yui Ching Li&lt;/p&gt;&lt;p&gt;Model combination is a powerful approach to achieve superior performance with a set of models than by just selecting any single one. We study both theoretically and empirically the effectiveness of ensembles of Multi-Frequency Echo State Networks (MFESNs), which have been shown to achieve state-of-the-art macroeconomic time series forecasting results (Ballarin et al., 2024a). Hedge and Follow-the-Leader schemes are discussed, and their online learning guarantees are extended to the case of dependent data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13642v1</guid>
-      <pubDate>Mon, 15 Dec 2025 18:36:58 +0000</pubDate>
+      <title>A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images</title>
+      <link>http://arxiv.org/abs/2512.14640v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rao Muhammad Umer, Daniel Sens, Jonathan Noll, Christian Matek, Lukas Wolfseher, Rainer Spang, Ralf Huss, Johannes Raffler&lt;/p&gt;&lt;p&gt;Timely and accurate lymphoma diagnosis is essential for guiding cancer treatment. Standard diagnostic practice combines hematoxylin and eosin (HE)-stained whole slide images with immunohistochemistry, flow cytometry, and molecular genetic tests to determine lymphoma subtypes, a process requiring costly equipment, skilled personnel, and causing treatment delays. Deep learning methods could assist pathologists by extracting diagnostic information from routinely available HE-stained slides, yet comprehensive benchmarks for lymphoma subtyping on multicenter data are lacking&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14640v1</guid>
+      <pubDate>Tue, 16 Dec 2025 17:58:03 +0000</pubDate>
     </item>
     <item>
-      <title>World Models Can Leverage Human Videos for Dexterous Manipulation</title>
-      <link>http://arxiv.org/abs/2512.13644v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Raktim Gautam Goswami, Amir Bar, David Fan, Tsung-Yen Yang, Gaoyue Zhou, Prashanth Krishnamurthy, Michael Rabbat, Farshad Khorrami&lt;/p&gt;&lt;p&gt;Dexterous manipulation is challenging because it requires understanding how subtle hand motion influences the environment through contact with objects. We introduce DexWM, a Dexterous Manipulation World Model that predicts the next latent state of the environment conditioned on past states and dexterous actions. To overcome the scarcity of dexterous manipulation datasets, DexWM is trained on over 900 hours of human and non-dexterous robot videos&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13644v1</guid>
-      <pubDate>Mon, 15 Dec 2025 18:37:12 +0000</pubDate>
+      <title>WaveSim: A Wavelet-based Multi-scale Similarity Metric for Weather and Climate Fields</title>
+      <link>http://arxiv.org/abs/2512.14656v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gabriele Accarino, Viviana Acquaviva, Sara Shamekh, Duncan Watson-Parris, David Lawrence&lt;/p&gt;&lt;p&gt;We introduce WaveSim, a multi-scale similarity metric for the evaluation of spatial fields in weather and climate applications. WaveSim exploits wavelet transforms to decompose input fields into scale-specific wavelet coefficients. The metric is built by multiplying three orthogonal components derived from these coefficients: Magnitude, which quantifies similarities in the energy distribution of the coefficients, i.e., the intensity of the field; Displacement, which captures spatial shift by comparing the centers of mass of normalized energy distributions; and Structure, which assesses pattern&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14656v1</guid>
+      <pubDate>Tue, 16 Dec 2025 18:15:53 +0000</pubDate>
     </item>
     <item>
-      <title>Large-Language Memorization During the Classification of United States Supreme Court Cases</title>
-      <link>http://arxiv.org/abs/2512.13654v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; John E. Ortega, Dhruv D. Joshi, Matt P. Borkowski&lt;/p&gt;&lt;p&gt;Large-language models (LLMs) have been shown to respond in a variety of ways for classification tasks outside of question-answering. LLM responses are sometimes called "hallucinations" since the output is not what is ex pected. Memorization strategies in LLMs are being studied in detail, with the goal of understanding how LLMs respond&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13654v1</guid>
-      <pubDate>Mon, 15 Dec 2025 18:47:48 +0000</pubDate>
+      <title>gridfm-datakit-v1: A Python Library for Scalable and Realistic Power Flow and Optimal Power Flow Data Generation</title>
+      <link>http://arxiv.org/abs/2512.14658v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alban Puech, Matteo Mazzonelli, Celia Cintas, Tamara R. Govindasamy, Mangaliso Mngomezulu, Jonas Weiss, Matteo Baù, Anna Varbella&lt;/p&gt;&lt;p&gt;We introduce gridfm-datakit-v1, a Python library for generating realistic and diverse Power Flow (PF) and Optimal Power Flow (OPF) datasets for training Machine Learning (ML) solvers. Existing datasets and libraries face three main challenges: (1) lack of realistic stochastic load and topology perturbations, limiting scenario diversity; (2) PF datasets are restricted to OPF-feasible points, hindering generalization of ML solvers to cases that violate operating limits (e.g., branch overloads or voltage violations); and (3) OPF datasets use fixed generator cost functions, limiting generalization&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14658v1</guid>
+      <pubDate>Tue, 16 Dec 2025 18:17:50 +0000</pubDate>
     </item>
     <item>
-      <title>Advancing Machine Learning Optimization of Chiral Photonic Metasurface: Comparative Study of Neural Network and Genetic Algorithm Approaches</title>
-      <link>http://arxiv.org/abs/2512.13656v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Davide Filippozzi, Alexandre Mayer, Nicolas Roy, Wei Fang, Arash Rahimi-Iman&lt;/p&gt;&lt;p&gt;Chiral photonic metasurfaces provide unique capabilities for tailoring light-matter interactions, which are essential for next-generation photonic devices. Here, we report an advanced optimization framework that combines deep learning and evolutionary algorithms to significantly improve both the design and performance of chiral photonic nanostructures. Building on previous work utilizing a three-layer perceptron reinforced learning and stochastic evolutionary algorithm with decaying changes and mass extinction for chiral photonic optimization, our study introduces a refined pipeline featuring &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13656v1</guid>
-      <pubDate>Mon, 15 Dec 2025 18:49:10 +0000</pubDate>
+      <title>VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image</title>
+      <link>http://arxiv.org/abs/2512.14677v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sicheng Xu, Guojun Chen, Jiaolong Yang, Yizhong Zhang, Yu Deng, Steve Lin, Baining Guo&lt;/p&gt;&lt;p&gt;We propose VASA-3D, an audio-driven, single-shot 3D head avatar generator. This research tackles two major challenges: capturing the subtle expression details present in real human faces, and reconstructing an intricate 3D head avatar from a single portrait image. To accurately model expression details, VASA-3D leverages the motion latent of VASA-1, a method that yields exceptional realism and vividness in 2D talking heads&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14677v1</guid>
+      <pubDate>Tue, 16 Dec 2025 18:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance</title>
-      <link>http://arxiv.org/abs/2512.13658v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohammadreza Molavi, Mohammad Moein, Mohammadreza Tavakoli, Abdolali Faraji, Stefan T. Mol, Gábor Kismihók&lt;/p&gt;&lt;p&gt;As the online learning landscape evolves, the need for personalization is increasingly evident. Although educational resources are burgeoning, educators face challenges selecting materials that both align with intended learning outcomes and address diverse learner needs. Large Language Models (LLMs) are attracting growing interest for their potential to create learning resources that better support personalization, but verifying coverage of intended outcomes still requires human alignment review, which is costly and limits scalability&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13658v1</guid>
-      <pubDate>Mon, 15 Dec 2025 18:51:00 +0000</pubDate>
+      <title>Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization</title>
+      <link>http://arxiv.org/abs/2512.14687v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yen-Ju Lu, Kunxiao Gao, Mingrui Liang, Helin Wang, Thomas Thebaud, Laureano Moro-Velazquez, Najim Dehak, Jesus Villalba&lt;/p&gt;&lt;p&gt;Recent audio language models can follow long conversations. However, research on emotion-aware or spoken dialogue summarization is constrained by the lack of data that links speech, summaries, and paralinguistic cues. We introduce Spoken DialogSum, the first corpus aligning raw conversational audio with factual summaries, emotion-rich summaries, and utterance-level labels for speaker age, gender, and emotion&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14687v1</guid>
+      <pubDate>Tue, 16 Dec 2025 18:54:20 +0000</pubDate>
     </item>
     <item>
-      <title>Feedforward 3D Editing via Text-Steerable Image-to-3D</title>
-      <link>http://arxiv.org/abs/2512.13678v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziqi Ma, Hongqiao Chen, Yisong Yue, Georgia Gkioxari&lt;/p&gt;&lt;p&gt;Recent progress in image-to-3D has opened up immense possibilities for design, AR/VR, and robotics. However, to use AI-generated 3D assets in real applications, a critical requirement is the capability to edit them easily. We present a feedforward method, Steer3D, to add text steerability to image-to-3D models, which enables editing of generated 3D assets with language&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13678v1</guid>
-      <pubDate>Mon, 15 Dec 2025 18:58:55 +0000</pubDate>
+      <title>Native and Compact Structured Latents for 3D Generation</title>
+      <link>http://arxiv.org/abs/2512.14692v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jianfeng Xiang, Xiaoxue Chen, Sicheng Xu, Ruicheng Wang, Zelong Lv, Yu Deng, Hongyuan Zhu, Yue Dong&lt;/p&gt;&lt;p&gt;Recent advancements in 3D generative modeling have significantly improved the generation realism, yet the field is still hampered by existing representations, which struggle to capture assets with complex topologies and detailed appearance. This paper present an approach for learning a structured latent representation from native 3D data to address this challenge. At its core is a new sparse voxel structure called O-Voxel, an omni-voxel representation that encodes both geometry and appearance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14692v1</guid>
+      <pubDate>Tue, 16 Dec 2025 18:58:28 +0000</pubDate>
     </item>
     <item>
-      <title>DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders</title>
-      <link>http://arxiv.org/abs/2512.13690v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Susung Hong, Chongjian Ge, Zhifei Zhang, Jui-Hsien Wang&lt;/p&gt;&lt;p&gt;Video diffusion models have revolutionized generative video synthesis, but they are imprecise, slow, and can be opaque during generation -- keeping users in the dark for a prolonged period. In this work, we propose DiffusionBrowser, a model-agnostic, lightweight decoder framework that allows users to interactively generate previews at any point (timestep or transformer block) during the denoising process. Our model can generate multi-modal preview representations that include RGB and scene intrinsics at more than 4$\times$ real-time speed (less than 1 second for a 4-second video) that convey c&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13690v1</guid>
-      <pubDate>Mon, 15 Dec 2025 18:59:57 +0000</pubDate>
+      <title>Universal Reasoning Model</title>
+      <link>http://arxiv.org/abs/2512.14693v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zitian Gao, Lynx Chen, Yihao Xiao, He Xing, Ran Tao, Haoming Luo, Joey Zhou, Bryan Dai&lt;/p&gt;&lt;p&gt;Universal transformers (UTs) have been widely used for complex reasoning tasks such as ARC-AGI and Sudoku, yet the specific sources of their performance gains remain underexplored. In this work, we systematically analyze UTs variants and show that improvements on ARC-AGI primarily arise from the recurrent inductive bias and strong nonlinear components of Transformer, rather than from elaborate architectural designs. Motivated by this finding, we propose the Universal Reasoning Model (URM), which enhances the UT with short convolution and truncated backpropagation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14693v1</guid>
+      <pubDate>Tue, 16 Dec 2025 18:58:45 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum oracles give an advantage for identifying classical counterfactuals</title>
-      <link>http://arxiv.org/abs/2512.13692v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ciarán M. Gilligan-Lee, Yìlè Yīng, Jonathan Richens, David Schmid&lt;/p&gt;&lt;p&gt;We show that quantum oracles provide an advantage over classical oracles for answering classical counterfactual questions in causal models, or equivalently, for identifying unknown causal parameters such as distributions over functional dependences. In structural causal models with discrete classical variables, observational data and even ideal interventions generally fail to answer all counterfactual questions, since different causal parameters can reproduce the same observational and interventional data while disagreeing on counterfactuals. Using a simple binary example, we demonstrate that &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.13692v1</guid>
-      <pubDate>Mon, 15 Dec 2025 18:59:58 +0000</pubDate>
+      <title>TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs</title>
+      <link>http://arxiv.org/abs/2512.14698v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jun Zhang, Teng Wang, Yuying Ge, Yixiao Ge, Xinhao Li, Ying Shan, Limin Wang&lt;/p&gt;&lt;p&gt;This paper does not introduce a novel method but instead establishes a straightforward, incremental, yet essential baseline for video temporal grounding (VTG), a core capability in video understanding. While multimodal large language models (MLLMs) excel at various video understanding tasks, the recipes for optimizing them for VTG remain under-explored. In this paper, we present TimeLens, a systematic investigation into building MLLMs with strong VTG ability, along two primary dimensions: data quality and algorithmic design&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.14698v1</guid>
+      <pubDate>Tue, 16 Dec 2025 18:59:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
