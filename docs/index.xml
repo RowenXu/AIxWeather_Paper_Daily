@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 17 Dec 2025 03:21:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 03:21:51 +0000</lastBuildDate>
     <item>
-      <title>VLegal-Bench: Cognitively Grounded Benchmark for Vietnamese Legal Reasoning of Large Language Models</title>
-      <link>http://arxiv.org/abs/2512.14554v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nguyen Tien Dong, Minh-Anh Nguyen, Thanh Dat Hoang, Nguyen Tuan Ngoc, Dao Xuan Quang Minh, Phan Phi Hai, Nguyen Thi Ngoc Anh, Dang Van Tu&lt;/p&gt;&lt;p&gt;The rapid advancement of large language models (LLMs) has enabled new possibilities for applying artificial intelligence within the legal domain. Nonetheless, the complexity, hierarchical organization, and frequent revisions of Vietnamese legislation pose considerable challenges for evaluating how well these models interpret and utilize legal knowledge. To address this gap, Vietnamese Legal Benchmark (VLegal-Bench) is introduced, the first comprehensive benchmark designed to systematically assess LLMs on Vietnamese legal tasks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14554v1</guid>
-      <pubDate>Tue, 16 Dec 2025 16:28:32 +0000</pubDate>
+      <title>How Smoothing is N-simplicial Attention?</title>
+      <link>http://arxiv.org/abs/2512.15600v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexandre Dussolle, Pietro Liò&lt;/p&gt;&lt;p&gt;Going from pure Multilayer Perceptron (MLP) to a learnable graph message-passing mechanism at each layer has been foundational to state-of-the-art results, despite the computational trade-off (e.g. GATs or Transformers). To go a step further, in this work, we introduce N-simplicial attention, going from pairwise token similarity to higher-order interactions, and adapt it for Rotary Position Embeddings (RoPE)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15600v1</guid>
+      <pubDate>Wed, 17 Dec 2025 17:10:57 +0000</pubDate>
     </item>
     <item>
-      <title>CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer</title>
-      <link>http://arxiv.org/abs/2512.14560v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xianwei Cao, Dou Quan, Shuang Wang, Ning Huyan, Wei Wang, Yunan Li, Licheng Jiao&lt;/p&gt;&lt;p&gt;Image retrieval-based cross-view geo-localization (IRCVGL) aims to match images captured from significantly different viewpoints, such as satellite and street-level images. Existing methods predominantly rely on learning robust global representations or implicit feature alignment, which often fail to model explicit spatial correspondences crucial for accurate localization. In this work, we propose a novel correspondence-aware feature refinement framework, termed CLNet, that explicitly bridges the semantic and geometric gaps between different views&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14560v1</guid>
-      <pubDate>Tue, 16 Dec 2025 16:31:41 +0000</pubDate>
+      <title>Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction</title>
+      <link>http://arxiv.org/abs/2512.15605v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mathieu Blondel, Michael E. Sander, Germain Vivier-Ardisson, Tianlin Liu, Vincent Roulet&lt;/p&gt;&lt;p&gt;Autoregressive models (ARMs) currently constitute the dominant paradigm for large language models (LLMs). Energy-based models (EBMs) represent another class of models, which have historically been less prevalent in LLM development, yet naturally characterize the optimal policy in post-training alignment. In this paper, we provide a unified view of these two model classes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15605v1</guid>
+      <pubDate>Wed, 17 Dec 2025 17:14:26 +0000</pubDate>
     </item>
     <item>
-      <title>Polypersona: Persona-Grounded LLM for Synthetic Survey Responses</title>
-      <link>http://arxiv.org/abs/2512.14562v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tejaswani Dash, Dinesh Karri, Anudeep Vurity, Gautam Datla, Tazeem Ahmad, Saima Rafi, Rohith Tangudu&lt;/p&gt;&lt;p&gt;This paper introduces PolyPersona, a generative framework for synthesizing persona-conditioned survey responses across multiple domains. The framework instruction-tunes compact chat models using parameter-efficient LoRA adapters with 4-bit quantization under a resource-adaptive training setup. A dialogue-based data pipeline explicitly preserves persona cues, ensuring consistent behavioral alignment across generated responses&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14562v1</guid>
-      <pubDate>Tue, 16 Dec 2025 16:33:23 +0000</pubDate>
+      <title>Evaluating Metrics for Safety with LLM-as-Judges</title>
+      <link>http://arxiv.org/abs/2512.15617v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kester Clegg, Richard Hawkins, Ibrahim Habli, Tom Lawton&lt;/p&gt;&lt;p&gt;LLMs (Large Language Models) are increasingly used in text processing pipelines to intelligently respond to a variety of inputs and generation tasks. This raises the possibility of replacing human roles that bottleneck existing information flows, either due to insufficient staff or process complexity. However, LLMs make mistakes and some processing roles are safety critical&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15617v1</guid>
+      <pubDate>Wed, 17 Dec 2025 17:24:49 +0000</pubDate>
     </item>
     <item>
-      <title>Residual GRU+MHSA: A Lightweight Hybrid Recurrent Attention Model for Cardiovascular Disease Detection</title>
-      <link>http://arxiv.org/abs/2512.14563v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tejaswani Dash, Gautam Datla, Anudeep Vurity, Tazeem Ahmad, Mohd Adnan, Saima Rafi, Saisha Patro, Saina Patro&lt;/p&gt;&lt;p&gt;Cardiovascular disease (CVD) remains the leading cause of mortality worldwide, underscoring the need for reliable and efficient predictive tools that support early intervention. Traditional diagnostic approaches rely on handcrafted features and clinician expertise, while machine learning methods improve reproducibility but often struggle to generalize across noisy and heterogeneous clinical data. In this work, we propose Residual GRU with Multi-Head Self-Attention, a compact deep learning architecture designed for tabular clinical records&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14563v1</guid>
-      <pubDate>Tue, 16 Dec 2025 16:33:59 +0000</pubDate>
+      <title>How Much is Too Much? Exploring LoRA Rank Trade-offs for Retaining Knowledge and Domain Robustness</title>
+      <link>http://arxiv.org/abs/2512.15634v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Darshita Rathore, Vineet Kumar, Chetna Bansal, Anindya Moitra&lt;/p&gt;&lt;p&gt;Large language models are increasingly adapted to downstream tasks through fine-tuning. Full supervised fine-tuning (SFT) and parameter-efficient fine-tuning (PEFT) methods, such as Low-Rank Adaptation (LoRA), are two dominant approaches. While PEFT methods are widely used for their computational efficiency, the implications of their configurations (e.g., rank) remain under-explored in downstream Q&amp;A tasks and generalisation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15634v1</guid>
+      <pubDate>Wed, 17 Dec 2025 17:44:09 +0000</pubDate>
     </item>
     <item>
-      <title>Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies</title>
-      <link>http://arxiv.org/abs/2512.14576v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ekaterina Artemova, Laurie Burchell, Daryna Dementieva, Shu Okabe, Mariya Shmatova, Pedro Ortiz Suarez&lt;/p&gt;&lt;p&gt;This tutorial (https://tum-nlp.github.io/low-resource-tutorial) is designed for NLP practitioners, researchers, and developers working with multilingual and low-resource languages who seek to create more equitable and socially impactful language technologies. Participants will walk away with a practical toolkit for building end-to-end NLP pipelines for underrepresented languages -- from data collection and web crawling to parallel sentence mining, machine translation, and downstream applications such as text classification and multimodal reasoning. The tutorial presents strategies for tackling&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14576v1</guid>
-      <pubDate>Tue, 16 Dec 2025 16:44:17 +0000</pubDate>
+      <title>IC-Effect: Precise and Efficient Video Effects Editing via In-Context Learning</title>
+      <link>http://arxiv.org/abs/2512.15635v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuanhang Li, Yiren Song, Junzhe Bai, Xinran Liang, Hu Yang, Libiao Jin, Qi Mao&lt;/p&gt;&lt;p&gt;We propose \textbf{IC-Effect}, an instruction-guided, DiT-based framework for few-shot video VFX editing that synthesizes complex effects (\eg flames, particles and cartoon characters) while strictly preserving spatial and temporal consistency. Video VFX editing is highly challenging because injected effects must blend seamlessly with the background, the background must remain entirely unchanged, and effect patterns must be learned efficiently from limited paired data. However, existing video editing models fail to satisfy these requirements&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15635v1</guid>
+      <pubDate>Wed, 17 Dec 2025 17:47:18 +0000</pubDate>
     </item>
     <item>
-      <title>Towards Nepali-language LLMs: Efficient GPT training with a Nepali BPE tokenizer</title>
-      <link>http://arxiv.org/abs/2512.14585v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Adarsha Shrestha, Basanta Pokharel, Binit Shrestha, Smriti Adhikari, Dinesh Gothe&lt;/p&gt;&lt;p&gt;Nepali, a low-resource language spoken by over 32 million people, continues to face challenges in natural language processing (NLP) due to its complex grammar, agglutinative morphology, and limited availability of high-quality corpora. Most efforts to date have centered on basic encoder architectures; they remain insufficient for Nepali-specific text generation. This study presents a GPT-2-based Nepali language model trained using several training strategies inspired by GPT-3, including optimized learning rate schedules, batch scaling, and architectural refinements&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14585v1</guid>
-      <pubDate>Tue, 16 Dec 2025 16:53:11 +0000</pubDate>
+      <title>Fully Bayesian Spectral Clustering and Benchmarking with Uncertainty Quantification for Small Area Estimation</title>
+      <link>http://arxiv.org/abs/2512.15643v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jairo Fúquene-Patiño&lt;/p&gt;&lt;p&gt;In this work, inspired by machine learning techniques, we propose a new Bayesian model for Small Area Estimation (SAE), the Fay-Herriot model with Spectral Clustering (FH-SC). Unlike traditional approaches, clustering in FH-SC is based on spectral clustering algorithms that utilize external covariates, rather than geographical or administrative criteria. A major advantage of the FH-SC model is its flexibility in integrating existing SAE approaches, with or without clustering random effects&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15643v1</guid>
+      <pubDate>Wed, 17 Dec 2025 17:51:21 +0000</pubDate>
     </item>
     <item>
-      <title>FakeRadar: Probing Forgery Outliers to Detect Unknown Deepfake Videos</title>
-      <link>http://arxiv.org/abs/2512.14601v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhaolun Li, Jichang Li, Yinqi Cai, Junye Chen, Xiaonan Luo, Guanbin Li, Rushi Lan&lt;/p&gt;&lt;p&gt;In this paper, we propose FakeRadar, a novel deepfake video detection framework designed to address the challenges of cross-domain generalization in real-world scenarios. Existing detection methods typically rely on manipulation-specific cues, performing well on known forgery types but exhibiting severe limitations against emerging manipulation techniques. This poor generalization stems from their inability to adapt effectively to unseen forgery patterns&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14601v1</guid>
-      <pubDate>Tue, 16 Dec 2025 17:11:45 +0000</pubDate>
+      <title>VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?</title>
+      <link>http://arxiv.org/abs/2512.15649v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hongbo Zhao, Meng Wang, Fei Zhu, Wenzhuo Liu, Bolin Ni, Fanhu Zeng, Gaofeng Meng, Zhaoxiang Zhang&lt;/p&gt;&lt;p&gt;The computational and memory overheads associated with expanding the context window of LLMs severely limit their scalability. A noteworthy solution is vision-text compression (VTC), exemplified by frameworks like DeepSeek-OCR and Glyph, which convert long texts into dense 2D visual representations, thereby achieving token compression ratios of 3x-20x. However, the impact of this high information density on the core long-context capabilities of vision-language models (VLMs) remains under-investigated&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15649v1</guid>
+      <pubDate>Wed, 17 Dec 2025 17:58:35 +0000</pubDate>
     </item>
     <item>
-      <title>LLmFPCA-detect: LLM-powered Multivariate Functional PCA for Anomaly Detection in Sparse Longitudinal Texts</title>
-      <link>http://arxiv.org/abs/2512.14604v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Prasanjit Dubey, Aritra Guha, Zhengyi Zhou, Qiong Wu, Xiaoming Huo, Paromita Dubey&lt;/p&gt;&lt;p&gt;Sparse longitudinal (SL) textual data arises when individuals generate text repeatedly over time (e.g., customer reviews, occasional social media posts, electronic medical records across visits), but the frequency and timing of observations vary across individuals. These complex textual data sets have immense potential to inform future policy and targeted recommendations. However, because SL text data lack dedicated methods and are noisy, heterogeneous, and prone to anomalies, detecting and inferring key patterns is challenging&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14604v1</guid>
-      <pubDate>Tue, 16 Dec 2025 17:14:10 +0000</pubDate>
+      <title>A Statistical Framework for Spatial Boundary Estimation and Change Detection: Application to the Sahel Sahara Climate Transition</title>
+      <link>http://arxiv.org/abs/2512.15650v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Stephen Tivenan, Indranil Sahoo, Yanjun Qian&lt;/p&gt;&lt;p&gt;Spatial boundaries, such as ecological transitions or climatic regime interfaces, capture steep environmental gradients, and shifts in their structure can signal emerging environmental changes. Quantifying uncertainty in spatial boundary locations and formally testing for temporal shifts remains challenging, especially when boundaries are derived from noisy, gridded environmental data. We present a unified framework that combines heteroskedastic Gaussian process (GP) regression with a scaled Maximum Absolute Difference (MAD) Global Envelope Test (GET) to estimate spatial boundary curves and as&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15650v1</guid>
+      <pubDate>Wed, 17 Dec 2025 18:02:40 +0000</pubDate>
     </item>
     <item>
-      <title>Model-Based Reinforcement Learning in Discrete-Action Non-Markovian Reward Decision Processes</title>
-      <link>http://arxiv.org/abs/2512.14617v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alessandro Trapasso, Luca Iocchi, Fabio Patrizi&lt;/p&gt;&lt;p&gt;Many practical decision-making problems involve tasks whose success depends on the entire system history, rather than on achieving a state with desired properties. Markovian Reinforcement Learning (RL) approaches are not suitable for such tasks, while RL with non-Markovian reward decision processes (NMRDPs) enables agents to tackle temporal-dependency tasks. This approach has long been known to lack formal guarantees on both (near-)optimality and sample efficiency&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14617v1</guid>
-      <pubDate>Tue, 16 Dec 2025 17:26:24 +0000</pubDate>
+      <title>PPSEBM: An Energy-Based Model with Progressive Parameter Selection for Continual Learning</title>
+      <link>http://arxiv.org/abs/2512.15658v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaodi Li, Dingcheng Li, Rujun Gao, Mahmoud Zamani, Feng Mi, Latifur Khan&lt;/p&gt;&lt;p&gt;Continual learning remains a fundamental challenge in machine learning, requiring models to learn from a stream of tasks without forgetting previously acquired knowledge. A major obstacle in this setting is catastrophic forgetting, where performance on earlier tasks degrades as new tasks are learned. In this paper, we introduce PPSEBM, a novel framework that integrates an Energy-Based Model (EBM) with Progressive Parameter Selection (PPS) to effectively address catastrophic forgetting in continual learning for natural language processing tasks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15658v1</guid>
+      <pubDate>Wed, 17 Dec 2025 18:11:29 +0000</pubDate>
     </item>
     <item>
-      <title>JMMMU-Pro: Image-based Japanese Multi-discipline Multimodal Understanding Benchmark via Vibe Benchmark Construction</title>
-      <link>http://arxiv.org/abs/2512.14620v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Atsuyuki Miyai, Shota Onohara, Jeonghun Baek, Kiyoharu Aizawa&lt;/p&gt;&lt;p&gt;This paper introduces JMMMU-Pro, an image-based Japanese Multi-discipline Multimodal Understanding Benchmark, and Vibe Benchmark Construction, a scalable construction method. Following the evolution from MMMU to MMMU-Pro, JMMMU-Pro extends JMMMU by composing the question image and question text into a single image, thereby creating a benchmark that requires integrated visual-textual understanding through visual perception. To build JMMMU-Pro, we propose Vibe Benchmark Construction, a methodology in which an image generative model (e.g., Nano Banana Pro) produces candidate visual questions, and&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14620v1</guid>
-      <pubDate>Tue, 16 Dec 2025 17:33:00 +0000</pubDate>
+      <title>Prospects for quantum advantage in machine learning from the representability of functions</title>
+      <link>http://arxiv.org/abs/2512.15661v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sergi Masot-Llima, Elies Gil-Fuster, Carlos Bravo-Prieto, Jens Eisert, and Tommaso Guaita&lt;/p&gt;&lt;p&gt;Demonstrating quantum advantage in machine learning tasks requires navigating a complex landscape of proposed models and algorithms. To bring clarity to this search, we introduce a framework that connects the structure of parametrized quantum circuits to the mathematical nature of the functions they can actually learn. Within this framework, we show how fundamental properties, like circuit depth and non-Clifford gate count, directly determine whether a model's output leads to efficient classical simulation or surrogation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15661v1</guid>
+      <pubDate>Wed, 17 Dec 2025 18:14:59 +0000</pubDate>
     </item>
     <item>
-      <title>Learning the score under shape constraints</title>
-      <link>http://arxiv.org/abs/2512.14624v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rebecca M. Lewis, Oliver Y. Feng, Henry W. J. Reeve, Min Xu, Richard J. Samworth&lt;/p&gt;&lt;p&gt;Score estimation has recently emerged as a key modern statistical challenge, due to its pivotal role in generative modelling via diffusion models. Moreover, it is an essential ingredient in a new approach to linear regression via convex $M$-estimation, where the corresponding error densities are projected onto the log-concave class. Motivated by these applications, we study the minimax risk of score estimation with respect to squared $L^2(P_0)$-loss, where $P_0$ denotes an underlying log-concave distribution on $\mathbb{R}$&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14624v1</guid>
-      <pubDate>Tue, 16 Dec 2025 17:39:54 +0000</pubDate>
+      <title>Stepwise Think-Critique: A Unified Framework for Robust and Interpretable LLM Reasoning</title>
+      <link>http://arxiv.org/abs/2512.15662v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiaqi Xu, Cuiling Lan, Xuejin Chen, Yan LU&lt;/p&gt;&lt;p&gt;Human beings solve complex problems through critical thinking, where reasoning and evaluation are intertwined to converge toward correct solutions. However, most existing large language models (LLMs) decouple reasoning from verification: they either generate reasoning without explicit self-checking or rely on external verifiers to detect errors post hoc. The former lacks immediate feedback, while the latter increases system complexity and hinders synchronized learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15662v1</guid>
+      <pubDate>Wed, 17 Dec 2025 18:15:17 +0000</pubDate>
     </item>
     <item>
-      <title>MuseCPBench: an Empirical Study of Music Editing Methods through Music Context Preservation</title>
-      <link>http://arxiv.org/abs/2512.14629v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yash Vishe, Eric Xue, Xunyi Jiang, Zachary Novack, Junda Wu, Julian McAuley, Xin Xu&lt;/p&gt;&lt;p&gt;Music editing plays a vital role in modern music production, with applications in film, broadcasting, and game development. Recent advances in music generation models have enabled diverse editing tasks such as timbre transfer, instrument substitution, and genre transformation. However, many existing works overlook the evaluation of their ability to preserve musical facets that should remain unchanged during editing a property we define as Music Context Preservation (MCP)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14629v1</guid>
-      <pubDate>Tue, 16 Dec 2025 17:44:56 +0000</pubDate>
+      <title>Explaining the Reasoning of Large Language Models Using Attribution Graphs</title>
+      <link>http://arxiv.org/abs/2512.15663v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chase Walker, Rickard Ewetz&lt;/p&gt;&lt;p&gt;Large language models (LLMs) exhibit remarkable capabilities, yet their reasoning remains opaque, raising safety and trust concerns. Attribution methods, which assign credit to input features, have proven effective for explaining the decision making of computer vision models. From these, context attributions have emerged as a promising approach for explaining the behavior of autoregressive LLMs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15663v1</guid>
+      <pubDate>Wed, 17 Dec 2025 18:15:26 +0000</pubDate>
     </item>
     <item>
-      <title>A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images</title>
-      <link>http://arxiv.org/abs/2512.14640v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rao Muhammad Umer, Daniel Sens, Jonathan Noll, Christian Matek, Lukas Wolfseher, Rainer Spang, Ralf Huss, Johannes Raffler&lt;/p&gt;&lt;p&gt;Timely and accurate lymphoma diagnosis is essential for guiding cancer treatment. Standard diagnostic practice combines hematoxylin and eosin (HE)-stained whole slide images with immunohistochemistry, flow cytometry, and molecular genetic tests to determine lymphoma subtypes, a process requiring costly equipment, skilled personnel, and causing treatment delays. Deep learning methods could assist pathologists by extracting diagnostic information from routinely available HE-stained slides, yet comprehensive benchmarks for lymphoma subtyping on multicenter data are lacking&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14640v1</guid>
-      <pubDate>Tue, 16 Dec 2025 17:58:03 +0000</pubDate>
+      <title>Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers</title>
+      <link>http://arxiv.org/abs/2512.15674v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Adam Karvonen, James Chua, Clément Dumas, Kit Fraser-Taliente, Subhash Kantamneni, Julian Minder, Euan Ong, Arnab Sen Sharma&lt;/p&gt;&lt;p&gt;Large language model (LLM) activations are notoriously difficult to understand, with most existing techniques using complex, specialized methods for interpreting them. Recent work has proposed a simpler approach known as LatentQA: training LLMs to directly accept LLM activations as inputs and answer arbitrary questions about them in natural language. However, prior work has focused on narrow task settings for both training and evaluation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15674v1</guid>
+      <pubDate>Wed, 17 Dec 2025 18:26:28 +0000</pubDate>
     </item>
     <item>
-      <title>WaveSim: A Wavelet-based Multi-scale Similarity Metric for Weather and Climate Fields</title>
-      <link>http://arxiv.org/abs/2512.14656v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gabriele Accarino, Viviana Acquaviva, Sara Shamekh, Duncan Watson-Parris, David Lawrence&lt;/p&gt;&lt;p&gt;We introduce WaveSim, a multi-scale similarity metric for the evaluation of spatial fields in weather and climate applications. WaveSim exploits wavelet transforms to decompose input fields into scale-specific wavelet coefficients. The metric is built by multiplying three orthogonal components derived from these coefficients: Magnitude, which quantifies similarities in the energy distribution of the coefficients, i.e., the intensity of the field; Displacement, which captures spatial shift by comparing the centers of mass of normalized energy distributions; and Structure, which assesses pattern&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14656v1</guid>
-      <pubDate>Tue, 16 Dec 2025 18:15:53 +0000</pubDate>
+      <title>High-Dimensional Partial Least Squares: Spectral Analysis and Fundamental Limitations</title>
+      <link>http://arxiv.org/abs/2512.15684v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Victor Léger, Florent Chatelain&lt;/p&gt;&lt;p&gt;Partial Least Squares (PLS) is a widely used method for data integration, designed to extract latent components shared across paired high-dimensional datasets. Despite decades of practical success, a precise theoretical understanding of its behavior in high-dimensional regimes remains limited. In this paper, we study a data integration model in which two high-dimensional data matrices share a low-rank common latent structure while also containing individual-specific components&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15684v1</guid>
+      <pubDate>Wed, 17 Dec 2025 18:38:01 +0000</pubDate>
     </item>
     <item>
-      <title>gridfm-datakit-v1: A Python Library for Scalable and Realistic Power Flow and Optimal Power Flow Data Generation</title>
-      <link>http://arxiv.org/abs/2512.14658v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alban Puech, Matteo Mazzonelli, Celia Cintas, Tamara R. Govindasamy, Mangaliso Mngomezulu, Jonas Weiss, Matteo Baù, Anna Varbella&lt;/p&gt;&lt;p&gt;We introduce gridfm-datakit-v1, a Python library for generating realistic and diverse Power Flow (PF) and Optimal Power Flow (OPF) datasets for training Machine Learning (ML) solvers. Existing datasets and libraries face three main challenges: (1) lack of realistic stochastic load and topology perturbations, limiting scenario diversity; (2) PF datasets are restricted to OPF-feasible points, hindering generalization of ML solvers to cases that violate operating limits (e.g., branch overloads or voltage violations); and (3) OPF datasets use fixed generator cost functions, limiting generalization&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14658v1</guid>
-      <pubDate>Tue, 16 Dec 2025 18:17:50 +0000</pubDate>
+      <title>Can LLMs Guide Their Own Exploration? Gradient-Guided Reinforcement Learning for LLM Reasoning</title>
+      <link>http://arxiv.org/abs/2512.15687v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhenwen Liang, Sidi Lu, Wenhao Yu, Kishan Panaganti, Yujun Zhou, Haitao Mi, Dong Yu&lt;/p&gt;&lt;p&gt;Reinforcement learning has become essential for strengthening the reasoning abilities of large language models, yet current exploration mechanisms remain fundamentally misaligned with how these models actually learn. Entropy bonuses and external semantic comparators encourage surface level variation but offer no guarantee that sampled trajectories differ in the update directions that shape optimization. We propose G2RL, a gradient guided reinforcement learning framework in which exploration is driven not by external heuristics but by the model own first order update geometry&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15687v1</guid>
+      <pubDate>Wed, 17 Dec 2025 18:44:45 +0000</pubDate>
     </item>
     <item>
-      <title>VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image</title>
-      <link>http://arxiv.org/abs/2512.14677v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sicheng Xu, Guojun Chen, Jiaolong Yang, Yizhong Zhang, Yu Deng, Steve Lin, Baining Guo&lt;/p&gt;&lt;p&gt;We propose VASA-3D, an audio-driven, single-shot 3D head avatar generator. This research tackles two major challenges: capturing the subtle expression details present in real human faces, and reconstructing an intricate 3D head avatar from a single portrait image. To accurately model expression details, VASA-3D leverages the motion latent of VASA-1, a method that yields exceptional realism and vividness in 2D talking heads&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14677v1</guid>
-      <pubDate>Tue, 16 Dec 2025 18:44:00 +0000</pubDate>
+      <title>BashArena: A Control Setting for Highly Privileged AI Agents</title>
+      <link>http://arxiv.org/abs/2512.15688v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Adam Kaufman, James Lucassen, Tyler Tracy, Cody Rushing, Aryan Bhatt&lt;/p&gt;&lt;p&gt;Future AI agents might run autonomously with elevated privileges. If these agents are misaligned, they might abuse these privileges to cause serious damage. The field of AI control develops techniques that make it harder for misaligned AIs to cause such damage, while preserving their usefulness&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15688v1</guid>
+      <pubDate>Wed, 17 Dec 2025 18:45:25 +0000</pubDate>
     </item>
     <item>
-      <title>Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization</title>
-      <link>http://arxiv.org/abs/2512.14687v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yen-Ju Lu, Kunxiao Gao, Mingrui Liang, Helin Wang, Thomas Thebaud, Laureano Moro-Velazquez, Najim Dehak, Jesus Villalba&lt;/p&gt;&lt;p&gt;Recent audio language models can follow long conversations. However, research on emotion-aware or spoken dialogue summarization is constrained by the lack of data that links speech, summaries, and paralinguistic cues. We introduce Spoken DialogSum, the first corpus aligning raw conversational audio with factual summaries, emotion-rich summaries, and utterance-level labels for speaker age, gender, and emotion&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14687v1</guid>
-      <pubDate>Tue, 16 Dec 2025 18:54:20 +0000</pubDate>
+      <title>mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs</title>
+      <link>http://arxiv.org/abs/2512.15692v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jonas Pai, Liam Achenbach, Victoriano Montesinos, Benedek Forrai, Oier Mees, Elvis Nava&lt;/p&gt;&lt;p&gt;Prevailing Vision-Language-Action Models (VLAs) for robotic manipulation are built upon vision-language backbones pretrained on large-scale, but disconnected static web data. As a result, despite improved semantic generalization, the policy must implicitly infer complex physical dynamics and temporal dependencies solely from robot trajectories. This reliance creates an unsustainable data burden, necessitating continuous, large-scale expert data collection to compensate for the lack of innate physical understanding&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15692v1</guid>
+      <pubDate>Wed, 17 Dec 2025 18:47:31 +0000</pubDate>
     </item>
     <item>
-      <title>Native and Compact Structured Latents for 3D Generation</title>
-      <link>http://arxiv.org/abs/2512.14692v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jianfeng Xiang, Xiaoxue Chen, Sicheng Xu, Ruicheng Wang, Zelong Lv, Yu Deng, Hongyuan Zhu, Yue Dong&lt;/p&gt;&lt;p&gt;Recent advancements in 3D generative modeling have significantly improved the generation realism, yet the field is still hampered by existing representations, which struggle to capture assets with complex topologies and detailed appearance. This paper present an approach for learning a structured latent representation from native 3D data to address this challenge. At its core is a new sparse voxel structure called O-Voxel, an omni-voxel representation that encodes both geometry and appearance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14692v1</guid>
-      <pubDate>Tue, 16 Dec 2025 18:58:28 +0000</pubDate>
+      <title>Artism: AI-Driven Dual-Engine System for Art Generation and Critique</title>
+      <link>http://arxiv.org/abs/2512.15710v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shuai Liu, Yiqing Tian, Yang Chen, Mar Canet Sola&lt;/p&gt;&lt;p&gt;This paper proposes a dual-engine AI architectural method designed to address the complex problem of exploring potential trajectories in the evolution of art. We present two interconnected components: AIDA (an artificial artist social network) and the Ismism Machine, a system for critical analysis. The core innovation lies in leveraging deep learning and multi-agent collaboration to enable multidimensional simulations of art historical developments and conceptual innovation patterns&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15710v1</guid>
+      <pubDate>Wed, 17 Dec 2025 18:58:42 +0000</pubDate>
     </item>
     <item>
-      <title>Universal Reasoning Model</title>
-      <link>http://arxiv.org/abs/2512.14693v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zitian Gao, Lynx Chen, Yihao Xiao, He Xing, Ran Tao, Haoming Luo, Joey Zhou, Bryan Dai&lt;/p&gt;&lt;p&gt;Universal transformers (UTs) have been widely used for complex reasoning tasks such as ARC-AGI and Sudoku, yet the specific sources of their performance gains remain underexplored. In this work, we systematically analyze UTs variants and show that improvements on ARC-AGI primarily arise from the recurrent inductive bias and strong nonlinear components of Transformer, rather than from elaborate architectural designs. Motivated by this finding, we propose the Universal Reasoning Model (URM), which enhances the UT with short convolution and truncated backpropagation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14693v1</guid>
-      <pubDate>Tue, 16 Dec 2025 18:58:45 +0000</pubDate>
+      <title>Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants</title>
+      <link>http://arxiv.org/abs/2512.15712v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vincent Huang, Dami Choi, Daniel D. Johnson, Sarah Schwettmann, Jacob Steinhardt&lt;/p&gt;&lt;p&gt;Interpreting the internal activations of neural networks can produce more faithful explanations of their behavior, but is difficult due to the complex structure of activation space. Existing approaches to scalable interpretability use hand-designed agents that make and test hypotheses about how internal activations relate to external behavior. We propose to instead turn this task into an end-to-end training objective, by training interpretability assistants to accurately predict model behavior from activations through a communication bottleneck&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15712v1</guid>
+      <pubDate>Wed, 17 Dec 2025 18:59:48 +0000</pubDate>
     </item>
     <item>
-      <title>TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs</title>
-      <link>http://arxiv.org/abs/2512.14698v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jun Zhang, Teng Wang, Yuying Ge, Yixiao Ge, Xinhao Li, Ying Shan, Limin Wang&lt;/p&gt;&lt;p&gt;This paper does not introduce a novel method but instead establishes a straightforward, incremental, yet essential baseline for video temporal grounding (VTG), a core capability in video understanding. While multimodal large language models (MLLMs) excel at various video understanding tasks, the recipes for optimizing them for VTG remain under-explored. In this paper, we present TimeLens, a systematic investigation into building MLLMs with strong VTG ability, along two primary dimensions: data quality and algorithmic design&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.14698v1</guid>
-      <pubDate>Tue, 16 Dec 2025 18:59:58 +0000</pubDate>
+      <title>Spatia: Video Generation with Updatable Spatial Memory</title>
+      <link>http://arxiv.org/abs/2512.15716v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jinjing Zhao, Fangyun Wei, Zhening Liu, Hongyang Zhang, Chang Xu, Yan Lu&lt;/p&gt;&lt;p&gt;Existing video generation models struggle to maintain long-term spatial and temporal consistency due to the dense, high-dimensional nature of video signals. To overcome this limitation, we propose Spatia, a spatial memory-aware video generation framework that explicitly preserves a 3D scene point cloud as persistent spatial memory. Spatia iteratively generates video clips conditioned on this spatial memory and continuously updates it through visual SLAM&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.15716v1</guid>
+      <pubDate>Wed, 17 Dec 2025 18:59:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
