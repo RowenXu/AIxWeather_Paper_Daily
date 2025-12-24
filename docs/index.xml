@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 23 Dec 2025 03:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 03:25:06 +0000</lastBuildDate>
     <item>
-      <title>Anatomy-R1: Enhancing Anatomy Reasoning in Multimodal Large Language Models via Anatomical Similarity Curriculum and Group Diversity Augmentation</title>
-      <link>http://arxiv.org/abs/2512.19512v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziyang Song, Zelin Zang, Zuyao Chen, Xusheng Liang, Dong Yi, Jinlin Wu, Hongbin Liu, Jiebo Luo&lt;/p&gt;&lt;p&gt;Multimodal Large Language Models (MLLMs) have achieved impressive progress in natural image reasoning, yet their potential in medical imaging remains underexplored, especially in clinical anatomical surgical images. Anatomy understanding tasks demand precise understanding and clinically coherent answers, which are difficult to achieve due to the complexity of medical data and the scarcity of high-quality expert annotations. These challenges limit the effectiveness of conventional Supervised Fine-Tuning (SFT) strategies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19512v1</guid>
-      <pubDate>Mon, 22 Dec 2025 16:06:36 +0000</pubDate>
+      <title>AUDRON: A Deep Learning Framework with Fused Acoustic Signatures for Drone Type Recognition</title>
+      <link>http://arxiv.org/abs/2512.20407v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rajdeep Chatterjee, Sudip Chakrabarty, Trishaani Acharjee, Deepanjali Mishra&lt;/p&gt;&lt;p&gt;Unmanned aerial vehicles (UAVs), commonly known as drones, are increasingly used across diverse domains, including logistics, agriculture, surveillance, and defense. While these systems provide numerous benefits, their misuse raises safety and security concerns, making effective detection mechanisms essential. Acoustic sensing offers a low-cost and non-intrusive alternative to vision or radar-based detection, as drone propellers generate distinctive sound patterns&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20407v1</guid>
+      <pubDate>Tue, 23 Dec 2025 14:55:08 +0000</pubDate>
     </item>
     <item>
-      <title>Residential structure survivability to large wildfires in the United States</title>
-      <link>http://arxiv.org/abs/2512.19514v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mukesh Kumar, John T. Abatzoglou, Crystal A. Kolden, Mojtaba Sadegh&lt;/p&gt;&lt;p&gt;Wildfire impacts on US communities have escalated in recent decades, highlighting the need to better understand factors that influence wildfire outcomes. We find that 567,000 homes were exposed to wildfires across the contiguous US during 2001-2020, two-thirds of which occurred and increased five-fold in the Western US. While residential structure survivability - the percent of structures within a wildfire perimeter that survive the fire - remained stable in the Eastern US in the past two decades, it declined by 10% in the West&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19514v1</guid>
-      <pubDate>Mon, 22 Dec 2025 16:06:56 +0000</pubDate>
+      <title>Simplifying Multi-Task Architectures Through Task-Specific Normalization</title>
+      <link>http://arxiv.org/abs/2512.20420v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mihai Suteu, Ovidiu Serban&lt;/p&gt;&lt;p&gt;Multi-task learning (MTL) aims to leverage shared knowledge across tasks to improve generalization and parameter efficiency, yet balancing resources and mitigating interference remain open challenges. Architectural solutions often introduce elaborate task-specific modules or routing schemes, increasing complexity and overhead. In this work, we show that normalization layers alone are sufficient to address many of these challenges&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20420v1</guid>
+      <pubDate>Tue, 23 Dec 2025 15:02:12 +0000</pubDate>
     </item>
     <item>
-      <title>LacaDM: A Latent Causal Diffusion Model for Multiobjective Reinforcement Learning</title>
-      <link>http://arxiv.org/abs/2512.19516v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xueming Yan, Bo Yin, Yaochu Jin&lt;/p&gt;&lt;p&gt;Multiobjective reinforcement learning (MORL) poses significant challenges due to the inherent conflicts between objectives and the difficulty of adapting to dynamic environments. Traditional methods often struggle to generalize effectively, particularly in large and complex state-action spaces. To address these limitations, we introduce the Latent Causal Diffusion Model (LacaDM), a novel approach designed to enhance the adaptability of MORL in discrete and continuous environments&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19516v1</guid>
-      <pubDate>Mon, 22 Dec 2025 16:08:03 +0000</pubDate>
+      <title>Evasion-Resilient Detection of DNS-over-HTTPS Data Exfiltration: A Practical Evaluation and Toolkit</title>
+      <link>http://arxiv.org/abs/2512.20423v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Adam Elaoumari&lt;/p&gt;&lt;p&gt;The purpose of this project is to assess how well defenders can detect DNS-over-HTTPS (DoH) file exfiltration, and which evasion strategies can be used by attackers. While providing a reproducible toolkit to generate, intercept and analyze DoH exfiltration, and comparing Machine Learning vs threshold-based detection under adversarial scenarios. The originality of this project is the introduction of an end-to-end, containerized pipeline that generates configurable file exfiltration over DoH using several parameters (e.g., chunking, encoding, padding, resolver rotation)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20423v1</guid>
+      <pubDate>Tue, 23 Dec 2025 15:07:17 +0000</pubDate>
     </item>
     <item>
-      <title>QuantiPhy: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models</title>
-      <link>http://arxiv.org/abs/2512.19526v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Li Puyin, Tiange Xiang, Ella Mao, Shirley Wei, Xinye Chen, Adnan Masood, Li Fei-fei, Ehsan Adeli&lt;/p&gt;&lt;p&gt;Understanding the physical world is essential for generalist AI agents. However, it remains unclear whether state-of-the-art vision perception models (e.g., large VLMs) can reason physical properties quantitatively. Existing evaluations are predominantly VQA-based and qualitative, offering limited insight into whether these models can infer the kinematic quantities of moving objects from video observations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19526v1</guid>
-      <pubDate>Mon, 22 Dec 2025 16:18:00 +0000</pubDate>
+      <title>High Dimensional Data Decomposition for Anomaly Detection of Textured Images</title>
+      <link>http://arxiv.org/abs/2512.20432v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ji Song, Xing Wang, Jianguo Wu, Xiaowei Yue&lt;/p&gt;&lt;p&gt;In the realm of diverse high-dimensional data, images play a significant role across various processes of manufacturing systems where efficient image anomaly detection has emerged as a core technology of utmost importance. However, when applied to textured defect images, conventional anomaly detection methods have limitations including non-negligible misidentification, low robustness, and excessive reliance on large-scale and structured datasets. This paper proposes a texture basis integrated smooth decomposition (TBSD) approach, which is targeted at efficient anomaly detection in textured ima&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20432v1</guid>
+      <pubDate>Tue, 23 Dec 2025 15:21:18 +0000</pubDate>
     </item>
     <item>
-      <title>Learning Continuous Solvent Effects from Transient Flow Data: A Graph Neural Network Benchmark on Catechol Rearrangement</title>
-      <link>http://arxiv.org/abs/2512.19530v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hongsheng Xing, Qiuxin Si&lt;/p&gt;&lt;p&gt;Predicting reaction outcomes across continuous solvent composition ranges remains a critical challenge in organic synthesis and process chemistry. Traditional machine learning approaches often treat solvent identity as a discrete categorical variable, which prevents systematic interpolation and extrapolation across the solvent space. This work introduces the \textbf{Catechol Benchmark}, a high-throughput transient flow chemistry dataset comprising 1,227 experimental yield measurements for the rearrangement of allyl-substituted catechol in 24 pure solvents and their binary mixtures, parameteriz&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19530v1</guid>
-      <pubDate>Mon, 22 Dec 2025 16:19:01 +0000</pubDate>
+      <title>Dual-Encoder Transformer-Based Multimodal Learning for Ischemic Stroke Lesion Segmentation Using Diffusion MRI</title>
+      <link>http://arxiv.org/abs/2512.20436v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Muhammad Usman, Azka Rehman, Muhammad Mutti Ur Rehman, Abd Ur Rehman, Muhammad Umar Farooq&lt;/p&gt;&lt;p&gt;Accurate segmentation of ischemic stroke lesions from diffusion magnetic resonance imaging (MRI) is essential for clinical decision-making and outcome assessment. Diffusion-Weighted Imaging (DWI) and Apparent Diffusion Coefficient (ADC) scans provide complementary information on acute and sub-acute ischemic changes; however, automated lesion delineation remains challenging due to variability in lesion appearance.   In this work, we study ischemic stroke lesion segmentation using multimodal diffusion MRI from the ISLES 2022 dataset&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20436v1</guid>
+      <pubDate>Tue, 23 Dec 2025 15:24:31 +0000</pubDate>
     </item>
     <item>
-      <title>CASA: Cross-Attention via Self-Attention for Efficient Vision-Language Fusion</title>
-      <link>http://arxiv.org/abs/2512.19535v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Moritz Böhle, Amélie Royer, Juliette Marrie, Edouard Grave, Patrick Pérez&lt;/p&gt;&lt;p&gt;Vision-language models (VLMs) are commonly trained by inserting image tokens from a pretrained vision encoder into the textual stream of a language model. This allows text and image information to fully attend to one another within the model, but becomes extremely costly for high-resolution images, long conversations, or streaming videos, both in memory and compute. VLMs leveraging cross-attention are an efficient alternative to token insertion but exhibit a clear performance gap, in particular on tasks involving fine-grained visual details&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19535v1</guid>
-      <pubDate>Mon, 22 Dec 2025 16:21:39 +0000</pubDate>
+      <title>Quantum Bayesian Optimization for the Automatic Tuning of Lorenz-96 as a Surrogate Climate Model</title>
+      <link>http://arxiv.org/abs/2512.20437v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Paul J. Christiansen, Daniel Ohl de Mello, Cedric Brügmann, Steffen Hien, Felix Herbort, Martin Kiffner, Lorenzo Pastori, Veronika Eyring&lt;/p&gt;&lt;p&gt;In this work, we propose a hybrid quantum-inspired heuristic for automatically tuning the Lorenz-96 model -- a simple proxy to describe atmospheric dynamics, yet exhibiting chaotic behavior. Building on the history matching framework by Lguensat et al. (2023), we fully automate the tuning process with a new convergence criterion and propose replacing classical Gaussian process emulators with quantum counterparts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20437v1</guid>
+      <pubDate>Tue, 23 Dec 2025 15:26:24 +0000</pubDate>
     </item>
     <item>
-      <title>Towards Closed-Loop Embodied Empathy Evolution: Probing LLM-Centric Lifelong Empathic Motion Generation in Unseen Scenarios</title>
-      <link>http://arxiv.org/abs/2512.19551v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiawen Wang, Jingjing Wang Tianyang Chen, Min Zhang, Guodong Zhou&lt;/p&gt;&lt;p&gt;In the literature, existing human-centric emotional motion generation methods primarily focus on boosting performance within a single scale-fixed dataset, largely neglecting the flexible and scale-increasing motion scenarios (e.g., sports, dance), whereas effectively learning these newly emerging scenarios can significantly enhance the model's real-world generalization ability. Inspired by this, this paper proposes a new LLM-Centric Lifelong Empathic Motion Generation (L^2-EMG) task, which aims to equip LLMs with the capability to continually acquire emotional motion generation knowledge acros&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19551v1</guid>
-      <pubDate>Mon, 22 Dec 2025 16:31:30 +0000</pubDate>
+      <title>Bohrium + SciMaster: Building the Infrastructure and Ecosystem for Agentic Science at Scale</title>
+      <link>http://arxiv.org/abs/2512.20469v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Linfeng Zhang, Siheng Chen, Yuzhu Cai, Jingyi Chai, Junhan Chang, Kun Chen, Zhi X. Chen, Zhaohan Ding&lt;/p&gt;&lt;p&gt;AI agents are emerging as a practical way to run multi-step scientific workflows that interleave reasoning with tool use and verification, pointing to a shift from isolated AI-assisted steps toward \emph{agentic science at scale}. This shift is increasingly feasible, as scientific tools and models can be invoked through stable interfaces and verified with recorded execution traces, and increasingly necessary, as AI accelerates scientific output and stresses the peer-review and publication pipeline, raising the bar for traceability and credible evaluation.   However, scaling agentic science rem&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20469v1</guid>
+      <pubDate>Tue, 23 Dec 2025 16:04:41 +0000</pubDate>
     </item>
     <item>
-      <title>CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal</title>
-      <link>http://arxiv.org/abs/2512.19554v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yongxin Wang, Zhicheng Yang, Meng Cao, Mingfei Han, Haokun Lin, Yingying Zhu, Xiaojun Chang, Xiaodan Liang&lt;/p&gt;&lt;p&gt;Group-relative reinforcement learning with verifiable rewards (RLVR) often wastes the most informative data it already has the failures. When all rollouts are wrong, gradients stall; when one happens to be correct, the update usually ignores why the others are close-but-wrong, and credit can be misassigned to spurious chains. We present CARE (Contrastive Anchored REflection), a failure-centric post-training framework for multimodal reasoning that turns errors into supervision&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19554v1</guid>
-      <pubDate>Mon, 22 Dec 2025 16:34:21 +0000</pubDate>
+      <title>Even Small Companies Can Save Lives by Reducing Emissions</title>
+      <link>http://arxiv.org/abs/2512.20473v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daniel Baldassare, Abby Lute, Hikari Murayama, Cora Kingdon, Christopher Schwalm&lt;/p&gt;&lt;p&gt;Global warming is often framed in broad planetary numbers such as the 1.5 C and 2 C warming thresholds, creating the false impression that individual corporations efforts to reduce emissions are meaningless in the absence of collective action. This perspective causes companies to reduce ambition towards voluntarily cutting emissions, as they believe their pollution has negligible impacts on its own. Reframing the issue to focus on the life-saving potential of individual corporate actions empowers companies to act and holds them accountable for inaction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20473v1</guid>
+      <pubDate>Tue, 23 Dec 2025 16:08:08 +0000</pubDate>
     </item>
     <item>
-      <title>Augmenting Intelligence: A Hybrid Framework for Scalable and Stable Explanations</title>
-      <link>http://arxiv.org/abs/2512.19557v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lawrence Krukrubo, Julius Odede, Olawande Olusegun&lt;/p&gt;&lt;p&gt;Current approaches to Explainable AI (XAI) face a "Scalability-Stability Dilemma." Post-hoc methods (e.g., LIME, SHAP) may scale easily but suffer from instability, while supervised explanation frameworks (e.g., TED) offer stability but require prohibitive human effort to label every training instance. This paper proposes a Hybrid LRR-TED framework that addresses this dilemma through a novel "Asymmetry of Discovery." When applied to customer churn prediction, we demonstrate that automated rule learners (GLRM) excel at identifying broad "Safety Nets" (retention patterns) but struggle to capture&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19557v1</guid>
-      <pubDate>Mon, 22 Dec 2025 16:40:14 +0000</pubDate>
+      <title>Benchmarking LLMs for Predictive Applications in the Intensive Care Units</title>
+      <link>http://arxiv.org/abs/2512.20520v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chehak Malhotra, Mehak Gopal, Akshaya Devadiga, Pradeep Singh, Ridam Pal, Ritwik Kashyap, Tavpritesh Sethi&lt;/p&gt;&lt;p&gt;With the advent of LLMs, various tasks across the natural language processing domain have been transformed. However, their application in predictive tasks remains less researched. This study compares large language models, including GatorTron-Base (trained on clinical data), Llama 8B, and Mistral 7B, against models like BioBERT, DocBERT, BioClinicalBERT, Word2Vec, and Doc2Vec, setting benchmarks for predicting Shock in critically ill patients&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20520v1</guid>
+      <pubDate>Tue, 23 Dec 2025 17:08:31 +0000</pubDate>
     </item>
     <item>
-      <title>BabyFlow: 3D modeling of realistic and expressive infant faces</title>
-      <link>http://arxiv.org/abs/2512.19560v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Antonia Alomar, Mireia Masias, Marius George Linguraru, Federico M. Sukno, Gemma Piella&lt;/p&gt;&lt;p&gt;Early detection of developmental disorders can be aided by analyzing infant craniofacial morphology, but modeling infant faces is challenging due to limited data and frequent spontaneous expressions. We introduce BabyFlow, a generative AI model that disentangles facial identity and expression, enabling independent control over both. Using normalizing flows, BabyFlow learns flexible, probabilistic representations that capture the complex, non-linear variability of expressive infant faces without restrictive linear assumptions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19560v1</guid>
-      <pubDate>Mon, 22 Dec 2025 16:42:58 +0000</pubDate>
+      <title>ScoreMatchingRiesz: Auto-DML with Infinitesimal Classification</title>
+      <link>http://arxiv.org/abs/2512.20523v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Masahiro Kato&lt;/p&gt;&lt;p&gt;This study proposes Riesz representer estimation methods based on score matching. The Riesz representer is a key component in debiased machine learning for constructing $\sqrt{n}$-consistent and efficient estimators in causal inference and structural parameter estimation. To estimate the Riesz representer, direct approaches have garnered attention, such as Riesz regression and the covariate balancing propensity score&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20523v1</guid>
+      <pubDate>Tue, 23 Dec 2025 17:14:14 +0000</pubDate>
     </item>
     <item>
-      <title>REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation</title>
-      <link>http://arxiv.org/abs/2512.19562v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Martin Sedlacek, Pavlo Yefanov, Georgy Ponimatkin, Jai Bardhan, Simon Pilc, Mederic Fourmy, Evangelos Kazakos, Cees G. M. Snoek&lt;/p&gt;&lt;p&gt;Vision-Language-Action (VLA) models empower robots to understand and execute tasks described by natural language instructions. However, a key challenge lies in their ability to generalize beyond the specific environments and conditions they were trained on, which is presently difficult and expensive to evaluate in the real-world. To address this gap, we present REALM, a new simulation environment and benchmark designed to evaluate the generalization capabilities of VLA models, with a specific emphasis on establishing a strong correlation between simulated and real-world performance through hig&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19562v1</guid>
-      <pubDate>Mon, 22 Dec 2025 16:44:23 +0000</pubDate>
+      <title>Advancing Multimodal Teacher Sentiment Analysis:The Large-Scale T-MED Dataset &amp; The Effective AAM-TSA Model</title>
+      <link>http://arxiv.org/abs/2512.20548v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhiyi Duan, Xiangren Wang, Hongyu Yuan, Qianli Xing&lt;/p&gt;&lt;p&gt;Teachers' emotional states are critical in educational scenarios, profoundly impacting teaching efficacy, student engagement, and learning achievements. However, existing studies often fail to accurately capture teachers' emotions due to the performative nature and overlook the critical impact of instructional information on emotional expression.In this paper, we systematically investigate teacher sentiment analysis by building both the dataset and the model accordingly. We construct the first large-scale teacher multimodal sentiment analysis dataset, T-MED.To ensure labeling accuracy and effi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20548v1</guid>
+      <pubDate>Tue, 23 Dec 2025 17:42:16 +0000</pubDate>
     </item>
     <item>
-      <title>Owning the Intelligence: Global AI Patents Landscape and Europe's Quest for Technological Sovereignty</title>
-      <link>http://arxiv.org/abs/2512.19569v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lapo Santarlasci, Armando Rungi, Loredana Fattorini, Nestor Maslej&lt;/p&gt;&lt;p&gt;Artificial intelligence has become a key arena of global technological competition and a central concern for Europe's quest for technological sovereignty. This paper analyzes global AI patenting from 2010 to 2023 to assess Europe's position in an increasingly bipolar innovation landscape dominated by the United States and China. Using linked patent, firm, ownership, and citation data, we examine the geography, specialization, and international diffusion of AI innovation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19569v1</guid>
-      <pubDate>Mon, 22 Dec 2025 16:52:36 +0000</pubDate>
+      <title>Information-theoretic signatures of causality in Bayesian networks and hypergraphs</title>
+      <link>http://arxiv.org/abs/2512.20552v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sung En Chiang, Zhaolu Liu, Robert L. Peach, Mauricio Barahona&lt;/p&gt;&lt;p&gt;Analyzing causality in multivariate systems involves establishing how information is generated, distributed and combined, and thus requires tools that capture interactions beyond pairwise relations. Higher-order information theory provides such tools. In particular, Partial Information Decomposition (PID) allows the decomposition of the information that a set of sources provides about a target into redundant, unique, and synergistic components&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20552v1</guid>
+      <pubDate>Tue, 23 Dec 2025 17:46:53 +0000</pubDate>
     </item>
     <item>
-      <title>The Epistemological Consequences of Large Language Models: Rethinking collective intelligence and institutional knowledge</title>
-      <link>http://arxiv.org/abs/2512.19570v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Angjelin Hila&lt;/p&gt;&lt;p&gt;We examine epistemological threats posed by human and LLM interaction. We develop collective epistemology as a theory of epistemic warrant distributed across human collectives, using bounded rationality and dual process theory as background. We distinguish internalist justification, defined as reflective understanding of why a proposition is true, from externalist justification, defined as reliable transmission of truths&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19570v1</guid>
-      <pubDate>Mon, 22 Dec 2025 16:52:37 +0000</pubDate>
+      <title>LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving</title>
+      <link>http://arxiv.org/abs/2512.20563v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Long Nguyen, Micha Fauth, Bernhard Jaeger, Daniel Dauner, Maximilian Igl, Andreas Geiger, Kashyap Chitta&lt;/p&gt;&lt;p&gt;Simulators can generate virtually unlimited driving data, yet imitation learning policies in simulation still struggle to achieve robust closed-loop performance. Motivated by this gap, we empirically study how misalignment between privileged expert demonstrations and sensor-based student observations can limit the effectiveness of imitation learning. More precisely, experts have significantly higher visibility (e.g., ignoring occlusions) and far lower uncertainty (e.g., knowing other vehicles' actions), making them difficult to imitate reliably&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20563v1</guid>
+      <pubDate>Tue, 23 Dec 2025 18:07:43 +0000</pubDate>
     </item>
     <item>
-      <title>LeLaR: The First In-Orbit Demonstration of an AI-Based Satellite Attitude Controller</title>
-      <link>http://arxiv.org/abs/2512.19576v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kirill Djebko, Tom Baumann, Erik Dilger, Frank Puppe, Sergio Montenegro&lt;/p&gt;&lt;p&gt;Attitude control is essential for many satellite missions. Classical controllers, however, are time-consuming to design and sensitive to model uncertainties and variations in operational boundary conditions. Deep Reinforcement Learning (DRL) offers a promising alternative by learning adaptive control strategies through autonomous interaction with a simulation environment&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19576v1</guid>
-      <pubDate>Mon, 22 Dec 2025 17:00:25 +0000</pubDate>
+      <title>Distilling to Hybrid Attention Models via KL-Guided Layer Selection</title>
+      <link>http://arxiv.org/abs/2512.20569v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yanhong Li, Songlin Yang, Shawn Tan, Mayank Mishra, Rameswar Panda, Jiawei Zhou, Yoon Kim&lt;/p&gt;&lt;p&gt;Distilling pretrained softmax attention Transformers into more efficient hybrid architectures that interleave softmax and linear attention layers is a promising approach for improving the inference efficiency of LLMs without requiring expensive pretraining from scratch. A critical factor in the conversion process is layer selection, i.e., deciding on which layers to convert to linear attention variants. This paper describes a simple and efficient recipe for layer selection that uses layer importance scores derived from a small amount of training on generic text data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20569v1</guid>
+      <pubDate>Tue, 23 Dec 2025 18:12:22 +0000</pubDate>
     </item>
     <item>
-      <title>MapTrace: Scalable Data Generation for Route Tracing on Maps</title>
-      <link>http://arxiv.org/abs/2512.19609v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Artemis Panagopoulou, Aveek Purohit, Achin Kulshrestha, Soroosh Yazdani, Mohit Goyal&lt;/p&gt;&lt;p&gt;While Multimodal Large Language Models have achieved human-like performance on many visual and textual reasoning tasks, their proficiency in fine-grained spatial understanding, such as route tracing on maps remains limited. Unlike humans, who can quickly learn to parse and navigate maps, current models often fail to respect fundamental path constraints, in part due to the prohibitive cost and difficulty of collecting large-scale, pixel-accurate path annotations. To address this, we introduce a scalable synthetic data generation pipeline that leverages synthetic map images and pixel-level parsi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19609v1</guid>
-      <pubDate>Mon, 22 Dec 2025 17:45:39 +0000</pubDate>
+      <title>Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs</title>
+      <link>http://arxiv.org/abs/2512.20573v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rui Pan, Zhuofu Chen, Ravi Netravali&lt;/p&gt;&lt;p&gt;Diffusion Large Language Models (dLLMs) offer fast, parallel token generation, but their standalone use is plagued by an inherent efficiency-quality tradeoff. We show that, if carefully applied, the attributes of dLLMs can actually be a strength for drafters in speculative decoding with autoregressive (AR) verifiers. Our core insight is that dLLM's speed from parallel decoding drastically lowers the risk of costly rejections, providing a practical mechanism to effectively realize the (elusive) lengthy drafts that lead to large speedups with speculative decoding&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20573v1</guid>
+      <pubDate>Tue, 23 Dec 2025 18:16:58 +0000</pubDate>
     </item>
     <item>
-      <title>Exploring the features used for summary evaluation by Human and GPT</title>
-      <link>http://arxiv.org/abs/2512.19620v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zahra Sadeghi, Evangelos Milios, Frank Rudzicz&lt;/p&gt;&lt;p&gt;Summary assessment involves evaluating how well a generated summary reflects the key ideas and meaning of the source text, requiring a deep understanding of the content. Large Language Models (LLMs) have been used to automate this process, acting as judges to evaluate summaries with respect to the original text. While previous research investigated the alignment between LLMs and Human responses, it is not yet well understood what properties or features are exploited by them when asked to evaluate based on a particular quality dimension, and there has not been much attention towards mapping bet&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19620v1</guid>
-      <pubDate>Mon, 22 Dec 2025 17:54:49 +0000</pubDate>
+      <title>Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent</title>
+      <link>http://arxiv.org/abs/2512.20586v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Humza Nusrat, Luke Francisco, Bing Luo, Hassan Bagher-Ebadian, Joshua Kim, Karen Chin-Snyder, Salim Siddiqui, Mira Shah&lt;/p&gt;&lt;p&gt;Stereotactic radiosurgery (SRS) demands precise dose shaping around critical structures, yet black-box AI systems have limited clinical adoption due to opacity concerns. We tested whether chain-of-thought reasoning improves agentic planning in a retrospective cohort of 41 patients with brain metastases treated with 18 Gy single-fraction SRS. We developed SAGE (Secure Agent for Generative Dose Expertise), an LLM-based planning agent for automated SRS treatment planning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20586v1</guid>
+      <pubDate>Tue, 23 Dec 2025 18:32:17 +0000</pubDate>
     </item>
     <item>
-      <title>Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis</title>
-      <link>http://arxiv.org/abs/2512.19663v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Argha Kamal Samanta, Harshika Goyal, Vasudha Joshi, Tushar Mungle, Pabitra Mitra&lt;/p&gt;&lt;p&gt;Diabetic retinopathy (DR) is a leading cause of preventable blindness worldwide, demanding accurate automated diagnostic systems. While general-domain vision-language models like Contrastive Language-Image Pre-Training (CLIP) perform well on natural image tasks, they struggle in medical domain applications, particularly in cross-modal retrieval for ophthalmological images. We propose a novel knowledge-enhanced joint embedding framework that integrates retinal fundus images, clinical text, and structured patient data through a multimodal transformer architecture to address the critical gap in m&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19663v1</guid>
-      <pubDate>Mon, 22 Dec 2025 18:41:45 +0000</pubDate>
+      <title>Leveraging High-Fidelity Digital Models and Reinforcement Learning for Mission Engineering: A Case Study of Aerial Firefighting Under Perfect Information</title>
+      <link>http://arxiv.org/abs/2512.20589v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; İbrahim Oğuz Çetinkaya, Sajad Khodadadian, Taylan G. Topçu&lt;/p&gt;&lt;p&gt;As systems engineering (SE) objectives evolve from design and operation of monolithic systems to complex System of Systems (SoS), the discipline of Mission Engineering (ME) has emerged which is increasingly being accepted as a new line of thinking for the SE community. Moreover, mission environments are uncertain, dynamic, and mission outcomes are a direct function of how the mission assets will interact with this environment. This proves static architectures brittle and calls for analytically rigorous approaches for ME&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20589v1</guid>
+      <pubDate>Tue, 23 Dec 2025 18:36:07 +0000</pubDate>
     </item>
     <item>
-      <title>Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies</title>
-      <link>http://arxiv.org/abs/2512.19673v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuqiao Tan, Minzheng Wang, Shizhu He, Huanxuan Liao, Chengfeng Zhao, Qiunan Lu, Tian Liang, Jun Zhao&lt;/p&gt;&lt;p&gt;Existing reinforcement learning (RL) approaches treat large language models (LLMs) as a single unified policy, overlooking their internal mechanisms. Understanding how policy evolves across layers and modules is therefore crucial for enabling more targeted optimization and raveling out complex reasoning mechanisms. In this paper, we decompose the language model policy by leveraging the intrinsic split of the Transformer residual stream and the equivalence between the composition of hidden states with the unembedding matrix and the resulting samplable policy&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19673v1</guid>
-      <pubDate>Mon, 22 Dec 2025 18:51:48 +0000</pubDate>
+      <title>Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs</title>
+      <link>http://arxiv.org/abs/2512.20595v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dhruv Anand, Ehsan Shareghi&lt;/p&gt;&lt;p&gt;We introduce Cube Bench, a Rubik's-cube benchmark for evaluating spatial and sequential reasoning in multimodal large language models (MLLMs). The benchmark decomposes performance into five skills: (i) reconstructing cube faces from images and text, (ii) choosing the optimal next move, (iii) predicting the outcome of a candidate move without applying it, (iv) executing multi-step plans while recovering from mistakes, and (v) detecting and revising one's own errors. Using a shared set of scrambled cube states, identical prompts and parsers, and a single distance-to-solved metric, we compare rec&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20595v1</guid>
+      <pubDate>Tue, 23 Dec 2025 18:43:05 +0000</pubDate>
     </item>
     <item>
-      <title>WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion</title>
-      <link>http://arxiv.org/abs/2512.19678v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hanyang Kong, Xingyi Yang, Xiaoxu Zheng, Xinchao Wang&lt;/p&gt;&lt;p&gt;Generating long-range, geometrically consistent video presents a fundamental dilemma: while consistency demands strict adherence to 3D geometry in pixel space, state-of-the-art generative models operate most effectively in a camera-conditioned latent space. This disconnect causes current methods to struggle with occluded areas and complex camera trajectories. To bridge this gap, we propose WorldWarp, a framework that couples a 3D structural anchor with a 2D generative refiner&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19678v1</guid>
-      <pubDate>Mon, 22 Dec 2025 18:53:50 +0000</pubDate>
+      <title>Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning</title>
+      <link>http://arxiv.org/abs/2512.20605v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Seijin Kobayashi, Yanick Schimpf, Maximilian Schlegel, Angelika Steger, Maciej Wolczyk, Johannes von Oswald, Nino Scherre, Kaitlin Maile&lt;/p&gt;&lt;p&gt;Large-scale autoregressive models pretrained on next-token prediction and finetuned with reinforcement learning (RL) have achieved unprecedented success on many problem domains. During RL, these models explore by generating new outputs, one token at a time. However, sampling actions token-by-token can result in highly inefficient learning, particularly when rewards are sparse&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20605v1</guid>
+      <pubDate>Tue, 23 Dec 2025 18:51:50 +0000</pubDate>
     </item>
     <item>
-      <title>Scalably Enhancing the Clinical Validity of a Task Benchmark with Physician Oversight</title>
-      <link>http://arxiv.org/abs/2512.19691v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junze Ye, Daniel Tawfik, Alex J. Goodell, Nikhil V. Kotha, Mark K. Buyyounouski, Mohsen Bayati&lt;/p&gt;&lt;p&gt;Automating the calculation of clinical risk scores offers a significant opportunity to reduce physician administrative burden and enhance patient care. The current standard for evaluating this capability is MedCalc-Bench, a large-scale dataset constructed using LLM-based feature extraction and rule-based aggregation. However, treating such model-generated benchmarks as static oracles risks enshrining historical model errors as evaluation gold standards, a problem dangerously amplified when these datasets serve as reward signals for Reinforcement Learning (RL)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.19691v1</guid>
-      <pubDate>Mon, 22 Dec 2025 18:59:34 +0000</pubDate>
+      <title>LongVideoAgent: Multi-Agent Reasoning with Long Videos</title>
+      <link>http://arxiv.org/abs/2512.20618v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Runtao Liu, Ziyi Liu, Jiaqi Tang, Yue Ma, Renjie Pi, Jipeng Zhang, Qifeng Chen&lt;/p&gt;&lt;p&gt;Recent advances in multimodal LLMs and systems that use tools for long-video QA point to the promise of reasoning over hour-long episodes. However, many methods still compress content into lossy summaries or rely on limited toolsets, weakening temporal grounding and missing fine-grained cues. We propose a multi-agent framework in which a master LLM coordinates a grounding agent to localize question-relevant segments and a vision agent to extract targeted textual observations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2512.20618v1</guid>
+      <pubDate>Tue, 23 Dec 2025 18:59:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
