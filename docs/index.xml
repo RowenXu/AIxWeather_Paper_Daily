@@ -7,77 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 25 Dec 2025 03:28:03 +0000</lastBuildDate>
-    <item>
-      <title>AutoBaxBuilder: Bootstrapping Code Security Benchmarking</title>
-      <link>http://arxiv.org/abs/2512.21132v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tobias von Arx, Niels Mündler, Mark Vero, Maximilian Baader, Martin Vechev&lt;/p&gt;&lt;p&gt;As LLMs see wide adoption in software engineering, the reliable assessment of the correctness and security of LLM-generated code is crucial. Notably, prior work has demonstrated that security is often overlooked, exposing that LLMs are prone to generating code with security vulnerabilities. These insights were enabled by specialized benchmarks, crafted through significant manual effort by security experts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.21132v1</guid>
-      <pubDate>Wed, 24 Dec 2025 12:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TGC-Net: A Structure-Aware and Semantically-Aligned Framework for Text-Guided Medical Image Segmentation</title>
-      <link>http://arxiv.org/abs/2512.21135v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gaoren Lin, Huangxuan Zhao, Yuan Xiong, Lefei Zhang, Bo Du, Wentao Zhu&lt;/p&gt;&lt;p&gt;Text-guided medical segmentation enhances segmentation accuracy by utilizing clinical reports as auxiliary information. However, existing methods typically rely on unaligned image and text encoders, which necessitate complex interaction modules for multimodal fusion. While CLIP provides a pre-aligned multimodal feature space, its direct application to medical imaging is limited by three main issues: insufficient preservation of fine-grained anatomical structures, inadequate modeling of complex clinical descriptions, and domain-specific semantic misalignment&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.21135v1</guid>
-      <pubDate>Wed, 24 Dec 2025 12:06:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>MODE: Multi-Objective Adaptive Coreset Selection</title>
-      <link>http://arxiv.org/abs/2512.21152v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tanmoy Mukherjee, Pierre Marquis, Zied Bouraoui&lt;/p&gt;&lt;p&gt;We present Mode(Multi-Objective adaptive Data Efficiency), a framework that dynamically combines coreset selection strategies based on their evolving contribution to model performance. Unlike static methods, \mode adapts selection criteria to training phases: emphasizing class balance early, diversity during representation learning, and uncertainty at convergence. We show that MODE achieves (1-1/e)-approximation with O(n \log n) complexity and demonstrates competitive accuracy while providing interpretable insights into data utility evolution&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.21152v1</guid>
-      <pubDate>Wed, 24 Dec 2025 12:43:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation</title>
-      <link>http://arxiv.org/abs/2512.21201v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yu He, Da Huang, Zhenyang Liu, Zixiao Gu, Qiang Sun, Guangnan Ye, Yanwei Fu&lt;/p&gt;&lt;p&gt;Zero-shot object navigation (ZSON) requires a robot to locate a target object in a previously unseen environment without relying on pre-built maps or task-specific training. However, existing ZSON methods often struggle in realistic and cluttered environments, particularly when the scene contains heavy occlusions, unknown risks, or dynamically moving target objects. To address these challenges, we propose \textbf{Schrödinger's Navigator}, a navigation framework inspired by Schrödinger's thought experiment on uncertainty&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.21201v1</guid>
-      <pubDate>Wed, 24 Dec 2025 14:28:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation</title>
-      <link>http://arxiv.org/abs/2512.21204v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mahi Luthra, Jiayi Shen, Maxime Poli, Angelo Ortiz, Yosuke Higuchi, Youssef Benchekroun, Martin Gleize, Charles-Eric Saint-James&lt;/p&gt;&lt;p&gt;Human infants, with only a few hundred hours of speech exposure, acquire basic units of new languages, highlighting a striking efficiency gap compared to the data-hungry self-supervised speech models. To address this gap, this paper introduces SpidR-Adapt for rapid adaptation to new languages using minimal unlabeled data. We cast such low-resource speech representation learning as a meta-learning problem and construct a multi-task adaptive pre-training (MAdaPT) protocol which formulates the adaptation process as a bi-level optimization framework&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.21204v1</guid>
-      <pubDate>Wed, 24 Dec 2025 14:33:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Causal-driven attribution (CDA): Estimating channel influence without user-level data</title>
-      <link>http://arxiv.org/abs/2512.21211v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Georgios Filippou, Boi Mai Quach, Diana Lenghel, Arthur White, Ashish Kumar Jha&lt;/p&gt;&lt;p&gt;Attribution modelling lies at the heart of marketing effectiveness, yet most existing approaches depend on user-level path data, which are increasingly inaccessible due to privacy regulations and platform restrictions. This paper introduces a Causal-Driven Attribution (CDA) framework that infers channel influence using only aggregated impression-level data, avoiding any reliance on user identifiers or click-path tracking. CDA integrates temporal causal discovery (using PCMCI) with causal effect estimation via a Structural Causal Model to recover directional channel relationships and quantify t&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.21211v1</guid>
-      <pubDate>Wed, 24 Dec 2025 14:51:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic</title>
-      <link>http://arxiv.org/abs/2512.21220v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Le Wang, Zonghao Ying, Xiao Yang, Quanchen Zou, Zhenfei Yin, Tianlin Li, Jian Yang, Yaodong Yang&lt;/p&gt;&lt;p&gt;Embodied agents powered by vision-language models (VLMs) are increasingly capable of executing complex real-world tasks, yet they remain vulnerable to hazardous instructions that may trigger unsafe behaviors. Runtime safety guardrails, which intercept hazardous actions during task execution, offer a promising solution due to their flexibility. However, existing defenses often rely on static rule filters or prompt-level control, which struggle to address implicit risks arising in dynamic, temporally dependent, and context-rich environments&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.21220v1</guid>
-      <pubDate>Wed, 24 Dec 2025 15:01:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval</title>
-      <link>http://arxiv.org/abs/2512.21221v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dao Sy Duy Minh, Huynh Trung Kiet, Nguyen Lam Phu Quy, Phu-Hoa Pham, Tran Chi Nguyen&lt;/p&gt;&lt;p&gt;Retrieving images from natural language descriptions is a core task at the intersection of computer vision and natural language processing, with wide-ranging applications in search engines, media archiving, and digital content management. However, real-world image-text retrieval remains challenging due to vague or context-dependent queries, linguistic variability, and the need for scalable solutions. In this work, we propose a lightweight two-stage retrieval pipeline that leverages event-centric entity extraction to incorporate temporal and contextual signals from real-world captions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.21221v1</guid>
-      <pubDate>Wed, 24 Dec 2025 15:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation</title>
-      <link>http://arxiv.org/abs/2512.21227v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiao-Qi Han, Ze-Feng Gao, Peng-Jie Guo, Zhong-Yi Lu&lt;/p&gt;&lt;p&gt;In this work, we introduce PhononBench, the first large-scale benchmark for dynamical stability in AI-generated crystals. Leveraging the recently developed MatterSim interatomic potential, which achieves DFT-level accuracy in phonon predictions across more than 10,000 materials, PhononBench enables efficient large-scale phonon calculations and dynamical-stability analysis for 108,843 crystal structures generated by six leading crystal generation models. PhononBench reveals a widespread limitation of current generative models in ensuring dynamical stability: the average dynamical-stability rate&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.21227v1</guid>
-      <pubDate>Wed, 24 Dec 2025 15:07:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking</title>
-      <link>http://arxiv.org/abs/2512.21236v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yifan Huang, Xiaojun Jia, Wenbo Guo, Yuqiang Sun, Yihao Huang, Chong Wang, Yang Liu&lt;/p&gt;&lt;p&gt;Large language models (LLMs) have revolutionized software development through AI-assisted coding tools, enabling developers with limited programming expertise to create sophisticated applications. However, this accessibility extends to malicious actors who may exploit these powerful tools to generate harmful software. Existing jailbreaking research primarily focuses on general attack scenarios against LLMs, with limited exploration of malicious code generation as a jailbreak target&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.21236v1</guid>
-      <pubDate>Wed, 24 Dec 2025 15:25:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Dec 2025 03:25:51 +0000</lastBuildDate>
     <item>
       <title>Improving the Convergence Rate of Ray Search Optimization for Query-Efficient Hard-Label Attacks</title>
       <link>http://arxiv.org/abs/2512.21241v1</link>
