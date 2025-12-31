@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 30 Dec 2025 03:38:08 +0000</lastBuildDate>
-    <item>
-      <title>Trustworthy Machine Learning under Distribution Shifts</title>
-      <link>http://arxiv.org/abs/2512.23524v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhuo Huang&lt;/p&gt;&lt;p&gt;Machine Learning (ML) has been a foundational topic in artificial intelligence (AI), providing both theoretical groundwork and practical tools for its exciting advancements. From ResNet for visual recognition to Transformer for vision-language alignment, the AI models have achieved superior capability to humans. Furthermore, the scaling law has enabled AI to initially develop general intelligence, as demonstrated by Large Language Models (LLMs)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.23524v1</guid>
-      <pubDate>Mon, 29 Dec 2025 15:02:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>AnyMS: Bottom-up Attention Decoupling for Layout-guided and Training-free Multi-subject Customization</title>
-      <link>http://arxiv.org/abs/2512.23537v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Binhe Yu, Zhen Wang, Kexin Li, Yuqian Yuan, Wenqiao Zhang, Long Chen, Juncheng Li, Jun Xiao&lt;/p&gt;&lt;p&gt;Multi-subject customization aims to synthesize multiple user-specified subjects into a coherent image. To address issues such as subjects missing or conflicts, recent works incorporate layout guidance to provide explicit spatial constraints. However, existing methods still struggle to balance three critical objectives: text alignment, subject identity preservation, and layout control, while the reliance on additional training further limits their scalability and efficiency&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.23537v1</guid>
-      <pubDate>Mon, 29 Dec 2025 15:26:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 31 Dec 2025 03:27:57 +0000</lastBuildDate>
     <item>
       <title>Act2Goal: From World Model To General Goal-conditioned Policy</title>
       <link>http://arxiv.org/abs/2512.23541v1</link>
@@ -74,7 +60,7 @@
     <item>
       <title>The Nonstationarity-Complexity Tradeoff in Return Prediction</title>
       <link>http://arxiv.org/abs/2512.23596v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Agostino Capponi, Chengpiao Huang, J. Antonio Sidaoui, Kaizheng Wang, Jiacheng Zou&lt;/p&gt;&lt;p&gt;We investigate machine learning models for stock return prediction in non-stationary environments, revealing a fundamental nonstationarity-complexity tradeoff: complex models reduce misspecification error but require longer training windows that introduce stronger non- stationarity. We resolve this tension with a novel model selection method that jointly optimizes model class and training window size using a tournament procedure that adaptively evaluates candidates on non-stationary validation data. Our theoretical analysis demonstrates that this approach balances misspecification error, estim&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Agostino Capponi, Chengpiao Huang, J. Antonio Sidaoui, Kaizheng Wang, Jiacheng Zou&lt;/p&gt;&lt;p&gt;We investigate machine learning models for stock return prediction in non-stationary environments, revealing a fundamental nonstationarity-complexity tradeoff: complex models reduce misspecification error but require longer training windows that introduce stronger non-stationarity. We resolve this tension with a novel model selection method that jointly optimizes model class and training window size using a tournament procedure that adaptively evaluates candidates on non-stationary validation data. Our theoretical analysis demonstrates that this approach balances misspecification error, estima&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
       <guid isPermaLink="false">2512.23596v1</guid>
       <pubDate>Mon, 29 Dec 2025 16:49:19 +0000</pubDate>
     </item>
