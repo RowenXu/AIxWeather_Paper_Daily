@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Jan 2026 03:51:50 +0000</lastBuildDate>
-    <item>
-      <title>Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach</title>
-      <link>http://arxiv.org/abs/2512.24927v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuchen Jiao, Na Li, Changxiao Cai, Gen Li&lt;/p&gt;&lt;p&gt;Higher-order ODE solvers have become a standard tool for accelerating diffusion probabilistic model (DPM) sampling, motivating the widespread view that first-order methods are inherently slower and that increasing discretization order is the primary path to faster generation. This paper challenges this belief and revisits acceleration from a complementary angle: beyond solver order, the placement of DPM evaluations along the reverse-time dynamics can substantially affect sampling accuracy in the low-neural function evaluation (NFE) regime.   We propose a novel training-free, first-order sample&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2512.24927v1</guid>
-      <pubDate>Wed, 31 Dec 2025 15:35:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Jan 2026 03:41:31 +0000</lastBuildDate>
     <item>
       <title>Iterative Deployment Improves Planning Skills in LLMs</title>
       <link>http://arxiv.org/abs/2512.24940v1</link>
