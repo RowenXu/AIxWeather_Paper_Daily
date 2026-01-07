@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Jan 2026 03:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 03:40:04 +0000</lastBuildDate>
     <item>
-      <title>Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting</title>
-      <link>http://arxiv.org/abs/2601.02151v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Muxi Diao, Lele Yang, Wuxuan Gong, Yutong Zhang, Zhonghao Yan, Yufei Han, Kongming Liang, Weiran Xu&lt;/p&gt;&lt;p&gt;Supervised Fine-Tuning (SFT) is the standard paradigm for domain adaptation, yet it frequently incurs the cost of catastrophic forgetting. In sharp contrast, on-policy Reinforcement Learning (RL) effectively preserves general capabilities. We investigate this discrepancy and identify a fundamental distributional gap: while RL aligns with the model's internal belief, SFT forces the model to fit external supervision&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02151v1</guid>
-      <pubDate>Mon, 05 Jan 2026 14:28:17 +0000</pubDate>
+      <title>Prompt-Counterfactual Explanations for Generative AI System Behavior</title>
+      <link>http://arxiv.org/abs/2601.03156v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sofie Goethals, Foster Provost, João Sedoc&lt;/p&gt;&lt;p&gt;As generative AI systems become integrated into real-world applications, organizations increasingly need to be able to understand and interpret their behavior. In particular, decision-makers need to understand what causes generative AI systems to exhibit specific output characteristics. Within this general topic, this paper examines a key question: what is it about the input -the prompt- that causes an LLM-based generative AI system to produce output that exhibits specific characteristics, such as toxicity, negative sentiment, or political bias&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03156v1</guid>
+      <pubDate>Tue, 06 Jan 2026 16:33:19 +0000</pubDate>
     </item>
     <item>
-      <title>Multi-fidelity graph-based neural networks architectures to learn Navier-Stokes solutions on non-parametrized 2D domains</title>
-      <link>http://arxiv.org/abs/2601.02157v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Francesco Songia, Raoul Sallé de Chou, Hugues Talbot, Irene Vignon-Clementel&lt;/p&gt;&lt;p&gt;We propose a graph-based, multi-fidelity learning framework for the prediction of stationary Navier--Stokes solutions in non-parametrized two-dimensional geometries. The method is designed to guide the learning process through successive approximations, starting from reduced-order and full Stokes models, and progressively approaching the Navier--Stokes solution. To effectively capture both local and long-range dependencies in the velocity and pressure fields, we combine graph neural networks with Transformer and Mamba architectures&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02157v1</guid>
-      <pubDate>Mon, 05 Jan 2026 14:35:59 +0000</pubDate>
+      <title>Rapid Augmentations for Time Series (RATS): A High-Performance Library for Time Series Augmentation</title>
+      <link>http://arxiv.org/abs/2601.03159v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wadie Skaf, Felix Kern, Aryamaan Basu Roy, Tejas Pradhan, Roman Kalkreuth, Holger Hoos&lt;/p&gt;&lt;p&gt;Time series augmentation is critical for training robust deep learning models, particularly in domains where labelled data is scarce and expensive to obtain. However, existing augmentation libraries for time series, mainly written in Python, suffer from performance bottlenecks, where running time grows exponentially as dataset sizes increase -- an aspect limiting their applicability in large-scale, production-grade systems. We introduce RATS (Rapid Augmentations for Time Series), a high-performance library for time series augmentation written in Rust with Python bindings (RATSpy)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03159v1</guid>
+      <pubDate>Tue, 06 Jan 2026 16:33:51 +0000</pubDate>
     </item>
     <item>
-      <title>FormationEval, an open multiple-choice benchmark for petroleum geoscience</title>
-      <link>http://arxiv.org/abs/2601.02158v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Almaz Ermilov&lt;/p&gt;&lt;p&gt;This paper presents FormationEval, an open multiple-choice question benchmark for evaluating language models on petroleum geoscience and subsurface disciplines. The dataset contains 505 questions across seven domains including petrophysics, petroleum geology and reservoir engineering, derived from three authoritative sources using a reasoning model with detailed instructions and a concept-based approach that avoids verbatim copying of copyrighted text. Each question includes source metadata to support traceability and audit&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02158v1</guid>
-      <pubDate>Mon, 05 Jan 2026 14:36:02 +0000</pubDate>
+      <title>Multi-Modal Data-Enhanced Foundation Models for Prediction and Control in Wireless Networks: A Survey</title>
+      <link>http://arxiv.org/abs/2601.03181v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Han Zhang, Mohammad Farzanullah, Mohammad Ghassemi, Akram Bin Sediq, Ali Afana, Melike Erol-Kantarci&lt;/p&gt;&lt;p&gt;Foundation models (FMs) are recognized as a transformative breakthrough that has started to reshape the future of artificial intelligence (AI) across both academia and industry. The integration of FMs into wireless networks is expected to enable the development of general-purpose AI agents capable of handling diverse network management requests and highly complex wireless-related tasks involving multi-modal data. Inspired by these ideas, this work discusses the utilization of FMs, especially multi-modal FMs in wireless networks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03181v1</guid>
+      <pubDate>Tue, 06 Jan 2026 16:59:29 +0000</pubDate>
     </item>
     <item>
-      <title>EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning</title>
-      <link>http://arxiv.org/abs/2601.02163v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chuanrui Hu, Xingze Gao, Zuyi Zhou, Dannong Xu, Yi Bai, Xintong Li, Hui Zhang, Tong Li&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) are increasingly deployed as long-term interactive agents, yet their limited context windows make it difficult to sustain coherent behavior over extended interactions. Existing memory systems often store isolated records and retrieve fragments, limiting their ability to consolidate evolving user states and resolve conflicts. We introduce EverMemOS, a self-organizing memory operating system that implements an engram-inspired lifecycle for computational memory&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02163v1</guid>
-      <pubDate>Mon, 05 Jan 2026 14:39:43 +0000</pubDate>
+      <title>Decentralized Autoregressive Generation</title>
+      <link>http://arxiv.org/abs/2601.03184v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Stepan Maschan, Haoxuan Qu, Jun Liu&lt;/p&gt;&lt;p&gt;We present a theoretical analysis of decentralization of autoregressive generation. We define the Decentralized Discrete Flow Matching objective, by expressing probability generating velocity as a linear combination of expert flows. We also conduct experiments demonstrat- ing the equivalence between decentralized and centralized training settings for multimodal language models across diverse set of benchmarks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03184v1</guid>
+      <pubDate>Tue, 06 Jan 2026 17:07:27 +0000</pubDate>
     </item>
     <item>
-      <title>Streaming Hallucination Detection in Long Chain-of-Thought Reasoning</title>
-      <link>http://arxiv.org/abs/2601.02170v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haolang Lu, Minghui Pan, Ripeng Li, Guoshun Nan, Jialin Zhuang, Zijie Zhao, Zhongxiang Sun, Kun Wang&lt;/p&gt;&lt;p&gt;Long chain-of-thought (CoT) reasoning improves the performance of large language models, yet hallucinations in such settings often emerge subtly and propagate across reasoning steps. We suggest that hallucination in long CoT reasoning is better understood as an evolving latent state rather than a one-off erroneous event. Accordingly, we treat step-level hallucination judgments as local observations and introduce a cumulative prefix-level hallucination signal that tracks the global evolution of the reasoning state over the entire trajectory&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02170v1</guid>
-      <pubDate>Mon, 05 Jan 2026 14:47:41 +0000</pubDate>
+      <title>AnatomiX, an Anatomy-Aware Grounded Multimodal Large Language Model for Chest X-Ray Interpretation</title>
+      <link>http://arxiv.org/abs/2601.03191v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anees Ur Rehman Hashmi, Numan Saeed, Christoph Lippert&lt;/p&gt;&lt;p&gt;Multimodal medical large language models have shown impressive progress in chest X-ray interpretation but continue to face challenges in spatial reasoning and anatomical understanding. Although existing grounding techniques improve overall performance, they often fail to establish a true anatomical correspondence, resulting in incorrect anatomical understanding in the medical domain. To address this gap, we introduce AnatomiX, a multitask multimodal large language model explicitly designed for anatomically grounded chest X-ray interpretation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03191v1</guid>
+      <pubDate>Tue, 06 Jan 2026 17:13:23 +0000</pubDate>
     </item>
     <item>
-      <title>Learning with Monotone Adversarial Corruptions</title>
-      <link>http://arxiv.org/abs/2601.02193v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kasper Green Larsen, Chirag Pabbaraju, Abhishek Shetty&lt;/p&gt;&lt;p&gt;We study the extent to which standard machine learning algorithms rely on exchangeability and independence of data by introducing a monotone adversarial corruption model. In this model, an adversary, upon looking at a "clean" i.i.d. dataset, inserts additional "corrupted" points of their choice into the dataset&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02193v1</guid>
-      <pubDate>Mon, 05 Jan 2026 15:16:26 +0000</pubDate>
+      <title>UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision</title>
+      <link>http://arxiv.org/abs/2601.03193v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruiyan Han, Zhen Fang, XinYu Sun, Yuchen Ma, Ziheng Wang, Yu Zeng, Zehui Chen, Lin Chen&lt;/p&gt;&lt;p&gt;While Unified Multimodal Models (UMMs) have achieved remarkable success in cross-modal comprehension, a significant gap persists in their ability to leverage such internal knowledge for high-quality generation. We formalize this discrepancy as Conduction Aphasia, a phenomenon where models accurately interpret multimodal inputs but struggle to translate that understanding into faithful and controllable synthesis. To address this, we propose UniCorn, a simple yet elegant self-improvement framework that eliminates the need for external data or teacher supervision&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03193v1</guid>
+      <pubDate>Tue, 06 Jan 2026 17:15:50 +0000</pubDate>
     </item>
     <item>
-      <title>Code for Machines, Not Just Humans: Quantifying AI-Friendliness with Code Health Metrics</title>
-      <link>http://arxiv.org/abs/2601.02200v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Markus Borg, Nadim Hagatulah, Adam Tornhill, Emma Söderberg&lt;/p&gt;&lt;p&gt;We are entering a hybrid era in which human developers and AI coding agents work in the same codebases. While industry practice has long optimized code for human comprehension, it is increasingly important to ensure that LLMs with different capabilities can edit code reliably. In this study, we investigate the concept of ``AI-friendly code'' via LLM-based refactoring on a dataset of 5,000 Python files from competitive programming&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02200v1</guid>
-      <pubDate>Mon, 05 Jan 2026 15:23:55 +0000</pubDate>
+      <title>DIP: Dynamic In-Context Planner For Diffusion Language Models</title>
+      <link>http://arxiv.org/abs/2601.03199v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yang Li, Han Meng, Chenan Wang, Haipeng Chen&lt;/p&gt;&lt;p&gt;Diffusion language models (DLMs) have shown strong potential for general natural language tasks with in-context examples. However, due to the bidirectional attention mechanism, DLMs incur substantial computational cost as context length increases. This work addresses this issue with a key discovery: unlike the sequential generation in autoregressive language models (ARLMs), the diffusion generation paradigm in DLMs allows \textit{efficient dynamic adjustment of the context} during generation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03199v1</guid>
+      <pubDate>Tue, 06 Jan 2026 17:24:16 +0000</pubDate>
     </item>
     <item>
-      <title>NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation</title>
-      <link>http://arxiv.org/abs/2601.02204v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Huichao Zhang, Liao Qu, Yiheng Liu, Hang Chen, Yangyang Song, Yongsheng Dong, Shikun Sun, Xian Li&lt;/p&gt;&lt;p&gt;We present NextFlow, a unified decoder-only autoregressive transformer trained on 6 trillion interleaved text-image discrete tokens. By leveraging a unified vision representation within a unified autoregressive architecture, NextFlow natively activates multimodal understanding and generation capabilities, unlocking abilities of image editing, interleaved content and video generation. Motivated by the distinct nature of modalities - where text is strictly sequential and images are inherently hierarchical - we retain next-token prediction for text but adopt next-scale prediction for visual gener&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02204v1</guid>
-      <pubDate>Mon, 05 Jan 2026 15:27:04 +0000</pubDate>
+      <title>Recursive querying of neural networks via weighted structures</title>
+      <link>http://arxiv.org/abs/2601.03201v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Martin Grohe, Christoph Standke, Juno Steegmans, Jan Van den Bussche&lt;/p&gt;&lt;p&gt;Expressive querying of machine learning models - viewed as a form of intentional data - enables their verification and interpretation using declarative languages, thereby making learned representations of data more accessible. Motivated by the querying of feedforward neural networks, we investigate logics for weighted structures. In the absence of a bound on neural network depth, such logics must incorporate recursion; thereto we revisit the functional fixpoint mechanism proposed by Grädel and Gurevich&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03201v1</guid>
+      <pubDate>Tue, 06 Jan 2026 17:30:44 +0000</pubDate>
     </item>
     <item>
-      <title>Seeing the Unseen: Zooming in the Dark with Event Cameras</title>
-      <link>http://arxiv.org/abs/2601.02206v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dachun Kai, Zeyu Xiao, Huyue Zhu, Jiaxiao Wang, Yueyi Zhang, Xiaoyan Sun&lt;/p&gt;&lt;p&gt;This paper addresses low-light video super-resolution (LVSR), aiming to restore high-resolution videos from low-light, low-resolution (LR) inputs. Existing LVSR methods often struggle to recover fine details due to limited contrast and insufficient high-frequency information. To overcome these challenges, we present RetinexEVSR, the first event-driven LVSR framework that leverages high-contrast event signals and Retinex-inspired priors to enhance video quality under low-light scenarios&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02206v1</guid>
-      <pubDate>Mon, 05 Jan 2026 15:31:07 +0000</pubDate>
+      <title>Counterfactual Fairness with Graph Uncertainty</title>
+      <link>http://arxiv.org/abs/2601.03203v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Davi Valério, Chrysoula Zerva, Mariana Pinto, Ricardo Santos, André Carreiro&lt;/p&gt;&lt;p&gt;Evaluating machine learning (ML) model bias is key to building trustworthy and robust ML systems. Counterfactual Fairness (CF) audits allow the measurement of bias of ML models with a causal framework, yet their conclusions rely on a single causal graph that is rarely known with certainty in real-world scenarios. We propose CF with Graph Uncertainty (CF-GU), a bias evaluation procedure that incorporates the uncertainty of specifying a causal graph into CF&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03203v1</guid>
+      <pubDate>Tue, 06 Jan 2026 17:33:26 +0000</pubDate>
     </item>
     <item>
-      <title>LLM-Empowered Functional Safety and Security by Design in Automotive Systems</title>
-      <link>http://arxiv.org/abs/2601.02215v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nenad Petrovic, Vahid Zolfaghari, Fengjunjie Pan, Alois Knoll&lt;/p&gt;&lt;p&gt;This paper presents LLM-empowered workflow to support Software Defined Vehicle (SDV) software development, covering the aspects of security-aware system topology design, as well as event-driven decision-making code analysis. For code analysis we adopt event chains model which provides formal foundations to systematic validation of functional safety, taking into account the semantic validity of messages exchanged between key components, including both CAN and Vehicle Signal Specification (VSS). Analysis of security aspects for topology relies on synergy with Model-Driven Engineering (MDE) appro&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02215v1</guid>
-      <pubDate>Mon, 05 Jan 2026 15:37:08 +0000</pubDate>
+      <title>InfiAgent: An Infinite-Horizon Framework for General-Purpose Autonomous Agents</title>
+      <link>http://arxiv.org/abs/2601.03204v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chenglin Yu, Yuchen Wang, Songmiao Wang, Hongxia Yang, Ming Li&lt;/p&gt;&lt;p&gt;LLM agents can reason and use tools, but they often break down on long-horizon tasks due to unbounded context growth and accumulated errors. Common remedies such as context compression or retrieval-augmented prompting introduce trade-offs between information fidelity and reasoning stability. We present InfiAgent, a general-purpose framework that keeps the agent's reasoning context strictly bounded regardless of task duration by externalizing persistent state into a file-centric state abstraction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03204v1</guid>
+      <pubDate>Tue, 06 Jan 2026 17:35:57 +0000</pubDate>
     </item>
     <item>
-      <title>From Mice to Trains: Amortized Bayesian Inference on Graph Data</title>
-      <link>http://arxiv.org/abs/2601.02241v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Svenja Jedhoff, Elizaveta Semenova, Aura Raulo, Anne Meyer, Paul-Christian Bürkner&lt;/p&gt;&lt;p&gt;Graphs arise across diverse domains, from biology and chemistry to social and information networks, as well as in transportation and logistics. Inference on graph-structured data requires methods that are permutation-invariant, scalable across varying sizes and sparsities, and capable of capturing complex long-range dependencies, making posterior estimation on graph parameters particularly challenging. Amortized Bayesian Inference (ABI) is a simulation-based framework that employs generative neural networks to enable fast, likelihood-free posterior inference&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02241v1</guid>
-      <pubDate>Mon, 05 Jan 2026 16:16:28 +0000</pubDate>
+      <title>UltraLogic: Enhancing LLM Reasoning through Large-Scale Data Synthesis and Bipolar Float Reward</title>
+      <link>http://arxiv.org/abs/2601.03205v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yile Liu, Yixian Liu, Zongwei Li, Yufei Huang, Xinhua Feng, Zhichao Hu, Jinglu Hu, Jianfeng Yan&lt;/p&gt;&lt;p&gt;While Large Language Models (LLMs) have demonstrated significant potential in natural language processing , complex general-purpose reasoning requiring multi-step logic, planning, and verification remains a critical bottleneck. Although Reinforcement Learning with Verifiable Rewards (RLVR) has succeeded in specific domains , the field lacks large-scale, high-quality, and difficulty-calibrated data for general reasoning. To address this, we propose UltraLogic, a framework that decouples the logical core of a problem from its natural language expression through a Code-based Solving methodology t&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03205v1</guid>
+      <pubDate>Tue, 06 Jan 2026 17:41:32 +0000</pubDate>
     </item>
     <item>
-      <title>VIBE: Visual Instruction Based Editor</title>
-      <link>http://arxiv.org/abs/2601.02242v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Grigorii Alekseenko, Aleksandr Gordeev, Irina Tolstykh, Bulat Suleimanov, Vladimir Dokholyan, Georgii Fedorov, Sergey Yakubson, Aleksandra Tsybina&lt;/p&gt;&lt;p&gt;Instruction-based image editing is among the fastest developing areas in generative AI. Over the past year, the field has reached a new level, with dozens of open-source models released alongside highly capable commercial systems. However, only a limited number of open-source approaches currently achieve real-world quality&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02242v1</guid>
-      <pubDate>Mon, 05 Jan 2026 16:17:20 +0000</pubDate>
+      <title>Fine-tuning Small Language Models as Efficient Enterprise Search Relevance Labelers</title>
+      <link>http://arxiv.org/abs/2601.03211v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yue Kang, Zhuoyi Huang, Benji Schussheim, Diana Licon, Dina Atia, Shixing Cao, Jacob Danovitch, Kunho Kim&lt;/p&gt;&lt;p&gt;In enterprise search, building high-quality datasets at scale remains a central challenge due to the difficulty of acquiring labeled data. To resolve this challenge, we propose an efficient approach to fine-tune small language models (SLMs) for accurate relevance labeling, enabling high-throughput, domain-specific labeling comparable or even better in quality to that of state-of-the-art large language models (LLMs). To overcome the lack of high-quality and accessible datasets in the enterprise domain, our method leverages on synthetic data generation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03211v1</guid>
+      <pubDate>Tue, 06 Jan 2026 17:48:40 +0000</pubDate>
     </item>
     <item>
-      <title>A Comparative Study of Custom CNNs, Pre-trained Models, and Transfer Learning Across Multiple Visual Datasets</title>
-      <link>http://arxiv.org/abs/2601.02246v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Annoor Sharara Akhand&lt;/p&gt;&lt;p&gt;Convolutional Neural Networks (CNNs) are a standard approach for visual recognition due to their capacity to learn hierarchical representations from raw pixels. In practice, practitioners often choose among (i) training a compact custom CNN from scratch, (ii) using a large pre-trained CNN as a fixed feature extractor, and (iii) performing transfer learning via partial or full fine-tuning of a pre-trained backbone. This report presents a controlled comparison of these three paradigms across five real-world image classification datasets spanning road-surface defect recognition, agricultural vari&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02246v1</guid>
-      <pubDate>Mon, 05 Jan 2026 16:26:32 +0000</pubDate>
+      <title>From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence</title>
+      <link>http://arxiv.org/abs/2601.03220v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marc Finzi, Shikai Qiu, Yiding Jiang, Pavel Izmailov, J. Zico Kolter, Andrew Gordon Wilson&lt;/p&gt;&lt;p&gt;Can we learn more from data than existed in the generating process itself? Can new and useful information be constructed from merely applying deterministic transformations to existing data? Can the learnable content in data be evaluated without considering a downstream task? On these questions, Shannon information and Kolmogorov complexity come up nearly empty-handed, in part because they assume observers with unlimited computational capacity and fail to target the useful information content. In this work, we identify and exemplify three seeming paradoxes in information theory: (1) information&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03220v1</guid>
+      <pubDate>Tue, 06 Jan 2026 18:04:03 +0000</pubDate>
     </item>
     <item>
-      <title>TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmenters for Thin-Structure and Cross-Domain Binary Semantic Segmentation</title>
-      <link>http://arxiv.org/abs/2601.02273v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Salim Khazem&lt;/p&gt;&lt;p&gt;Foundation segmentation models such as the Segment Anything Model (SAM) exhibit strong zero-shot generalization through large-scale pretraining, but adapting them to domain-specific semantic segmentation remains challenging, particularly for thin structures (e.g., retinal vessels) and noisy modalities (e.g., SAR imagery). Full fine-tuning is computationally expensive and risks catastrophic forgetting. We propose \textbf{TopoLoRA-SAM}, a topology-aware and parameter-efficient adaptation framework for binary semantic segmentation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02273v1</guid>
-      <pubDate>Mon, 05 Jan 2026 17:03:45 +0000</pubDate>
+      <title>The Fake Friend Dilemma: Trust and the Political Economy of Conversational AI</title>
+      <link>http://arxiv.org/abs/2601.03222v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jacob Erickson&lt;/p&gt;&lt;p&gt;As conversational AI systems become increasingly integrated into everyday life, they raise pressing concerns about user autonomy, trust, and the commercial interests that influence their behavior. To address these concerns, this paper develops the Fake Friend Dilemma (FFD), a sociotechnical condition in which users place trust in AI agents that appear supportive while pursuing goals that are misaligned with the user's own. The FFD provides a critical framework for examining how anthropomorphic AI systems facilitate subtle forms of manipulation and exploitation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03222v1</guid>
+      <pubDate>Tue, 06 Jan 2026 18:07:52 +0000</pubDate>
     </item>
     <item>
-      <title>Placement Semantics for Distributed Deep Learning: A Systematic Framework for Analyzing Parallelism Strategies</title>
-      <link>http://arxiv.org/abs/2601.02311v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Deep Pankajbhai Mehta&lt;/p&gt;&lt;p&gt;Training large language models requires distributing computation across many accelerators, yet practitioners select parallelism strategies (data, tensor, pipeline, ZeRO) through trial and error because no unified systematic framework predicts their behavior. We introduce placement semantics: each strategy is specified by how it places four training states (parameters, optimizer, gradients, activations) across devices using five modes (replicated, sharded, sharded-with-gather, materialized, offloaded). From placement alone, without implementation details, we derive memory consumption and commun&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02311v1</guid>
-      <pubDate>Mon, 05 Jan 2026 18:01:38 +0000</pubDate>
+      <title>The Sonar Moment: Benchmarking Audio-Language Models in Audio Geo-Localization</title>
+      <link>http://arxiv.org/abs/2601.03227v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruixing Zhang, Zihan Liu, Leilei Sun, Tongyu Zhu, Weifeng Lv&lt;/p&gt;&lt;p&gt;Geo-localization aims to infer the geographic origin of a given signal. In computer vision, geo-localization has served as a demanding benchmark for compositional reasoning and is relevant to public safety. In contrast, progress on audio geo-localization has been constrained by the lack of high-quality audio-location pairs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03227v1</guid>
+      <pubDate>Tue, 06 Jan 2026 18:13:24 +0000</pubDate>
     </item>
     <item>
-      <title>Project Ariadne: A Structural Causal Framework for Auditing Faithfulness in LLM Agents</title>
-      <link>http://arxiv.org/abs/2601.02314v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sourena Khanzadeh&lt;/p&gt;&lt;p&gt;As Large Language Model (LLM) agents are increasingly tasked with high-stakes autonomous decision-making, the transparency of their reasoning processes has become a critical safety concern. While \textit{Chain-of-Thought} (CoT) prompting allows agents to generate human-readable reasoning traces, it remains unclear whether these traces are \textbf{faithful} generative drivers of the model's output or merely \textbf{post-hoc rationalizations}. We introduce \textbf{Project Ariadne}, a novel XAI framework that utilizes Structural Causal Models (SCMs) and counterfactual logic to audit the causal in&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02314v1</guid>
-      <pubDate>Mon, 05 Jan 2026 18:05:29 +0000</pubDate>
+      <title>Multi-RADS Synthetic Radiology Report Dataset and Head-to-Head Benchmarking of 41 Open-Weight and Proprietary Language Models</title>
+      <link>http://arxiv.org/abs/2601.03232v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kartik Bose, Abhinandan Kumar, Raghuraman Soundararajan, Priya Mudgil, Samonee Ralmilay, Niharika Dutta, Manphool Singhal, Arun Kumar&lt;/p&gt;&lt;p&gt;Background: Reporting and Data Systems (RADS) standardize radiology risk communication but automated RADS assignment from narrative reports is challenging because of guideline complexity, output-format constraints, and limited benchmarking across RADS frameworks and model sizes. Purpose: To create RXL-RADSet, a radiologist-verified synthetic multi-RADS benchmark, and compare validity and accuracy of open-weight small language models (SLMs) with a proprietary model for RADS assignment. Materials and Methods: RXL-RADSet contains 1,600 synthetic radiology reports across 10 RADS (BI-RADS, CAD-RADS&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03232v1</guid>
+      <pubDate>Tue, 06 Jan 2026 18:18:44 +0000</pubDate>
     </item>
     <item>
-      <title>DatBench: Discriminative, Faithful, and Efficient VLM Evaluations</title>
-      <link>http://arxiv.org/abs/2601.02316v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Siddharth Joshi, Haoli Yin, Rishabh Adiga, Ricardo Monti, Aldo Carranza, Alex Fang, Alvin Deng, Amro Abbas&lt;/p&gt;&lt;p&gt;Empirical evaluation serves as the primary compass guiding research progress in foundation models. Despite a large body of work focused on training frontier vision-language models (VLMs), approaches to their evaluation remain nascent. To guide their maturation, we propose three desiderata that evaluations should satisfy: (1) faithfulness to the modality and application, (2) discriminability between models of varying quality, and (3) efficiency in compute&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02316v1</guid>
-      <pubDate>Mon, 05 Jan 2026 18:07:51 +0000</pubDate>
+      <title>Shallow-circuit Supervised Learning on a Quantum Processor</title>
+      <link>http://arxiv.org/abs/2601.03235v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Luca Candelori, Swarnadeep Majumder, Antonio Mezzacapo, Javier Robledo Moreno, Kharen Musaelian, Santhanam Nagarajan, Sunil Pinnamaneni, Kunal Sharma&lt;/p&gt;&lt;p&gt;Quantum computing has long promised transformative advances in data analysis, yet practical quantum machine learning has remained elusive due to fundamental obstacles such as a steep quantum cost for the loading of classical data and poor trainability of many quantum machine learning algorithms designed for near-term quantum hardware. In this work, we show that one can overcome these obstacles by using a linear Hamiltonian-based machine learning method which provides a compact quantum representation of classical data via ground state problems for k-local Hamiltonians. We use the recent sample-&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03235v1</guid>
+      <pubDate>Tue, 06 Jan 2026 18:26:53 +0000</pubDate>
     </item>
     <item>
-      <title>Microscopy system for in situ sea ice structure and biology observations</title>
-      <link>http://arxiv.org/abs/2601.02328v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lessard-Hamel Béatrice, Babin Marcel, Thibault Simon&lt;/p&gt;&lt;p&gt;Sea ice harbours a rich community of well-adapted microorganisms that inhabit liquid micro-spaces where extreme conditions prevail. Currently at risk under climate change, the sea-ice microbiome holds mysteries about evolution of life on Earth and possibly elsewhere, which require methodological innovation to be unravelled. Gaining microscopic insight into the internal structure and biology of sea ice has traditionally been limited to destructive and extrusive ice core sampling methods&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02328v1</guid>
-      <pubDate>Mon, 05 Jan 2026 18:20:27 +0000</pubDate>
+      <title>MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents</title>
+      <link>http://arxiv.org/abs/2601.03236v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dongming Jiang, Yi Li, Guanpeng Li, Bingzhe Li&lt;/p&gt;&lt;p&gt;Memory-Augmented Generation (MAG) extends Large Language Models with external memory to support long-context reasoning, but existing approaches largely rely on semantic similarity over monolithic memory stores, entangling temporal, causal, and entity information. This design limits interpretability and alignment between query intent and retrieved evidence, leading to suboptimal reasoning accuracy. In this paper, we propose MAGMA, a multi-graph agentic memory architecture that represents each memory item across orthogonal semantic, temporal, causal, and entity graphs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03236v1</guid>
+      <pubDate>Tue, 06 Jan 2026 18:29:43 +0000</pubDate>
     </item>
     <item>
-      <title>Falcon-H1R: Pushing the Reasoning Frontiers with a Hybrid Model for Efficient Test-Time Scaling</title>
-      <link>http://arxiv.org/abs/2601.02346v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Falcon LLM Team, Iheb Chaabane, Puneesh Khanna, Suhail Mohmad, Slim Frikha, Shi Hu, Abdalgader Abubaker, Reda Alami&lt;/p&gt;&lt;p&gt;This work introduces Falcon-H1R, a 7B-parameter reasoning-optimized model that establishes the feasibility of achieving competitive reasoning performance with small language models (SLMs). Falcon-H1R stands out for its parameter efficiency, consistently matching or outperforming SOTA reasoning models that are $2\times$ to $7\times$ larger across a variety of reasoning-intensive benchmarks. These results underscore the importance of careful data curation and targeted training strategies (via both efficient SFT and RL scaling) in delivering significant performance gains without increasing model &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02346v1</guid>
-      <pubDate>Mon, 05 Jan 2026 18:44:27 +0000</pubDate>
+      <title>PET-TURTLE: Deep Unsupervised Support Vector Machines for Imbalanced Data Clusters</title>
+      <link>http://arxiv.org/abs/2601.03237v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Javier Salazar Cavazos&lt;/p&gt;&lt;p&gt;Foundation vision, audio, and language models enable zero-shot performance on downstream tasks via their latent representations. Recently, unsupervised learning of data group structure with deep learning methods has gained popularity. TURTLE, a state of the art deep clustering algorithm, uncovers data labeling without supervision by alternating label and hyperplane updates, maximizing the hyperplane margin, in a similar fashion to support vector machines (SVMs)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03237v1</guid>
+      <pubDate>Tue, 06 Jan 2026 18:30:25 +0000</pubDate>
     </item>
     <item>
-      <title>DARC: Drum accompaniment generation with fine-grained rhythm control</title>
-      <link>http://arxiv.org/abs/2601.02357v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Trey Brosnan&lt;/p&gt;&lt;p&gt;In music creation, rapid prototyping is essential for exploring and refining ideas, yet existing generative tools often fall short when users require both structural control and stylistic flexibility. Prior approaches in stem-to-stem generation can condition on other musical stems but offer limited control over rhythm, and timbre-transfer methods allow users to specify specific rhythms, but cannot condition on musical context. We introduce DARC, a generative drum accompaniment model that conditions both on musical context from other stems and explicit rhythm prompts such as beatboxing or tappi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.02357v1</guid>
-      <pubDate>Mon, 05 Jan 2026 18:55:43 +0000</pubDate>
+      <title>Self-Supervised Learning from Noisy and Incomplete Data</title>
+      <link>http://arxiv.org/abs/2601.03244v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Julián Tachella, Mike Davies&lt;/p&gt;&lt;p&gt;Many important problems in science and engineering involve inferring a signal from noisy and/or incomplete observations, where the observation process is known. Historically, this problem has been tackled using hand-crafted regularization (e.g., sparsity, total-variation) to obtain meaningful estimates. Recent data-driven methods often offer better solutions by directly learning a solver from examples of ground-truth signals and associated observations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.03244v1</guid>
+      <pubDate>Tue, 06 Jan 2026 18:40:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
