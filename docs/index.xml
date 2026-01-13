@@ -7,6 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Jan 2026 03:50:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 03:38:58 +0000</lastBuildDate>
+    <item>
+      <title>SALT-KG: A Benchmark for Semantics-Aware Learning on Enterprise Tables</title>
+      <link>http://arxiv.org/abs/2601.07638v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Isaiah Onando Mulang, Felix Sasaki, Tassilo Klein, Jonas Kolk, Nikolay Grechanov, Johannes Hoffart&lt;/p&gt;&lt;p&gt;Building upon the SALT benchmark for relational prediction (Klein et al., 2024), we introduce SALT-KG, a benchmark for semantics-aware learning on enterprise tables. SALT-KG extends SALT by linking its multi-table transactional data with a structured Operational Business Knowledge represented in a Metadata Knowledge Graph (OBKG) that captures field-level descriptions, relational dependencies, and business object types. This extension enables evaluation of models that jointly reason over tabular evidence and contextual semantics, an increasingly critical capability for foundation models on stru&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07638v1</guid>
+      <pubDate>Mon, 12 Jan 2026 15:17:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dual-Level Models for Physics-Informed Multi-Step Time Series Forecasting</title>
+      <link>http://arxiv.org/abs/2601.07640v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mahdi Nasiri, Johanna Kortelainen, Simo Särkkä&lt;/p&gt;&lt;p&gt;This paper develops an approach for multi-step forecasting of dynamical systems by integrating probabilistic input forecasting with physics-informed output prediction. Accurate multi-step forecasting of time series systems is important for the automatic control and optimization of physical processes, enabling more precise decision-making. While mechanistic-based and data-driven machine learning (ML) approaches have been employed for time series forecasting, they face significant limitations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07640v1</guid>
+      <pubDate>Mon, 12 Jan 2026 15:19:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning</title>
+      <link>http://arxiv.org/abs/2601.07641v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiaxuan Lu, Ziyu Kong, Yemin Wang, Rong Fu, Haiyuan Wan, Cheng Yang, Wenjie Lou, Haoran Sun&lt;/p&gt;&lt;p&gt;The central challenge of AI for Science is not reasoning alone, but the ability to create computational methods in an open-ended scientific world. Existing LLM-based agents rely on static, pre-defined tool libraries, a paradigm that fundamentally fails in scientific domains where tools are sparse, heterogeneous, and intrinsically incomplete. In this paper, we propose Test-Time Tool Evolution (TTE), a new paradigm that enables agents to synthesize, verify, and evolve executable tools during inference&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07641v1</guid>
+      <pubDate>Mon, 12 Jan 2026 15:22:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active Evaluation of General Agents: Problem Definition and Comparison of Baseline Algorithms</title>
+      <link>http://arxiv.org/abs/2601.07651v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marc Lanctot, Kate Larson, Ian Gemp, Michael Kaisers&lt;/p&gt;&lt;p&gt;As intelligent agents become more generally-capable, i.e. able to master a wide variety of tasks, the complexity and cost of properly evaluating them rises significantly. Tasks that assess specific capabilities of the agents can be correlated and stochastic, requiring many samples for accurate comparisons, leading to added costs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07651v1</guid>
+      <pubDate>Mon, 12 Jan 2026 15:32:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Towards Automating Blockchain Consensus Verification with IsabeLLM</title>
+      <link>http://arxiv.org/abs/2601.07654v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Elliot Jones, William Knottenbelt&lt;/p&gt;&lt;p&gt;Consensus protocols are crucial for a blockchain system as they are what allow agreement between the system's nodes in a potentially adversarial environment. For this reason, it is paramount to ensure their correct design and implementation to prevent such adversaries from carrying out malicious behaviour. Formal verification allows us to ensure the correctness of such protocols, but requires high levels of effort and expertise to carry out and thus is often omitted in the development process&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07654v1</guid>
+      <pubDate>Mon, 12 Jan 2026 15:35:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reasoning Models Will Blatantly Lie About Their Reasoning</title>
+      <link>http://arxiv.org/abs/2601.07663v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; William Walden&lt;/p&gt;&lt;p&gt;It has been shown that Large Reasoning Models (LRMs) may not *say what they think*: they do not always volunteer information about how certain parts of the input influence their reasoning. But it is one thing for a model to *omit* such information and another, worse thing to *lie* about it. Here, we extend the work of Chen et al&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07663v1</guid>
+      <pubDate>Mon, 12 Jan 2026 15:43:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Variational Contrastive Learning for Skeleton-based Action Recognition</title>
+      <link>http://arxiv.org/abs/2601.07666v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dang Dinh Nguyen, Decky Aspandi Latif, Titus Zaharia&lt;/p&gt;&lt;p&gt;In recent years, self-supervised representation learning for skeleton-based action recognition has advanced with the development of contrastive learning methods. However, most of contrastive paradigms are inherently discriminative and often struggle to capture the variability and uncertainty intrinsic to human motion. To address this issue, we propose a variational contrastive learning framework that integrates probabilistic latent modeling with contrastive self-supervised learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07666v1</guid>
+      <pubDate>Mon, 12 Jan 2026 15:45:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference</title>
+      <link>http://arxiv.org/abs/2601.07667v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rei Taniguchi, Yuyang Dong, Makoto Onizuka, Chuan Xiao&lt;/p&gt;&lt;p&gt;Due to the prevalence of large language models (LLMs), key-value (KV) cache reduction for LLM inference has received remarkable attention. Among numerous works that have been proposed in recent years, layer-wise token pruning approaches, which select a subset of tokens at particular layers to retain in KV cache and prune others, are one of the most popular schemes. They primarily adopt a set of pre-defined layers, at which tokens are selected&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07667v1</guid>
+      <pubDate>Mon, 12 Jan 2026 15:47:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Predictive Analytics for Dementia: Machine Learning on Healthcare Data</title>
+      <link>http://arxiv.org/abs/2601.07685v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shafiul Ajam Opee, Nafiz Fahad, Anik Sen, Rasel Ahmed, Fariha Jahan, Md. Kishor Morol, Md Rashedul Islam&lt;/p&gt;&lt;p&gt;Dementia is a complex syndrome impacting cognitive and emotional functions, with Alzheimer's disease being the most common form. This study focuses on enhancing dementia prediction using machine learning (ML) techniques on patient health data. Supervised learning algorithms are applied in this study, including K-Nearest Neighbors (KNN), Quadratic Discriminant Analysis (QDA), Linear Discriminant Analysis (LDA), and Gaussian Process Classifiers&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07685v1</guid>
+      <pubDate>Mon, 12 Jan 2026 16:17:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluating the encoding competence of visual language models using uncommon actions</title>
+      <link>http://arxiv.org/abs/2601.07737v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chen Ling, Nai Ding&lt;/p&gt;&lt;p&gt;We propose UAIT (Uncommon-sense Action Image-Text) dataset, a new evaluation benchmark designed to test the semantic understanding ability of visual language models (VLMs) in uncommon-sense action scenes. Unlike previous datasets that focus on common visual scenes with statistical frequency advantages, UAIT challenges models with grammatically reasonable but semantically counter-common sense image-text pairs. Such tasks require models to go beyond superficial pattern recognition and demonstrate a deep understanding of agent-patient relationships and physical feasibility&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07737v1</guid>
+      <pubDate>Mon, 12 Jan 2026 17:15:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving Domain Generalization in Contrastive Learning using Adaptive Temperature Control</title>
+      <link>http://arxiv.org/abs/2601.07748v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Robert Lewis, Katie Matton, Rosalind W. Picard, John Guttag&lt;/p&gt;&lt;p&gt;Self-supervised pre-training with contrastive learning is a powerful method for learning from sparsely labeled data. However, performance can drop considerably when there is a shift in the distribution of data from training to test time. We study this phenomenon in a setting in which the training data come from multiple domains, and the test data come from a domain not seen at training that is subject to significant covariate shift&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07748v1</guid>
+      <pubDate>Mon, 12 Jan 2026 17:32:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Riesz Representer Fitting under Bregman Divergence: A Unified Framework for Debiased Machine Learning</title>
+      <link>http://arxiv.org/abs/2601.07752v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Masahiro Kato&lt;/p&gt;&lt;p&gt;Estimating the Riesz representer is a central problem in debiased machine learning for causal and structural parameter estimation. Various methods for Riesz representer estimation have been proposed, including Riesz regression and covariate balancing. This study unifies these methods within a single framework&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07752v1</guid>
+      <pubDate>Mon, 12 Jan 2026 17:36:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>DT-ICU: Towards Explainable Digital Twins for ICU Patient Monitoring via Multi-Modal and Multi-Task Iterative Inference</title>
+      <link>http://arxiv.org/abs/2601.07778v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wen Guo&lt;/p&gt;&lt;p&gt;We introduce DT-ICU, a multimodal digital twin framework for continuous risk estimation in intensive care. DT-ICU integrates variable-length clinical time series with static patient information in a unified multitask architecture, enabling predictions to be updated as new observations accumulate over the ICU stay. We evaluate DT-ICU on the large, publicly available MIMIC-IV dataset, where it consistently outperforms established baseline models under different evaluation settings&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07778v1</guid>
+      <pubDate>Mon, 12 Jan 2026 17:54:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent</title>
+      <link>http://arxiv.org/abs/2601.07779v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bowen Yang, Kaiming Jin, Zhenyu Wu, Zhaoyang Liu, Qiushi Sun, Zehao Li, JingJing Xie, Zhoumianze Liu&lt;/p&gt;&lt;p&gt;While Vision-Language Models (VLMs) have significantly advanced Computer-Using Agents (CUAs), current frameworks struggle with robustness in long-horizon workflows and generalization in novel domains. These limitations stem from a lack of granular control over historical visual context curation and the absence of visual-aware tutorial retrieval. To bridge these gaps, we introduce OS-Symphony, a holistic framework that comprises an Orchestrator coordinating two key innovations for robust automation: (1) a Reflection-Memory Agent that utilizes milestone-driven long-term memory to enable trajecto&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07779v1</guid>
+      <pubDate>Mon, 12 Jan 2026 17:55:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning</title>
+      <link>http://arxiv.org/abs/2601.07782v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wei Fang, James Glass&lt;/p&gt;&lt;p&gt;LLM agents operating over massive, dynamic tool libraries rely on effective retrieval, yet standard single-shot dense retrievers struggle with complex requests. These failures primarily stem from the disconnect between abstract user goals and technical documentation, and the limited capacity of fixed-size embeddings to model combinatorial tool compositions. To address these challenges, we propose TOOLQP, a lightweight framework that models retrieval as iterative query planning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07782v1</guid>
+      <pubDate>Mon, 12 Jan 2026 17:58:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification</title>
+      <link>http://arxiv.org/abs/2601.07790v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yahya Masri, Emily Ma, Zifu Wang, Joseph Rogers, Chaowei Yang&lt;/p&gt;&lt;p&gt;System logs are crucial for monitoring and diagnosing modern computing infrastructure, but their scale and complexity require reliable and efficient automated interpretation. Since severity levels are predefined metadata in system log messages, having a model merely classify them offers limited standalone practical value, revealing little about its underlying ability to interpret system logs. We argue that severity classification is more informative when treated as a benchmark for probing runtime log comprehension rather than as an end task&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07790v1</guid>
+      <pubDate>Mon, 12 Jan 2026 18:02:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Non-Convex Portfolio Optimization via Energy-Based Models: A Comparative Analysis Using the Thermodynamic HypergRaphical Model Library (THRML) for Index Tracking</title>
+      <link>http://arxiv.org/abs/2601.07792v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Javier Mancilla, Theodoros D. Bouloumis, Frederic Goguikian&lt;/p&gt;&lt;p&gt;Portfolio optimization under cardinality constraints transforms the classical Markowitz mean-variance problem from a convex quadratic problem into an NP-hard combinatorial optimization problem. This paper introduces a novel approach using THRML (Thermodynamic HypergRaphical Model Library), a JAX-based library for building and sampling probabilistic graphical models that reformulates index tracking as probabilistic inference on an Ising Hamiltonian. Unlike traditional methods that seek a single optimal solution, THRML samples from the Boltzmann distribution of high-quality portfolios using GPU-&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07792v1</guid>
+      <pubDate>Mon, 12 Jan 2026 18:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kinship Data Benchmark for Multi-hop Reasoning</title>
+      <link>http://arxiv.org/abs/2601.07794v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tianda Sun, Dimitar Kazakov&lt;/p&gt;&lt;p&gt;Large language models (LLMs) are increasingly evaluated on their ability to perform multi-hop reasoning, i.e., to combine multiple pieces of information into a coherent inference. We introduce KinshipQA, a benchmark designed to probe this capability through reasoning over kinship relations. The central contribution of our work is a generative pipeline that produces, on demand, large-scale, realistic, and culture-specific genealogical data: collections of interconnected family trees that satisfy explicit marriage constraints associated with different kinship systems&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07794v1</guid>
+      <pubDate>Mon, 12 Jan 2026 18:07:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation</title>
+      <link>http://arxiv.org/abs/2601.07821v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Huanyu Li, Kun Lei, Sheng Zang, Kaizhe Hu, Yongyuan Liang, Bo An, Xiaoli Li, Huazhe Xu&lt;/p&gt;&lt;p&gt;Post-training algorithms based on deep reinforcement learning can push the limits of robotic models for specific objectives, such as generalizability, accuracy, and robustness. However, Intervention-requiring Failures (IR Failures) (e.g., a robot spilling water or breaking fragile glass) during real-world exploration happen inevitably, hindering the practical deployment of such a paradigm. To tackle this, we introduce Failure-Aware Offline-to-Online Reinforcement Learning (FARL), a new paradigm minimizing failures during real-world reinforcement learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07821v1</guid>
+      <pubDate>Mon, 12 Jan 2026 18:53:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head</title>
+      <link>http://arxiv.org/abs/2601.07832v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kewei Zhang, Ye Huang, Yufan Deng, Jincheng Yu, Junsong Chen, Huan Ling, Enze Xie, Daquan Zhou&lt;/p&gt;&lt;p&gt;While the Transformer architecture dominates many fields, its quadratic self-attention complexity hinders its use in large-scale applications. Linear attention offers an efficient alternative, but its direct application often degrades performance, with existing fixes typically re-introducing computational overhead through extra modules (e.g., depthwise separable convolution) that defeat the original purpose. In this work, we identify a key failure mode in these methods: global context collapse, where the model loses representational diversity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.07832v1</guid>
+      <pubDate>Mon, 12 Jan 2026 18:59:18 +0000</pubDate>
+    </item>
   </channel>
 </rss>
