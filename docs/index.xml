@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Jan 2026 03:49:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 03:46:32 +0000</lastBuildDate>
     <item>
-      <title>From Fuzzy to Exact: The Halo Architecture for Infinite-Depth Reasoning via Rational Arithmetic</title>
-      <link>http://arxiv.org/abs/2601.18702v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hansheng Ren&lt;/p&gt;&lt;p&gt;Current paradigms in Deep Learning prioritize computational throughput over numerical precision, relying on the assumption that intelligence emerges from statistical correlation at scale. In this paper, we challenge this orthodoxy. We propose the Exactness Hypothesis: that General Intelligence (AGI), specifically high-order causal inference, requires a computational substrate capable of Arbitrary Precision Arithmetic&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18702v1</guid>
-      <pubDate>Mon, 26 Jan 2026 17:24:34 +0000</pubDate>
+      <title>Hyperbolic Additive Margin Softmax with Hierarchical Information for Speaker Verification</title>
+      <link>http://arxiv.org/abs/2601.19709v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhihua Fang, Liang He&lt;/p&gt;&lt;p&gt;Speaker embedding learning based on Euclidean space has achieved significant progress, but it is still insufficient in modeling hierarchical information within speaker features. Hyperbolic space, with its negative curvature geometric properties, can efficiently represent hierarchical information within a finite volume, making it more suitable for the feature distribution of speaker embeddings. In this paper, we propose Hyperbolic Softmax (H-Softmax) and Hyperbolic Additive Margin Softmax (HAM-Softmax) based on hyperbolic space&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19709v1</guid>
+      <pubDate>Tue, 27 Jan 2026 15:33:47 +0000</pubDate>
     </item>
     <item>
-      <title>SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model</title>
-      <link>http://arxiv.org/abs/2601.18707v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jan Hagnberger, Mathias Niepert&lt;/p&gt;&lt;p&gt;Machine learning-based surrogate models have emerged as more efficient alternatives to numerical solvers for physical simulations over complex geometries, such as car bodies. Many existing models incorporate the simulation mesh as an additional input, thereby reducing prediction errors. However, generating a simulation mesh for new geometries is computationally costly&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18707v1</guid>
-      <pubDate>Mon, 26 Jan 2026 17:34:16 +0000</pubDate>
+      <title>Component-Level Lesioning of Language Models Reveals Clinically Aligned Aphasia Phenotypes</title>
+      <link>http://arxiv.org/abs/2601.19723v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yifan Wang, Jichen Zheng, Jingyuan Sun, Yunhao Zhang, Chunyu Ye, Jixing Li, Chengqing Zong, Shaonan Wang&lt;/p&gt;&lt;p&gt;Large language models (LLMs) increasingly exhibit human-like linguistic behaviors and internal representations that they could serve as computational simulators of language cognition. We ask whether LLMs can be systematically manipulated to reproduce language-production impairments characteristic of aphasia following focal brain lesions. Such models could provide scalable proxies for testing rehabilitation hypotheses, and offer a controlled framework for probing the functional organization of language&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19723v1</guid>
+      <pubDate>Tue, 27 Jan 2026 15:47:22 +0000</pubDate>
     </item>
     <item>
-      <title>Point transformer for protein structural heterogeneity analysis using CryoEM</title>
-      <link>http://arxiv.org/abs/2601.18713v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Muyuan Chen, Muchen Li, Renjie Liao&lt;/p&gt;&lt;p&gt;Structural dynamics of macromolecules is critical to their structural-function relationship. Cryogenic electron microscopy (CryoEM) provides snapshots of vitrified protein at different compositional and conformational states, and the structural heterogeneity of proteins can be characterized through computational analysis of the images. For protein systems with multiple degrees of freedom, it is still challenging to disentangle and interpret the different modes of dynamics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18713v1</guid>
-      <pubDate>Mon, 26 Jan 2026 17:38:52 +0000</pubDate>
+      <title>RvB: Automating AI System Hardening via Iterative Red-Blue Games</title>
+      <link>http://arxiv.org/abs/2601.19726v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lige Huang, Zicheng Liu, Jie Zhang, Lewen Yan, Dongrui Liu, Jing Shao&lt;/p&gt;&lt;p&gt;The dual offensive and defensive utility of Large Language Models (LLMs) highlights a critical gap in AI security: the lack of unified frameworks for dynamic, iterative adversarial adaptation hardening. To bridge this gap, we propose the Red Team vs. Blue Team (RvB) framework, formulated as a training-free, sequential, imperfect-information game&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19726v1</guid>
+      <pubDate>Tue, 27 Jan 2026 15:49:58 +0000</pubDate>
     </item>
     <item>
-      <title>Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning</title>
-      <link>http://arxiv.org/abs/2601.18714v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Judith Vilella-Cantos, Mauro Martini, Marcello Chiaberge, Mónica Ballesta, David Valiente&lt;/p&gt;&lt;p&gt;Localization in agricultural environments is challenging due to their unstructured nature and lack of distinctive landmarks. Although agricultural settings have been studied in the context of object classification and segmentation, the place recognition task for mobile robots is not trivial in the current state of the art. In this study, we propose MinkUNeXt-VINE, a lightweight, deep-learning-based method that surpasses state-of-the-art methods in vineyard environments thanks to its pre-processing and Matryoshka Representation Learning multi-loss approach&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18714v1</guid>
-      <pubDate>Mon, 26 Jan 2026 17:38:56 +0000</pubDate>
+      <title>TokenSeek: Memory Efficient Fine Tuning via Instance-Aware Token Ditching</title>
+      <link>http://arxiv.org/abs/2601.19739v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Runjia Zeng, Qifan Wang, Qiang Guan, Ruixiang Tang, Lifu Huang, Zhenting Wang, Xueling Zhang, Cheng Han&lt;/p&gt;&lt;p&gt;Fine tuning has been regarded as a de facto approach for adapting large language models (LLMs) to downstream tasks, but the high training memory consumption inherited from LLMs makes this process inefficient. Among existing memory efficient approaches, activation-related optimization has proven particularly effective, as activations consistently dominate overall memory consumption. Although prior arts offer various activation optimization strategies, their data-agnostic nature ultimately results in ineffective and unstable fine tuning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19739v1</guid>
+      <pubDate>Tue, 27 Jan 2026 15:58:36 +0000</pubDate>
     </item>
     <item>
-      <title>Conditioned Generative Modeling of Molecular Glues: A Realistic AI Approach for Synthesizable Drug-like Molecules</title>
-      <link>http://arxiv.org/abs/2601.18716v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Naeyma N. Islam, Thomas R. Caulfield&lt;/p&gt;&lt;p&gt;Alzheimer's disease (AD) is marked by the pathological accumulation of amyloid beta-42 (Abeta-42), contributing to synaptic dysfunction and neurodegeneration. While extracellular amyloid plaques are well-studied, increasing evidence highlights intracellular Abeta-42 as an early and toxic driver of disease progression. In this study, we present a novel, AI-assisted drug design approach to promote targeted degradation of Abeta-42 via the ubiquitin-proteasome system (UPS), using E3 ligase-directed molecular glues&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18716v1</guid>
-      <pubDate>Mon, 26 Jan 2026 17:39:59 +0000</pubDate>
+      <title>Veri-Sure: A Contract-Aware Multi-Agent Framework with Temporal Tracing and Formal Verification for Correct RTL Code Generation</title>
+      <link>http://arxiv.org/abs/2601.19747v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiale Liu, Taiyu Zhou, Tianqi Jiang&lt;/p&gt;&lt;p&gt;In the rapidly evolving field of Electronic Design Automation (EDA), the deployment of Large Language Models (LLMs) for Register-Transfer Level (RTL) design has emerged as a promising direction. However, silicon-grade correctness remains bottlenecked by: (i) limited test coverage and reliability of simulation-centric evaluation, (ii) regressions and repair hallucinations introduced by iterative debugging, and (iii) semantic drift as intent is reinterpreted across agent handoffs. In this work, we propose Veri-Sure, a multi-agent framework that establishes a design contract to align agents' inte&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19747v1</guid>
+      <pubDate>Tue, 27 Jan 2026 16:10:23 +0000</pubDate>
     </item>
     <item>
-      <title>One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment</title>
-      <link>http://arxiv.org/abs/2601.18731v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hongru Cai, Yongqi Li, Tiezheng Yu, Fengbin Zhu, Wenjie Wang, Fuli Feng, Wenjie Li&lt;/p&gt;&lt;p&gt;Alignment of Large Language Models (LLMs) aims to align outputs with human preferences, and personalized alignment further adapts models to individual users. This relies on personalized reward models that capture user-specific preferences and automatically provide individualized feedback. However, developing these models faces two critical challenges: the scarcity of feedback from individual users and the need for efficient adaptation to unseen users&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18731v1</guid>
-      <pubDate>Mon, 26 Jan 2026 17:55:52 +0000</pubDate>
+      <title>Agentic Design Patterns: A System-Theoretic Framework</title>
+      <link>http://arxiv.org/abs/2601.19752v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Minh-Dung Dao, Quy Minh Le, Hoang Thanh Lam, Duc-Trong Le, Quoc-Viet Pham, Barry O'Sullivan, Hoang D. Nguyen&lt;/p&gt;&lt;p&gt;With the development of foundation model (FM), agentic AI systems are getting more attention, yet their inherent issues like hallucination and poor reasoning, coupled with the frequent ad-hoc nature of system design, lead to unreliable and brittle applications. Existing efforts to characterise agentic design patterns often lack a rigorous systems-theoretic foundation, resulting in high-level or convenience-based taxonomies that are difficult to implement. This paper addresses this gap by introducing a principled methodology for engineering robust AI agents&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19752v1</guid>
+      <pubDate>Tue, 27 Jan 2026 16:14:08 +0000</pubDate>
     </item>
     <item>
-      <title>Optimal Use of Preferences in Artificial Intelligence Algorithms</title>
-      <link>http://arxiv.org/abs/2601.18732v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Joshua S. Gans&lt;/p&gt;&lt;p&gt;Machine learning systems embed preferences either in training losses or through post-processing of calibrated predictions. Applying information design methods from Strack and Yang (2024), this paper provides decision problem agnostic conditions under which separation training preference free and applying preferences ex post is optimal. Unlike prior work that requires specifying downstream objectives, the welfare results here apply uniformly across decision problems&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18732v1</guid>
-      <pubDate>Mon, 26 Jan 2026 17:55:56 +0000</pubDate>
+      <title>Provable Learning of Random Hierarchy Models and Hierarchical Shallow-to-Deep Chaining</title>
+      <link>http://arxiv.org/abs/2601.19756v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yunwei Ren, Yatin Dandi, Florent Krzakala, Jason D. Lee&lt;/p&gt;&lt;p&gt;The empirical success of deep learning is often attributed to deep networks' ability to exploit hierarchical structure in data, constructing increasingly complex features across layers. Yet despite substantial progress in deep learning theory, most optimization results sill focus on networks with only two or three layers, leaving the theoretical understanding of hierarchical learning in genuinely deep models limited. This leads to a natural question: can we prove that deep networks, trained by gradient-based methods, can efficiently exploit hierarchical structure?   In this work, we consider R&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19756v1</guid>
+      <pubDate>Tue, 27 Jan 2026 16:19:54 +0000</pubDate>
     </item>
     <item>
-      <title>Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge</title>
-      <link>http://arxiv.org/abs/2601.18733v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Li Kang, Heng Zhou, Xiufeng Song, Rui Li, Bruno N. Y. Chen, Ziye Wang, Ximeng Meng, Stone Tao&lt;/p&gt;&lt;p&gt;Recent advancements in multimodal large language models and vision-languageaction models have significantly driven progress in Embodied AI. As the field transitions toward more complex task scenarios, multi-agent system frameworks are becoming essential for achieving scalable, efficient, and collaborative solutions. This shift is fueled by three primary factors: increasing agent capabilities, enhancing system efficiency through task delegation, and enabling advanced human-agent interactions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18733v1</guid>
-      <pubDate>Mon, 26 Jan 2026 17:56:19 +0000</pubDate>
+      <title>GAVEL: Towards rule-based safety through activation monitoring</title>
+      <link>http://arxiv.org/abs/2601.19768v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shir Rozenfeld, Rahul Pankajakshan, Itay Zloczower, Eyal Lenga, Gilad Gressel, Yisroel Mirsky&lt;/p&gt;&lt;p&gt;Large language models (LLMs) are increasingly paired with activation-based monitoring to detect and prevent harmful behaviors that may not be apparent at the surface-text level. However, existing activation safety approaches, trained on broad misuse datasets, struggle with poor precision, limited flexibility, and lack of interpretability. This paper introduces a new paradigm: rule-based activation safety, inspired by rule-sharing practices in cybersecurity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19768v1</guid>
+      <pubDate>Tue, 27 Jan 2026 16:31:39 +0000</pubDate>
     </item>
     <item>
-      <title>Why Keep Your Doubts to Yourself? Trading Visual Uncertainties in Multi-Agent Bandit Systems</title>
-      <link>http://arxiv.org/abs/2601.18735v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jusheng Zhang, Yijia Fan, Kaitong Cai, Jing Yang, Jiawei Yao, Jian Wang, Guanlong Qu, Ziliang Chen&lt;/p&gt;&lt;p&gt;Vision-Language Models (VLMs) enable powerful multi-agent systems, but scaling them is economically unsustainable: coordinating heterogeneous agents under information asymmetry often spirals costs. Existing paradigms, such as Mixture-of-Agents and knowledge-based routers, rely on heuristic proxies that ignore costs and collapse uncertainty structure, leading to provably suboptimal coordination. We introduce Agora, a framework that reframes coordination as a decentralized market for uncertainty&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18735v1</guid>
-      <pubDate>Mon, 26 Jan 2026 17:58:53 +0000</pubDate>
+      <title>Reimagining Peer Review Process Through Multi-Agent Mechanism Design</title>
+      <link>http://arxiv.org/abs/2601.19778v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ahmad Farooq, Kamran Iqbal&lt;/p&gt;&lt;p&gt;The software engineering research community faces a systemic crisis: peer review is failing under growing submissions, misaligned incentives, and reviewer fatigue. Community surveys reveal that researchers perceive the process as "broken." This position paper argues that these dysfunctions are mechanism design failures amenable to computational solutions. We propose modeling the research community as a stochastic multi-agent system and applying multi-agent reinforcement learning to design incentive-compatible protocols&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19778v1</guid>
+      <pubDate>Tue, 27 Jan 2026 16:43:11 +0000</pubDate>
     </item>
     <item>
-      <title>SeNeDiF-OOD: Semantic Nested Dichotomy Fusion for Out-of-Distribution Detection Methodology in Open-World Classification. A Case Study on Monument Style Classification</title>
-      <link>http://arxiv.org/abs/2601.18739v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ignacio Antequera-Sánchez, Juan Luis Suárez-Díaz, Rosana Montes, Francisco Herrera&lt;/p&gt;&lt;p&gt;Out-of-distribution (OOD) detection is a fundamental requirement for the reliable deployment of artificial intelligence applications in open-world environments. However, addressing the heterogeneous nature of OOD data, ranging from low-level corruption to semantic shifts, remains a complex challenge that single-stage detectors often fail to resolve. To address this issue, we propose SeNeDiF-OOD, a novel methodology based on Semantic Nested Dichotomy Fusion&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18739v1</guid>
-      <pubDate>Mon, 26 Jan 2026 18:01:46 +0000</pubDate>
+      <title>To Grok Grokking: Provable Grokking in Ridge Regression</title>
+      <link>http://arxiv.org/abs/2601.19791v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mingyue Xu, Gal Vardi, Itay Safran&lt;/p&gt;&lt;p&gt;We study grokking, the onset of generalization long after overfitting, in a classical ridge regression setting. We prove end-to-end grokking results for learning over-parameterized linear regression models using gradient descent with weight decay. Specifically, we prove that the following stages occur: (i) the model overfits the training data early during training; (ii) poor generalization persists long after overfitting has manifested; and (iii) the generalization error eventually becomes arbitrarily small&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19791v1</guid>
+      <pubDate>Tue, 27 Jan 2026 16:52:04 +0000</pubDate>
     </item>
     <item>
-      <title>TSRBench: A Comprehensive Multi-task Multi-modal Time Series Reasoning Benchmark for Generalist Models</title>
-      <link>http://arxiv.org/abs/2601.18744v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fangxu Yu, Xingang Guo, Lingzhi Yuan, Haoqiang Kang, Hongyu Zhao, Lianhui Qin, Furong Huang, Bin Hu&lt;/p&gt;&lt;p&gt;Time series data is ubiquitous in real-world scenarios and crucial for critical applications ranging from energy management to traffic control. Consequently, the ability to reason over time series is a fundamental skill for generalist models to solve practical problems. However, this dimension is notably absent from existing benchmarks of generalist models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18744v1</guid>
-      <pubDate>Mon, 26 Jan 2026 18:04:54 +0000</pubDate>
+      <title>LVLMs and Humans Ground Differently in Referential Communication</title>
+      <link>http://arxiv.org/abs/2601.19792v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Peter Zeng, Weiling Li, Amie Paige, Zhengxiang Wang, Panagiotis Kaliosis, Dimitris Samaras, Gregory Zelinsky, Susan Brennan&lt;/p&gt;&lt;p&gt;For generative AI agents to partner effectively with human users, the ability to accurately predict human intent is critical. But this ability to collaborate remains limited by a critical deficit: an inability to model common ground. Here, we present a referential communication experiment with a factorial design involving director-matcher pairs (human-human, human-AI, AI-human, and AI-AI) that interact with multiple turns in repeated rounds to match pictures of objects not associated with any obvious lexicalized labels&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19792v1</guid>
+      <pubDate>Tue, 27 Jan 2026 16:52:20 +0000</pubDate>
     </item>
     <item>
-      <title>Trust, Don't Trust, or Flip: Robust Preference-Based Reinforcement Learning with Multi-Expert Feedback</title>
-      <link>http://arxiv.org/abs/2601.18751v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Seyed Amir Hosseini, Maryam Abdolali, Amirhosein Tavakkoli, Fardin Ayar, Ehsan Javanmardi, Manabu Tsukada, Mahdi Javanmardi&lt;/p&gt;&lt;p&gt;Preference-based reinforcement learning (PBRL) offers a promising alternative to explicit reward engineering by learning from pairwise trajectory comparisons. However, real-world preference data often comes from heterogeneous annotators with varying reliability; some accurate, some noisy, and some systematically adversarial. Existing PBRL methods either treat all feedback equally or attempt to filter out unreliable sources, but both approaches fail when faced with adversarial annotators who systematically provide incorrect preferences&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18751v1</guid>
-      <pubDate>Mon, 26 Jan 2026 18:21:48 +0000</pubDate>
+      <title>CASTER: Breaking the Cost-Performance Barrier in Multi-Agent Orchestration via Context-Aware Strategy for Task Efficient Routing</title>
+      <link>http://arxiv.org/abs/2601.19793v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shanyv Liu, Xuyang Yuan, Tao Chen, Zijun Zhan, Zhu Han, Danyang Zheng, Weishan Zhang, Shaohua Cao&lt;/p&gt;&lt;p&gt;Graph-based Multi-Agent Systems (MAS) enable complex cyclic workflows but suffer from inefficient static model allocation, where deploying strong models uniformly wastes computation on trivial sub-tasks. We propose CASTER (Context-Aware Strategy for Task Efficient Routing), a lightweight router for dynamic model selection in graph-based MAS. CASTER employs a Dual-Signal Router that combines semantic embeddings with structural meta-features to estimate task difficulty&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19793v1</guid>
+      <pubDate>Tue, 27 Jan 2026 16:52:47 +0000</pubDate>
     </item>
     <item>
-      <title>HalluGuard: Demystifying Data-Driven and Reasoning-Driven Hallucinations in LLMs</title>
-      <link>http://arxiv.org/abs/2601.18753v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xinyue Zeng, Junhong Lin, Yujun Yan, Feng Guo, Liang Shi, Jun Wu, Dawei Zhou&lt;/p&gt;&lt;p&gt;The reliability of Large Language Models (LLMs) in high-stakes domains such as healthcare, law, and scientific discovery is often compromised by hallucinations. These failures typically stem from two sources: data-driven hallucinations and reasoning-driven hallucinations. However, existing detection methods usually address only one source and rely on task-specific heuristics, limiting their generalization to complex scenarios&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18753v1</guid>
-      <pubDate>Mon, 26 Jan 2026 18:23:09 +0000</pubDate>
+      <title>Revisiting Incremental Stochastic Majorization-Minimization Algorithms with Applications to Mixture of Experts</title>
+      <link>http://arxiv.org/abs/2601.19811v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; TrungKhang Tran, TrungTin Nguyen, Gersende Fort, Tung Doan, Hien Duy Nguyen, Binh T. Nguyen, Florence Forbes, Christopher Drovandi&lt;/p&gt;&lt;p&gt;Processing high-volume, streaming data is increasingly common in modern statistics and machine learning, where batch-mode algorithms are often impractical because they require repeated passes over the full dataset. This has motivated incremental stochastic estimation methods, including the incremental stochastic Expectation-Maximization (EM) algorithm formulated via stochastic approximation. In this work, we revisit and analyze an incremental stochastic variant of the Majorization-Minimization (MM) algorithm, which generalizes incremental stochastic EM as a special case&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19811v1</guid>
+      <pubDate>Tue, 27 Jan 2026 17:12:15 +0000</pubDate>
     </item>
     <item>
-      <title>$α^3$-SecBench: A Large-Scale Evaluation Suite of Security, Resilience, and Trust for LLM-based UAV Agents over 6G Networks</title>
-      <link>http://arxiv.org/abs/2601.18754v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohamed Amine Ferrag, Abderrahmane Lakas, Merouane Debbah&lt;/p&gt;&lt;p&gt;Autonomous unmanned aerial vehicle (UAV) systems are increasingly deployed in safety-critical, networked environments where they must operate reliably in the presence of malicious adversaries. While recent benchmarks have evaluated large language model (LLM)-based UAV agents in reasoning, navigation, and efficiency, systematic assessment of security, resilience, and trust under adversarial conditions remains largely unexplored, particularly in emerging 6G-enabled settings.   We introduce $α^{3}$-SecBench, the first large-scale evaluation suite for assessing the security-aware autonomy of LLM-b&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18754v1</guid>
-      <pubDate>Mon, 26 Jan 2026 18:25:07 +0000</pubDate>
+      <title>An Interpretable Recommendation Model for Psychometric Data, With an Application to Gerontological Primary Care</title>
+      <link>http://arxiv.org/abs/2601.19824v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andre Paulino de Lima, Paula Castro, Suzana Carvalho Vaz de Andrade, Rosa Maria Marcucci, Ruth Caldeira de Melo, Marcelo Garcia Manzato&lt;/p&gt;&lt;p&gt;There are challenges that must be overcome to make recommender systems useful in healthcare settings. The reasons are varied: the lack of publicly available clinical data, the difficulty that users may have in understanding the reasons why a recommendation was made, the risks that may be involved in following that recommendation, and the uncertainty about its effectiveness. In this work, we address these challenges with a recommendation model that leverages the structure of psychometric data to provide visual explanations that are faithful to the model and interpretable by care professionals&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19824v1</guid>
+      <pubDate>Tue, 27 Jan 2026 17:29:21 +0000</pubDate>
     </item>
     <item>
-      <title>Dep-Search: Learning Dependency-Aware Reasoning Traces with Persistent Memory</title>
-      <link>http://arxiv.org/abs/2601.18771v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yanming Liu, Xinyue Peng, Zixuan Yan, Yanxin Shen, Wenjie Xu, Yuefeng Huang, Xinyi Wang, Jiannan Cao&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) have demonstrated remarkable capabilities in complex reasoning tasks, particularly when augmented with search mechanisms that enable systematic exploration of external knowledge bases. The field has evolved from traditional retrieval-augmented generation (RAG) frameworks to more sophisticated search-based frameworks that orchestrate multi-step reasoning through explicit search strategies. However, existing search frameworks still rely heavily on implicit natural language reasoning to determine search strategies and how to leverage retrieved information across reaso&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18771v1</guid>
-      <pubDate>Mon, 26 Jan 2026 18:42:33 +0000</pubDate>
+      <title>Routing End User Queries to Enterprise Databases</title>
+      <link>http://arxiv.org/abs/2601.19825v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Saikrishna Sudarshan, Tanay Kulkarni, Manasi Patwardhan, Lovekesh Vig, Ashwin Srinivasan, Tanmay Tulsidas Verlekar&lt;/p&gt;&lt;p&gt;We address the task of routing natural language queries in multi-database enterprise environments. We construct realistic benchmarks by extending existing NL-to-SQL datasets. Our study shows that routing becomes increasingly challenging with larger, domain-overlapping DB repositories and ambiguous queries, motivating the need for more structured and robust reasoning-based solutions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19825v1</guid>
+      <pubDate>Tue, 27 Jan 2026 17:30:19 +0000</pubDate>
     </item>
     <item>
-      <title>PRECISE: Reducing the Bias of LLM Evaluations Using Prediction-Powered Ranking Estimation</title>
-      <link>http://arxiv.org/abs/2601.18777v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abhishek Divekar, Anirban Majumder&lt;/p&gt;&lt;p&gt;Evaluating the quality of search, ranking and RAG systems traditionally requires a significant number of human relevance annotations. In recent times, several deployed systems have explored the usage of Large Language Models (LLMs) as automated judges for this task while their inherent biases prevent direct use for metric estimation. We present a statistical framework extending Prediction-Powered Inference (PPI) that combines minimal human annotations with LLM judgments to produce reliable estimates of metrics which require sub-instance annotations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18777v1</guid>
-      <pubDate>Mon, 26 Jan 2026 18:46:49 +0000</pubDate>
+      <title>When Iterative RAG Beats Ideal Evidence: A Diagnostic Study in Scientific Multi-hop Question Answering</title>
+      <link>http://arxiv.org/abs/2601.19827v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mahdi Astaraki, Mohammad Arshi Saloot, Ali Shiraee Kasmaee, Hamidreza Mahyar, Soheila Samiee&lt;/p&gt;&lt;p&gt;Retrieval-Augmented Generation (RAG) extends large language models (LLMs) beyond parametric knowledge, yet it is unclear when iterative retrieval-reasoning loops meaningfully outperform static RAG, particularly in scientific domains with multi-hop reasoning, sparse domain knowledge, and heterogeneous evidence. We provide the first controlled, mechanism-level diagnostic study of whether synchronized iterative retrieval and reasoning can surpass an idealized static upper bound (Gold Context) RAG. We benchmark eleven state-of-the-art LLMs under three regimes: (i) No Context, measuring reliance on&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19827v1</guid>
+      <pubDate>Tue, 27 Jan 2026 17:35:05 +0000</pubDate>
     </item>
     <item>
-      <title>POPE: Learning to Reason on Hard Problems via Privileged On-Policy Exploration</title>
-      <link>http://arxiv.org/abs/2601.18779v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuxiao Qu, Amrith Setlur, Virginia Smith, Ruslan Salakhutdinov, Aviral Kumar&lt;/p&gt;&lt;p&gt;Reinforcement learning (RL) has improved the reasoning abilities of large language models (LLMs), yet state-of-the-art methods still fail to learn on many training problems. On hard problems, on-policy RL rarely explores even a single correct rollout, yielding zero reward and no learning signal for driving improvement. We find that natural solutions to remedy this exploration problem from classical RL, such as entropy bonuses, more permissive clipping of the importance ratio, or direct optimization of pass@k objectives, do not resolve this issue and often destabilize optimization without impro&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18779v1</guid>
-      <pubDate>Mon, 26 Jan 2026 18:47:21 +0000</pubDate>
+      <title>Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models</title>
+      <link>http://arxiv.org/abs/2601.19834v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jialong Wu, Xiaoying Zhang, Hongyi Yuan, Xiangcheng Zhang, Tianhao Huang, Changjing He, Chaoyi Deng, Renrui Zhang&lt;/p&gt;&lt;p&gt;Humans construct internal world models and reason by manipulating the concepts within these models. Recent advances in AI, particularly chain-of-thought (CoT) reasoning, approximate such human cognitive abilities, where world models are believed to be embedded within large language models. Expert-level performance in formal and abstract domains such as mathematics and programming has been achieved in current systems by relying predominantly on verbal reasoning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19834v1</guid>
+      <pubDate>Tue, 27 Jan 2026 17:40:07 +0000</pubDate>
     </item>
     <item>
-      <title>Design Techniques for LLM-Powered Interactive Storytelling: A Case Study of the Dramamancer System</title>
-      <link>http://arxiv.org/abs/2601.18785v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tiffany Wang, Yuqian Sun, Yi Wang, Melissa Roemmele, John Joon Young Chung, Max Kreminski&lt;/p&gt;&lt;p&gt;The rise of Large Language Models (LLMs) has enabled a new paradigm for bridging authorial intent and player agency in interactive narrative. We consider this paradigm through the example of Dramamancer, a system that uses an LLM to transform author-created story schemas into player-driven playthroughs. This extended abstract outlines some design techniques and evaluation considerations associated with this system.&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18785v1</guid>
-      <pubDate>Mon, 26 Jan 2026 18:51:20 +0000</pubDate>
+      <title>HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs</title>
+      <link>http://arxiv.org/abs/2601.19839v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jeanne Malécot, Hamed Rahimi, Jeanne Cattoni, Marie Samson, Mouad Abrini, Mahdi Khoramshahi, Maribel Pino, Mohamed Chetouani&lt;/p&gt;&lt;p&gt;Existing human-robot interaction systems often lack mechanisms for sustained personalization and dynamic adaptation in multi-user environments, limiting their effectiveness in real-world deployments. We present HARMONI, a multimodal personalization framework that leverages large language models to enable socially assistive robots to manage long-term multi-user interactions. The framework integrates four key modules: (i) a perception module that identifies active speakers and extracts multimodal input; (ii) a world modeling module that maintains representations of the environment and short-term&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19839v1</guid>
+      <pubDate>Tue, 27 Jan 2026 17:45:04 +0000</pubDate>
     </item>
     <item>
-      <title>Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes</title>
-      <link>http://arxiv.org/abs/2601.18795v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Amrith Setlur, Zijian Wang, Andrew Cohen, Paria Rashidinejad, Sang Michael Xie&lt;/p&gt;&lt;p&gt;Typical reinforcement learning (RL) methods for LLM reasoning waste compute on hard problems, where correct on-policy traces are rare, policy gradients vanish, and learning stalls. To bootstrap more efficient RL, we consider reusing old sampling FLOPs (from prior inference or RL training) in the form of off-policy traces. Standard off-policy methods supervise against off-policy data, causing instabilities during RL optimization&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18795v1</guid>
-      <pubDate>Mon, 26 Jan 2026 18:57:00 +0000</pubDate>
+      <title>AI Cap-and-Trade: Efficiency Incentives for Accessibility and Sustainability</title>
+      <link>http://arxiv.org/abs/2601.19886v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marco Bornstein, Amrit Singh Bedi&lt;/p&gt;&lt;p&gt;The race for artificial intelligence (AI) dominance often prioritizes scale over efficiency. Hyper-scaling is the common industry approach: larger models, more data, and as many computational resources as possible. Using more resources is a simpler path to improved AI performance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19886v1</guid>
+      <pubDate>Tue, 27 Jan 2026 18:53:21 +0000</pubDate>
     </item>
     <item>
-      <title>ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models</title>
-      <link>http://arxiv.org/abs/2601.18796v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Brian Ondov, Chia-Hsuan Chang, Yujia Zhou, Mauro Giuffrè, Hua Xu&lt;/p&gt;&lt;p&gt;Text embeddings have become an essential part of a variety of language applications. However, methods for interpreting, exploring and reversing embedding spaces are limited, reducing transparency and precluding potentially valuable generative use cases. In this work, we align Large Language Models to embeddings of clinical trials using the recently reported Embedding Language Model (ELM) method&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.18796v1</guid>
-      <pubDate>Mon, 26 Jan 2026 18:58:46 +0000</pubDate>
+      <title>M-SGWR: Multiscale Similarity and Geographically Weighted Regression</title>
+      <link>http://arxiv.org/abs/2601.19888v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; M. Naser Lessani, Zhenlong Li, Manzhu Yu, Helen Greatrex, Chan Shen&lt;/p&gt;&lt;p&gt;The first law of geography is a cornerstone of spatial analysis, emphasizing that nearby and related locations tend to be more similar, however, defining what constitutes "near" and "related" remains challenging, as different phenomena exhibit distinct spatial patterns. Traditional local regression models, such as Geographically Weighted Regression (GWR) and Multiscale GWR (MGWR), quantify spatial relationships solely through geographic proximity. In an era of globalization and digital connectivity, however, geographic proximity alone may be insufficient to capture how locations are interconne&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.19888v1</guid>
+      <pubDate>Tue, 27 Jan 2026 18:55:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
