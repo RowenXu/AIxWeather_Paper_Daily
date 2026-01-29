@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Jan 2026 03:46:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 04:08:16 +0000</lastBuildDate>
     <item>
-      <title>Hyperbolic Additive Margin Softmax with Hierarchical Information for Speaker Verification</title>
-      <link>http://arxiv.org/abs/2601.19709v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhihua Fang, Liang He&lt;/p&gt;&lt;p&gt;Speaker embedding learning based on Euclidean space has achieved significant progress, but it is still insufficient in modeling hierarchical information within speaker features. Hyperbolic space, with its negative curvature geometric properties, can efficiently represent hierarchical information within a finite volume, making it more suitable for the feature distribution of speaker embeddings. In this paper, we propose Hyperbolic Softmax (H-Softmax) and Hyperbolic Additive Margin Softmax (HAM-Softmax) based on hyperbolic space&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19709v1</guid>
-      <pubDate>Tue, 27 Jan 2026 15:33:47 +0000</pubDate>
+      <title>Li-ViP3D++: Query-Gated Deformable Camera-LiDAR Fusion for End-to-End Perception and Trajectory Prediction</title>
+      <link>http://arxiv.org/abs/2601.20720v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Matej Halinkovic, Nina Masarykova, Alexey Vinel, Marek Galinski&lt;/p&gt;&lt;p&gt;End-to-end perception and trajectory prediction from raw sensor data is one of the key capabilities for autonomous driving. Modular pipelines restrict information flow and can amplify upstream errors. Recent query-based, fully differentiable perception-and-prediction (PnP) models mitigate these issues, yet the complementarity of cameras and LiDAR in the query-space has not been sufficiently explored&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20720v1</guid>
+      <pubDate>Wed, 28 Jan 2026 15:53:32 +0000</pubDate>
     </item>
     <item>
-      <title>Component-Level Lesioning of Language Models Reveals Clinically Aligned Aphasia Phenotypes</title>
-      <link>http://arxiv.org/abs/2601.19723v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yifan Wang, Jichen Zheng, Jingyuan Sun, Yunhao Zhang, Chunyu Ye, Jixing Li, Chengqing Zong, Shaonan Wang&lt;/p&gt;&lt;p&gt;Large language models (LLMs) increasingly exhibit human-like linguistic behaviors and internal representations that they could serve as computational simulators of language cognition. We ask whether LLMs can be systematically manipulated to reproduce language-production impairments characteristic of aphasia following focal brain lesions. Such models could provide scalable proxies for testing rehabilitation hypotheses, and offer a controlled framework for probing the functional organization of language&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19723v1</guid>
-      <pubDate>Tue, 27 Jan 2026 15:47:22 +0000</pubDate>
+      <title>QueerGen: How LLMs Reflect Societal Norms on Gender and Sexuality in Sentence Completion Tasks</title>
+      <link>http://arxiv.org/abs/2601.20731v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mae Sosto, Delfina Sol Martinez Pandiani, Laura Hollink&lt;/p&gt;&lt;p&gt;This paper examines how Large Language Models (LLMs) reproduce societal norms, particularly heterocisnormativity, and how these norms translate into measurable biases in their text generations. We investigate whether explicit information about a subject's gender or sexuality influences LLM responses across three subject categories: queer-marked, non-queer-marked, and the normalized "unmarked" category. Representational imbalances are operationalized as measurable differences in English sentence completions across four dimensions: sentiment, regard, toxicity, and prediction diversity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20731v1</guid>
+      <pubDate>Wed, 28 Jan 2026 16:06:04 +0000</pubDate>
     </item>
     <item>
-      <title>RvB: Automating AI System Hardening via Iterative Red-Blue Games</title>
-      <link>http://arxiv.org/abs/2601.19726v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lige Huang, Zicheng Liu, Jie Zhang, Lewen Yan, Dongrui Liu, Jing Shao&lt;/p&gt;&lt;p&gt;The dual offensive and defensive utility of Large Language Models (LLMs) highlights a critical gap in AI security: the lack of unified frameworks for dynamic, iterative adversarial adaptation hardening. To bridge this gap, we propose the Red Team vs. Blue Team (RvB) framework, formulated as a training-free, sequential, imperfect-information game&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19726v1</guid>
-      <pubDate>Tue, 27 Jan 2026 15:49:58 +0000</pubDate>
+      <title>SA-PEF: Step-Ahead Partial Error Feedback for Efficient Federated Learning</title>
+      <link>http://arxiv.org/abs/2601.20738v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dawit Kiros Redie, Reza Arablouei, Stefan Werner&lt;/p&gt;&lt;p&gt;Biased gradient compression with error feedback (EF) reduces communication in federated learning (FL), but under non-IID data, the residual error can decay slowly, causing gradient mismatch and stalled progress in the early rounds. We propose step-ahead partial error feedback (SA-PEF), which integrates step-ahead (SA) correction with partial error feedback (PEF). SA-PEF recovers EF when the step-ahead coefficient $α=0$ and step-ahead EF (SAEF) when $α=1$&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20738v1</guid>
+      <pubDate>Wed, 28 Jan 2026 16:10:49 +0000</pubDate>
     </item>
     <item>
-      <title>TokenSeek: Memory Efficient Fine Tuning via Instance-Aware Token Ditching</title>
-      <link>http://arxiv.org/abs/2601.19739v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Runjia Zeng, Qifan Wang, Qiang Guan, Ruixiang Tang, Lifu Huang, Zhenting Wang, Xueling Zhang, Cheng Han&lt;/p&gt;&lt;p&gt;Fine tuning has been regarded as a de facto approach for adapting large language models (LLMs) to downstream tasks, but the high training memory consumption inherited from LLMs makes this process inefficient. Among existing memory efficient approaches, activation-related optimization has proven particularly effective, as activations consistently dominate overall memory consumption. Although prior arts offer various activation optimization strategies, their data-agnostic nature ultimately results in ineffective and unstable fine tuning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19739v1</guid>
-      <pubDate>Tue, 27 Jan 2026 15:58:36 +0000</pubDate>
+      <title>HESTIA: A Hessian-Guided Differentiable Quantization-Aware Training Framework for Extremely Low-Bit LLMs</title>
+      <link>http://arxiv.org/abs/2601.20745v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guoan Wang, Feiyu Wang, Zongwei Lv, Yikun Zong, Tong Yang&lt;/p&gt;&lt;p&gt;As large language models (LLMs) continue to scale, deployment is increasingly bottlenecked by the memory wall, motivating a shift toward extremely low-bit quantization. However, most quantization-aware training (QAT) methods apply hard rounding and the straight-through estimator (STE) from the beginning of the training, which prematurely discretizes the optimization landscape and induces persistent gradient mismatch between latent weights and quantized weights, hindering effective optimization of quantized models. To address this, we propose Hestia, a Hessian-guided differentiable QAT framewor&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20745v1</guid>
+      <pubDate>Wed, 28 Jan 2026 16:22:42 +0000</pubDate>
     </item>
     <item>
-      <title>Veri-Sure: A Contract-Aware Multi-Agent Framework with Temporal Tracing and Formal Verification for Correct RTL Code Generation</title>
-      <link>http://arxiv.org/abs/2601.19747v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiale Liu, Taiyu Zhou, Tianqi Jiang&lt;/p&gt;&lt;p&gt;In the rapidly evolving field of Electronic Design Automation (EDA), the deployment of Large Language Models (LLMs) for Register-Transfer Level (RTL) design has emerged as a promising direction. However, silicon-grade correctness remains bottlenecked by: (i) limited test coverage and reliability of simulation-centric evaluation, (ii) regressions and repair hallucinations introduced by iterative debugging, and (iii) semantic drift as intent is reinterpreted across agent handoffs. In this work, we propose Veri-Sure, a multi-agent framework that establishes a design contract to align agents' inte&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19747v1</guid>
-      <pubDate>Tue, 27 Jan 2026 16:10:23 +0000</pubDate>
+      <title>REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence</title>
+      <link>http://arxiv.org/abs/2601.20784v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zishen Wan, Che-Kai Liu, Jiayi Qian, Hanchen Yang, Arijit Raychowdhury, Tushar Krishna&lt;/p&gt;&lt;p&gt;Neuro-symbolic AI systems integrate neural perception with symbolic reasoning to enable data-efficient, interpretable, and robust intelligence beyond purely neural models. Although this compositional paradigm has shown superior performance in domains such as reasoning, planning, and verification, its deployment remains challenging due to severe inefficiencies in symbolic and probabilistic inference. Through systematic analysis of representative neuro-symbolic workloads, we identify probabilistic logical reasoning as the inefficiency bottleneck, characterized by irregular control flow, low arit&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20784v1</guid>
+      <pubDate>Wed, 28 Jan 2026 17:17:21 +0000</pubDate>
     </item>
     <item>
-      <title>Agentic Design Patterns: A System-Theoretic Framework</title>
-      <link>http://arxiv.org/abs/2601.19752v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Minh-Dung Dao, Quy Minh Le, Hoang Thanh Lam, Duc-Trong Le, Quoc-Viet Pham, Barry O'Sullivan, Hoang D. Nguyen&lt;/p&gt;&lt;p&gt;With the development of foundation model (FM), agentic AI systems are getting more attention, yet their inherent issues like hallucination and poor reasoning, coupled with the frequent ad-hoc nature of system design, lead to unreliable and brittle applications. Existing efforts to characterise agentic design patterns often lack a rigorous systems-theoretic foundation, resulting in high-level or convenience-based taxonomies that are difficult to implement. This paper addresses this gap by introducing a principled methodology for engineering robust AI agents&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19752v1</guid>
-      <pubDate>Tue, 27 Jan 2026 16:14:08 +0000</pubDate>
+      <title>FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models</title>
+      <link>http://arxiv.org/abs/2601.20791v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haonan Zhong, Wei Song, Tingxu Han, Maurice Pagnucco, Jingling Xue, Yang Song&lt;/p&gt;&lt;p&gt;Text-to-video (T2V) diffusion models have achieved rapid progress, yet their demographic biases, particularly gender bias, remain largely unexplored. We present FairT2V, a training-free debiasing framework for text-to-video generation that mitigates encoder-induced bias without finetuning. We first analyze demographic bias in T2V models and show that it primarily originates from pretrained text encoders, which encode implicit gender associations even for neutral prompts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20791v1</guid>
+      <pubDate>Wed, 28 Jan 2026 17:29:53 +0000</pubDate>
     </item>
     <item>
-      <title>Provable Learning of Random Hierarchy Models and Hierarchical Shallow-to-Deep Chaining</title>
-      <link>http://arxiv.org/abs/2601.19756v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yunwei Ren, Yatin Dandi, Florent Krzakala, Jason D. Lee&lt;/p&gt;&lt;p&gt;The empirical success of deep learning is often attributed to deep networks' ability to exploit hierarchical structure in data, constructing increasingly complex features across layers. Yet despite substantial progress in deep learning theory, most optimization results sill focus on networks with only two or three layers, leaving the theoretical understanding of hierarchical learning in genuinely deep models limited. This leads to a natural question: can we prove that deep networks, trained by gradient-based methods, can efficiently exploit hierarchical structure?   In this work, we consider R&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19756v1</guid>
-      <pubDate>Tue, 27 Jan 2026 16:19:54 +0000</pubDate>
+      <title>Reinforcement Learning via Self-Distillation</title>
+      <link>http://arxiv.org/abs/2601.20802v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jonas Hübotter, Frederike Lübeck, Lejs Behric, Anton Baumann, Marco Bagatella, Daniel Marta, Ido Hakimi, Idan Shenfeld&lt;/p&gt;&lt;p&gt;Large language models are increasingly post-trained with reinforcement learning in verifiable domains such as code and math. Yet, current methods for reinforcement learning with verifiable rewards (RLVR) learn only from a scalar outcome reward per attempt, creating a severe credit-assignment bottleneck. Many verifiable environments actually provide rich textual feedback, such as runtime errors or judge evaluations, that explain why an attempt failed&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20802v1</guid>
+      <pubDate>Wed, 28 Jan 2026 17:45:12 +0000</pubDate>
     </item>
     <item>
-      <title>GAVEL: Towards rule-based safety through activation monitoring</title>
-      <link>http://arxiv.org/abs/2601.19768v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shir Rozenfeld, Rahul Pankajakshan, Itay Zloczower, Eyal Lenga, Gilad Gressel, Yisroel Mirsky&lt;/p&gt;&lt;p&gt;Large language models (LLMs) are increasingly paired with activation-based monitoring to detect and prevent harmful behaviors that may not be apparent at the surface-text level. However, existing activation safety approaches, trained on broad misuse datasets, struggle with poor precision, limited flexibility, and lack of interpretability. This paper introduces a new paradigm: rule-based activation safety, inspired by rule-sharing practices in cybersecurity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19768v1</guid>
-      <pubDate>Tue, 27 Jan 2026 16:31:39 +0000</pubDate>
+      <title>GNN Explanations that do not Explain and How to find Them</title>
+      <link>http://arxiv.org/abs/2601.20815v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Steve Azzolin, Stefano Teso, Bruno Lepri, Andrea Passerini, Sagar Malhotra&lt;/p&gt;&lt;p&gt;Explanations provided by Self-explainable Graph Neural Networks (SE-GNNs) are fundamental for understanding the model's inner workings and for identifying potential misuse of sensitive attributes. Although recent works have highlighted that these explanations can be suboptimal and potentially misleading, a characterization of their failure cases is unavailable. In this work, we identify a critical failure of SE-GNN explanations: explanations can be unambiguously unrelated to how the SE-GNNs infer labels&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20815v1</guid>
+      <pubDate>Wed, 28 Jan 2026 18:05:17 +0000</pubDate>
     </item>
     <item>
-      <title>Reimagining Peer Review Process Through Multi-Agent Mechanism Design</title>
-      <link>http://arxiv.org/abs/2601.19778v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ahmad Farooq, Kamran Iqbal&lt;/p&gt;&lt;p&gt;The software engineering research community faces a systemic crisis: peer review is failing under growing submissions, misaligned incentives, and reviewer fatigue. Community surveys reveal that researchers perceive the process as "broken." This position paper argues that these dysfunctions are mechanism design failures amenable to computational solutions. We propose modeling the research community as a stochastic multi-agent system and applying multi-agent reinforcement learning to design incentive-compatible protocols&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19778v1</guid>
-      <pubDate>Tue, 27 Jan 2026 16:43:11 +0000</pubDate>
+      <title>Demystifying Prediction Powered Inference</title>
+      <link>http://arxiv.org/abs/2601.20819v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yilin Song, Dan M. Kluger, Harsh Parikh, Tian Gu&lt;/p&gt;&lt;p&gt;Machine learning predictions are increasingly used to supplement incomplete or costly-to-measure outcomes in fields such as biomedical research, environmental science, and social science. However, treating predictions as ground truth introduces bias while ignoring them wastes valuable information. Prediction-Powered Inference (PPI) offers a principled framework that leverages predictions from large unlabeled datasets to improve statistical efficiency while maintaining valid inference through explicit bias correction using a smaller labeled subset&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20819v1</guid>
+      <pubDate>Wed, 28 Jan 2026 18:16:02 +0000</pubDate>
     </item>
     <item>
-      <title>To Grok Grokking: Provable Grokking in Ridge Regression</title>
-      <link>http://arxiv.org/abs/2601.19791v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mingyue Xu, Gal Vardi, Itay Safran&lt;/p&gt;&lt;p&gt;We study grokking, the onset of generalization long after overfitting, in a classical ridge regression setting. We prove end-to-end grokking results for learning over-parameterized linear regression models using gradient descent with weight decay. Specifically, we prove that the following stages occur: (i) the model overfits the training data early during training; (ii) poor generalization persists long after overfitting has manifested; and (iii) the generalization error eventually becomes arbitrarily small&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19791v1</guid>
-      <pubDate>Tue, 27 Jan 2026 16:52:04 +0000</pubDate>
+      <title>Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning</title>
+      <link>http://arxiv.org/abs/2601.20829v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Minwu Kim, Safal Shrestha, Keith Ross&lt;/p&gt;&lt;p&gt;Reinforcement Learning with Verifiable Rewards (RLVR) has substantially improved the reasoning abilities of large language models (LLMs), yet training often stalls as problems become saturated. We identify the core challenge as the poor accessibility of informative failures: learning signals exist but are rarely encountered during standard rollouts. To address this, we propose failure-prefix conditioning, a simple and effective method for learning from saturated problems&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20829v1</guid>
+      <pubDate>Wed, 28 Jan 2026 18:29:21 +0000</pubDate>
     </item>
     <item>
-      <title>LVLMs and Humans Ground Differently in Referential Communication</title>
-      <link>http://arxiv.org/abs/2601.19792v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Peter Zeng, Weiling Li, Amie Paige, Zhengxiang Wang, Panagiotis Kaliosis, Dimitris Samaras, Gregory Zelinsky, Susan Brennan&lt;/p&gt;&lt;p&gt;For generative AI agents to partner effectively with human users, the ability to accurately predict human intent is critical. But this ability to collaborate remains limited by a critical deficit: an inability to model common ground. Here, we present a referential communication experiment with a factorial design involving director-matcher pairs (human-human, human-AI, AI-human, and AI-AI) that interact with multiple turns in repeated rounds to match pictures of objects not associated with any obvious lexicalized labels&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19792v1</guid>
-      <pubDate>Tue, 27 Jan 2026 16:52:20 +0000</pubDate>
+      <title>VSCOUT: A Hybrid Variational Autoencoder Approach to Outlier Detection in High-Dimensional Retrospective Monitoring</title>
+      <link>http://arxiv.org/abs/2601.20830v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Waldyn G. Martinez&lt;/p&gt;&lt;p&gt;Modern industrial and service processes generate high-dimensional, non-Gaussian, and contamination-prone data that challenge the foundational assumptions of classical Statistical Process Control (SPC). Heavy tails, multimodality, nonlinear dependencies, and sparse special-cause observations can distort baseline estimation, mask true anomalies, and prevent reliable identification of an in-control (IC) reference set. To address these challenges, we introduce VSCOUT, a distribution-free framework designed specifically for retrospective (Phase I) monitoring in high-dimensional settings&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20830v1</guid>
+      <pubDate>Wed, 28 Jan 2026 18:30:48 +0000</pubDate>
     </item>
     <item>
-      <title>CASTER: Breaking the Cost-Performance Barrier in Multi-Agent Orchestration via Context-Aware Strategy for Task Efficient Routing</title>
-      <link>http://arxiv.org/abs/2601.19793v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shanyv Liu, Xuyang Yuan, Tao Chen, Zijun Zhan, Zhu Han, Danyang Zheng, Weishan Zhang, Shaohua Cao&lt;/p&gt;&lt;p&gt;Graph-based Multi-Agent Systems (MAS) enable complex cyclic workflows but suffer from inefficient static model allocation, where deploying strong models uniformly wastes computation on trivial sub-tasks. We propose CASTER (Context-Aware Strategy for Task Efficient Routing), a lightweight router for dynamic model selection in graph-based MAS. CASTER employs a Dual-Signal Router that combines semantic embeddings with structural meta-features to estimate task difficulty&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19793v1</guid>
-      <pubDate>Tue, 27 Jan 2026 16:52:47 +0000</pubDate>
+      <title>MemCtrl: Using MLLMs as Active Memory Controllers on Embodied Agents</title>
+      <link>http://arxiv.org/abs/2601.20831v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vishnu Sashank Dorbala, Dinesh Manocha&lt;/p&gt;&lt;p&gt;Foundation models rely on in-context learning for personalized decision making. The limited size of this context window necessitates memory compression and retrieval systems like RAG. These systems however often treat memory as large offline storage spaces, which is unfavorable for embodied agents that are expected to operate under strict memory and compute constraints, online&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20831v1</guid>
+      <pubDate>Wed, 28 Jan 2026 18:31:17 +0000</pubDate>
     </item>
     <item>
-      <title>Revisiting Incremental Stochastic Majorization-Minimization Algorithms with Applications to Mixture of Experts</title>
-      <link>http://arxiv.org/abs/2601.19811v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; TrungKhang Tran, TrungTin Nguyen, Gersende Fort, Tung Doan, Hien Duy Nguyen, Binh T. Nguyen, Florence Forbes, Christopher Drovandi&lt;/p&gt;&lt;p&gt;Processing high-volume, streaming data is increasingly common in modern statistics and machine learning, where batch-mode algorithms are often impractical because they require repeated passes over the full dataset. This has motivated incremental stochastic estimation methods, including the incremental stochastic Expectation-Maximization (EM) algorithm formulated via stochastic approximation. In this work, we revisit and analyze an incremental stochastic variant of the Majorization-Minimization (MM) algorithm, which generalizes incremental stochastic EM as a special case&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19811v1</guid>
-      <pubDate>Tue, 27 Jan 2026 17:12:15 +0000</pubDate>
+      <title>Open-Vocabulary Functional 3D Human-Scene Interaction Generation</title>
+      <link>http://arxiv.org/abs/2601.20835v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jie Liu, Yu Sun, Alpar Cseke, Yao Feng, Nicolas Heron, Michael J. Black, Yan Zhang&lt;/p&gt;&lt;p&gt;Generating 3D humans that functionally interact with 3D scenes remains an open problem with applications in embodied AI, robotics, and interactive content creation. The key challenge involves reasoning about both the semantics of functional elements in 3D scenes and the 3D human poses required to achieve functionality-aware interaction. Unfortunately, existing methods typically lack explicit reasoning over object functionality and the corresponding human-scene contact, resulting in implausible or functionally incorrect interactions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20835v1</guid>
+      <pubDate>Wed, 28 Jan 2026 18:34:25 +0000</pubDate>
     </item>
     <item>
-      <title>An Interpretable Recommendation Model for Psychometric Data, With an Application to Gerontological Primary Care</title>
-      <link>http://arxiv.org/abs/2601.19824v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andre Paulino de Lima, Paula Castro, Suzana Carvalho Vaz de Andrade, Rosa Maria Marcucci, Ruth Caldeira de Melo, Marcelo Garcia Manzato&lt;/p&gt;&lt;p&gt;There are challenges that must be overcome to make recommender systems useful in healthcare settings. The reasons are varied: the lack of publicly available clinical data, the difficulty that users may have in understanding the reasons why a recommendation was made, the risks that may be involved in following that recommendation, and the uncertainty about its effectiveness. In this work, we address these challenges with a recommendation model that leverages the structure of psychometric data to provide visual explanations that are faithful to the model and interpretable by care professionals&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19824v1</guid>
-      <pubDate>Tue, 27 Jan 2026 17:29:21 +0000</pubDate>
+      <title>Reward Models Inherit Value Biases from Pretraining</title>
+      <link>http://arxiv.org/abs/2601.20838v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Brian Christian, Jessica A. F. Thompson, Elle Michelle Yang, Vincent Adam, Hannah Rose Kirk, Christopher Summerfield, Tsvetomira Dumbalska&lt;/p&gt;&lt;p&gt;Reward models (RMs) are central to aligning large language models (LLMs) with human values but have received less attention than pre-trained and post-trained LLMs themselves. Because RMs are initialized from LLMs, they inherit representations that shape their behavior, but the nature and extent of this influence remain understudied. In a comprehensive study of 10 leading open-weight RMs using validated psycholinguistic corpora, we show that RMs exhibit significant differences along multiple dimensions of human value as a function of their base model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20838v1</guid>
+      <pubDate>Wed, 28 Jan 2026 18:40:29 +0000</pubDate>
     </item>
     <item>
-      <title>Routing End User Queries to Enterprise Databases</title>
-      <link>http://arxiv.org/abs/2601.19825v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Saikrishna Sudarshan, Tanay Kulkarni, Manasi Patwardhan, Lovekesh Vig, Ashwin Srinivasan, Tanmay Tulsidas Verlekar&lt;/p&gt;&lt;p&gt;We address the task of routing natural language queries in multi-database enterprise environments. We construct realistic benchmarks by extending existing NL-to-SQL datasets. Our study shows that routing becomes increasingly challenging with larger, domain-overlapping DB repositories and ambiguous queries, motivating the need for more structured and robust reasoning-based solutions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19825v1</guid>
-      <pubDate>Tue, 27 Jan 2026 17:30:19 +0000</pubDate>
+      <title>Deep Researcher with Sequential Plan Reflection and Candidates Crossover (Deep Researcher Reflect Evolve)</title>
+      <link>http://arxiv.org/abs/2601.20843v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Saurav Prateek&lt;/p&gt;&lt;p&gt;This paper introduces a novel Deep Researcher architecture designed to generate detailed research reports on complex PhD level topics by addressing the inherent limitations of the Parallel Scaling paradigm. Our system utilizes two key innovations: Sequential Research Plan Refinement via Reflection and a Candidates Crossover algorithm. The sequential refinement process is demonstrated as an efficient method that allows the agent to maintain a centralized Global Research Context, enabling it to look back at current progress, reason about the research plan, and intelligently make changes at runti&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20843v1</guid>
+      <pubDate>Wed, 28 Jan 2026 18:45:39 +0000</pubDate>
     </item>
     <item>
-      <title>When Iterative RAG Beats Ideal Evidence: A Diagnostic Study in Scientific Multi-hop Question Answering</title>
-      <link>http://arxiv.org/abs/2601.19827v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mahdi Astaraki, Mohammad Arshi Saloot, Ali Shiraee Kasmaee, Hamidreza Mahyar, Soheila Samiee&lt;/p&gt;&lt;p&gt;Retrieval-Augmented Generation (RAG) extends large language models (LLMs) beyond parametric knowledge, yet it is unclear when iterative retrieval-reasoning loops meaningfully outperform static RAG, particularly in scientific domains with multi-hop reasoning, sparse domain knowledge, and heterogeneous evidence. We provide the first controlled, mechanism-level diagnostic study of whether synchronized iterative retrieval and reasoning can surpass an idealized static upper bound (Gold Context) RAG. We benchmark eleven state-of-the-art LLMs under three regimes: (i) No Context, measuring reliance on&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19827v1</guid>
-      <pubDate>Tue, 27 Jan 2026 17:35:05 +0000</pubDate>
+      <title>A New Dataset and Framework for Robust Road Surface Classification via Camera-IMU Fusion</title>
+      <link>http://arxiv.org/abs/2601.20847v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Willams de Lima Costa, Thifany Ketuli Silva de Souza, Jonas Ferreira Silva, Carlos Gabriel Bezerra Pereira, Bruno Reis Vila Nova, Leonardo Silvino Brito, Rafael Raider Leoni, Juliano Silva&lt;/p&gt;&lt;p&gt;Road surface classification (RSC) is a key enabler for environment-aware predictive maintenance systems. However, existing RSC techniques often fail to generalize beyond narrow operational conditions due to limited sensing modalities and datasets that lack environmental diversity. This work addresses these limitations by introducing a multimodal framework that fuses images and inertial measurements using a lightweight bidirectional cross-attention module followed by an adaptive gating layer that adjusts modality contributions under domain shifts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20847v1</guid>
+      <pubDate>Wed, 28 Jan 2026 18:46:29 +0000</pubDate>
     </item>
     <item>
-      <title>Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models</title>
-      <link>http://arxiv.org/abs/2601.19834v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jialong Wu, Xiaoying Zhang, Hongyi Yuan, Xiangcheng Zhang, Tianhao Huang, Changjing He, Chaoyi Deng, Renrui Zhang&lt;/p&gt;&lt;p&gt;Humans construct internal world models and reason by manipulating the concepts within these models. Recent advances in AI, particularly chain-of-thought (CoT) reasoning, approximate such human cognitive abilities, where world models are believed to be embedded within large language models. Expert-level performance in formal and abstract domains such as mathematics and programming has been achieved in current systems by relying predominantly on verbal reasoning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19834v1</guid>
-      <pubDate>Tue, 27 Jan 2026 17:40:07 +0000</pubDate>
+      <title>Post-Training Fairness Control: A Single-Train Framework for Dynamic Fairness in Recommendation</title>
+      <link>http://arxiv.org/abs/2601.20848v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Weixin Chen, Li Chen, Yuhan Zhao&lt;/p&gt;&lt;p&gt;Despite growing efforts to mitigate unfairness in recommender systems, existing fairness-aware methods typically fix the fairness requirement at training time and provide limited post-training flexibility. However, in real-world scenarios, diverse stakeholders may demand differing fairness requirements over time, so retraining for different fairness requirements becomes prohibitive. To address this limitation, we propose Cofair, a single-train framework that enables post-training fairness control in recommendation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20848v1</guid>
+      <pubDate>Wed, 28 Jan 2026 18:48:43 +0000</pubDate>
     </item>
     <item>
-      <title>HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs</title>
-      <link>http://arxiv.org/abs/2601.19839v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jeanne Malécot, Hamed Rahimi, Jeanne Cattoni, Marie Samson, Mouad Abrini, Mahdi Khoramshahi, Maribel Pino, Mohamed Chetouani&lt;/p&gt;&lt;p&gt;Existing human-robot interaction systems often lack mechanisms for sustained personalization and dynamic adaptation in multi-user environments, limiting their effectiveness in real-world deployments. We present HARMONI, a multimodal personalization framework that leverages large language models to enable socially assistive robots to manage long-term multi-user interactions. The framework integrates four key modules: (i) a perception module that identifies active speakers and extracts multimodal input; (ii) a world modeling module that maintains representations of the environment and short-term&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19839v1</guid>
-      <pubDate>Tue, 27 Jan 2026 17:45:04 +0000</pubDate>
+      <title>Exploring Transformer Placement in Variational Autoencoders for Tabular Data Generation</title>
+      <link>http://arxiv.org/abs/2601.20854v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aníbal Silva, Moisés Santos, André Restivo, Carlos Soares&lt;/p&gt;&lt;p&gt;Tabular data remains a challenging domain for generative models. In particular, the standard Variational Autoencoder (VAE) architecture, typically composed of multilayer perceptrons, struggles to model relationships between features, especially when handling mixed data types. In contrast, Transformers, through their attention mechanism, are better suited for capturing complex feature interactions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20854v1</guid>
+      <pubDate>Wed, 28 Jan 2026 18:54:27 +0000</pubDate>
     </item>
     <item>
-      <title>AI Cap-and-Trade: Efficiency Incentives for Accessibility and Sustainability</title>
-      <link>http://arxiv.org/abs/2601.19886v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marco Bornstein, Amrit Singh Bedi&lt;/p&gt;&lt;p&gt;The race for artificial intelligence (AI) dominance often prioritizes scale over efficiency. Hyper-scaling is the common industry approach: larger models, more data, and as many computational resources as possible. Using more resources is a simpler path to improved AI performance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19886v1</guid>
-      <pubDate>Tue, 27 Jan 2026 18:53:21 +0000</pubDate>
+      <title>SokoBench: Evaluating Long-Horizon Planning and Reasoning in Large Language Models</title>
+      <link>http://arxiv.org/abs/2601.20856v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sebastiano Monti, Carlo Nicolini, Gianni Pellegrini, Jacopo Staiano, Bruno Lepri&lt;/p&gt;&lt;p&gt;Although the capabilities of large language models have been increasingly tested on complex reasoning tasks, their long-horizon planning abilities have not yet been extensively investigated. In this work, we provide a systematic assessment of the planning and long-horizon reasoning capabilities of state-of-the-art Large Reasoning Models (LRMs). We propose a novel benchmark based on Sokoban puzzles, intentionally simplified to isolate long-horizon planning from state persistence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20856v1</guid>
+      <pubDate>Wed, 28 Jan 2026 18:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>M-SGWR: Multiscale Similarity and Geographically Weighted Regression</title>
-      <link>http://arxiv.org/abs/2601.19888v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; M. Naser Lessani, Zhenlong Li, Manzhu Yu, Helen Greatrex, Chan Shen&lt;/p&gt;&lt;p&gt;The first law of geography is a cornerstone of spatial analysis, emphasizing that nearby and related locations tend to be more similar, however, defining what constitutes "near" and "related" remains challenging, as different phenomena exhibit distinct spatial patterns. Traditional local regression models, such as Geographically Weighted Regression (GWR) and Multiscale GWR (MGWR), quantify spatial relationships solely through geographic proximity. In an era of globalization and digital connectivity, however, geographic proximity alone may be insufficient to capture how locations are interconne&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2601.19888v1</guid>
-      <pubDate>Tue, 27 Jan 2026 18:55:12 +0000</pubDate>
+      <title>Evolutionary Strategies lead to Catastrophic Forgetting in LLMs</title>
+      <link>http://arxiv.org/abs/2601.20861v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Immanuel Abdi, Akshat Gupta, Micah Mok, Alexander Lu, Nicholas Lee, Gopala Anumanchipalli&lt;/p&gt;&lt;p&gt;One of the biggest missing capabilities in current AI systems is the ability to learn continuously after deployment. Implementing such continually learning systems have several challenges, one of which is the large memory requirement of gradient-based algorithms that are used to train state-of-the-art LLMs. Evolutionary Strategies (ES) have recently re-emerged as a gradient-free alternative to traditional learning algorithms and have shown encouraging performance on specific tasks in LLMs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2601.20861v1</guid>
+      <pubDate>Wed, 28 Jan 2026 18:59:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
