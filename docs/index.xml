@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Feb 2026 04:16:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 04:11:44 +0000</lastBuildDate>
     <item>
-      <title>Structure Enables Effective Self-Localization of Errors in LLMs</title>
-      <link>http://arxiv.org/abs/2602.02416v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ankur Samanta, Akshayaa Magesh, Ayush Jain, Kavosh Asadi, Youliang Yu, Daniel Jiang, Boris Vidolov, Kaveh Hassani&lt;/p&gt;&lt;p&gt;Self-correction in language models remains elusive. In this work, we explore whether language models can explicitly localize errors in incorrect reasoning, as a path toward building AI systems that can effectively correct themselves. We introduce a prompting method that structures reasoning as discrete, semantically coherent thought steps, and show that models are able to reliably localize errors within this structure, while failing to do so in conventional, unstructured chain-of-thought reasoning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02416v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:15:59 +0000</pubDate>
+      <title>Zero-shot large vision-language model prompting for automated bone identification in paleoradiology x-ray archives</title>
+      <link>http://arxiv.org/abs/2602.03750v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Owen Dong, Lily Gao, Manish Kota, Bennett A. Landmana, Jelena Bekvalac, Gaynor Western, Katherine D. Van Schaik&lt;/p&gt;&lt;p&gt;Paleoradiology, the use of modern imaging technologies to study archaeological and anthropological remains, offers new windows on millennial scale patterns of human health. Unfortunately, the radiographs collected during field campaigns are heterogeneous: bones are disarticulated, positioning is ad hoc, and laterality markers are often absent. Additionally, factors such as age at death, age of bone, sex, and imaging equipment introduce high variability&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03750v1</guid>
+      <pubDate>Tue, 03 Feb 2026 17:14:23 +0000</pubDate>
     </item>
     <item>
-      <title>SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration</title>
-      <link>http://arxiv.org/abs/2602.02419v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Qingni Wang, Yue Fan, Xin Eric Wang&lt;/p&gt;&lt;p&gt;Graphical User Interface (GUI) grounding aims to translate natural language instructions into executable screen coordinates, enabling automated GUI interaction. Nevertheless, incorrect grounding can result in costly, hard-to-reverse actions (e.g., erroneous payment approvals), raising concerns about model reliability. In this paper, we introduce SafeGround, an uncertainty-aware framework for GUI grounding models that enables risk-aware predictions through calibrations before testing&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02419v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:22:45 +0000</pubDate>
+      <title>Decision-oriented benchmarking to transform AI weather forecast access: Application to the Indian monsoon</title>
+      <link>http://arxiv.org/abs/2602.03767v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rajat Masiwal, Colin Aitken, Adam Marchakitus, Mayank Gupta, Katherine Kowal, Hamid A. Pahlavan, Tyler Yang, Y. Qiang Sun&lt;/p&gt;&lt;p&gt;Artificial intelligence weather prediction (AIWP) models now often outperform traditional physics-based models on common metrics while requiring orders-of-magnitude less computing resources and time. Open-access AIWP models thus hold promise as transformational tools for helping low- and middle-income populations make decisions in the face of high-impact weather shocks. Yet, current approaches to evaluating AIWP models focus mainly on aggregated meteorological metrics without considering local stakeholders' needs in decision-oriented, operational frameworks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03767v1</guid>
+      <pubDate>Tue, 03 Feb 2026 17:27:22 +0000</pubDate>
     </item>
     <item>
-      <title>Poly-attention: a general scheme for higher-order self-attention</title>
-      <link>http://arxiv.org/abs/2602.02422v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sayak Chakrabarti, Toniann Pitassi, Josh Alman&lt;/p&gt;&lt;p&gt;The self-attention mechanism, at the heart of the Transformer model, is able to effectively model pairwise interactions between tokens. However, numerous recent works have shown that it is unable to perform basic tasks involving detecting triples of correlated tokens, or compositional tasks where multiple input tokens need to be referenced to generate a result. Some higher-dimensional alternatives to self-attention have been proposed to address this, including higher-order attention and Strassen attention, which can perform some of these polyadic tasks in exchange for slower, superquadratic ru&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02422v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:24:53 +0000</pubDate>
+      <title>UniGeM: Unifying Data Mixing and Selection via Geometric Exploration and Mining</title>
+      <link>http://arxiv.org/abs/2602.03772v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Changhao Wang, Yunfei Yu, Xinhao Yao, Jiaolong Yang, Riccardo Cantoro, Chaobo Li, Qing Cui, Jun Zhou&lt;/p&gt;&lt;p&gt;The scaling of Large Language Models (LLMs) is increasingly limited by data quality. Most methods handle data mixing and sample selection separately, which can break the structure in code corpora. We introduce \textbf{UniGeM}, a framework that unifies mixing and selection by treating data curation as a \textit{manifold approximation} problem without training proxy models or relying on external reference datasets&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03772v1</guid>
+      <pubDate>Tue, 03 Feb 2026 17:32:56 +0000</pubDate>
     </item>
     <item>
-      <title>Full-Batch Gradient Descent Outperforms One-Pass SGD: Sample Complexity Separation in Single-Index Learning</title>
-      <link>http://arxiv.org/abs/2602.02431v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Filip Kovačević, Hong Chang Ji, Denny Wu, Mahdi Soltanolkotabi, Marco Mondelli&lt;/p&gt;&lt;p&gt;It is folklore that reusing training data more than once can improve the statistical efficiency of gradient-based learning. However, beyond linear regression, the theoretical advantage of full-batch gradient descent (GD, which always reuses all the data) over one-pass stochastic gradient descent (online SGD, which uses each data point only once) remains unclear. In this work, we consider learning a $d$-dimensional single-index model with a quadratic activation, for which it is known that one-pass SGD requires $n\gtrsim d\log d$ samples to achieve weak recovery&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02431v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:31:51 +0000</pubDate>
+      <title>An Empirical Study of Collective Behaviors and Social Dynamics in Large Language Model Agents</title>
+      <link>http://arxiv.org/abs/2602.03775v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Farnoosh Hashemi, Michael W. Macy&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) increasingly mediate our social, cultural, and political interactions. While they can simulate some aspects of human behavior and decision-making, it is still underexplored whether repeated interactions with other agents amplify their biases or lead to exclusionary behaviors. To this end, we study Chirper.ai-an LLM-driven social media platform-analyzing 7M posts and interactions among 32K LLM agents over a year&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03775v1</guid>
+      <pubDate>Tue, 03 Feb 2026 17:34:32 +0000</pubDate>
     </item>
     <item>
-      <title>UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing</title>
-      <link>http://arxiv.org/abs/2602.02437v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dianyi Wang, Chaofan Ma, Feng Han, Size Wu, Wei Song, Yibin Wang, Zhixiong Zhang, Tianhang Wang&lt;/p&gt;&lt;p&gt;Unified multimodal models often struggle with complex synthesis tasks that demand deep reasoning, and typically treat text-to-image generation and image editing as isolated capabilities rather than interconnected reasoning steps. To address this, we propose UniReason, a unified framework that harmonizes these two tasks through a dual reasoning paradigm. We formulate generation as world knowledge-enhanced planning to inject implicit constraints, and leverage editing capabilities for fine-grained visual refinement to further correct visual errors via self-reflection&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02437v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:34:35 +0000</pubDate>
+      <title>DiffLOB: Diffusion Models for Counterfactual Generation in Limit Order Books</title>
+      <link>http://arxiv.org/abs/2602.03776v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhuohan Wang, Carmine Ventre&lt;/p&gt;&lt;p&gt;Modern generative models for limit order books (LOBs) can reproduce realistic market dynamics, but remain fundamentally passive: they either model what typically happens without accounting for hypothetical future market conditions, or they require interaction with another agent to explore alternative outcomes. This limits their usefulness for stress testing, scenario analysis, and decision-making. We propose \textbf{DiffLOB}, a regime-conditioned \textbf{Diff}usion model for controllable and counterfactual generation of \textbf{LOB} trajectories&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03776v1</guid>
+      <pubDate>Tue, 03 Feb 2026 17:34:56 +0000</pubDate>
     </item>
     <item>
-      <title>Active Causal Experimentalist (ACE): Learning Intervention Strategies via Direct Preference Optimization</title>
-      <link>http://arxiv.org/abs/2602.02451v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Patrick Cooper, Alvaro Velasquez&lt;/p&gt;&lt;p&gt;Discovering causal relationships requires controlled experiments, but experimentalists face a sequential decision problem: each intervention reveals information that should inform what to try next. Traditional approaches such as random sampling, greedy information maximization, and round-robin coverage treat each decision in isolation, unable to learn adaptive strategies from experience. We propose Active Causal Experimentalist (ACE), which learns experimental design as a sequential policy&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02451v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:43:52 +0000</pubDate>
+      <title>Reward Redistribution for CVaR MDPs using a Bellman Operator on L-infinity</title>
+      <link>http://arxiv.org/abs/2602.03778v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aneri Muni, Vincent Taboga, Esther Derman, Pierre-Luc Bacon, Erick Delage&lt;/p&gt;&lt;p&gt;Tail-end risk measures such as static conditional value-at-risk (CVaR) are used in safety-critical applications to prevent rare, yet catastrophic events. Unlike risk-neutral objectives, the static CVaR of the return depends on entire trajectories without admitting a recursive Bellman decomposition in the underlying Markov decision process. A classical resolution relies on state augmentation with a continuous variable&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03778v1</guid>
+      <pubDate>Tue, 03 Feb 2026 17:39:45 +0000</pubDate>
     </item>
     <item>
-      <title>Thinking with Comics: Enhancing Multimodal Reasoning through Structured Visual Storytelling</title>
-      <link>http://arxiv.org/abs/2602.02453v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andong Chen, Wenxin Zhu, Qiuyu Ding, Yuchen Song, Muyun Yang, Tiejun Zhao&lt;/p&gt;&lt;p&gt;Chain-of-Thought reasoning has driven large language models to extend from thinking with text to thinking with images and videos. However, different modalities still have clear limitations: static images struggle to represent temporal structure, while videos introduce substantial redundancy and computational cost. In this work, we propose Thinking with Comics, a visual reasoning paradigm that uses comics as a high information-density medium positioned between images and videos&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02453v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:43:57 +0000</pubDate>
+      <title>Efficient Estimation of Kernel Surrogate Models for Task Attribution</title>
+      <link>http://arxiv.org/abs/2602.03783v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhenshuo Zhang, Minxuan Duan, Hongyang R. Zhang&lt;/p&gt;&lt;p&gt;Modern AI agents such as large language models are trained on diverse tasks -- translation, code generation, mathematical reasoning, and text prediction -- simultaneously. A key question is to quantify how each individual training task influences performance on a target task, a problem we refer to as task attribution. The direct approach, leave-one-out retraining, measures the effect of removing each task, but is computationally infeasible at scale&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03783v1</guid>
+      <pubDate>Tue, 03 Feb 2026 17:43:48 +0000</pubDate>
     </item>
     <item>
-      <title>World-Gymnast: Training Robots with Reinforcement Learning in a World Model</title>
-      <link>http://arxiv.org/abs/2602.02454v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ansh Kumar Sharma, Yixiang Sun, Ninghao Lu, Yunzhe Zhang, Jiarao Liu, Sherry Yang&lt;/p&gt;&lt;p&gt;Robot learning from interacting with the physical world is fundamentally bottlenecked by the cost of physical interaction. The two alternatives, supervised finetuning (SFT) from expert demonstrations and reinforcement learning (RL) in a software-based simulator, are limited by the amount of expert data available and the sim-to-real gap for manipulation. With the recent emergence of world models learned from real-world video-action data, we ask the question of whether training a policy in a world model can be more effective than supervised learning or software simulation in achieving better rea&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02454v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:44:45 +0000</pubDate>
+      <title>AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration</title>
+      <link>http://arxiv.org/abs/2602.03786v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jianhao Ruan, Zhihao Xu, Yiran Peng, Fashen Ren, Zhaoyang Yu, Xinbing Liang, Jinyu Xiang, Bang Liu&lt;/p&gt;&lt;p&gt;Language agents have shown strong promise for task automation. Realizing this promise for increasingly complex, long-horizon tasks has driven the rise of a sub-agent-as-tools paradigm for multi-turn task solving. However, existing designs still lack a dynamic abstraction view of sub-agents, thereby hurting adaptability&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03786v1</guid>
+      <pubDate>Tue, 03 Feb 2026 17:46:16 +0000</pubDate>
     </item>
     <item>
-      <title>Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction</title>
-      <link>http://arxiv.org/abs/2602.02455v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Han Bao, Zheyuan Zhang, Pengcheng Jing, Zhengqing Yuan, Kaiwen Shi, Yanfang Ye&lt;/p&gt;&lt;p&gt;As Large Language Models transition to autonomous agents, user inputs frequently violate cooperative assumptions (e.g., implicit intent, missing parameters, false presuppositions, or ambiguous expressions), creating execution risks that text-only evaluations do not capture. Existing benchmarks typically assume well-specified instructions or restrict evaluation to text-only, single-turn clarification, and thus do not measure multi-turn disambiguation under grounded execution risk. We introduce \textbf{Drift-Bench}, the first diagnostic benchmark that evaluates agentic pragmatics under input fau&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02455v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:46:16 +0000</pubDate>
+      <title>Fast Sampling for Flows and Diffusions with Lazy and Point Mass Stochastic Interpolants</title>
+      <link>http://arxiv.org/abs/2602.03789v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gabriel Damsholt, Jes Frellsen, Susanne Ditlevsen&lt;/p&gt;&lt;p&gt;Stochastic interpolants unify flows and diffusions, popular generative modeling frameworks. A primary hyperparameter in these methods is the interpolation schedule that determines how to bridge a standard Gaussian base measure to an arbitrary target measure. We prove how to convert a sample path of a stochastic differential equation (SDE) with arbitrary diffusion coefficient under any schedule into the unique sample path under another arbitrary schedule and diffusion coefficient&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03789v1</guid>
+      <pubDate>Tue, 03 Feb 2026 17:48:34 +0000</pubDate>
     </item>
     <item>
-      <title>Abstract Activation Spaces for Content-Invariant Reasoning in Large Language Models</title>
-      <link>http://arxiv.org/abs/2602.02462v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gabriele Maraia, Marco Valentino, Fabio Massimo Zanzotto, Leonardo Ranaldi&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) often struggle with deductive judgment in syllogistic reasoning, systematically conflating semantic plausibility with formal validity a phenomenon known as content effect. This bias persists even when models generate step-wise explanations, indicating that intermediate rationales may inherit the same semantic shortcuts that affect answers. Recent approaches propose mitigating this issue by increasing inference-time structural constraints, either by encouraging abstract intermediate representations or by intervening directly in the model's internal computations; how&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02462v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:48:44 +0000</pubDate>
+      <title>Understanding Agent Scaling in LLM-Based Multi-Agent Systems via Diversity</title>
+      <link>http://arxiv.org/abs/2602.03794v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yingxuan Yang, Chengrui Qu, Muning Wen, Laixi Shi, Ying Wen, Weinan Zhang, Adam Wierman, Shangding Gu&lt;/p&gt;&lt;p&gt;LLM-based multi-agent systems (MAS) have emerged as a promising approach to tackle complex tasks that are difficult for individual LLMs. A natural strategy is to scale performance by increasing the number of agents; however, we find that such scaling exhibits strong diminishing returns in homogeneous settings, while introducing heterogeneity (e.g., different models, prompts, or tools) continues to yield substantial gains. This raises a fundamental question: what limits scaling, and why does diversity help? We present an information-theoretic framework showing that MAS performance is bounded by&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03794v1</guid>
+      <pubDate>Tue, 03 Feb 2026 17:58:10 +0000</pubDate>
     </item>
     <item>
-      <title>MentisOculi: Revealing the Limits of Reasoning with Mental Imagery</title>
-      <link>http://arxiv.org/abs/2602.02465v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jana Zeller, Thaddäus Wiedemer, Fanfei Li, Thomas Klein, Prasanna Mayilvahanan, Matthias Bethge, Felix Wichmann, Ryan Cotterell&lt;/p&gt;&lt;p&gt;Frontier models are transitioning from multimodal large language models (MLLMs) that merely ingest visual information to unified multimodal models (UMMs) capable of native interleaved generation. This shift has sparked interest in using intermediate visualizations as a reasoning aid, akin to human mental imagery. Central to this idea is the ability to form, maintain, and manipulate visual representations in a goal-oriented manner&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02465v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:49:06 +0000</pubDate>
+      <title>Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation</title>
+      <link>http://arxiv.org/abs/2602.03806v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziru Chen, Dongdong Chen, Ruinan Jin, Yingbin Liang, Yujia Xie, Huan Sun&lt;/p&gt;&lt;p&gt;Recently, there have been significant research interests in training large language models (LLMs) with reinforcement learning (RL) on real-world tasks, such as multi-turn code generation. While online RL tends to perform better than offline RL, its higher training cost and instability hinders wide adoption. In this paper, we build on the observation that multi-turn code generation can be formulated as a one-step recoverable Markov decision process and propose contextual bandit learning with offline trajectories (Cobalt), a new method that combines the benefits of online and offline RL&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03806v1</guid>
+      <pubDate>Tue, 03 Feb 2026 18:08:41 +0000</pubDate>
     </item>
     <item>
-      <title>Avenir-Web: Human-Experience-Imitating Multimodal Web Agents with Mixture of Grounding Experts</title>
-      <link>http://arxiv.org/abs/2602.02468v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aiden Yiliu Li, Xinyue Hao, Shilong Liu, Mengdi Wang&lt;/p&gt;&lt;p&gt;Despite advances in multimodal large language models, autonomous web agents still struggle to reliably execute long-horizon tasks on complex and dynamic web interfaces. Existing agents often suffer from inaccurate element grounding, the absence of site-specific procedural knowledge, and unstable long-term task tracking and memory, particularly when operating over complex Document Object Model structures. To address these limitations, we introduce Avenir-Web, a web agent that achieves a new open-source state of the art on the Online-Mind2Web benchmark in real-world deployment&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02468v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:50:07 +0000</pubDate>
+      <title>Enhancing Imbalanced Node Classification via Curriculum-Guided Feature Learning and Three-Stage Attention Network</title>
+      <link>http://arxiv.org/abs/2602.03808v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abdul Joseph Fofanah, Lian Wen, David Chen, Shaoyang Zhang&lt;/p&gt;&lt;p&gt;Imbalanced node classification in graph neural networks (GNNs) happens when some labels are much more common than others, which causes the model to learn unfairly and perform badly on the less common classes. To solve this problem, we propose a Curriculum-Guided Feature Learning and Three-Stage Attention Network (CL3AN-GNN), a learning network that uses a three-step attention system (Engage, Enact, Embed) similar to how humans learn. The model begins by engaging with structurally simpler features, defined as (1) local neighbourhood patterns (1-hop), (2) low-degree node attributes, and (3) clas&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03808v1</guid>
+      <pubDate>Tue, 03 Feb 2026 18:10:40 +0000</pubDate>
     </item>
     <item>
-      <title>Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge</title>
-      <link>http://arxiv.org/abs/2602.02470v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xutao Ma, Yixiao Huang, Hanlin Zhu, Somayeh Sojoudi&lt;/p&gt;&lt;p&gt;Autoregressive large language models (LLMs) have achieved remarkable success in many complex tasks, yet they can still fail in very simple logical reasoning such as the "reversal curse" -- when trained on forward knowledge data of the form "$A \rightarrow B$" (e.g., Alice's husband is Bob), the model is unable to deduce the reversal knowledge "$B \leftarrow A$" (e.g., Bob's wife is Alice) during test. Extensive prior research suggests that this failure is an inherent, fundamental limit of autoregressive causal LLMs, indicating that these models tend to memorize factual-level knowledge rather t&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02470v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:50:57 +0000</pubDate>
+      <title>Antidistillation Fingerprinting</title>
+      <link>http://arxiv.org/abs/2602.03812v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yixuan Even Xu, John Kirchenbauer, Yash Savani, Asher Trockman, Alexander Robey, Tom Goldstein, Fei Fang, J. Zico Kolter&lt;/p&gt;&lt;p&gt;Model distillation enables efficient emulation of frontier large language models (LLMs), creating a need for robust mechanisms to detect when a third-party student model has trained on a teacher model's outputs. However, existing fingerprinting techniques that could be used to detect such distillation rely on heuristic perturbations that impose a steep trade-off between generation quality and fingerprinting strength, often requiring significant degradation of utility to ensure the fingerprint is effectively internalized by the student. We introduce antidistillation fingerprinting (ADFP), a pri&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03812v1</guid>
+      <pubDate>Tue, 03 Feb 2026 18:15:50 +0000</pubDate>
     </item>
     <item>
-      <title>Multi-head automated segmentation by incorporating detection head into the contextual layer neural network</title>
-      <link>http://arxiv.org/abs/2602.02471v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Edwin Kys, Febian Febian&lt;/p&gt;&lt;p&gt;Deep learning based auto segmentation is increasingly used in radiotherapy, but conventional models often produce anatomically implausible false positives, or hallucinations, in slices lacking target structures. We propose a gated multi-head Transformer architecture based on Swin U-Net, augmented with inter-slice context integration and a parallel detection head, which jointly performs slice-level structure detection via a multi-layer perceptron and pixel-level segmentation through a context-enhanced stream. Detection outputs gate the segmentation predictions to suppress false positives in ana&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02471v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:51:25 +0000</pubDate>
+      <title>Conformal Thinking: Risk Control for Reasoning on a Compute Budget</title>
+      <link>http://arxiv.org/abs/2602.03814v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xi Wang, Anushri Suresh, Alvin Zhang, Rishi More, William Jurayj, Benjamin Van Durme, Mehrdad Farajtabar, Daniel Khashabi&lt;/p&gt;&lt;p&gt;Reasoning Large Language Models (LLMs) enable test-time scaling, with dataset-level accuracy improving as the token budget increases, motivating adaptive reasoning -- spending tokens when they improve reliability and stopping early when additional computation is unlikely to help. However, setting the token budget, as well as the threshold for adaptive reasoning, is a practical challenge that entails a fundamental risk-accuracy trade-off. We re-frame the budget setting problem as risk control, limiting the error rate while minimizing compute&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03814v1</guid>
+      <pubDate>Tue, 03 Feb 2026 18:17:22 +0000</pubDate>
     </item>
     <item>
-      <title>MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents</title>
-      <link>http://arxiv.org/abs/2602.02474v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haozhen Zhang, Quanyu Long, Jianzhu Bao, Tao Feng, Weizhi Zhang, Haodong Yue, Wenya Wang&lt;/p&gt;&lt;p&gt;Most Large Language Model (LLM) agent memory systems rely on a small set of static, hand-designed operations for extracting memory. These fixed procedures hard-code human priors about what to store and how to revise memory, making them rigid under diverse interaction patterns and inefficient on long histories. To this end, we present \textbf{MemSkill}, which reframes these operations as learnable and evolvable memory skills, structured and reusable routines for extracting, consolidating, and pruning information from interaction traces&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02474v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:53:28 +0000</pubDate>
+      <title>Adaptive Evidence Weighting for Audio-Spatiotemporal Fusion</title>
+      <link>http://arxiv.org/abs/2602.03817v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Oscar Ovanger, Levi Harris, Timothy H. Keitt&lt;/p&gt;&lt;p&gt;Many machine learning systems have access to multiple sources of evidence for the same prediction target, yet these sources often differ in reliability and informativeness across inputs. In bioacoustic classification, species identity may be inferred both from the acoustic signal and from spatiotemporal context such as location and season; while Bayesian inference motivates multiplicative evidence combination, in practice we typically only have access to discriminative predictors rather than calibrated generative models. We introduce \textbf{F}usion under \textbf{IN}dependent \textbf{C}onditio&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03817v1</guid>
+      <pubDate>Tue, 03 Feb 2026 18:21:13 +0000</pubDate>
     </item>
     <item>
-      <title>AgentRx: Diagnosing AI Agent Failures from Execution Trajectories</title>
-      <link>http://arxiv.org/abs/2602.02475v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shraddha Barke, Arnav Goyal, Alind Khare, Avaljot Singh, Suman Nath, Chetan Bansal&lt;/p&gt;&lt;p&gt;AI agents often fail in ways that are difficult to localize because executions are probabilistic, long-horizon, multi-agent, and mediated by noisy tool outputs. We address this gap by manually annotating failed agent runs and release a novel benchmark of 115 failed trajectories spanning structured API workflows, incident management, and open-ended web/file tasks. Each trajectory is annotated with a critical failure step and a category from a grounded-theory derived, cross-domain failure taxonomy&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02475v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:54:07 +0000</pubDate>
+      <title>Preference-based Conditional Treatment Effects and Policy Learning</title>
+      <link>http://arxiv.org/abs/2602.03823v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dovid Parnas, Mathieu Even, Julie Josse, Uri Shalit&lt;/p&gt;&lt;p&gt;We introduce a new preference-based framework for conditional treatment effect estimation and policy learning, built on the Conditional Preference-based Treatment Effect (CPTE). CPTE requires only that outcomes be ranked under a preference rule, unlocking flexible modeling of heterogeneous effects with multivariate, ordinal, or preference-driven outcomes. This unifies applications such as conditional probability of necessity and sufficiency, conditional Win Ratio, and Generalized Pairwise Comparisons&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03823v1</guid>
+      <pubDate>Tue, 03 Feb 2026 18:31:26 +0000</pubDate>
     </item>
     <item>
-      <title>RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents</title>
-      <link>http://arxiv.org/abs/2602.02486v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jialiang Zhu, Gongrui Zhang, Xiaolong Ma, Lin Xu, Miaosen Zhang, Ruiqi Yang, Song Wang, Kai Qiu&lt;/p&gt;&lt;p&gt;LLM-based deep research agents are largely built on the ReAct framework. This linear design makes it difficult to revisit earlier states, branch into alternative search directions, or maintain global awareness under long contexts, often leading to local optima, redundant exploration, and inefficient search. We propose Re-TRAC, an agentic framework that performs cross-trajectory exploration by generating a structured state representation after each trajectory to summarize evidence, uncertainties, failures, and future plans, and conditioning subsequent trajectories on this state representation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02486v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:58:07 +0000</pubDate>
+      <title>AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations</title>
+      <link>http://arxiv.org/abs/2602.03828v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Minjun Zhu, Zhen Lin, Yixuan Weng, Panzhong Lu, Qiujie Xie, Yifan Wei, Sifan Liu, Qiyao Sun&lt;/p&gt;&lt;p&gt;High-quality scientific illustrations are crucial for effectively communicating complex scientific and technical concepts, yet their manual creation remains a well-recognized bottleneck in both academia and industry. We present FigureBench, the first large-scale benchmark for generating scientific illustrations from long-form scientific texts. It contains 3,300 high-quality scientific text-figure pairs, covering diverse text-to-illustration tasks from scientific papers, surveys, blogs, and textbooks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03828v1</guid>
+      <pubDate>Tue, 03 Feb 2026 18:41:43 +0000</pubDate>
     </item>
     <item>
-      <title>New explanations and inference for least angle regression</title>
-      <link>http://arxiv.org/abs/2602.02491v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Karl B. Gregory, Daniel J. Nordman&lt;/p&gt;&lt;p&gt;Efron et al. (2004) introduced least angle regression (LAR) as an algorithm for linear predictions, intended as an alternative to forward selection with connections to penalized regression. However, LAR has remained somewhat of a "black box," where some basic behavioral properties of LAR output are not well understood, including an appropriate termination point for the algorithm&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02491v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:59:39 +0000</pubDate>
+      <title>Accelerating Scientific Research with Gemini: Case Studies and Common Techniques</title>
+      <link>http://arxiv.org/abs/2602.03837v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; David P. Woodruff, Vincent Cohen-Addad, Lalit Jain, Jieming Mao, Song Zuo, MohammadHossein Bateni, Simina Branzei, Michael P. Brenner&lt;/p&gt;&lt;p&gt;Recent advances in large language models (LLMs) have opened new avenues for accelerating scientific research. While models are increasingly capable of assisting with routine tasks, their ability to contribute to novel, expert-level mathematical discovery is less understood. We present a collection of case studies demonstrating how researchers have successfully collaborated with advanced AI models, specifically Google's Gemini-based models (in particular Gemini Deep Think and its advanced variants), to solve open problems, refute conjectures, and generate new proofs across diverse areas in theo&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03837v1</guid>
+      <pubDate>Tue, 03 Feb 2026 18:56:17 +0000</pubDate>
     </item>
     <item>
-      <title>PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss</title>
-      <link>http://arxiv.org/abs/2602.02493v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zehong Ma, Ruihan Xu, Shiliang Zhang&lt;/p&gt;&lt;p&gt;Pixel diffusion generates images directly in pixel space in an end-to-end manner, avoiding the artifacts and bottlenecks introduced by VAEs in two-stage latent diffusion. However, it is challenging to optimize high-dimensional pixel manifolds that contain many perceptually irrelevant signals, leaving existing pixel diffusion methods lagging behind latent diffusion models. We propose PixelGen, a simple pixel diffusion framework with perceptual supervision&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02493v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:59:42 +0000</pubDate>
+      <title>PrevizWhiz: Combining Rough 3D Scenes and 2D Video to Guide Generative Video Previsualization</title>
+      <link>http://arxiv.org/abs/2602.03838v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Erzhen Hu, Frederik Brudy, David Ledo, George Fitzmaurice, Fraser Anderson&lt;/p&gt;&lt;p&gt;In pre-production, filmmakers and 3D animation experts must rapidly prototype ideas to explore a film's possibilities before fullscale production, yet conventional approaches involve trade-offs in efficiency and expressiveness. Hand-drawn storyboards often lack spatial precision needed for complex cinematography, while 3D previsualization demands expertise and high-quality rigged assets. To address this gap, we present PrevizWhiz, a system that leverages rough 3D scenes in combination with generative image and video models to create stylized video previews&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03838v1</guid>
+      <pubDate>Tue, 03 Feb 2026 18:56:40 +0000</pubDate>
     </item>
     <item>
-      <title>Reward-free Alignment for Conflicting Objectives</title>
-      <link>http://arxiv.org/abs/2602.02495v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Peter Chen, Xiaopeng Li, Xi Chen, Tianyi Lin&lt;/p&gt;&lt;p&gt;Direct alignment methods are increasingly used to align large language models (LLMs) with human preferences. However, many real-world alignment problems involve multiple conflicting objectives, where naive aggregation of preferences can lead to unstable training and poor trade-offs. In particular, weighted loss methods may fail to identify update directions that simultaneously improve all objectives, and existing multi-objective approaches often rely on explicit reward models, introducing additional complexity and distorting user-specified preferences&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.02495v1</guid>
-      <pubDate>Mon, 02 Feb 2026 18:59:52 +0000</pubDate>
+      <title>PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning</title>
+      <link>http://arxiv.org/abs/2602.03846v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Romain Cosentino&lt;/p&gt;&lt;p&gt;We develop a continual learning method for pretrained models that \emph{requires no access to old-task data}, addressing a practical barrier in foundation model adaptation where pretraining distributions are often unavailable. Our key observation is that pretrained networks exhibit substantial \emph{geometric redundancy}, and that this redundancy can be exploited in two complementary ways. First, redundant neurons provide a proxy for dominant pretraining-era feature directions, enabling the construction of approximately protected update subspaces directly from pretrained weights&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.03846v1</guid>
+      <pubDate>Tue, 03 Feb 2026 18:59:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
