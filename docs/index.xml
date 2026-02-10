@@ -7,6 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Feb 2026 04:27:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 04:33:30 +0000</lastBuildDate>
+    <item>
+      <title>CoRefine: Confidence-Guided Self-Refinement for Adaptive Test-Time Compute</title>
+      <link>http://arxiv.org/abs/2602.08948v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chen Jin, Ryutaro Tanno, Tom Diethe, Philip Teare&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) often rely on test-time scaling via parallel decoding (for example, 512 samples) to boost reasoning accuracy, but this incurs substantial compute. We introduce CoRefine, a confidence-guided self-refinement method that achieves competitive accuracy using a fraction of the tokens via a lightweight 211k-parameter Conv1D controller atop a frozen LLM. The controller consumes full-trace confidence to decide whether to halt, re-examine, or try a different approach, enabling targeted self-correction with an average of 2.7 refinement steps per problem and roughly 190-fold t&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.08948v1</guid>
+      <pubDate>Mon, 09 Feb 2026 17:44:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digital Twin and Agentic AI for Wild Fire Disaster Management: Intelligent Virtual Situation Room</title>
+      <link>http://arxiv.org/abs/2602.08949v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohammad Morsali, Siavash H. Khajavi&lt;/p&gt;&lt;p&gt;According to the United Nations, wildfire frequency and intensity are projected to increase by approximately 14% by 2030 and 30% by 2050 due to global warming, posing critical threats to life, infrastructure, and ecosystems. Conventional disaster management frameworks rely on static simulations and passive data acquisition, hindering their ability to adapt to arbitrarily evolving wildfire episodes in real-time. To address these limitations, we introduce the Intelligent Virtual Situation Room (IVSR), a bidirectional Digital Twin (DT) platform augmented by autonomous AI agents&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.08949v1</guid>
+      <pubDate>Mon, 09 Feb 2026 17:44:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE</title>
+      <link>http://arxiv.org/abs/2602.08961v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruijie Zhu, Jiahao Lu, Wenbo Hu, Xiaoguang Han, Jianfei Cai, Ying Shan, Chuanxia Zheng&lt;/p&gt;&lt;p&gt;We introduce MotionCrafter, a video diffusion-based framework that jointly reconstructs 4D geometry and estimates dense motion from a monocular video. The core of our method is a novel joint representation of dense 3D point maps and 3D scene flows in a shared coordinate system, and a novel 4D VAE to effectively learn this representation. Unlike prior work that forces the 3D value and latents to align strictly with RGB VAE latents-despite their fundamentally different distributions-we show that such alignment is unnecessary and leads to suboptimal performance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.08961v1</guid>
+      <pubDate>Mon, 09 Feb 2026 17:58:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents</title>
+      <link>http://arxiv.org/abs/2602.08964v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Raghu Arghal, Fade Chen, Niall Dalton, Evgenii Kortukov, Calum McNamara, Angelos Nalmpantis, Moksh Nirvaan, Gabriele Sarti&lt;/p&gt;&lt;p&gt;Understanding an agent's goals helps explain and predict its behaviour, yet there is no established methodology for reliably attributing goals to agentic systems. We propose a framework for evaluating goal-directedness that integrates behavioural evaluation with interpretability-based analyses of models' internal representations. As a case study, we examine an LLM agent navigating a 2D grid world toward a goal state&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.08964v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>stable-worldmodel-v1: Reproducible World Modeling Research and Evaluation</title>
+      <link>http://arxiv.org/abs/2602.08968v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lucas Maes, Quentin Le Lidec, Dan Haramati, Nassim Massaudi, Damien Scieur, Yann LeCun, Randall Balestriero&lt;/p&gt;&lt;p&gt;World Models have emerged as a powerful paradigm for learning compact, predictive representations of environment dynamics, enabling agents to reason, plan, and generalize beyond direct experience. Despite recent interest in World Models, most available implementations remain publication-specific, severely limiting their reusability, increasing the risk of bugs, and reducing evaluation standardization. To mitigate these issues, we introduce stable-worldmodel (SWM), a modular, tested, and documented world-model research ecosystem that provides efficient data-collection tools, standardized enviro&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.08968v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:04:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>When do neural ordinary differential equations generalize on complex networks?</title>
+      <link>http://arxiv.org/abs/2602.08980v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Moritz Laber, Tina Eliassi-Rad, Brennan Klein&lt;/p&gt;&lt;p&gt;Neural ordinary differential equations (neural ODEs) can effectively learn dynamical systems from time series data, but their behavior on graph-structured data remains poorly understood, especially when applied to graphs with different size or structure than encountered during training. We study neural ODEs ($\mathtt{nODE}$s) with vector fields following the Barabási-Barzel form, trained on synthetic data from five common dynamical systems on graphs. Using the $\mathbb{S}^1$-model to generate graphs with realistic and tunable structure, we find that degree heterogeneity and the type of dynamic&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.08980v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:28:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>StretchTime: Adaptive Time Series Forecasting via Symplectic Attention</title>
+      <link>http://arxiv.org/abs/2602.08983v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yubin Kim, Viresh Pati, Jevon Twitty, Vinh Pham, Shihao Yang, Jiecheng Lu&lt;/p&gt;&lt;p&gt;Transformer architectures have established strong baselines in time series forecasting, yet they typically rely on positional encodings that assume uniform, index-based temporal progression. However, real-world systems, from shifting financial cycles to elastic biological rhythms, frequently exhibit "time-warped" dynamics where the effective flow of time decouples from the sampling index. In this work, we first formalize this misalignment and prove that rotary position embedding (RoPE) is mathematically incapable of representing non-affine temporal warping&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.08983v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:29:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Next Concept Prediction in Discrete Latent Space Leads to Stronger Language Models</title>
+      <link>http://arxiv.org/abs/2602.08984v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuliang Liu, Yunchong Song, Yixuan Wang, Kewen Ge, Alex Lamb, Qipeng Guo, Kai Chen, Bowen Zhou&lt;/p&gt;&lt;p&gt;We propose Next Concept Prediction (NCP), a generative pretraining paradigm built on top of Next Token Prediction (NTP). NCP predicts discrete concepts that span multiple tokens, thereby forming a more challenging pretraining objective. Our model, ConceptLM, quantizes hidden states using Vector Quantization and constructs a concept vocabulary&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.08984v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving Detection of Rare Nodes in Hierarchical Multi-Label Learning</title>
+      <link>http://arxiv.org/abs/2602.08986v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Isaac Xu, Martin Gillis, Ayushi Sharma, Benjamin Misiuk, Craig J. Brown, Thomas Trappenberg&lt;/p&gt;&lt;p&gt;In hierarchical multi-label classification, a persistent challenge is enabling model predictions to reach deeper levels of the hierarchy for more detailed or fine-grained classifications. This difficulty partly arises from the natural rarity of certain classes (or hierarchical nodes) and the hierarchical constraint that ensures child nodes are almost always less frequent than their parents. To address this, we propose a weighted loss objective for neural networks that combines node-wise imbalance weighting with focal weighting components, the latter leveraging modern quantification of ensemble&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.08986v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:34:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery</title>
+      <link>http://arxiv.org/abs/2602.08990v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shiyang Feng, Runmin Ma, Xiangchao Yan, Yue Fan, Yusong Hu, Songtao Huang, Shuaiyu Zhang, Zongsheng Cao&lt;/p&gt;&lt;p&gt;We introduce InternAgent-1.5, a unified system designed for end-to-end scientific discovery across computational and empirical domains. The system is built on a structured architecture composed of three coordinated subsystems for generation, verification, and evolution. These subsystems are supported by foundational capabilities for deep research, solution optimization, and long horizon memory&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.08990v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:36:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>iGRPO: Self-Feedback-Driven LLM Reasoning</title>
+      <link>http://arxiv.org/abs/2602.09000v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ali Hatamizadeh, Shrimai Prabhumoye, Igor Gitman, Ximing Lu, Seungju Han, Wei Ping, Yejin Choi, Jan Kautz&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) have shown promise in solving complex mathematical problems, yet they still fall short of producing accurate and consistent solutions. Reinforcement Learning (RL) is a framework for aligning these models with task-specific rewards, improving overall quality and reliability. Group Relative Policy Optimization (GRPO) is an efficient, value-function-free alternative to Proximal Policy Optimization (PPO) that leverages group-relative reward normalization&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.09000v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:45:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Obstacles to Etiquette: Robot Social Navigation with VLM-Informed Path Selection</title>
+      <link>http://arxiv.org/abs/2602.09002v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zilin Fang, Anxing Xiao, David Hsu, Gim Hee Lee&lt;/p&gt;&lt;p&gt;Navigating socially in human environments requires more than satisfying geometric constraints, as collision-free paths may still interfere with ongoing activities or conflict with social norms. Addressing this challenge calls for analyzing interactions between agents and incorporating common-sense reasoning into planning. This paper presents a social robot navigation framework that integrates geometric planning with contextual social reasoning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.09002v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:46:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Science and Technology Towards AGI Part I: Tiered Data Management</title>
+      <link>http://arxiv.org/abs/2602.09003v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yudong Wang, Zixuan Fu, Hengyu Zhao, Chen Zhao, Chuyue Zhou, Xinle Lin, Hongya Lyu, Shuaikang Xue&lt;/p&gt;&lt;p&gt;The development of artificial intelligence can be viewed as an evolution of data-driven learning paradigms, with successive shifts in data organization and utilization continuously driving advances in model capability. Current LLM research is dominated by a paradigm that relies heavily on unidirectional scaling of data size, increasingly encountering bottlenecks in data availability, acquisition cost, and training efficiency. In this work, we argue that the development of AGI is entering a new phase of data-model co-evolution, in which models actively guide data management while high-quality d&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.09003v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:47:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>ARO: A New Lens On Matrix Optimization For Large Models</title>
+      <link>http://arxiv.org/abs/2602.09006v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wenbo Gong, Javier Zazo, Qijun Luo, Puqian Wang, James Hensman, Chao Ma&lt;/p&gt;&lt;p&gt;Matrix-based optimizers have attracted growing interest for improving LLM training efficiency, with significant progress centered on orthogonalization/whitening based methods. While yielding substantial performance gains, a fundamental question arises: can we develop new paradigms beyond orthogonalization, pushing the efficiency frontier further? We present \textbf{Adaptively Rotated Optimization (ARO}, a new matrix optimization framework that treats gradient rotation as a first class design principle. ARO accelerates LLM training by performing normed steepest descent in a rotated coordinate s&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.09006v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:51:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>GEBench: Benchmarking Image Generation Models as GUI Environments</title>
+      <link>http://arxiv.org/abs/2602.09007v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haodong Li, Jingwei Wu, Quan Sun, Guopeng Li, Juanxi Tian, Huanyu Zhang, Yanlin Lai, Ruichuan An&lt;/p&gt;&lt;p&gt;Recent advancements in image generation models have enabled the prediction of future Graphical User Interface (GUI) states based on user instructions. However, existing benchmarks primarily focus on general domain visual fidelity, leaving the evaluation of state transitions and temporal coherence in GUI-specific contexts underexplored. To address this gap, we introduce GEBench, a comprehensive benchmark for evaluating dynamic interaction and temporal coherence in GUI generation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.09007v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:52:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling</title>
+      <link>http://arxiv.org/abs/2602.09009v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yilang Zhang, Bingcong Li, Niao He, Georgios B. Giannakis&lt;/p&gt;&lt;p&gt;Scaling network depth has been a central driver behind the success of modern foundation models, yet recent investigations suggest that deep layers are often underutilized. This paper revisits the default mechanism for deepening neural networks, namely residual connections, from an optimization perspective. Rigorous analysis proves that the layout of residual connections can fundamentally shape convergence behavior, and even induces an exponential gap in convergence rates&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.09009v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:54:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense</title>
+      <link>http://arxiv.org/abs/2602.09012v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiacheng Liu, Yaxin Luo, Jiacheng Cui, Xinyi Shang, Xiaohan Zhao, Zhiqiang Shen&lt;/p&gt;&lt;p&gt;The rapid evolution of GUI-enabled agents has rendered traditional CAPTCHAs obsolete. While previous benchmarks like OpenCaptchaWorld established a baseline for evaluating multimodal agents, recent advancements in reasoning-heavy models, such as Gemini3-Pro-High and GPT-5.2-Xhigh have effectively collapsed this security barrier, achieving pass rates as high as 90% on complex logic puzzles like "Bingo". In response, we introduce Next-Gen CAPTCHAs, a scalable defense framework designed to secure the next-generation web against the advanced agents&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.09012v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:55:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation</title>
+      <link>http://arxiv.org/abs/2602.09014v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zihan Yang, Shuyuan Tu, Licheng Zhang, Qi Dai, Yu-Gang Jiang, Zuxuan Wu&lt;/p&gt;&lt;p&gt;Diffusion models have achieved remarkable generation quality, but they suffer from significant inference cost due to their reliance on multiple sequential denoising steps, motivating recent efforts to distill this inference process into a few-step regime. However, existing distillation methods typically approximate the teacher trajectory by using linear shortcuts, which makes it difficult to match its constantly changing tangent directions as velocities evolve across timesteps, thereby leading to quality degradation. To address this limitation, we propose ArcFlow, a few-step distillation frame&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.09014v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:56:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>CIC-Trap4Phish: A Unified Multi-Format Dataset for Phishing and Quishing Attachment Detection</title>
+      <link>http://arxiv.org/abs/2602.09015v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fatemeh Nejati, Mahdi Rabbani, Mansur Mirani, Gunjan Piya, Igor Opushnyev, Ali A. Ghorbani, Sajjad Dadkhah&lt;/p&gt;&lt;p&gt;Phishing attacks represents one of the primary attack methods which is used by cyber attackers. In many cases, attackers use deceptive emails along with malicious attachments to trick users into giving away sensitive information or installing malware while compromising entire systems. The flexibility of malicious email attachments makes them stand out as a preferred vector for attackers as they can embed harmful content such as malware or malicious URLs inside standard document formats&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.09015v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving</title>
+      <link>http://arxiv.org/abs/2602.09018v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Amir Mallak, Alaa Maalouf&lt;/p&gt;&lt;p&gt;Out of distribution (OOD) robustness in autonomous driving is often reduced to a single number, hiding what breaks a policy. We decompose environments along five axes: scene (rural/urban), season, weather, time (day/night), and agent mix; and measure performance under controlled $k$-factor perturbations ($k \in \{0,1,2,3\}$). Using closed loop control in VISTA, we benchmark FC, CNN, and ViT policies, train compact ViT heads on frozen foundation-model (FM) features, and vary ID support in scale, diversity, and temporal context&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.09018v1</guid>
+      <pubDate>Mon, 09 Feb 2026 18:59:03 +0000</pubDate>
+    </item>
   </channel>
 </rss>
