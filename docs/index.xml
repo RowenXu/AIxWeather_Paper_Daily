@@ -7,6 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Feb 2026 04:26:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 04:21:42 +0000</lastBuildDate>
+    <item>
+      <title>Lifted Relational Probabilistic Inference via Implicit Learning</title>
+      <link>http://arxiv.org/abs/2602.14890v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Luise Ge, Brendan Juba, Kris Nilsson, Alison Shao&lt;/p&gt;&lt;p&gt;Reconciling the tension between inductive learning and deductive reasoning in first-order relational domains is a longstanding challenge in AI. We study the problem of answering queries in a first-order relational probabilistic logic through a joint effort of learning and reasoning, without ever constructing an explicit model. Traditional lifted inference assumes access to a complete model and exploits symmetry to evaluate probabilistic queries; however, learning such models from partial, noisy observations is intractable in general&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.14890v1</guid>
+      <pubDate>Mon, 16 Feb 2026 16:24:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Picking the Right Specialist: Attentive Neural Process-based Selection of Task-Specialized Models as Tools for Agentic Healthcare Systems</title>
+      <link>http://arxiv.org/abs/2602.14901v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pramit Saha, Joshua Strong, Mohammad Alsharid, Divyanshu Mishra, J. Alison Noble&lt;/p&gt;&lt;p&gt;Task-specialized models form the backbone of agentic healthcare systems, enabling the agents to answer clinical queries across tasks such as disease diagnosis, localization, and report generation. Yet, for a given task, a single "best" model rarely exists. In practice, each task is better served by multiple competing specialist models where different models excel on different data samples&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.14901v1</guid>
+      <pubDate>Mon, 16 Feb 2026 16:36:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Potential of CoT for Reasoning: A Closer Look at Trace Dynamics</title>
+      <link>http://arxiv.org/abs/2602.14903v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gregor Bachmann, Yichen Jiang, Seyed Mohsen Moosavi Dezfooli, Moin Nabi&lt;/p&gt;&lt;p&gt;Chain-of-thought (CoT) prompting is a de-facto standard technique to elicit reasoning-like responses from large language models (LLMs), allowing them to spell out individual steps before giving a final answer. While the resemblance to human-like reasoning is undeniable, the driving forces underpinning the success of CoT reasoning still remain largely unclear. In this work, we perform an in-depth analysis of CoT traces originating from competition-level mathematics questions, with the aim of better understanding how, and which parts of CoT actually contribute to the final answer&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.14903v1</guid>
+      <pubDate>Mon, 16 Feb 2026 16:38:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Position: Introspective Experience from Conversational Environments as a Path to Better Learning</title>
+      <link>http://arxiv.org/abs/2602.14910v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Claudiu Cristian Musat, Jackson Tolins, Diego Antognini, Jingling Li, Martin Klissarov, Tom Duerig&lt;/p&gt;&lt;p&gt;Current approaches to AI training treat reasoning as an emergent property of scale. We argue instead that robust reasoning emerges from linguistic self-reflection, itself internalized from high-quality social interaction. Drawing on Vygotskian developmental psychology, we advance three core positions centered on Introspection&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.14910v1</guid>
+      <pubDate>Mon, 16 Feb 2026 16:45:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>BFS-PO: Best-First Search for Large Reasoning Models</title>
+      <link>http://arxiv.org/abs/2602.14917v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fiorenzo Parascandolo, Wenhui Tan, Enver Sangineto, Ruihua Song, Rita Cucchiara&lt;/p&gt;&lt;p&gt;Large Reasoning Models (LRMs) such as OpenAI o1 and DeepSeek-R1 have shown excellent performance in reasoning tasks using long reasoning chains. However, this has also led to a significant increase of computational costs and the generation of verbose output, a phenomenon known as overthinking. The tendency to overthinking is often exacerbated by Reinforcement Learning (RL) algorithms such as GRPO/DAPO&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.14917v1</guid>
+      <pubDate>Mon, 16 Feb 2026 16:53:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>BHyGNN+: Unsupervised Representation Learning for Heterophilic Hypergraphs</title>
+      <link>http://arxiv.org/abs/2602.14919v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tianyi Ma, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye&lt;/p&gt;&lt;p&gt;Hypergraph Neural Networks (HyGNNs) have demonstrated remarkable success in modeling higher-order relationships among entities. However, their performance often degrades on heterophilic hypergraphs, where nodes connected by the same hyperedge tend to have dissimilar semantic representations or belong to different classes. While several HyGNNs, including our prior work BHyGNN, have been proposed to address heterophily, their reliance on labeled data significantly limits their applicability in real-world scenarios where annotations are scarce or costly&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.14919v1</guid>
+      <pubDate>Mon, 16 Feb 2026 16:55:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI</title>
+      <link>http://arxiv.org/abs/2602.14922v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gaoyang Zhang, Shanghong Zou, Yafang Wang, He Zhang, Ruohua Xu, Feng Zhao&lt;/p&gt;&lt;p&gt;To address the ``reusability dilemma'' and structural hallucinations in enterprise Agentic AI,this paper proposes ReusStdFlow, a framework centered on a novel ``Extraction-Storage-Construction'' paradigm. The framework deconstructs heterogeneous, platform-specific Domain Specific Languages (DSLs) into standardized, modular workflow segments. It employs a dual knowledge architecture-integrating graph and vector databases-to facilitate synergistic retrieval of both topological structures and functional semantics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.14922v1</guid>
+      <pubDate>Mon, 16 Feb 2026 16:56:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>MAC-AMP: A Closed-Loop Multi-Agent Collaboration System for Multi-Objective Antimicrobial Peptide Design</title>
+      <link>http://arxiv.org/abs/2602.14926v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gen Zhou, Sugitha Janarthanan, Lianghong Chen, Pingzhao Hu&lt;/p&gt;&lt;p&gt;To address the global health threat of antimicrobial resistance, antimicrobial peptides (AMP) are being explored for their potent and promising ability to fight resistant pathogens. While artificial intelligence (AI) is being employed to advance AMP discovery and design, most AMP design models struggle to balance key goals like activity, toxicity, and novelty, using rigid or unclear scoring methods that make results hard to interpret and optimize. As the capabilities of Large Language Models (LLM) advance and evolve swiftly, we turn to AI multi-agent collaboration based on such models (multi-a&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.14926v1</guid>
+      <pubDate>Mon, 16 Feb 2026 17:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Activation-Space Uncertainty Quantification for Pretrained Networks</title>
+      <link>http://arxiv.org/abs/2602.14934v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Richard Bergna, Stefan Depeweg, Sergio Calvo-Ordoñez, Jonathan Plenk, Alvaro Cartea, Jose Miguel Hernández-Lobato&lt;/p&gt;&lt;p&gt;Reliable uncertainty estimates are crucial for deploying pretrained models; yet, many strong methods for quantifying uncertainty require retraining, Monte Carlo sampling, or expensive second-order computations and may alter a frozen backbone's predictions. To address this, we introduce Gaussian Process Activations (GAPA), a post-hoc method that shifts Bayesian modeling from weights to activations. GAPA replaces standard nonlinearities with Gaussian-process activations whose posterior mean exactly matches the original activation, preserving the backbone's point predictions by construction while&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.14934v1</guid>
+      <pubDate>Mon, 16 Feb 2026 17:17:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Locally Adaptive Multi-Objective Learning</title>
+      <link>http://arxiv.org/abs/2602.14952v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jivat Neet Kaur, Isaac Gibbs, Michael I. Jordan&lt;/p&gt;&lt;p&gt;We consider the general problem of learning a predictor that satisfies multiple objectives of interest simultaneously, a broad framework that captures a range of specific learning goals including calibration, regret, and multiaccuracy. We work in an online setting where the data distribution can change arbitrarily over time. Existing approaches to this problem aim to minimize the set of objectives over the entire time horizon in a worst-case sense, and in practice they do not necessarily adapt to distribution shifts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.14952v1</guid>
+      <pubDate>Mon, 16 Feb 2026 17:31:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement</title>
+      <link>http://arxiv.org/abs/2602.14968v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yian Wang, Han Yang, Minghao Guo, Xiaowen Qiu, Tsun-Hsuan Wang, Wojciech Matusik, Joshua B. Tenenbaum, Chuang Gan&lt;/p&gt;&lt;p&gt;Automatically generating interactive 3D environments is crucial for scaling up robotic data collection in simulation. While prior work has primarily focused on 3D asset placement, it often overlooks the physical relationships between objects (e.g., contact, support, balance, and containment), which are essential for creating complex and realistic manipulation scenarios such as tabletop arrangements, shelf organization, or box packing. Compared to classical 3D layout generation, producing complex physical scenes introduces additional challenges: (a) higher object density and complexity (e.g., a&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.14968v1</guid>
+      <pubDate>Mon, 16 Feb 2026 17:55:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Block Empirical Likelihood Inference for Longitudinal Generalized Partially Linear Single-Index Models</title>
+      <link>http://arxiv.org/abs/2602.14981v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tianni Zhang, Yuyao Wang, Yu Lu, and Mengfei Ran&lt;/p&gt;&lt;p&gt;Generalized partially linear single-index models (GPLSIMs) provide a flexible and interpretable semiparametric framework for longitudinal outcomes by combining a low-dimensional parametric component with a nonparametric index component. For repeated measurements, valid inference is challenging because within-subject correlation induces nuisance parameters and variance estimation can be unstable in semiparametric settings. We propose a profile estimating-equation approach based on spline approximation of the unknown link function and construct a subject-level block empirical likelihood (BEL) fo&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.14981v1</guid>
+      <pubDate>Mon, 16 Feb 2026 18:03:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery</title>
+      <link>http://arxiv.org/abs/2602.14989v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ayush Shrivastava, Kirtan Gangani, Laksh Jain, Mayank Goel, Nipun Batra&lt;/p&gt;&lt;p&gt;Vision language models (VLMs) achieve strong performance on RGB imagery, but they do not generalize to thermal images. Thermal sensing plays a critical role in settings where visible light fails, including nighttime surveillance, search and rescue, autonomous driving, and medical screening. Unlike RGB imagery, thermal images encode physical temperature rather than color or texture, requiring perceptual and reasoning capabilities that existing RGB-centric benchmarks do not evaluate&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.14989v1</guid>
+      <pubDate>Mon, 16 Feb 2026 18:16:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spectral Convolution on Orbifolds for Geometric Deep Learning</title>
+      <link>http://arxiv.org/abs/2602.14997v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tim Mangliers, Bernhard Mössner, Benjamin Himpel&lt;/p&gt;&lt;p&gt;Geometric deep learning (GDL) deals with supervised learning on data domains that go beyond Euclidean structure, such as data with graph or manifold structure. Due to the demand that arises from application-related data, there is a need to identify further topological and geometric structures with which these use cases can be made accessible to machine learning. There are various techniques, such as spectral convolution, that form the basic building blocks for some convolutional neural network-like architectures on non-Euclidean data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.14997v1</guid>
+      <pubDate>Mon, 16 Feb 2026 18:28:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>PDE foundation models are skillful AI weather emulators for the Martian atmosphere</title>
+      <link>http://arxiv.org/abs/2602.15004v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Johannes Schmude, Sujit Roy, Liping Wang, Theodore van Kessel, Levente Klein, Marcus Freitag, Eloisa Bentivegna, Robert Manson-Sawko&lt;/p&gt;&lt;p&gt;We show that AI foundation models that are pretrained on numerical solutions to a diverse corpus of partial differential equations can be adapted and fine-tuned to obtain skillful predictive weather emulators for the Martian atmosphere. We base our work on the Poseidon PDE foundation model for two-dimensional systems. We develop a method to extend Poseidon from two to three dimensions while keeping the pretraining information&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.15004v1</guid>
+      <pubDate>Mon, 16 Feb 2026 18:44:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficient Sampling with Discrete Diffusion Models: Sharp and Adaptive Guarantees</title>
+      <link>http://arxiv.org/abs/2602.15008v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daniil Dmitriev, Zhihan Huang, Yuting Wei&lt;/p&gt;&lt;p&gt;Diffusion models over discrete spaces have recently shown striking empirical success, yet their theoretical foundations remain incomplete. In this paper, we study the sampling efficiency of score-based discrete diffusion models under a continuous-time Markov chain (CTMC) formulation, with a focus on $τ$-leaping-based samplers. We establish sharp convergence guarantees for attaining $\varepsilon$ accuracy in Kullback-Leibler (KL) divergence for both uniform and masking noising processes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.15008v1</guid>
+      <pubDate>Mon, 16 Feb 2026 18:48:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cold-Start Personalization via Training-Free Priors from Structured World Models</title>
+      <link>http://arxiv.org/abs/2602.15012v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Avinandan Bose, Shuyue Stella Li, Faeze Brahman, Pang Wei Koh, Simon Shaolei Du, Yulia Tsvetkov, Maryam Fazel, Lin Xiao&lt;/p&gt;&lt;p&gt;Cold-start personalization requires inferring user preferences through interaction when no user-specific historical data is available. The core challenge is a routing problem: each task admits dozens of preference dimensions, yet individual users care about only a few, and which ones matter depends on who is asking. With a limited question budget, asking without structure will miss the dimensions that matter&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.15012v1</guid>
+      <pubDate>Mon, 16 Feb 2026 18:52:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hunt Globally: Deep Research AI Agents for Drug Asset Scouting in Investing, Business Development, and Search &amp; Evaluation</title>
+      <link>http://arxiv.org/abs/2602.15019v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alisa Vinogradova, Vlad Vinogradov, Luba Greenwood, Ilya Yasny, Dmitry Kobyzev, Shoman Kasbekar, Kong Nguyen, Dmitrii Radkevich&lt;/p&gt;&lt;p&gt;Bio-pharmaceutical innovation has shifted: many new drug assets now originate outside the United States and are disclosed primarily via regional, non-English channels. Recent data suggests &gt;85% of patent filings originate outside the U.S., with China accounting for nearly half of the global total; a growing share of scholarly output is also non-U.S. Industry estimates put China at ~30% of global drug development, spanning 1,200+ novel candidates&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.15019v1</guid>
+      <pubDate>Mon, 16 Feb 2026 18:57:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation</title>
+      <link>http://arxiv.org/abs/2602.15022v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Cai Zhou, Zijie Chen, Zian Li, Jike Wang, Kaiyi Jiang, Pan Li, Rose Yu, Muhan Zhang&lt;/p&gt;&lt;p&gt;Many generative tasks in chemistry and science involve distributions invariant to group symmetries (e.g., permutation and rotation). A common strategy enforces invariance and equivariance through architectural constraints such as equivariant denoisers and invariant priors. In this paper, we challenge this tradition through the alternative canonicalization perspective: first map each sample to an orbit representative with a canonical pose or order, train an unconstrained (non-equivariant) diffusion or flow model on the canonical slice, and finally recover the invariant distribution by sampling &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.15022v1</guid>
+      <pubDate>Mon, 16 Feb 2026 18:58:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization</title>
+      <link>http://arxiv.org/abs/2602.15028v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shangding Gu&lt;/p&gt;&lt;p&gt;Large language models (LLMs) are increasingly deployed in privacy-critical and personalization-oriented scenarios, yet the role of context length in shaping privacy leakage and personalization effectiveness remains largely unexplored. We introduce a large-scale benchmark, PAPerBench, to systematically study how increasing context length influences both personalization quality and privacy protection in LLMs. The benchmark comprises approximately 29,000 instances with context lengths ranging from 1K to 256K tokens, yielding a total of 377K evaluation questions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.15028v1</guid>
+      <pubDate>Mon, 16 Feb 2026 18:59:42 +0000</pubDate>
+    </item>
   </channel>
 </rss>
