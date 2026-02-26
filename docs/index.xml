@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Feb 2026 04:22:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 04:18:37 +0000</lastBuildDate>
     <item>
-      <title>Adjacency Spectral Embeddings of Correlation Networks</title>
-      <link>http://arxiv.org/abs/2602.21055v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Keith Levin&lt;/p&gt;&lt;p&gt;In many applications, weighted networks are constructed based on time series data: each time series is associated to a vertex and edge weights are given by pairwise correlations. The result is a network whose edge dependency structure violates the assumptions of most common network models. Nonetheless, it is common to analyze these "correlation networks" using embedding methods derived from edge-independent network models, based on a belief that the edges are approximately independent&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21055v1</guid>
-      <pubDate>Tue, 24 Feb 2026 16:13:33 +0000</pubDate>
+      <title>RGB-Event HyperGraph Prompt for Kilometer Marker Recognition based on Pre-trained Foundation Models</title>
+      <link>http://arxiv.org/abs/2602.22026v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaoyu Xian, Shiao Wang, Xiao Wang, Daxin Tian, Yan Tian&lt;/p&gt;&lt;p&gt;Metro trains often operate in highly complex environments, characterized by illumination variations, high-speed motion, and adverse weather conditions. These factors pose significant challenges for visual perception systems, especially those relying solely on conventional RGB cameras. To tackle these difficulties, we explore the integration of event cameras into the perception system, leveraging their advantages in low-light conditions, high-speed scenarios, and low power consumption&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22026v1</guid>
+      <pubDate>Wed, 25 Feb 2026 15:34:15 +0000</pubDate>
     </item>
     <item>
-      <title>Tool Building as a Path to "Superintelligence"</title>
-      <link>http://arxiv.org/abs/2602.21061v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; David Koplow, Tomer Galanti, Tomaso Poggio&lt;/p&gt;&lt;p&gt;The Diligent Learner framework suggests LLMs can achieve superintelligence via test-time search, provided a sufficient step-success probability $γ$. In this work, we design a benchmark to measure $γ$ on logical out-of-distribution inference. We construct a class of tasks involving GF(2) circuit reconstruction that grow more difficult with each reasoning step, and that are, from an information-theoretic standpoint, impossible to reliably solve unless the LLM carefully integrates all of the information provided&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21061v1</guid>
-      <pubDate>Tue, 24 Feb 2026 16:22:10 +0000</pubDate>
+      <title>TG-ASR: Translation-Guided Learning with Parallel Gated Cross Attention for Low-Resource Automatic Speech Recognition</title>
+      <link>http://arxiv.org/abs/2602.22039v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Cheng-Yeh Yang, Chien-Chun Wang, Li-Wei Chen, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen&lt;/p&gt;&lt;p&gt;Low-resource automatic speech recognition (ASR) continues to pose significant challenges, primarily due to the limited availability of transcribed data for numerous languages. While a wealth of spoken content is accessible in television dramas and online videos, Taiwanese Hokkien exemplifies this issue, with transcriptions often being scarce and the majority of available subtitles provided only in Mandarin. To address this deficiency, we introduce TG-ASR for Taiwanese Hokkien drama speech recognition, a translation-guided ASR framework that utilizes multilingual translation embeddings to enhan&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22039v1</guid>
+      <pubDate>Wed, 25 Feb 2026 15:47:34 +0000</pubDate>
     </item>
     <item>
-      <title>Motivation is Something You Need</title>
-      <link>http://arxiv.org/abs/2602.21064v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mehdi Acheli, Walid Gaaloul&lt;/p&gt;&lt;p&gt;This work introduces a novel training paradigm that draws from affective neuroscience. Inspired by the interplay of emotions and cognition in the human brain and more specifically the SEEKING motivational state, we design a dual-model framework where a smaller base model is trained continuously, while a larger motivated model is activated intermittently during predefined "motivation conditions". The framework mimics the emotional state of high curiosity and anticipation of reward in which broader brain regions are recruited to enhance cognitive performance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21064v1</guid>
-      <pubDate>Tue, 24 Feb 2026 16:26:52 +0000</pubDate>
+      <title>Physics-Informed Machine Learning for Vessel Shaft Power and Fuel Consumption Prediction: Interpretable KAN-based Approach</title>
+      <link>http://arxiv.org/abs/2602.22055v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hamza Haruna Mohammed, Dusica Marijan, Arnbjørn Maressa&lt;/p&gt;&lt;p&gt;Accurate prediction of shaft rotational speed, shaft power, and fuel consumption is crucial for enhancing operational efficiency and sustainability in maritime transportation. Conventional physics-based models provide interpretability but struggle with real-world variability, while purely data-driven approaches achieve accuracy at the expense of physical plausibility. This paper introduces a Physics-Informed Kolmogorov-Arnold Network (PI-KAN), a hybrid method that integrates interpretable univariate feature transformations with a physics-informed loss function and a leakage-free chained predic&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22055v1</guid>
+      <pubDate>Wed, 25 Feb 2026 16:06:28 +0000</pubDate>
     </item>
     <item>
-      <title>Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning</title>
-      <link>http://arxiv.org/abs/2602.21072v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhangjie Xia, Yu Yang, Pan Xu&lt;/p&gt;&lt;p&gt;Off-dynamics offline reinforcement learning (RL) aims to learn a policy for a target domain using limited target data and abundant source data collected under different transition dynamics. Existing methods typically address dynamics mismatch either globally over the state space or via pointwise data filtering; these approaches can miss localized cross-domain similarities or incur high computational cost. We propose Localized Dynamics-Aware Domain Adaptation (LoDADA), which exploits localized dynamics mismatch to better reuse source data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21072v1</guid>
-      <pubDate>Tue, 24 Feb 2026 16:32:50 +0000</pubDate>
+      <title>NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training</title>
+      <link>http://arxiv.org/abs/2602.22059v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dengdi Sun, Xiaoya Zhou, Xiao Wang, Hao Si, Wanli Lyu, Jin Tang, Bin Luo&lt;/p&gt;&lt;p&gt;Neural operators have emerged as an efficient paradigm for solving PDEs, overcoming the limitations of traditional numerical methods and significantly improving computational efficiency. However, due to the diversity and complexity of PDE systems, existing neural operators typically rely on a single network architecture, which limits their capacity to fully capture heterogeneous features and complex system dependencies. This constraint poses a bottleneck for large-scale PDE pre-training based on neural operators&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22059v1</guid>
+      <pubDate>Wed, 25 Feb 2026 16:08:46 +0000</pubDate>
     </item>
     <item>
-      <title>Probing Graph Neural Network Activation Patterns Through Graph Topology</title>
-      <link>http://arxiv.org/abs/2602.21092v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Floriano Tori, Lorenzo Bini, Marco Sorbi, Stéphane Marchand-Maillet, Vincent Ginis&lt;/p&gt;&lt;p&gt;Curvature notions on graphs provide a theoretical description of graph topology, highlighting bottlenecks and denser connected regions. Artifacts of the message passing paradigm in Graph Neural Networks, such as oversmoothing and oversquashing, have been attributed to these regions. However, it remains unclear how the topology of a graph interacts with the learned preferences of GNNs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21092v1</guid>
-      <pubDate>Tue, 24 Feb 2026 16:52:36 +0000</pubDate>
+      <title>DualWeaver: Synergistic Feature Weaving Surrogates for Multivariate Forecasting with Univariate Time Series Foundation Models</title>
+      <link>http://arxiv.org/abs/2602.22066v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jinpeng Li, Zhongyi Pei, Huaze Xue, Bojian Zheng, Chen Wang, Jianmin Wang&lt;/p&gt;&lt;p&gt;Time-series foundation models (TSFMs) have achieved strong univariate forecasting through large-scale pre-training, yet effectively extending this success to multivariate forecasting remains challenging. To address this, we propose DualWeaver, a novel framework that adapts univariate TSFMs (Uni-TSFMs) for multivariate forecasting by using a pair of learnable, structurally symmetric surrogate series. Generated by a shared auxiliary feature-fusion module that captures cross-variable dependencies, these surrogates are mapped to TSFM-compatible series via the forecasting objective&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22066v1</guid>
+      <pubDate>Wed, 25 Feb 2026 16:13:12 +0000</pubDate>
     </item>
     <item>
-      <title>Attention-Based SINR Estimation in User-Centric Non-Terrestrial Networks</title>
-      <link>http://arxiv.org/abs/2602.21116v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bruno De Filippo, Alessandro Guidotti, Alessandro Vanelli-Coralli&lt;/p&gt;&lt;p&gt;The signal-to-interference-plus-noise ratio (SINR) is central to performance optimization in user-centric beamforming for satellite-based non-terrestrial networks (NTNs). Its assessment either requires the transmission of dedicated pilots or relies on computing the beamforming matrix through minimum mean squared error (MMSE)-based formulations beforehand, a process that introduces significant computational overhead. In this paper, we propose a low-complexity SINR estimation framework that leverages multi-head self-attention (MHSA) to extract inter-user interference features directly from eithe&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21116v1</guid>
-      <pubDate>Tue, 24 Feb 2026 17:12:36 +0000</pubDate>
+      <title>Semantic Partial Grounding via LLMs</title>
+      <link>http://arxiv.org/abs/2602.22067v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Giuseppe Canonaco, Alberto Pozanco, Daniel Borrajo&lt;/p&gt;&lt;p&gt;Grounding is a critical step in classical planning, yet it often becomes a computational bottleneck due to the exponential growth in grounded actions and atoms as task size increases. Recent advances in partial grounding have addressed this challenge by incrementally grounding only the most promising operators, guided by predictive models. However, these approaches primarily rely on relational features or learned embeddings and do not leverage the textual and structural cues present in PDDL descriptions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22067v1</guid>
+      <pubDate>Wed, 25 Feb 2026 16:13:26 +0000</pubDate>
     </item>
     <item>
-      <title>"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems</title>
-      <link>http://arxiv.org/abs/2602.21127v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xinfeng Li, Shenyu Dai, Kelong Zheng, Yue Xiao, Gelei Deng, Wei Dong, Xiaofeng Wang&lt;/p&gt;&lt;p&gt;Large language model (LLM) agents are rapidly becoming trusted copilots in high-stakes domains like software development and healthcare. However, this deepening trust introduces a novel attack surface: Agent-Mediated Deception (AMD), where compromised agents are weaponized against their human users. While extensive research focuses on agent-centric threats, human susceptibility to deception by a compromised agent remains unexplored&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21127v1</guid>
-      <pubDate>Tue, 24 Feb 2026 17:23:11 +0000</pubDate>
+      <title>Language Models Exhibit Inconsistent Biases Towards Algorithmic Agents and Human Experts</title>
+      <link>http://arxiv.org/abs/2602.22070v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jessica Y. Bo, Lillio Mok, Ashton Anderson&lt;/p&gt;&lt;p&gt;Large language models are increasingly used in decision-making tasks that require them to process information from a variety of sources, including both human experts and other algorithmic agents. How do LLMs weigh the information provided by these different sources? We consider the well-studied phenomenon of algorithm aversion, in which human decision-makers exhibit bias against predictions from algorithms. Drawing upon experimental paradigms from behavioural economics, we evaluate how eightdifferent LLMs delegate decision-making tasks when the delegatee is framed as a human expert or an algor&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22070v1</guid>
+      <pubDate>Wed, 25 Feb 2026 16:18:28 +0000</pubDate>
     </item>
     <item>
-      <title>An Enhanced Projection Pursuit Tree Classifier with Visual Methods for Assessing Algorithmic Improvements</title>
-      <link>http://arxiv.org/abs/2602.21130v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Natalia da Silva, Dianne Cook, Eun-Kyung Lee&lt;/p&gt;&lt;p&gt;This paper presents enhancements to the projection pursuit tree classifier and visual diagnostic methods for assessing their impact in high dimensions. The original algorithm uses linear combinations of variables in a tree structure where depth is constrained to be less than the number of classes -- a limitation that proves too rigid for complex classification problems. Our extensions improve performance in multi-class settings with unequal variance-covariance structures and nonlinear class separations by allowing more splits and more flexible class groupings in the projection pursuit computat&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21130v1</guid>
-      <pubDate>Tue, 24 Feb 2026 17:27:17 +0000</pubDate>
+      <title>Understanding Artificial Theory of Mind: Perturbed Tasks and Reasoning in Large Language Models</title>
+      <link>http://arxiv.org/abs/2602.22072v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Christian Nickel, Laura Schrewe, Florian Mai, Lucie Flek&lt;/p&gt;&lt;p&gt;Theory of Mind (ToM) refers to an agent's ability to model the internal states of others. Contributing to the debate whether large language models (LLMs) exhibit genuine ToM capabilities, our study investigates their ToM robustness using perturbations on false-belief tasks and examines the potential of Chain-of-Thought prompting (CoT) to enhance performance and explain the LLM's decision. We introduce a handcrafted, richly annotated ToM dataset, including classic and perturbed false belief tasks, the corresponding spaces of valid reasoning chains for correct task completion, subsequent reasoni&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22072v1</guid>
+      <pubDate>Wed, 25 Feb 2026 16:24:35 +0000</pubDate>
     </item>
     <item>
-      <title>SOM-VQ: Topology-Aware Tokenization for Interactive Generative Models</title>
-      <link>http://arxiv.org/abs/2602.21133v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alessandro Londei, Denise Lanzieri, Matteo Benati&lt;/p&gt;&lt;p&gt;Vector-quantized representations enable powerful discrete generative models but lack semantic structure in token space, limiting interpretable human control. We introduce SOM-VQ, a tokenization method that combines vector quantization with Self-Organizing Maps to learn discrete codebooks with explicit low-dimensional topology. Unlike standard VQ-VAE, SOM-VQ uses topology-aware updates that preserve neighborhood structure: nearby tokens on a learned grid correspond to semantically similar states, enabling direct geometric manipulation of the latent space&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21133v1</guid>
-      <pubDate>Tue, 24 Feb 2026 17:29:04 +0000</pubDate>
+      <title>Coarsening Bias from Variable Discretization in Causal Functionals</title>
+      <link>http://arxiv.org/abs/2602.22083v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaxian Ou, Razieh Nabi&lt;/p&gt;&lt;p&gt;A class of causal effect functionals requires integration over conditional densities of continuous variables, as in mediation effects and nonparametric identification in causal graphical models. Estimating such densities and evaluating the resulting integrals can be statistically and computationally demanding. A common workaround is to discretize the variable and replace integrals with finite sums&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22083v1</guid>
+      <pubDate>Wed, 25 Feb 2026 16:32:04 +0000</pubDate>
     </item>
     <item>
-      <title>SparkMe: Adaptive Semi-Structured Interviewing for Qualitative Insight Discovery</title>
-      <link>http://arxiv.org/abs/2602.21136v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; David Anugraha, Vishakh Padmakumar, Diyi Yang&lt;/p&gt;&lt;p&gt;Qualitative insights from user experiences are critical for informing product and policy decisions, but collecting such data at scale is constrained by the time and availability of experts to conduct semi-structured interviews. Recent work has explored using large language models (LLMs) to automate interviewing, yet existing systems lack a principled mechanism for balancing systematic coverage of predefined topics with adaptive exploration, or the ability to pursue follow-ups, deep dives, and emergent themes that arise organically during conversation. In this work, we formulate adaptive semi-s&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21136v1</guid>
-      <pubDate>Tue, 24 Feb 2026 17:33:02 +0000</pubDate>
+      <title>On Imbalanced Regression with Hoeffding Trees</title>
+      <link>http://arxiv.org/abs/2602.22101v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pantia-Marina Alchirch, Dimitrios I. Diochnos&lt;/p&gt;&lt;p&gt;Many real-world applications provide a continuous stream of data that is subsequently used by machine learning models to solve regression tasks of interest. Hoeffding trees and their variants have a long-standing tradition due to their effectiveness, either alone or as base models in broader ensembles. At the same time a recent line of work in batch learning has shown that kernel density estimation (KDE) is an effective approach for smoothed predictions in imbalanced regression tasks [Yang et al., 2021]&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22101v1</guid>
+      <pubDate>Wed, 25 Feb 2026 16:48:07 +0000</pubDate>
     </item>
     <item>
-      <title>A Benchmark for Deep Information Synthesis</title>
-      <link>http://arxiv.org/abs/2602.21143v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Debjit Paul, Daniel Murphy, Milan Gritta, Ronald Cardenas, Victor Prokhorov, Lena Sophia Bolliger, Aysim Toker, Roy Miles&lt;/p&gt;&lt;p&gt;Large language model (LLM)-based agents are increasingly used to solve complex tasks involving tool use, such as web browsing, code execution, and data analysis. However, current evaluation benchmarks do not adequately assess their ability to solve real-world tasks that require synthesizing information from multiple sources and inferring insights beyond simple fact retrieval. To address this, we introduce DEEPSYNTH, a novel benchmark designed to evaluate agents on realistic, time-consuming problems that combine information gathering, synthesis, and structured reasoning to produce insights&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21143v1</guid>
-      <pubDate>Tue, 24 Feb 2026 17:43:32 +0000</pubDate>
+      <title>Don't stop me now: Rethinking Validation Criteria for Model Parameter Selection</title>
+      <link>http://arxiv.org/abs/2602.22107v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andrea Apicella, Francesco Isgrò, Andrea Pollastro, Roberto Prevete&lt;/p&gt;&lt;p&gt;Despite the extensive literature on training loss functions, the evaluation of generalization on the validation set remains underexplored. In this work, we conduct a systematic empirical and statistical study of how the validation criterion used for model selection affects test performance in neural classifiers, with attention to early stopping. Using fully connected networks on standard benchmarks under $k$-fold evaluation, we compare: (i) early stopping with patience and (ii) post-hoc selection over all epochs (i.e&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22107v1</guid>
+      <pubDate>Wed, 25 Feb 2026 16:56:14 +0000</pubDate>
     </item>
     <item>
-      <title>CG-DMER: Hybrid Contrastive-Generative Framework for Disentangled Multimodal ECG Representation Learning</title>
-      <link>http://arxiv.org/abs/2602.21154v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziwei Niu, Hao Sun, Shujun Bian, Xihong Yang, Lanfen Lin, Yuxin Liu, Yueming Jin&lt;/p&gt;&lt;p&gt;Accurate interpretation of electrocardiogram (ECG) signals is crucial for diagnosing cardiovascular diseases. Recent multimodal approaches that integrate ECGs with accompanying clinical reports show strong potential, but they still face two main concerns from a modality perspective: (1) intra-modality: existing models process ECGs in a lead-agnostic manner, overlooking spatial-temporal dependencies across leads, which restricts their effectiveness in modeling fine-grained diagnostic patterns; (2) inter-modality: existing methods directly align ECG signals with clinical reports, introducing mod&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21154v1</guid>
-      <pubDate>Tue, 24 Feb 2026 17:59:21 +0000</pubDate>
+      <title>Probing the Geometry of Diffusion Models with the String Method</title>
+      <link>http://arxiv.org/abs/2602.22122v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Elio Moreau, Florentin Coeurdoux, Grégoire Ferre, Eric Vanden-Eijnden&lt;/p&gt;&lt;p&gt;Understanding the geometry of learned distributions is fundamental to improving and interpreting diffusion models, yet systematic tools for exploring their landscape remain limited. Standard latent-space interpolations fail to respect the structure of the learned distribution, often traversing low-density regions. We introduce a framework based on the string method that computes continuous paths between samples by evolving curves under the learned score function&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22122v1</guid>
+      <pubDate>Wed, 25 Feb 2026 17:10:59 +0000</pubDate>
     </item>
     <item>
-      <title>Not Just How Much, But Where: Decomposing Epistemic Uncertainty into Per-Class Contributions</title>
-      <link>http://arxiv.org/abs/2602.21160v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mame Diarra Toure, David A. Stephens&lt;/p&gt;&lt;p&gt;In safety-critical classification, the cost of failure is often asymmetric, yet Bayesian deep learning summarises epistemic uncertainty with a single scalar, mutual information (MI), that cannot distinguish whether a model's ignorance involves a benign or safety-critical class. We decompose MI into a per-class vector $C_k(x)=σ_k^{2}/(2μ_k)$, with $μ_k{=}\mathbb{E}[p_k]$ and $σ_k^2{=}\mathrm{Var}[p_k]$ across posterior samples. The decomposition follows from a second-order Taylor expansion of the entropy; the $1/μ_k$ weighting corrects boundary suppression and makes $C_k$ comparable across rare&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21160v1</guid>
-      <pubDate>Tue, 24 Feb 2026 18:05:51 +0000</pubDate>
+      <title>SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents</title>
+      <link>http://arxiv.org/abs/2602.22124v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Patrick Tser Jern Kon, Archana Pradeep, Ang Chen, Alexander P. Ellis, Warren Hunt, Zijian Wang, John Yang, Samuel Thompson&lt;/p&gt;&lt;p&gt;Small language models (SLMs) offer compelling advantages in cost, latency, and adaptability, but have so far lagged behind larger models on long-horizon software engineering tasks such as SWE-bench, where they suffer from pervasive action looping and low resolution rates. We introduce SWE-Protégé, a post-training framework that reframes software repair as an expert-protégé collaboration problem. In SWE-Protégé, an SLM remains the sole decision-maker while learning to selectively seek guidance from a strong expert model, recognize stalled states, and follow through on expert feedback&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22124v1</guid>
+      <pubDate>Wed, 25 Feb 2026 17:11:49 +0000</pubDate>
     </item>
     <item>
-      <title>PVminer: A Domain-Specific Tool to Detect the Patient Voice in Patient Generated Data</title>
-      <link>http://arxiv.org/abs/2602.21165v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Samah Fodeh, Linhai Ma, Yan Wang, Srivani Talakokkul, Ganesh Puthiaraju, Afshan Khan, Ashley Hagaman, Sarah Lowe&lt;/p&gt;&lt;p&gt;Patient-generated text such as secure messages, surveys, and interviews contains rich expressions of the patient voice (PV), reflecting communicative behaviors and social determinants of health (SDoH). Traditional qualitative coding frameworks are labor intensive and do not scale to large volumes of patient-authored messages across health systems. Existing machine learning (ML) and natural language processing (NLP) approaches provide partial solutions but often treat patient-centered communication (PCC) and SDoH as separate tasks or rely on models not well suited to patient-facing language&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21165v1</guid>
-      <pubDate>Tue, 24 Feb 2026 18:10:00 +0000</pubDate>
+      <title>NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors</title>
+      <link>http://arxiv.org/abs/2602.22144v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lingfeng Ren, Weihao Yu, Runpeng Yu, Xinchao Wang&lt;/p&gt;&lt;p&gt;Object hallucination is a critical issue in Large Vision-Language Models (LVLMs), where outputs include objects that do not appear in the input image. A natural question arises from this phenomenon: Which component of the LVLM pipeline primarily contributes to object hallucinations? The vision encoder to perceive visual information, or the language decoder to generate text responses? In this work, we strive to answer this question through designing a systematic experiment to analyze the roles of the vision encoder and the language decoder in hallucination generation. Our observations reveal th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22144v1</guid>
+      <pubDate>Wed, 25 Feb 2026 17:50:41 +0000</pubDate>
     </item>
     <item>
-      <title>NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning</title>
-      <link>http://arxiv.org/abs/2602.21172v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ishaan Rawal, Shubh Gupta, Yihan Hu, Wei Zhan&lt;/p&gt;&lt;p&gt;Vision-Language-Action (VLA) models are advancing autonomous driving by replacing modular pipelines with unified end-to-end architectures. However, current VLAs face two expensive requirements: (1) massive dataset collection, and (2) dense reasoning annotations. In this work, we address both challenges with \modelname (\textbf{No} \textbf{R}easoning for \textbf{D}riving)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21172v1</guid>
-      <pubDate>Tue, 24 Feb 2026 18:17:21 +0000</pubDate>
+      <title>When AI Writes, Whose Voice Remains? Quantifying Cultural Marker Erasure Across World English Varieties in Large Language Models</title>
+      <link>http://arxiv.org/abs/2602.22145v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Satyam Kumar Navneet, Joydeep Chandra, Yong Zhang&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) are increasingly used to ``professionalize'' workplace communication, often at the cost of linguistic identity. We introduce "Cultural Ghosting", the systematic erasure of linguistic markers unique to non-native English varieties during text processing. Through analysis of 22,350 LLM outputs generated from 1,490 culturally marked texts (Indian, Singaporean,&amp; Nigerian English) processed by five models under three prompt conditions, we quantify this phenomenon using two novel metrics: Identity Erasure Rate (IER) &amp; Semantic Preservation Score (SPS)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22145v1</guid>
+      <pubDate>Wed, 25 Feb 2026 17:54:42 +0000</pubDate>
     </item>
     <item>
-      <title>XMorph: Explainable Brain Tumor Analysis Via LLM-Assisted Hybrid Deep Intelligence</title>
-      <link>http://arxiv.org/abs/2602.21178v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sepehr Salem Ghahfarokhi, M. Moein Esfahani, Raj Sunderraman, Vince Calhoun, Mohammed Alser&lt;/p&gt;&lt;p&gt;Deep learning has significantly advanced automated brain tumor diagnosis, yet clinical adoption remains limited by interpretability and computational constraints. Conventional models often act as opaque ''black boxes'' and fail to quantify the complex, irregular tumor boundaries that characterize malignant growth. To address these challenges, we present XMorph, an explainable and computationally efficient framework for fine-grained classification of three prominent brain tumor types: glioma, meningioma, and pituitary tumors&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21178v1</guid>
-      <pubDate>Tue, 24 Feb 2026 18:28:08 +0000</pubDate>
+      <title>Provable Last-Iterate Convergence for Multi-Objective Safe LLM Alignment via Optimistic Primal-Dual</title>
+      <link>http://arxiv.org/abs/2602.22146v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yining Li, Peizhong Ju, Ness Shroff&lt;/p&gt;&lt;p&gt;Reinforcement Learning from Human Feedback (RLHF) plays a significant role in aligning Large Language Models (LLMs) with human preferences. While RLHF with expected reward constraints can be formulated as a primal-dual optimization problem, standard primal-dual methods only guarantee convergence with a distributional policy where the saddle-point problem is in convex-concave form. Moreover, standard primal-dual methods may exhibit instability or divergence in the last iterate under policy parameterization in practical applications&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22146v1</guid>
+      <pubDate>Wed, 25 Feb 2026 17:54:52 +0000</pubDate>
     </item>
     <item>
-      <title>Why Pass@k Optimization Can Degrade Pass@1: Prompt Interference in LLM Post-training</title>
-      <link>http://arxiv.org/abs/2602.21189v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anas Barakat, Souradip Chakraborty, Khushbu Pahwa, Amrit Singh Bedi&lt;/p&gt;&lt;p&gt;Pass@k is a widely used performance metric for verifiable large language model tasks, including mathematical reasoning, code generation, and short-answer reasoning. It defines success if any of $k$ independently sampled solutions passes a verifier. This multi-sample inference metric has motivated inference-aware fine-tuning methods that directly optimize pass@$k$&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21189v1</guid>
-      <pubDate>Tue, 24 Feb 2026 18:43:08 +0000</pubDate>
+      <title>Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach</title>
+      <link>http://arxiv.org/abs/2602.22188v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nathalie C. Pinheiro, Donghu Guo, Hannah P. Menke, Aniket C. Joshi, Claire E. Heaney, Ahmed H. ElSheikh, Christopher C. Pain&lt;/p&gt;&lt;p&gt;Modelling rock-fluid interaction requires solving a set of partial differential equations (PDEs) to predict the flow behaviour and the reactions of the fluid with the rock on the interfaces. Conventional high-fidelity numerical models require a high resolution to obtain reliable results, resulting in huge computational expense. This restricts the applicability of these models for multi-query problems, such as uncertainty quantification and optimisation, which require running numerous scenarios&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22188v1</guid>
+      <pubDate>Wed, 25 Feb 2026 18:34:03 +0000</pubDate>
     </item>
     <item>
-      <title>Statistical Query Lower Bounds for Smoothed Agnostic Learning</title>
-      <link>http://arxiv.org/abs/2602.21191v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ilias Diakonikolas, Daniel M. Kane&lt;/p&gt;&lt;p&gt;We study the complexity of smoothed agnostic learning, recently introduced by~\cite{CKKMS24}, in which the learner competes with the best classifier in a target class under slight Gaussian perturbations of the inputs. Specifically, we focus on the prototypical task of agnostically learning halfspaces under subgaussian distributions in the smoothed model. The best known upper bound for this problem relies on $L_1$-polynomial regression and has complexity $d^{\tilde{O}(1/σ^2) \log(1/ε)}$, where $σ$ is the smoothing parameter and $ε$ is the excess error&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21191v1</guid>
-      <pubDate>Tue, 24 Feb 2026 18:46:46 +0000</pubDate>
+      <title>GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL</title>
+      <link>http://arxiv.org/abs/2602.22190v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rui Yang, Qianhui Wu, Zhaoyang Wang, Hanyang Chen, Ke Yang, Hao Cheng, Huaxiu Yao, Baoling Peng&lt;/p&gt;&lt;p&gt;Open-source native GUI agents still lag behind closed-source systems on long-horizon navigation tasks. This gap stems from two limitations: a shortage of high-quality, action-aligned reasoning data, and the direct adoption of generic post-training pipelines that overlook the unique challenges of GUI agents. We identify two fundamental issues in these pipelines: (i) standard SFT with CoT reasoning often hurts grounding, and (ii) step-wise RLVR-tyle training faces partial verifiability, where multiple actions can be correct but only a single demonstrated action is used for verification&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22190v1</guid>
+      <pubDate>Wed, 25 Feb 2026 18:34:57 +0000</pubDate>
     </item>
     <item>
-      <title>Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs</title>
-      <link>http://arxiv.org/abs/2602.21198v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yining Hong, Huang Huang, Manling Li, Li Fei-Fei, Jiajun Wu, Yejin Choi&lt;/p&gt;&lt;p&gt;Embodied LLMs endow robots with high-level task reasoning, but they cannot reflect on what went wrong or why, turning deployment into a sequence of independent trials where mistakes repeat rather than accumulate into experience. Drawing upon human reflective practitioners, we introduce Reflective Test-Time Planning, which integrates two modes of reflection: \textit{reflection-in-action}, where the agent uses test-time scaling to generate and score multiple candidate actions using internal reflections before execution; and \textit{reflection-on-action}, which uses test-time training to update b&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21198v1</guid>
-      <pubDate>Tue, 24 Feb 2026 18:55:18 +0000</pubDate>
+      <title>Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes</title>
+      <link>http://arxiv.org/abs/2602.22197v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xavier Pleimling, Sifat Muhammad Abdullah, Gunjan Balde, Peng Gao, Mainack Mondal, Murtuza Jadliwala, Bimal Viswanath&lt;/p&gt;&lt;p&gt;Advances in Generative AI (GenAI) have led to the development of various protection strategies to prevent the unauthorized use of images. These methods rely on adding imperceptible protective perturbations to images to thwart misuse such as style mimicry or deepfake manipulations. Although previous attacks on these protections required specialized, purpose-built methods, we demonstrate that this is no longer necessary&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22197v1</guid>
+      <pubDate>Wed, 25 Feb 2026 18:46:30 +0000</pubDate>
     </item>
     <item>
-      <title>Test-Time Training with KV Binding Is Secretly Linear Attention</title>
-      <link>http://arxiv.org/abs/2602.21204v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junchen Liu, Sven Elflein, Or Litany, Zan Gojcic, Ruilong Li&lt;/p&gt;&lt;p&gt;Test-time training (TTT) with KV binding as sequence modeling layer is commonly interpreted as a form of online meta-learning that memorizes a key-value mapping at test time. However, our analysis reveals multiple phenomena that contradict this memorization-based interpretation. Motivated by these findings, we revisit the formulation of TTT and show that a broad class of TTT architectures can be expressed as a form of learned linear attention operator&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.21204v1</guid>
-      <pubDate>Tue, 24 Feb 2026 18:59:30 +0000</pubDate>
+      <title>Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets</title>
+      <link>http://arxiv.org/abs/2602.22207v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hanna Yukhymenko, Anton Alexandrov, Martin Vechev&lt;/p&gt;&lt;p&gt;The reliability of multilingual Large Language Model (LLM) evaluation is currently compromised by the inconsistent quality of translated benchmarks. Existing resources often suffer from semantic drift and context loss, which can lead to misleading performance metrics. In this work, we present a fully automated framework designed to address these challenges by enabling scalable, high-quality translation of datasets and benchmarks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.22207v1</guid>
+      <pubDate>Wed, 25 Feb 2026 18:58:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
