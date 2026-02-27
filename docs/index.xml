@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Feb 2026 04:18:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 04:14:30 +0000</lastBuildDate>
     <item>
-      <title>RGB-Event HyperGraph Prompt for Kilometer Marker Recognition based on Pre-trained Foundation Models</title>
-      <link>http://arxiv.org/abs/2602.22026v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaoyu Xian, Shiao Wang, Xiao Wang, Daxin Tian, Yan Tian&lt;/p&gt;&lt;p&gt;Metro trains often operate in highly complex environments, characterized by illumination variations, high-speed motion, and adverse weather conditions. These factors pose significant challenges for visual perception systems, especially those relying solely on conventional RGB cameras. To tackle these difficulties, we explore the integration of event cameras into the perception system, leveraging their advantages in low-light conditions, high-speed scenarios, and low power consumption&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22026v1</guid>
-      <pubDate>Wed, 25 Feb 2026 15:34:15 +0000</pubDate>
+      <title>Mitigating Legibility Tax with Decoupled Prover-Verifier Games</title>
+      <link>http://arxiv.org/abs/2602.23248v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yegon Kim, Juho Lee&lt;/p&gt;&lt;p&gt;As large language models become increasingly capable, it is critical that their outputs can be easily checked by less capable systems. Prover-verifier games can be used to improve checkability of model outputs, but display a degradation in accuracy compared to a baseline trained only to maximize correctness -- a phenonemon named legibility tax. We propose a solution by decoupling the correctness from the checkability condition and instead training a "translator" model that turns a fixed solver model's solution into a checkable form&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23248v1</guid>
+      <pubDate>Thu, 26 Feb 2026 17:25:22 +0000</pubDate>
     </item>
     <item>
-      <title>TG-ASR: Translation-Guided Learning with Parallel Gated Cross Attention for Low-Resource Automatic Speech Recognition</title>
-      <link>http://arxiv.org/abs/2602.22039v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Cheng-Yeh Yang, Chien-Chun Wang, Li-Wei Chen, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen&lt;/p&gt;&lt;p&gt;Low-resource automatic speech recognition (ASR) continues to pose significant challenges, primarily due to the limited availability of transcribed data for numerous languages. While a wealth of spoken content is accessible in television dramas and online videos, Taiwanese Hokkien exemplifies this issue, with transcriptions often being scarce and the majority of available subtitles provided only in Mandarin. To address this deficiency, we introduce TG-ASR for Taiwanese Hokkien drama speech recognition, a translation-guided ASR framework that utilizes multilingual translation embeddings to enhan&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22039v1</guid>
-      <pubDate>Wed, 25 Feb 2026 15:47:34 +0000</pubDate>
+      <title>Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving</title>
+      <link>http://arxiv.org/abs/2602.23259v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiangxin Sun, Feng Xue, Teng Long, Chang Liu, Jian-Fang Hu, Wei-Shi Zheng, Nicu Sebe&lt;/p&gt;&lt;p&gt;With advances in imitation learning (IL) and large-scale driving datasets, end-to-end autonomous driving (E2E-AD) has made great progress recently. Currently, IL-based methods have become a mainstream paradigm: models rely on standard driving behaviors given by experts, and learn to minimize the discrepancy between their actions and expert actions. However, this objective of "only driving like the expert" suffers from limited generalization: when encountering rare or unseen long-tail scenarios outside the distribution of expert demonstrations, models tend to produce unsafe decisions in the abs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23259v1</guid>
+      <pubDate>Thu, 26 Feb 2026 17:32:30 +0000</pubDate>
     </item>
     <item>
-      <title>Physics-Informed Machine Learning for Vessel Shaft Power and Fuel Consumption Prediction: Interpretable KAN-based Approach</title>
-      <link>http://arxiv.org/abs/2602.22055v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hamza Haruna Mohammed, Dusica Marijan, Arnbjørn Maressa&lt;/p&gt;&lt;p&gt;Accurate prediction of shaft rotational speed, shaft power, and fuel consumption is crucial for enhancing operational efficiency and sustainability in maritime transportation. Conventional physics-based models provide interpretability but struggle with real-world variability, while purely data-driven approaches achieve accuracy at the expense of physical plausibility. This paper introduces a Physics-Informed Kolmogorov-Arnold Network (PI-KAN), a hybrid method that integrates interpretable univariate feature transformations with a physics-informed loss function and a leakage-free chained predic&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22055v1</guid>
-      <pubDate>Wed, 25 Feb 2026 16:06:28 +0000</pubDate>
+      <title>Evaluating Stochasticity in Deep Research Agents</title>
+      <link>http://arxiv.org/abs/2602.23271v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haotian Zhai, Elias Stengel-Eskin, Pratik Patil, Liu Leqi&lt;/p&gt;&lt;p&gt;Deep Research Agents (DRAs) are promising agentic systems that gather and synthesize information to support research across domains such as financial decision-making, medical analysis, and scientific discovery. Despite recent improvements in research quality (e.g., outcome accuracy when ground truth is available), DRA system design often overlooks a critical barrier to real-world deployment: stochasticity. Under identical queries, repeated executions of DRAs can exhibit substantial variability in terms of research outcome, findings, and citations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23271v1</guid>
+      <pubDate>Thu, 26 Feb 2026 17:46:42 +0000</pubDate>
     </item>
     <item>
-      <title>NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training</title>
-      <link>http://arxiv.org/abs/2602.22059v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dengdi Sun, Xiaoya Zhou, Xiao Wang, Hao Si, Wanli Lyu, Jin Tang, Bin Luo&lt;/p&gt;&lt;p&gt;Neural operators have emerged as an efficient paradigm for solving PDEs, overcoming the limitations of traditional numerical methods and significantly improving computational efficiency. However, due to the diversity and complexity of PDE systems, existing neural operators typically rely on a single network architecture, which limits their capacity to fully capture heterogeneous features and complex system dependencies. This constraint poses a bottleneck for large-scale PDE pre-training based on neural operators&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22059v1</guid>
-      <pubDate>Wed, 25 Feb 2026 16:08:46 +0000</pubDate>
+      <title>CXReasonAgent: Evidence-Grounded Diagnostic Reasoning Agent for Chest X-rays</title>
+      <link>http://arxiv.org/abs/2602.23276v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hyungyung Lee, Hangyul Yoon, Edward Choi&lt;/p&gt;&lt;p&gt;Chest X-ray plays a central role in thoracic diagnosis, and its interpretation inherently requires multi-step, evidence-grounded reasoning. However, large vision-language models (LVLMs) often generate plausible responses that are not faithfully grounded in diagnostic evidence and provide limited visual evidence for verification, while also requiring costly retraining to support new diagnostic tasks, limiting their reliability and adaptability in clinical settings. To address these limitations, we present CXReasonAgent, a diagnostic agent that integrates a large language model (LLM) with clinic&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23276v1</guid>
+      <pubDate>Thu, 26 Feb 2026 17:51:21 +0000</pubDate>
     </item>
     <item>
-      <title>DualWeaver: Synergistic Feature Weaving Surrogates for Multivariate Forecasting with Univariate Time Series Foundation Models</title>
-      <link>http://arxiv.org/abs/2602.22066v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jinpeng Li, Zhongyi Pei, Huaze Xue, Bojian Zheng, Chen Wang, Jianmin Wang&lt;/p&gt;&lt;p&gt;Time-series foundation models (TSFMs) have achieved strong univariate forecasting through large-scale pre-training, yet effectively extending this success to multivariate forecasting remains challenging. To address this, we propose DualWeaver, a novel framework that adapts univariate TSFMs (Uni-TSFMs) for multivariate forecasting by using a pair of learnable, structurally symmetric surrogate series. Generated by a shared auxiliary feature-fusion module that captures cross-variable dependencies, these surrogates are mapped to TSFM-compatible series via the forecasting objective&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22066v1</guid>
-      <pubDate>Wed, 25 Feb 2026 16:13:12 +0000</pubDate>
+      <title>ODEBrain: Continuous-Time EEG Graph for Modeling Dynamic Brain Networks</title>
+      <link>http://arxiv.org/abs/2602.23285v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haohui Jia, Zheng Chen, Lingwei Zhu, Rikuto Kotoge, Jathurshan Pradeepkumar, Yasuko Matsubara, Jimeng Sun, Yasushi Sakurai&lt;/p&gt;&lt;p&gt;Modeling neural population dynamics is crucial for foundational neuroscientific research and various clinical applications. Conventional latent variable methods typically model continuous brain dynamics through discretizing time with recurrent architecture, which necessarily results in compounded cumulative prediction errors and failure of capturing instantaneous, nonlinear characteristics of EEGs. We propose ODEBRAIN, a Neural ODE latent dynamic forecasting framework to overcome these challenges by integrating spatio-temporal-frequency features into spectral graph nodes, followed by a Neural &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23285v1</guid>
+      <pubDate>Thu, 26 Feb 2026 17:59:10 +0000</pubDate>
     </item>
     <item>
-      <title>Semantic Partial Grounding via LLMs</title>
-      <link>http://arxiv.org/abs/2602.22067v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Giuseppe Canonaco, Alberto Pozanco, Daniel Borrajo&lt;/p&gt;&lt;p&gt;Grounding is a critical step in classical planning, yet it often becomes a computational bottleneck due to the exponential growth in grounded actions and atoms as task size increases. Recent advances in partial grounding have addressed this challenge by incrementally grounding only the most promising operators, guided by predictive models. However, these approaches primarily rely on relational features or learned embeddings and do not leverage the textual and structural cues present in PDDL descriptions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22067v1</guid>
-      <pubDate>Wed, 25 Feb 2026 16:13:26 +0000</pubDate>
+      <title>SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables</title>
+      <link>http://arxiv.org/abs/2602.23286v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sungho Park, Jueun Kim, Wook-Shin Han&lt;/p&gt;&lt;p&gt;Real-world Table-Text question answering (QA) tasks require models that can reason across long text and source tables, traversing multiple hops and executing complex operations such as aggregation. Yet existing benchmarks are small, manually curated - and therefore error-prone - and contain shallow questions that seldom demand more than two hops or invoke aggregations, grouping, or other advanced analytical operations expressible in natural-language queries. We present SPARTA, an end-to-end construction framework that automatically generates large-scale Table-Text QA benchmarks with lightweigh&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23286v1</guid>
+      <pubDate>Thu, 26 Feb 2026 17:59:51 +0000</pubDate>
     </item>
     <item>
-      <title>Language Models Exhibit Inconsistent Biases Towards Algorithmic Agents and Human Experts</title>
-      <link>http://arxiv.org/abs/2602.22070v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jessica Y. Bo, Lillio Mok, Ashton Anderson&lt;/p&gt;&lt;p&gt;Large language models are increasingly used in decision-making tasks that require them to process information from a variety of sources, including both human experts and other algorithmic agents. How do LLMs weigh the information provided by these different sources? We consider the well-studied phenomenon of algorithm aversion, in which human decision-makers exhibit bias against predictions from algorithms. Drawing upon experimental paradigms from behavioural economics, we evaluate how eightdifferent LLMs delegate decision-making tasks when the delegatee is framed as a human expert or an algor&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22070v1</guid>
-      <pubDate>Wed, 25 Feb 2026 16:18:28 +0000</pubDate>
+      <title>Conformalized Neural Networks for Federated Uncertainty Quantification under Dual Heterogeneity</title>
+      <link>http://arxiv.org/abs/2602.23296v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Quang-Huy Nguyen, Jiaqi Wang, Wei-Shinn Ku&lt;/p&gt;&lt;p&gt;Federated learning (FL) faces challenges in uncertainty quantification (UQ). Without reliable UQ, FL systems risk deploying overconfident models at under-resourced agents, leading to silent local failures despite seemingly satisfactory global performance. Existing federated UQ approaches often address data heterogeneity or model heterogeneity in isolation, overlooking their joint effect on coverage reliability across agents&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23296v1</guid>
+      <pubDate>Thu, 26 Feb 2026 18:07:45 +0000</pubDate>
     </item>
     <item>
-      <title>Understanding Artificial Theory of Mind: Perturbed Tasks and Reasoning in Large Language Models</title>
-      <link>http://arxiv.org/abs/2602.22072v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Christian Nickel, Laura Schrewe, Florian Mai, Lucie Flek&lt;/p&gt;&lt;p&gt;Theory of Mind (ToM) refers to an agent's ability to model the internal states of others. Contributing to the debate whether large language models (LLMs) exhibit genuine ToM capabilities, our study investigates their ToM robustness using perturbations on false-belief tasks and examines the potential of Chain-of-Thought prompting (CoT) to enhance performance and explain the LLM's decision. We introduce a handcrafted, richly annotated ToM dataset, including classic and perturbed false belief tasks, the corresponding spaces of valid reasoning chains for correct task completion, subsequent reasoni&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22072v1</guid>
-      <pubDate>Wed, 25 Feb 2026 16:24:35 +0000</pubDate>
+      <title>Evaluating Zero-Shot and One-Shot Adaptation of Small Language Models in Leader-Follower Interaction</title>
+      <link>http://arxiv.org/abs/2602.23312v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rafael R. Baptista, André de Lima Salgado, Ricardo V. Godoy, Marcelo Becker, Thiago Boaventura, Gustavo J. G. Lahr&lt;/p&gt;&lt;p&gt;Leader-follower interaction is an important paradigm in human-robot interaction (HRI). Yet, assigning roles in real time remains challenging for resource-constrained mobile and assistive robots. While large language models (LLMs) have shown promise for natural communication, their size and latency limit on-device deployment&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23312v1</guid>
+      <pubDate>Thu, 26 Feb 2026 18:20:26 +0000</pubDate>
     </item>
     <item>
-      <title>Coarsening Bias from Variable Discretization in Causal Functionals</title>
-      <link>http://arxiv.org/abs/2602.22083v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaxian Ou, Razieh Nabi&lt;/p&gt;&lt;p&gt;A class of causal effect functionals requires integration over conditional densities of continuous variables, as in mediation effects and nonparametric identification in causal graphical models. Estimating such densities and evaluating the resulting integrals can be statistically and computationally demanding. A common workaround is to discretize the variable and replace integrals with finite sums&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22083v1</guid>
-      <pubDate>Wed, 25 Feb 2026 16:32:04 +0000</pubDate>
+      <title>Invariant Transformation and Resampling based Epistemic-Uncertainty Reduction</title>
+      <link>http://arxiv.org/abs/2602.23315v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sha Hu&lt;/p&gt;&lt;p&gt;An artificial intelligence (AI) model can be viewed as a function that maps inputs to outputs in high-dimensional spaces. Once designed and well trained, the AI model is applied for inference. However, even optimized AI models can produce inference errors due to aleatoric and epistemic uncertainties&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23315v1</guid>
+      <pubDate>Thu, 26 Feb 2026 18:22:40 +0000</pubDate>
     </item>
     <item>
-      <title>On Imbalanced Regression with Hoeffding Trees</title>
-      <link>http://arxiv.org/abs/2602.22101v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pantia-Marina Alchirch, Dimitrios I. Diochnos&lt;/p&gt;&lt;p&gt;Many real-world applications provide a continuous stream of data that is subsequently used by machine learning models to solve regression tasks of interest. Hoeffding trees and their variants have a long-standing tradition due to their effectiveness, either alone or as base models in broader ensembles. At the same time a recent line of work in batch learning has shown that kernel density estimation (KDE) is an effective approach for smoothed predictions in imbalanced regression tasks [Yang et al., 2021]&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22101v1</guid>
-      <pubDate>Wed, 25 Feb 2026 16:48:07 +0000</pubDate>
+      <title>LLM Novice Uplift on Dual-Use, In Silico Biology Tasks</title>
+      <link>http://arxiv.org/abs/2602.23329v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chen Bo Calvin Zhang, Christina Q. Knight, Nicholas Kruus, Jason Hausenloy, Pedro Medeiros, Nathaniel Li, Aiden Kim, Yury Orlovskiy&lt;/p&gt;&lt;p&gt;Large language models (LLMs) perform increasingly well on biology benchmarks, but it remains unclear whether they uplift novice users -- i.e., enable humans to perform better than with internet-only resources. This uncertainty is central to understanding both scientific acceleration and dual-use risk. We conducted a multi-model, multi-benchmark human uplift study comparing novices with LLM access versus internet-only access across eight biosecurity-relevant task sets&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23329v1</guid>
+      <pubDate>Thu, 26 Feb 2026 18:37:23 +0000</pubDate>
     </item>
     <item>
-      <title>Don't stop me now: Rethinking Validation Criteria for Model Parameter Selection</title>
-      <link>http://arxiv.org/abs/2602.22107v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andrea Apicella, Francesco Isgrò, Andrea Pollastro, Roberto Prevete&lt;/p&gt;&lt;p&gt;Despite the extensive literature on training loss functions, the evaluation of generalization on the validation set remains underexplored. In this work, we conduct a systematic empirical and statistical study of how the validation criterion used for model selection affects test performance in neural classifiers, with attention to early stopping. Using fully connected networks on standard benchmarks under $k$-fold evaluation, we compare: (i) early stopping with patience and (ii) post-hoc selection over all epochs (i.e&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22107v1</guid>
-      <pubDate>Wed, 25 Feb 2026 16:56:14 +0000</pubDate>
+      <title>Toward Expert Investment Teams:A Multi-Agent LLM System with Fine-Grained Trading Tasks</title>
+      <link>http://arxiv.org/abs/2602.23330v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kunihiro Miyazaki, Takanobu Kawahara, Stephen Roberts, Stefan Zohren&lt;/p&gt;&lt;p&gt;The advancement of large language models (LLMs) has accelerated the development of autonomous financial trading systems. While mainstream approaches deploy multi-agent systems mimicking analyst and manager roles, they often rely on abstract instructions that overlook the intricacies of real-world workflows, which can lead to degraded inference performance and less transparent decision-making. Therefore, we propose a multi-agent LLM trading framework that explicitly decomposes investment analysis into fine-grained tasks, rather than providing coarse-grained instructions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23330v1</guid>
+      <pubDate>Thu, 26 Feb 2026 18:37:36 +0000</pubDate>
     </item>
     <item>
-      <title>Probing the Geometry of Diffusion Models with the String Method</title>
-      <link>http://arxiv.org/abs/2602.22122v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Elio Moreau, Florentin Coeurdoux, Grégoire Ferre, Eric Vanden-Eijnden&lt;/p&gt;&lt;p&gt;Understanding the geometry of learned distributions is fundamental to improving and interpreting diffusion models, yet systematic tools for exploring their landscape remain limited. Standard latent-space interpolations fail to respect the structure of the learned distribution, often traversing low-density regions. We introduce a framework based on the string method that computes continuous paths between samples by evolving curves under the learned score function&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22122v1</guid>
-      <pubDate>Wed, 25 Feb 2026 17:10:59 +0000</pubDate>
+      <title>Utilizing LLMs for Industrial Process Automation</title>
+      <link>http://arxiv.org/abs/2602.23331v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Salim Fares&lt;/p&gt;&lt;p&gt;A growing number of publications address the best practices to use Large Language Models (LLMs) for software engineering in recent years. However, most of this work focuses on widely-used general purpose programming languages like Python due to their widespread usage training data. The utility of LLMs for software within the industrial process automation domain, with highly-specialized languages that are typically only used in proprietary contexts, remains underexplored&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23331v1</guid>
+      <pubDate>Thu, 26 Feb 2026 18:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents</title>
-      <link>http://arxiv.org/abs/2602.22124v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Patrick Tser Jern Kon, Archana Pradeep, Ang Chen, Alexander P. Ellis, Warren Hunt, Zijian Wang, John Yang, Samuel Thompson&lt;/p&gt;&lt;p&gt;Small language models (SLMs) offer compelling advantages in cost, latency, and adaptability, but have so far lagged behind larger models on long-horizon software engineering tasks such as SWE-bench, where they suffer from pervasive action looping and low resolution rates. We introduce SWE-Protégé, a post-training framework that reframes software repair as an expert-protégé collaboration problem. In SWE-Protégé, an SLM remains the sole decision-maker while learning to selectively seek guidance from a strong expert model, recognize stalled states, and follow through on expert feedback&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22124v1</guid>
-      <pubDate>Wed, 25 Feb 2026 17:11:49 +0000</pubDate>
+      <title>Bitwise Systolic Array Architecture for Runtime-Reconfigurable Multi-precision Quantized Multiplication on Hardware Accelerators</title>
+      <link>http://arxiv.org/abs/2602.23334v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuhao Liu, Salim Ullah, Akash Kumar&lt;/p&gt;&lt;p&gt;Neural network accelerators have been widely applied to edge devices for complex tasks like object tracking, image recognition, etc. Previous works have explored the quantization technologies in related lightweight accelerator designs to reduce hardware resource consumption. However, low precision leads to high accuracy loss in inference&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23334v1</guid>
+      <pubDate>Thu, 26 Feb 2026 18:40:02 +0000</pubDate>
     </item>
     <item>
-      <title>NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors</title>
-      <link>http://arxiv.org/abs/2602.22144v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lingfeng Ren, Weihao Yu, Runpeng Yu, Xinchao Wang&lt;/p&gt;&lt;p&gt;Object hallucination is a critical issue in Large Vision-Language Models (LVLMs), where outputs include objects that do not appear in the input image. A natural question arises from this phenomenon: Which component of the LVLM pipeline primarily contributes to object hallucinations? The vision encoder to perceive visual information, or the language decoder to generate text responses? In this work, we strive to answer this question through designing a systematic experiment to analyze the roles of the vision encoder and the language decoder in hallucination generation. Our observations reveal th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22144v1</guid>
-      <pubDate>Wed, 25 Feb 2026 17:50:41 +0000</pubDate>
+      <title>Understanding Usage and Engagement in AI-Powered Scientific Research Tools: The Asta Interaction Dataset</title>
+      <link>http://arxiv.org/abs/2602.23335v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dany Haddad, Dan Bareket, Joseph Chee Chang, Jay DeYoung, Jena D. Hwang, Uri Katz, Mark Polak, Sangho Suh&lt;/p&gt;&lt;p&gt;AI-powered scientific research tools are rapidly being integrated into research workflows, yet the field lacks a clear lens into how researchers use these systems in real-world settings. We present and analyze the Asta Interaction Dataset, a large-scale resource comprising over 200,000 user queries and interaction logs from two deployed tools (a literature discovery interface and a scientific question-answering interface) within an LLM-powered retrieval-augmented generation platform. Using this dataset, we characterize query patterns, engagement behaviors, and how usage evolves with experience&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23335v1</guid>
+      <pubDate>Thu, 26 Feb 2026 18:40:28 +0000</pubDate>
     </item>
     <item>
-      <title>When AI Writes, Whose Voice Remains? Quantifying Cultural Marker Erasure Across World English Varieties in Large Language Models</title>
-      <link>http://arxiv.org/abs/2602.22145v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Satyam Kumar Navneet, Joydeep Chandra, Yong Zhang&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) are increasingly used to ``professionalize'' workplace communication, often at the cost of linguistic identity. We introduce "Cultural Ghosting", the systematic erasure of linguistic markers unique to non-native English varieties during text processing. Through analysis of 22,350 LLM outputs generated from 1,490 culturally marked texts (Indian, Singaporean,&amp; Nigerian English) processed by five models under three prompt conditions, we quantify this phenomenon using two novel metrics: Identity Erasure Rate (IER) &amp; Semantic Preservation Score (SPS)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22145v1</guid>
-      <pubDate>Wed, 25 Feb 2026 17:54:42 +0000</pubDate>
+      <title>Differentiable Zero-One Loss via Hypersimplex Projections</title>
+      <link>http://arxiv.org/abs/2602.23336v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Camilo Gomez, Pengyang Wang, Liansheng Tang&lt;/p&gt;&lt;p&gt;Recent advances in machine learning have emphasized the integration of structured optimization components into end-to-end differentiable models, enabling richer inductive biases and tighter alignment with task-specific objectives. In this work, we introduce a novel differentiable approximation to the zero-one loss-long considered the gold standard for classification performance, yet incompatible with gradient-based optimization due to its non-differentiability. Our method constructs a smooth, order-preserving projection onto the n,k-dimensional hypersimplex through a constrained optimization f&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23336v1</guid>
+      <pubDate>Thu, 26 Feb 2026 18:41:31 +0000</pubDate>
     </item>
     <item>
-      <title>Provable Last-Iterate Convergence for Multi-Objective Safe LLM Alignment via Optimistic Primal-Dual</title>
-      <link>http://arxiv.org/abs/2602.22146v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yining Li, Peizhong Ju, Ness Shroff&lt;/p&gt;&lt;p&gt;Reinforcement Learning from Human Feedback (RLHF) plays a significant role in aligning Large Language Models (LLMs) with human preferences. While RLHF with expected reward constraints can be formulated as a primal-dual optimization problem, standard primal-dual methods only guarantee convergence with a distributional policy where the saddle-point problem is in convex-concave form. Moreover, standard primal-dual methods may exhibit instability or divergence in the last iterate under policy parameterization in practical applications&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22146v1</guid>
-      <pubDate>Wed, 25 Feb 2026 17:54:52 +0000</pubDate>
+      <title>Mean Estimation from Coarse Data: Characterizations and Efficient Algorithms</title>
+      <link>http://arxiv.org/abs/2602.23341v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alkis Kalavasis, Anay Mehrotra, Manolis Zampetakis, Felix Zhou, Ziyu Zhu&lt;/p&gt;&lt;p&gt;Coarse data arise when learners observe only partial information about samples; namely, a set containing the sample rather than its exact value. This occurs naturally through measurement rounding, sensor limitations, and lag in economic systems. We study Gaussian mean estimation from coarse data, where each true sample $x$ is drawn from a $d$-dimensional Gaussian distribution with identity covariance, but is revealed only through the set of a partition containing $x$&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23341v1</guid>
+      <pubDate>Thu, 26 Feb 2026 18:47:06 +0000</pubDate>
     </item>
     <item>
-      <title>Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach</title>
-      <link>http://arxiv.org/abs/2602.22188v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nathalie C. Pinheiro, Donghu Guo, Hannah P. Menke, Aniket C. Joshi, Claire E. Heaney, Ahmed H. ElSheikh, Christopher C. Pain&lt;/p&gt;&lt;p&gt;Modelling rock-fluid interaction requires solving a set of partial differential equations (PDEs) to predict the flow behaviour and the reactions of the fluid with the rock on the interfaces. Conventional high-fidelity numerical models require a high resolution to obtain reliable results, resulting in huge computational expense. This restricts the applicability of these models for multi-query problems, such as uncertainty quantification and optimisation, which require running numerous scenarios&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22188v1</guid>
-      <pubDate>Wed, 25 Feb 2026 18:34:03 +0000</pubDate>
+      <title>FlashOptim: Optimizers for Memory Efficient Training</title>
+      <link>http://arxiv.org/abs/2602.23349v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jose Javier Gonzalez Ortiz, Abhay Gupta, Chris Renard, Davis Blalock&lt;/p&gt;&lt;p&gt;Standard mixed-precision training of neural networks requires many bytes of accelerator memory for each model parameter. These bytes reflect not just the parameter itself, but also its gradient and one or more optimizer state variables. With each of these values typically requiring 4 bytes, training even a 7 billion parameter model can be impractical for researchers with less than 100GB of accelerator memory&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23349v1</guid>
+      <pubDate>Thu, 26 Feb 2026 18:52:22 +0000</pubDate>
     </item>
     <item>
-      <title>GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL</title>
-      <link>http://arxiv.org/abs/2602.22190v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rui Yang, Qianhui Wu, Zhaoyang Wang, Hanyang Chen, Ke Yang, Hao Cheng, Huaxiu Yao, Baoling Peng&lt;/p&gt;&lt;p&gt;Open-source native GUI agents still lag behind closed-source systems on long-horizon navigation tasks. This gap stems from two limitations: a shortage of high-quality, action-aligned reasoning data, and the direct adoption of generic post-training pipelines that overlook the unique challenges of GUI agents. We identify two fundamental issues in these pipelines: (i) standard SFT with CoT reasoning often hurts grounding, and (ii) step-wise RLVR-tyle training faces partial verifiability, where multiple actions can be correct but only a single demonstrated action is used for verification&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22190v1</guid>
-      <pubDate>Wed, 25 Feb 2026 18:34:57 +0000</pubDate>
+      <title>SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport</title>
+      <link>http://arxiv.org/abs/2602.23353v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Simon Roschmann, Paul Krzakala, Sonia Mazelet, Quentin Bouniot, Zeynep Akata&lt;/p&gt;&lt;p&gt;The Platonic Representation Hypothesis posits that neural networks trained on different modalities converge toward a shared statistical model of the world. Recent work exploits this convergence by aligning frozen pretrained vision and language models with lightweight alignment layers, but typically relies on contrastive losses and millions of paired samples. In this work, we ask whether meaningful alignment can be achieved with substantially less supervision&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23353v1</guid>
+      <pubDate>Thu, 26 Feb 2026 18:55:06 +0000</pubDate>
     </item>
     <item>
-      <title>Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes</title>
-      <link>http://arxiv.org/abs/2602.22197v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xavier Pleimling, Sifat Muhammad Abdullah, Gunjan Balde, Peng Gao, Mainack Mondal, Murtuza Jadliwala, Bimal Viswanath&lt;/p&gt;&lt;p&gt;Advances in Generative AI (GenAI) have led to the development of various protection strategies to prevent the unauthorized use of images. These methods rely on adding imperceptible protective perturbations to images to thwart misuse such as style mimicry or deepfake manipulations. Although previous attacks on these protections required specialized, purpose-built methods, we demonstrate that this is no longer necessary&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22197v1</guid>
-      <pubDate>Wed, 25 Feb 2026 18:46:30 +0000</pubDate>
+      <title>SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation</title>
+      <link>http://arxiv.org/abs/2602.23359v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vaibhav Agrawal, Rishubh Parihar, Pradhaan Bhat, Ravi Kiran Sarvadevabhatla, R. Venkatesh Babu&lt;/p&gt;&lt;p&gt;We identify occlusion reasoning as a fundamental yet overlooked aspect for 3D layout-conditioned generation. It is essential for synthesizing partially occluded objects with depth-consistent geometry and scale. While existing methods can generate realistic scenes that follow input layouts, they often fail to model precise inter-object occlusions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23359v1</guid>
+      <pubDate>Thu, 26 Feb 2026 18:59:05 +0000</pubDate>
     </item>
     <item>
-      <title>Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets</title>
-      <link>http://arxiv.org/abs/2602.22207v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hanna Yukhymenko, Anton Alexandrov, Martin Vechev&lt;/p&gt;&lt;p&gt;The reliability of multilingual Large Language Model (LLM) evaluation is currently compromised by the inconsistent quality of translated benchmarks. Existing resources often suffer from semantic drift and context loss, which can lead to misleading performance metrics. In this work, we present a fully automated framework designed to address these challenges by enabling scalable, high-quality translation of datasets and benchmarks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2602.22207v1</guid>
-      <pubDate>Wed, 25 Feb 2026 18:58:25 +0000</pubDate>
+      <title>Model Agreement via Anchoring</title>
+      <link>http://arxiv.org/abs/2602.23360v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Eric Eaton, Surbhi Goel, Marcel Hussing, Michael Kearns, Aaron Roth, Sikata Bela Sengupta, Jessica Sorrell&lt;/p&gt;&lt;p&gt;Numerous lines of aim to control $\textit{model disagreement}$ -- the extent to which two machine learning models disagree in their predictions. We adopt a simple and standard notion of model disagreement in real-valued prediction problems, namely the expected squared difference in predictions between two models trained on independent samples, without any coordination of the training processes. We would like to be able to drive disagreement to zero with some natural parameter(s) of the training procedure using analyses that can be applied to existing training methodologies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2602.23360v1</guid>
+      <pubDate>Thu, 26 Feb 2026 18:59:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
