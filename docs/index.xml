@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Mar 2026 04:16:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 04:09:36 +0000</lastBuildDate>
     <item>
-      <title>Learning from Synthetic Data Improves Multi-hop Reasoning</title>
-      <link>http://arxiv.org/abs/2603.02091v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anmol Kabra, Yilun Yin, Albert Gong, Kamilė Stankevičiūtė, Dongyoung Go, Johann Lee, Katie Z. Luo, Carla P. Gomes&lt;/p&gt;&lt;p&gt;Reinforcement Learning (RL) has been shown to significantly boost reasoning capabilities of large language models (LLMs) in math, coding, and multi-hop reasoning tasks. However, RL fine-tuning requires abundant high-quality verifiable data, often sourced from human annotations, generated from frontier LLMs, or scored by LLM-based verifiers. All three have considerable limitations: human-annotated datasets are small and expensive to curate, LLM-generated data is hallucination-prone and costly, and LLM-based verifiers are inaccurate and slow&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02091v1</guid>
-      <pubDate>Mon, 02 Mar 2026 17:08:43 +0000</pubDate>
+      <title>Conditioned Activation Transport for T2I Safety Steering</title>
+      <link>http://arxiv.org/abs/2603.03163v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Maciej Chrabąszcz, Aleksander Szymczyk, Jan Dubiński, Tomasz Trzciński, Franziska Boenisch, Adam Dziedzic&lt;/p&gt;&lt;p&gt;Despite their impressive capabilities, current Text-to-Image (T2I) models remain prone to generating unsafe and toxic content. While activation steering offers a promising inference-time intervention, we observe that linear activation steering frequently degrades image quality when applied to benign prompts. To address this trade-off, we first construct SafeSteerDataset, a contrastive dataset containing 2300 safe and unsafe prompt pairs with high cosine similarity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03163v1</guid>
+      <pubDate>Tue, 03 Mar 2026 17:10:45 +0000</pubDate>
     </item>
     <item>
-      <title>On the Rate of Convergence of GD in Non-linear Neural Networks: An Adversarial Robustness Perspective</title>
-      <link>http://arxiv.org/abs/2603.02095v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guy Smorodinsky, Sveta Gimpleson, Itay Safran&lt;/p&gt;&lt;p&gt;We study the convergence dynamics of Gradient Descent (GD) in a minimal binary classification setting, consisting of a two-neuron ReLU network and two training instances. We prove that even under these strong simplifying assumptions, while GD successfully converges to an optimal robustness margin, effectively maximizing the distance between the decision boundary and the training points, this convergence occurs at a prohibitively slow rate, scaling strictly as $Θ(1/\ln(t))$. To the best of our knowledge, this establishes the first explicit lower bound on the convergence rate of the robustness m&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02095v1</guid>
-      <pubDate>Mon, 02 Mar 2026 17:13:33 +0000</pubDate>
+      <title>Saarthi for AGI: Towards Domain-Specific General Intelligence for Formal Verification</title>
+      <link>http://arxiv.org/abs/2603.03175v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aman Kumar, Deepak Narayan Gadde, Luu Danh Minh, Vaisakh Naduvodi Viswambharan, Keerthan Kopparam Radhakrishna, Sivaram Pothireddypalli&lt;/p&gt;&lt;p&gt;Saarthi is an agentic AI framework that uses multi-agent collaboration to perform end-to-end formal verification. Even though the framework provides a complete flow from specification to coverage closure, with around 40% efficacy, there are several challenges that need to be addressed to make it more robust and reliable. Artificial General Intelligence (AGI) is still a distant goal, and current Large Language Model (LLM)-based agents are prone to hallucinations and making mistakes, especially when dealing with complex tasks such as formal verification&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03175v1</guid>
+      <pubDate>Tue, 03 Mar 2026 17:30:36 +0000</pubDate>
     </item>
     <item>
-      <title>Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons</title>
-      <link>http://arxiv.org/abs/2603.02115v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anthony Liang, Yigit Korkmaz, Jiahui Zhang, Minyoung Hwang, Abrar Anwar, Sidhant Kaushik, Aditya Shah, Alex S. Huang&lt;/p&gt;&lt;p&gt;General-purpose robot reward models are typically trained to predict absolute task progress from expert demonstrations, providing only local, frame-level supervision. While effective for expert demonstrations, this paradigm scales poorly to large-scale robotics datasets where failed and suboptimal trajectories are abundant and assigning dense progress labels is ambiguous. We introduce Robometer, a scalable reward modeling framework that combines intra-trajectory progress supervision with inter-trajectory preference supervision&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02115v1</guid>
-      <pubDate>Mon, 02 Mar 2026 17:38:58 +0000</pubDate>
+      <title>FEAST: Retrieval-Augmented Multi-Hierarchical Food Classification for the FoodEx2 System</title>
+      <link>http://arxiv.org/abs/2603.03176v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lorenzo Molfetta, Alessio Cocchieri, Stefano Fantazzini, Giacomo Frisoni, Luca Ragazzi, Gianluca Moro&lt;/p&gt;&lt;p&gt;Hierarchical text classification (HTC) and extreme multi-label classification (XML) tasks face compounded challenges from complex label interdependencies, data sparsity, and extreme output dimensions. These challenges are exemplified in the European Food Safety Authority's FoodEx2 system-a standardized food classification framework essential for food consumption monitoring and contaminant exposure assessment across Europe. FoodEx2 coding transforms natural language food descriptions into a set of codes from multiple standardized hierarchies, but faces implementation barriers due to its complex&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03176v1</guid>
+      <pubDate>Tue, 03 Mar 2026 17:31:32 +0000</pubDate>
     </item>
     <item>
-      <title>Pencil Puzzle Bench: A Benchmark for Multi-Step Verifiable Reasoning</title>
-      <link>http://arxiv.org/abs/2603.02119v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Justin Waugh&lt;/p&gt;&lt;p&gt;We introduce Pencil Puzzle Bench, a framework for evaluating large language model reasoning through pencil puzzles, a family of constraint-satisfaction problems closely related to NP-complete problems, with deterministic, step-level verification. From a database of 62,231 puzzles across 94 varieties with verified unique solutions, we select a benchmark of 300 puzzles spanning 20 varieties and evaluate 51 models from 11 providers in two modes: direct ask (single-shot) and agentic (multi-turn with iterative verification). A key differentiator of our benchmark is that every intermediate board sta&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02119v1</guid>
-      <pubDate>Mon, 02 Mar 2026 17:40:54 +0000</pubDate>
+      <title>Neuro-Symbolic Artificial Intelligence: A Task-Directed Survey in the Black-Box Models Era</title>
+      <link>http://arxiv.org/abs/2603.03177v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Giovanni Pio Delvecchio, Lorenzo Molfetta, Gianluca Moro&lt;/p&gt;&lt;p&gt;The integration of symbolic computing with neural networks has intrigued researchers since the first theorizations of Artificial intelligence (AI). The ability of Neuro-Symbolic (NeSy) methods to infer or exploit behavioral schema has been widely considered as one of the possible proxies for human-level intelligence. However, the limited semantic generalizability and the challenges in declining complex domains with pre-defined patterns and rules hinder their practical implementation in real-world scenarios&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03177v1</guid>
+      <pubDate>Tue, 03 Mar 2026 17:34:45 +0000</pubDate>
     </item>
     <item>
-      <title>Nano-EmoX: Unifying Multimodal Emotional Intelligence from Perception to Empathy</title>
-      <link>http://arxiv.org/abs/2603.02123v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiahao Huang, Fengyan Lin, Xuechao Yang, Chen Feng, Kexin Zhu, Xu Yang, Zhide Chen&lt;/p&gt;&lt;p&gt;The development of affective multimodal language models (MLMs) has long been constrained by a gap between low-level perception and high-level interaction, leading to fragmented affective capabilities and limited generalization. To bridge this gap, we propose a cognitively inspired three-level hierarchy that organizes affective tasks according to their cognitive depth-perception, understanding, and interaction-and provides a unified conceptual foundation for advancing affective modeling. Guided by this hierarchy, we introduce Nano-EmoX, a small-scale multitask MLM, and P2E (Perception-to-Empath&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02123v1</guid>
-      <pubDate>Mon, 02 Mar 2026 17:42:33 +0000</pubDate>
+      <title>Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling</title>
+      <link>http://arxiv.org/abs/2603.03180v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Y. Zhong, R. Huang, M. Wang, Z. Guo, YC. Li, M. Yu, Z. Jin&lt;/p&gt;&lt;p&gt;Automated industrial optimization modeling requires reliable translation of natural-language requirements into solver-executable code. However, large language models often generate non-compilable models due to missing declarations, type inconsistencies, and incomplete dependency contexts. We propose a type-aware retrieval-augmented generation (RAG) method that enforces modeling entity types and minimal dependency closure to ensure executability&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03180v1</guid>
+      <pubDate>Tue, 03 Mar 2026 17:41:34 +0000</pubDate>
     </item>
     <item>
-      <title>LLMs as Strategic Actors: Behavioral Alignment, Risk Calibration, and Argumentation Framing in Geopolitical Simulations</title>
-      <link>http://arxiv.org/abs/2603.02128v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Veronika Solopova, Viktoria Skorik, Maksym Tereshchenko, Alina Haidun, Ostap Vykhopen&lt;/p&gt;&lt;p&gt;Large language models (LLMs) are increasingly proposed as agents in strategic decision environments, yet their behavior in structured geopolitical simulations remains under-researched. We evaluate six popular state-of-the-art LLMs alongside results from human results across four real-world crisis simulation scenarios, requiring models to select predefined actions and justify their decisions across multiple rounds. We compare models to humans in action alignment, risk calibration through chosen actions' severity, and argumentative framing grounded in international relations theory&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02128v1</guid>
-      <pubDate>Mon, 02 Mar 2026 17:46:17 +0000</pubDate>
+      <title>Scalable Uncertainty Quantification for Black-Box Density-Based Clustering</title>
+      <link>http://arxiv.org/abs/2603.03188v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nicola Bariletto, Stephen G. Walker&lt;/p&gt;&lt;p&gt;We introduce a novel framework for uncertainty quantification in clustering. By combining the martingale posterior paradigm with density-based clustering, uncertainty in the estimated density is naturally propagated to the clustering structure. The approach scales effectively to high-dimensional and irregularly shaped data by leveraging modern neural density estimators and GPU-friendly parallel computation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03188v1</guid>
+      <pubDate>Tue, 03 Mar 2026 17:46:49 +0000</pubDate>
     </item>
     <item>
-      <title>LiftAvatar: Kinematic-Space Completion for Expression-Controlled 3D Gaussian Avatar Animation</title>
-      <link>http://arxiv.org/abs/2603.02129v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hualiang Wei, Shunran Jia, Jialun Liu, Wenhui Li&lt;/p&gt;&lt;p&gt;We present LiftAvatar, a new paradigm that completes sparse monocular observations in kinematic space (e.g., facial expressions and head pose) and uses the completed signals to drive high-fidelity avatar animation. LiftAvatar is a fine-grained, expression-controllable large-scale video diffusion Transformer that synthesizes high-quality, temporally coherent expression sequences conditioned on single or multiple reference images. The key idea is to lift incomplete input data into a richer kinematic representation, thereby strengthening both reconstruction and animation in downstream 3D avatar p&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02129v1</guid>
-      <pubDate>Mon, 02 Mar 2026 17:46:32 +0000</pubDate>
+      <title>Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity</title>
+      <link>http://arxiv.org/abs/2603.03190v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shogo Noguchi, Taketo Akama, Tai Nakamura, Shun Minamikawa, Natalia Polouliakh&lt;/p&gt;&lt;p&gt;During music listening, cortical activity encodes both acoustic and expectation-related information. Prior work has shown that ANN representations resemble cortical representations and can serve as supervisory signals for EEG recognition. Here we show that distinguishing acoustic and expectation-related ANN representations as teacher targets improves EEG-based music identification&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03190v1</guid>
+      <pubDate>Tue, 03 Mar 2026 17:47:09 +0000</pubDate>
     </item>
     <item>
-      <title>Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)</title>
-      <link>http://arxiv.org/abs/2603.02150v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Miguel Lopez-Duran, Julian Fierrez, Aythami Morales, Daniel DeAlcala, Gonzalo Mancera, Javier Irigoyen, Ruben Tolosana, Oscar Delgado&lt;/p&gt;&lt;p&gt;The extraction of critical information from crime-related documents is a crucial task for law enforcement agencies. Named-Entity Recognition (NER) can perform this task in extracting information about the crime, the criminal, or law enforcement agencies involved. However, there is a considerable lack of adequately annotated data on general real-world crime scenarios&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02150v1</guid>
-      <pubDate>Mon, 02 Mar 2026 18:12:02 +0000</pubDate>
+      <title>Chain of World: World Model Thinking in Latent Motion</title>
+      <link>http://arxiv.org/abs/2603.03195v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fuxiang Yang, Donglin Di, Lulu Tang, Xuancheng Zhang, Lei Fan, Hao Li, Chen Wei, Tonghua Su&lt;/p&gt;&lt;p&gt;Vision-Language-Action (VLA) models are a promising path toward embodied intelligence, yet they often overlook the predictive and temporal-causal structure underlying visual dynamics. World-model VLAs address this by predicting future frames, but waste capacity reconstructing redundant backgrounds. Latent-action VLAs encode frame-to-frame transitions compactly, but lack temporally continuous dynamic modeling and world knowledge&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03195v1</guid>
+      <pubDate>Tue, 03 Mar 2026 17:52:06 +0000</pubDate>
     </item>
     <item>
-      <title>How Small Can 6G Reason? Scaling Tiny Language Models for AI-Native Networks</title>
-      <link>http://arxiv.org/abs/2603.02156v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohamed Amine Ferrag, Abderrahmane Lakas, Merouane Debbah&lt;/p&gt;&lt;p&gt;Emerging 6G visions, reflected in ongoing standardization efforts within 3GPP, IETF, ETSI, ITU-T, and the O-RAN Alliance, increasingly characterize networks as AI-native systems in which high-level semantic reasoning layers operate above standardized control and data-plane functions. Although frontier-scale large language models (LLMs) such as Qwen2.5-7B and Olmo-3-7B demonstrate strong reasoning capability, their computational footprint limits deployment in latency-sensitive, edge-native infrastructures. This paper presents a systematic empirical study of the scaling behavior and deployment e&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02156v1</guid>
-      <pubDate>Mon, 02 Mar 2026 18:19:49 +0000</pubDate>
+      <title>No Memorization, No Detection: Output Distribution-Based Contamination Detection in Small Language Models</title>
+      <link>http://arxiv.org/abs/2603.03203v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Omer Sela&lt;/p&gt;&lt;p&gt;CDD, or Contamination Detection via output Distribution, identifies data contamination by measuring the peakedness of a model's sampled outputs. We study the conditions under which this approach succeeds and fails on small language models ranging from 70M to 410M parameters. Using controlled contamination experiments on GSM8K, HumanEval, and MATH, we find that CDD's effectiveness depends critically on whether fine-tuning produces verbatim memorization&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03203v1</guid>
+      <pubDate>Tue, 03 Mar 2026 17:55:24 +0000</pubDate>
     </item>
     <item>
-      <title>Instrumental and Proximal Causal Inference with Gaussian Processes</title>
-      <link>http://arxiv.org/abs/2603.02159v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuqi Zhang, Krikamol Muandet, Dino Sejdinovic, Edwin Fong, Siu Lun Chau&lt;/p&gt;&lt;p&gt;Instrumental variable (IV) and proximal causal learning (Proxy) methods are central frameworks for causal inference in the presence of unobserved confounding. Despite substantial methodological advances, existing approaches rarely provide reliable epistemic uncertainty (EU) quantification. We address this gap through a Deconditional Gaussian Process (DGP) framework for uncertainty-aware causal learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02159v1</guid>
-      <pubDate>Mon, 02 Mar 2026 18:23:26 +0000</pubDate>
+      <title>Understanding and Mitigating Dataset Corruption in LLM Steering</title>
+      <link>http://arxiv.org/abs/2603.03206v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Cullen Anderson, Narmeen Oozeer, Foad Namjoo, Remy Ogasawara, Amirali Abdullah, Jeff M. Phillips&lt;/p&gt;&lt;p&gt;Contrastive steering has been shown as a simple and effective method to adjust the generative behavior of LLMs at inference time. It uses examples of prompt responses with and without a trait to identify a direction in an intermediate activation layer, and then shifts activations in this 1-dimensional subspace. However, despite its growing use in AI safety applications, the robustness of contrastive steering to noisy or adversarial data corruption is poorly understood&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03206v1</guid>
+      <pubDate>Tue, 03 Mar 2026 18:00:49 +0000</pubDate>
     </item>
     <item>
-      <title>Investigating the short-term effects of particulate matter (PM) chemical components on mortality and the potential modifying effect of extreme temperature: A time-series analysis in London</title>
-      <link>http://arxiv.org/abs/2603.02165v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaolu Zhang, Anna Font, Anja Tremper, Max Priestman, Shawn Y. Lee, David C. Green, Dimitris Evangelopoulos, Gang I. Chen&lt;/p&gt;&lt;p&gt;Particulate matter (PM) is linked to adverse health outcomes, yet the roles of specific PM components and their modification by extreme temperature remain unclear. We examined short-term associations between ten PM chemical components and daily mortality in Greater London (2015-2018). PM components include inorganic aerosols (black carbon from wood burning (BCwb) and traffic exhaust (BCtr), SO4, NO3, and NH4) and organic aerosols (hydrocarbon-like organic aerosol (HOA), biomass burning OA (BBOA), cooking-like OA (COA), more and less oxidized oxygenated OA (MO-OOA and LO-OOA))&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02165v1</guid>
-      <pubDate>Mon, 02 Mar 2026 18:28:40 +0000</pubDate>
+      <title>NeuroSkill(tm): Proactive Real-Time Agentic System Capable of Modeling Human State of Mind</title>
+      <link>http://arxiv.org/abs/2603.03212v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nataliya Kosmyna, Eugene Hauptmann&lt;/p&gt;&lt;p&gt;Real-time proactive agentic system, capable of modeling Human State of Mind, using foundation EXG model and text embeddings model, running fully offline on the edge. Unlike all previously known systems, the NeuroSkill(tm) system leverages SKILL.md description of Human's State of Mind via API and CLI provided by the system, directly from the Brain-Computer Interface (BCI) devices, which records Human biophysical and brain signals. Our custom harness - NeuroLoop(tm) - utilizes all of the above to run agentic flow that manages to engage with the Human on multiple cognitive and affective levels of&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03212v1</guid>
+      <pubDate>Tue, 03 Mar 2026 18:06:42 +0000</pubDate>
     </item>
     <item>
-      <title>SageBwd: A Trainable Low-bit Attention</title>
-      <link>http://arxiv.org/abs/2603.02170v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jintao Zhang, Marco Chen, Haoxu Wang, Kai Jiang, Ion Stoica, Joseph E. Gonzalez, Jianfei Chen, Jun Zhu&lt;/p&gt;&lt;p&gt;Low-bit attention, such as SageAttention, has emerged as an effective approach for accelerating model inference, but its applicability to training remains poorly understood. In prior work, we introduced SageBwd, a trainable INT8 attention that quantizes six of seven attention matrix multiplications while preserving fine-tuning performance. However, SageBwd exhibited a persistent performance gap to full-precision attention (FPA) during pre-training&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02170v1</guid>
-      <pubDate>Mon, 02 Mar 2026 18:39:49 +0000</pubDate>
+      <title>SynthCharge: An Electric Vehicle Routing Instance Generator with Feasibility Screening to Enable Learning-Based Optimization and Benchmarking</title>
+      <link>http://arxiv.org/abs/2603.03230v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mertcan Daysalilar, Fuat Uyguroglu, Gabriel Nicolosi, Adam Meyers&lt;/p&gt;&lt;p&gt;The electric vehicle routing problem with time windows (EVRPTW) extends the classical VRPTW by introducing battery capacity constraints and charging station decisions. Existing benchmark datasets are often static and lack verifiable feasibility, which restricts reproducible evaluation of learning-based routing models. We introduce SynthCharge, a parametric generator that produces diverse, feasibility-screened EVRPTW instances across varying spatiotemporal configurations and scalable customer counts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03230v1</guid>
+      <pubDate>Tue, 03 Mar 2026 18:23:38 +0000</pubDate>
     </item>
     <item>
-      <title>Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance</title>
-      <link>http://arxiv.org/abs/2603.02175v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yiqi Lin, Guoqiang Liang, Ziyun Zeng, Zechen Bai, Yanzhe Chen, Mike Zheng Shou&lt;/p&gt;&lt;p&gt;Instruction-based video editing has witnessed rapid progress, yet current methods often struggle with precise visual control, as natural language is inherently limited in describing complex visual nuances. Although reference-guided editing offers a robust solution, its potential is currently bottlenecked by the scarcity of high-quality paired training data. To bridge this gap, we introduce a scalable data generation pipeline that transforms existing video editing pairs into high-fidelity training quadruplets, leveraging image generative models to create synthesized reference scaffolds&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02175v1</guid>
-      <pubDate>Mon, 02 Mar 2026 18:46:28 +0000</pubDate>
+      <title>AI-for-Science Low-code Platform with Bayesian Adversarial Multi-Agent Framework</title>
+      <link>http://arxiv.org/abs/2603.03233v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zihang Zeng, Jiaquan Zhang, Pengze Li, Yuan Qi, Xi Chen&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) demonstrate potentials for automating scientific code generation but face challenges in reliability, error propagation in multi-agent workflows, and evaluation in domains with ill-defined success metrics. We present a Bayesian adversarial multi-agent framework specifically designed for AI for Science (AI4S) tasks in the form of a Low-code Platform (LCP). Three LLM-based agents are coordinated under the Bayesian framework: a Task Manager that structures user inputs into actionable plans and adaptive test cases, a Code Generator that produces candidate solutions, and&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03233v1</guid>
+      <pubDate>Tue, 03 Mar 2026 18:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>Leveraging Model Soups to Classify Intangible Cultural Heritage Images from the Mekong Delta</title>
-      <link>http://arxiv.org/abs/2603.02181v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Quoc-Khang Tran, Minh-Thien Nguyen, Nguyen-Khang Pham&lt;/p&gt;&lt;p&gt;The classification of Intangible Cultural Heritage (ICH) images in the Mekong Delta poses unique challenges due to limited annotated data, high visual similarity among classes, and domain heterogeneity. In such low-resource settings, conventional deep learning models often suffer from high variance or overfit to spurious correlations, leading to poor generalization. To address these limitations, we propose a robust framework that integrates the hybrid CoAtNet architecture with model soups, a lightweight weight-space ensembling technique that averages checkpoints from a single training trajecto&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02181v1</guid>
-      <pubDate>Mon, 02 Mar 2026 18:50:15 +0000</pubDate>
+      <title>The elbow statistic: Multiscale clustering statistical significance</title>
+      <link>http://arxiv.org/abs/2603.03235v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Francisco J. Perez-Reche&lt;/p&gt;&lt;p&gt;Selecting the number of clusters remains a fundamental challenge in unsupervised learning. Existing criteria typically target a single ``optimal'' partition, often overlooking statistically meaningful structure present at multiple resolutions. We introduce ElbowSig, a framework that formalizes the heuristic ``elbow'' method as a rigorous inferential problem&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03235v1</guid>
+      <pubDate>Tue, 03 Mar 2026 18:28:01 +0000</pubDate>
     </item>
     <item>
-      <title>MAC: A Conversion Rate Prediction Benchmark Featuring Labels Under Multiple Attribution Mechanisms</title>
-      <link>http://arxiv.org/abs/2603.02184v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jinqi Wu, Sishuo Chen, Zhangming Chan, Yong Bai, Lei Zhang, Sheng Chen, Chenghuan Hou, Xiang-Rong Sheng&lt;/p&gt;&lt;p&gt;Multi-attribution learning (MAL), which enhances model performance by learning from conversion labels yielded by multiple attribution mechanisms, has emerged as a promising learning paradigm for conversion rate (CVR) prediction. However, the conversion labels in public CVR datasets are generated by a single attribution mechanism, hindering the development of MAL approaches.   To address this data gap, we establish the Multi-Attribution Benchmark (MAC), the first public CVR dataset featuring labels from multiple attribution mechanisms&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02184v1</guid>
-      <pubDate>Mon, 02 Mar 2026 18:51:01 +0000</pubDate>
+      <title>UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?</title>
+      <link>http://arxiv.org/abs/2603.03241v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zimo Wen, Boxiu Li, Wanbo Zhang, Junxiang Lei, Xiaoyu Chen, Yijia Fan, Qi Zhang, Yujiang Wang&lt;/p&gt;&lt;p&gt;Unified multimodal models have recently demonstrated strong generative capabilities, yet whether and when generation improves understanding remains unclear. Existing benchmarks lack a systematic exploration of the specific tasks where generation facilitates understanding. To this end, we introduce UniG2U-Bench, a comprehensive benchmark categorizing generation-to-understanding (G2U) evaluation into 7 regimes and 30 subtasks, requiring varying degrees of implicit or explicit visual transformations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03241v1</guid>
+      <pubDate>Tue, 03 Mar 2026 18:36:16 +0000</pubDate>
     </item>
     <item>
-      <title>Symbol-Equivariant Recurrent Reasoning Models</title>
-      <link>http://arxiv.org/abs/2603.02193v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Richard Freinschlag, Timo Bertram, Erich Kobler, Andreas Mayr, Günter Klambauer&lt;/p&gt;&lt;p&gt;Reasoning problems such as Sudoku and ARC-AGI remain challenging for neural networks. The structured problem solving architecture family of Recurrent Reasoning Models (RRMs), including Hierarchical Reasoning Model (HRM) and Tiny Recursive Model (TRM), offer a compact alternative to large language models, but currently handle symbol symmetries only implicitly via costly data augmentation. We introduce Symbol-Equivariant Recurrent Reasoning Models (SE-RRMs), which enforce permutation equivariance at the architectural level through symbol-equivariant layers, guaranteeing identical solutions under&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02193v1</guid>
-      <pubDate>Mon, 02 Mar 2026 18:53:55 +0000</pubDate>
+      <title>Density-Guided Response Optimization: Community-Grounded Alignment via Implicit Acceptance Signals</title>
+      <link>http://arxiv.org/abs/2603.03242v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Patrick Gerard, Svitlana Volkova&lt;/p&gt;&lt;p&gt;Language models deployed in online communities must adapt to norms that vary across social, cultural, and domain-specific contexts. Prior alignment approaches rely on explicit preference supervision or predefined principles, which are effective for well-resourced settings but exclude most online communities -- particularly those without institutional backing, annotation infrastructure, or organized around sensitive topics -- where preference elicitation is costly, ethically fraught, or culturally misaligned.   We observe that communities already express preferences implicitly through what cont&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03242v1</guid>
+      <pubDate>Tue, 03 Mar 2026 18:36:25 +0000</pubDate>
     </item>
     <item>
-      <title>Conformal Policy Control</title>
-      <link>http://arxiv.org/abs/2603.02196v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Drew Prinster, Clara Fannjiang, Ji Won Park, Kyunghyun Cho, Anqi Liu, Suchi Saria, Samuel Stanton&lt;/p&gt;&lt;p&gt;An agent must try new behaviors to explore and improve. In high-stakes environments, an agent that violates safety constraints may cause harm and must be taken offline, curtailing any future interaction. Imitating old behavior is safe, but excessive conservatism discourages exploration&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02196v1</guid>
-      <pubDate>Mon, 02 Mar 2026 18:54:36 +0000</pubDate>
+      <title>Valet: A Standardized Testbed of Traditional Imperfect-Information Card Games</title>
+      <link>http://arxiv.org/abs/2603.03252v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mark Goadrich, Achille Morenville, Éric Piette&lt;/p&gt;&lt;p&gt;AI algorithms for imperfect-information games are typically compared using performance metrics on individual games, making it difficult to assess robustness across game choices. Card games are a natural domain for imperfect information due to hidden hands and stochastic draws. To facilitate comparative research on imperfect-information game-playing algorithms and game systems, we introduce Valet, a diverse and comprehensive testbed of 21 traditional imperfect-information card games&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03252v1</guid>
+      <pubDate>Tue, 03 Mar 2026 18:46:47 +0000</pubDate>
     </item>
     <item>
-      <title>Adaptive Confidence Regularization for Multimodal Failure Detection</title>
-      <link>http://arxiv.org/abs/2603.02200v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Moru Liu, Hao Dong, Olga Fink, Mario Trapp&lt;/p&gt;&lt;p&gt;The deployment of multimodal models in high-stakes domains, such as self-driving vehicles and medical diagnostics, demands not only strong predictive performance but also reliable mechanisms for detecting failures. In this work, we address the largely unexplored problem of failure detection in multimodal contexts. We propose Adaptive Confidence Regularization (ACR), a novel framework specifically designed to detect multimodal failures&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02200v1</guid>
-      <pubDate>Mon, 02 Mar 2026 18:56:38 +0000</pubDate>
+      <title>Inherited Goal Drift: Contextual Pressure Can Undermine Agentic Goals</title>
+      <link>http://arxiv.org/abs/2603.03258v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Achyutha Menon, Magnus Saebo, Tyler Crosse, Spencer Gibson, Eyon Jang, Diogo Cruz&lt;/p&gt;&lt;p&gt;The accelerating adoption of language models (LMs) as agents for deployment in long-context tasks motivates a thorough understanding of goal drift: agents' tendency to deviate from an original objective. While prior-generation language model agents have been shown to be susceptible to drift, the extent to which drift affects more recent models remains unclear. In this work, we provide an updated characterization of the extent and causes of goal drift&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03258v1</guid>
+      <pubDate>Tue, 03 Mar 2026 18:50:59 +0000</pubDate>
     </item>
     <item>
-      <title>Tool Verification for Test-Time Reinforcement Learning</title>
-      <link>http://arxiv.org/abs/2603.02203v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruotong Liao, Nikolai Röhrich, Xiaohan Wang, Yuhui Zhang, Yasaman Samadzadeh, Volker Tresp, Serena Yeung-Levy&lt;/p&gt;&lt;p&gt;Test-time reinforcement learning (TTRL) has emerged as a promising paradigm for self-evolving large reasoning models (LRMs), enabling online adaptation on unlabeled test inputs via self-induced rewards through majority voting. However, a spurious yet high-frequency unverified consensus can become a biased and reinforced reward signal, leading to incorrect mode collapse. We address this failure mode with T^3RL (Tool-Verification for Test-Time Reinforcement Learning), which introduces test-time tool verification into reward estimation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02203v1</guid>
-      <pubDate>Mon, 02 Mar 2026 18:57:52 +0000</pubDate>
+      <title>Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping</title>
+      <link>http://arxiv.org/abs/2603.03278v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; William Liang, Sam Wang, Hung-Ju Wang, Osbert Bastani, Yecheng Jason Ma, Dinesh Jayaraman&lt;/p&gt;&lt;p&gt;The ability to conduct and learn from interaction and experience is a central challenge in robotics, offering a scalable alternative to labor-intensive human demonstrations. However, realizing such "play" requires (1) a policy robust to diverse, potentially out-of-distribution environment states, and (2) a procedure that continuously produces useful robot experience. To address these challenges, we introduce Tether, a method for autonomous functional play involving structured, task-directed interactions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03278v1</guid>
+      <pubDate>Tue, 03 Mar 2026 18:59:07 +0000</pubDate>
     </item>
     <item>
-      <title>Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions</title>
-      <link>http://arxiv.org/abs/2603.02204v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Amir Asiaee, Kavey Aryan, James P. Long&lt;/p&gt;&lt;p&gt;Selective conformal prediction can yield substantially tighter uncertainty sets when we can identify calibration examples that are exchangeable with the test example. In interventional settings, such as perturbation experiments in genomics, exchangeability often holds only within subsets of interventions that leave a target variable "unaffected" (e.g., non-descendants of an intervened node in a causal graph). We study the practical regime where this invariance structure is unknown and must be learned from data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.02204v1</guid>
-      <pubDate>Mon, 02 Mar 2026 18:58:22 +0000</pubDate>
+      <title>How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference</title>
+      <link>http://arxiv.org/abs/2603.03280v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Toru Lin, Shuying Deng, Zhao-Heng Yin, Pieter Abbeel, Jitendra Malik&lt;/p&gt;&lt;p&gt;Many essential manipulation tasks - such as food preparation, surgery, and craftsmanship - remain intractable for autonomous robots. These tasks are characterized not only by contact-rich, force-sensitive dynamics, but also by their "implicit" success criteria: unlike pick-and-place, task quality in these domains is continuous and subjective (e.g. how well a potato is peeled), making quantitative evaluation and reward engineering difficult&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.03280v1</guid>
+      <pubDate>Tue, 03 Mar 2026 18:59:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
