@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Mar 2026 04:11:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 04:11:23 +0000</lastBuildDate>
     <item>
-      <title>Emergence of an Advective Boundary Layer in Monsoon Cross-Equatorial Flow: Scaling, Dynamics, and Idealized Models</title>
-      <link>http://arxiv.org/abs/2603.08550v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rajat Masiwal, Ashwin K Seshadri, Vishal Dixit&lt;/p&gt;&lt;p&gt;The conventional Ekman model of the tropical boundary layer neglects nonlinear momentum advection and breaks down near the equator, where Coriolis effects are weak. During South Asian monsoon onset, we identify a dynamical regime transition to an advective boundary layer (ABL). Reanalysis links this transition to a shift in the zonal momentum balance from frictional to meridional-advection control as cross-equatorial flow intensifies, accompanied by increasing local Rossby number and vanishing absolute vorticity, signaling the breakdown of Ekman balance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08550v1</guid>
-      <pubDate>Mon, 09 Mar 2026 16:15:04 +0000</pubDate>
+      <title>CarbonBench: A Global Benchmark for Upscaling of Carbon Fluxes Using Zero-Shot Learning</title>
+      <link>http://arxiv.org/abs/2603.09868v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aleksei Rozanov, Arvind Renganathan, Yimeng Zhang, Vipin Kumar&lt;/p&gt;&lt;p&gt;Accurately quantifying terrestrial carbon exchange is essential for climate policy and carbon accounting, yet models must generalize to ecosystems underrepresented in sparse eddy covariance observations. Despite this challenge being a natural instance of zero-shot spatial transfer learning for time series regression, no standardized benchmark exists to rigorously evaluate model performance across geographically distinct locations with different climate regimes and vegetation types.   We introduce CarbonBench, the first benchmark for zero-shot spatial transfer in carbon flux upscaling&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09868v1</guid>
+      <pubDate>Tue, 10 Mar 2026 16:33:28 +0000</pubDate>
     </item>
     <item>
-      <title>Generative Adversarial Regression (GAR): Learning Conditional Risk Scenarios</title>
-      <link>http://arxiv.org/abs/2603.08553v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Saeed Asadi, Jonathan Yu-Meng Li&lt;/p&gt;&lt;p&gt;We propose Generative Adversarial Regression (GAR), a framework for learning conditional risk scenarios through generators aligned with downstream risk objectives. GAR builds on a regression characterization of conditional risk for elicitable functionals, including quantiles, expectiles, and jointly elicitable pairs. We extend this principle from point prediction to generative modeling by training generators whose policy-induced risk matches that of real data under the same context&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08553v1</guid>
-      <pubDate>Mon, 09 Mar 2026 16:16:59 +0000</pubDate>
+      <title>Emerging Extrinsic Dexterity in Cluttered Scenes via Dynamics-aware Policy Learning</title>
+      <link>http://arxiv.org/abs/2603.09882v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yixin Zheng, Jiangran Lyu, Yifan Zhang, Jiayi Chen, Mi Yan, Yuntian Deng, Xuesong Shi, Xiaoguang Zhao&lt;/p&gt;&lt;p&gt;Extrinsic dexterity leverages environmental contact to overcome the limitations of prehensile manipulation. However, achieving such dexterity in cluttered scenes remains challenging and underexplored, as it requires selectively exploiting contact among multiple interacting objects with inherently coupled dynamics. Existing approaches lack explicit modeling of such complex dynamics and therefore fall short in non-prehensile manipulation in cluttered environments, which in turn limits their practical applicability in real-world environments&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09882v1</guid>
+      <pubDate>Tue, 10 Mar 2026 16:40:30 +0000</pubDate>
     </item>
     <item>
-      <title>RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback</title>
-      <link>http://arxiv.org/abs/2603.08561v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaoying Zhang, Zichen Liu, Yipeng Zhang, Xia Hu, Wenqi Shao&lt;/p&gt;&lt;p&gt;Large language model (LLM)-based agents trained with reinforcement learning (RL) have shown strong potential on complex interactive tasks. However, standard RL paradigms favor static problem-solving over continuous adaptation: agents often converge to suboptimal strategies due to insufficient exploration, while learned knowledge remains implicit within parameters rather than explicitly retrievable, limiting effective experiential learning. To address these limitations, we introduce RetroAgent, an online RL framework that empowers agents to master complex interactive environments not just by so&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08561v1</guid>
-      <pubDate>Mon, 09 Mar 2026 16:23:33 +0000</pubDate>
+      <title>LCA: Local Classifier Alignment for Continual Learning</title>
+      <link>http://arxiv.org/abs/2603.09888v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tung Tran, Danilo Vasconcellos Vargas, Khoat Than&lt;/p&gt;&lt;p&gt;A fundamental requirement for intelligent systems is the ability to learn continuously under changing environments. However, models trained in this regime often suffer from catastrophic forgetting. Leveraging pre-trained models has recently emerged as a promising solution, since their generalized feature extractors enable faster and more robust adaptation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09888v1</guid>
+      <pubDate>Tue, 10 Mar 2026 16:46:09 +0000</pubDate>
     </item>
     <item>
-      <title>OSS-CRS: Liberating AIxCC Cyber Reasoning Systems for Real-World Open-Source Security</title>
-      <link>http://arxiv.org/abs/2603.08566v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andrew Chin, Dongkwan Kim, Yu-Fu Fu, Fabian Fleischer, Youngjoon Kim, HyungSeok Han, Cen Zhang, Brian Junekyu Lee&lt;/p&gt;&lt;p&gt;DARPA's AI Cyber Challenge (AIxCC) showed that cyber reasoning systems (CRSs) can go beyond vulnerability discovery to autonomously confirm and patch bugs: seven teams built such systems and open-sourced them after the competition. Yet all seven open-sourced CRSs remain largely unusable outside their original teams, each bound to the competition cloud infrastructure that no longer exists. We present OSS-CRS, an open, locally deployable framework for running and combining CRS techniques against real-world open-source projects, with budget-aware resource management&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08566v1</guid>
-      <pubDate>Mon, 09 Mar 2026 16:26:33 +0000</pubDate>
+      <title>Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts</title>
+      <link>http://arxiv.org/abs/2603.09890v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hongbo Bo, Jingyu Hu, Weiru Liu&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) have emerged as a new paradigm for multi-agent systems. However, existing research on the behaviour of LLM-based multi-agents relies on ad hoc prompts and lacks a principled policy perspective. Different from reinforcement learning, we investigate whether prompt-as-action can be parameterized so as to construct a lightweight policy which consists of a sequence of state-action pairs to influence conversational behaviours without training&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09890v1</guid>
+      <pubDate>Tue, 10 Mar 2026 16:47:25 +0000</pubDate>
     </item>
     <item>
-      <title>MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation</title>
-      <link>http://arxiv.org/abs/2603.08572v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yutong Shen, Hangxu Liu, Penghui Liu, Jiashuo Luo, Yongkang Zhang, Rex Morvley, Chen Jiang, Jianwei Zhang&lt;/p&gt;&lt;p&gt;Learning natural, stable, and compositionally generalizable whole-body control policies for humanoid robots performing simultaneous locomotion and manipulation (loco-manipulation) remains a fundamental challenge in robotics. Existing reinforcement learning approaches typically rely on a single monolithic policy to acquire multiple skills, which often leads to cross-skill gradient interference and motion pattern conflicts in high-degree-of-freedom systems. As a result, generated behaviors frequently exhibit unnatural movements, limited stability, and poor generalization to complex task composit&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08572v1</guid>
-      <pubDate>Mon, 09 Mar 2026 16:28:26 +0000</pubDate>
+      <title>MSSR: Memory-Aware Adaptive Replay for Continual LLM Fine-Tuning</title>
+      <link>http://arxiv.org/abs/2603.09892v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yiyang Lu, Yu He, Jianlong Chen, Hongyuan Zha&lt;/p&gt;&lt;p&gt;Continual fine-tuning of large language models (LLMs) is becoming increasingly crucial as these models are deployed in dynamic environments where tasks and data distributions evolve over time. While strong adaptability enables rapid acquisition of new knowledge, it also exposes LLMs to catastrophic forgetting, where previously learned skills degrade during sequential training. Existing replay-based strategies, such as fixed interleaved replay, accuracy-supervised, and loss-driven scheduling, remain limited: some depend on heuristic rules and provide only partial mitigation of forgetting, while&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09892v1</guid>
+      <pubDate>Tue, 10 Mar 2026 16:49:44 +0000</pubDate>
     </item>
     <item>
-      <title>Trust via Reputation of Conviction</title>
-      <link>http://arxiv.org/abs/2603.08575v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aravind R. Iyengar&lt;/p&gt;&lt;p&gt;The question of \emph{knowledge}, \emph{truth} and \emph{trust} is explored via a mathematical formulation of claims and sources. We define truth as the reproducibly perceived subset of knowledge, formalize sources as having both generative and discriminative roles, and develop a framework for reputation grounded in the \emph{conviction} -- the likelihood that a source's stance is vindicated by independent consensus. We argue that conviction, rather than correctness or faithfulness, is the principled basis for trust: it is regime-independent, rewards genuine contribution, and demands the trans&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08575v1</guid>
-      <pubDate>Mon, 09 Mar 2026 16:30:33 +0000</pubDate>
+      <title>MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems</title>
+      <link>http://arxiv.org/abs/2603.09909v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yunhang Qian, Xiaobin Hu, Jiaquan Yu, Siyang Xin, Xiaokun Chen, Jiangning Zhang, Peng-Tao Jiang, Jiawei Liu&lt;/p&gt;&lt;p&gt;While Multi-Agent Systems (MAS) show potential for complex clinical decision support, the field remains hindered by architectural fragmentation and the lack of standardized multimodal integration. Current medical MAS research suffers from non-uniform data ingestion pipelines, inconsistent visual-reasoning evaluation, and a lack of cross-specialty benchmarking. To address these challenges, we present MedMASLab, a unified framework and benchmarking platform for multimodal medical multi-agent systems&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09909v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:03:11 +0000</pubDate>
     </item>
     <item>
-      <title>Don't Look Back in Anger: MAGIC Net for Streaming Continual Learning with Temporal Dependence</title>
-      <link>http://arxiv.org/abs/2603.08600v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Federico Giannini, Sandro D'Andrea, Emanuele Della Valle&lt;/p&gt;&lt;p&gt;Concept drift, temporal dependence, and catastrophic forgetting represent major challenges when learning from data streams. While Streaming Machine Learning and Continual Learning (CL) address these issues separately, recent efforts in Streaming Continual Learning (SCL) aim to unify them. In this work, we introduce MAGIC Net, a novel SCL approach that integrates CL-inspired architectural strategies with recurrent neural networks to tame temporal dependence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08600v1</guid>
-      <pubDate>Mon, 09 Mar 2026 16:49:04 +0000</pubDate>
+      <title>AI-Enabled Data-driven Intelligence for Spectrum Demand Estimation</title>
+      <link>http://arxiv.org/abs/2603.09916v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Colin Brown, Mohamad Alkadamani, Halim Yanikomeroglu&lt;/p&gt;&lt;p&gt;Accurately forecasting spectrum demand is a key component for efficient spectrum resource allocation and management. With the rapid growth in demand for wireless services, mobile network operators and regulators face increasing challenges in ensuring adequate spectrum availability. This paper presents a data-driven approach leveraging artificial intelligence (AI) and machine learning (ML) to estimate and manage spectrum demand&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09916v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:11:36 +0000</pubDate>
     </item>
     <item>
-      <title>UNBOX: Unveiling Black-box visual models with Natural-language</title>
-      <link>http://arxiv.org/abs/2603.08639v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Simone Carnemolla, Chiara Russo, Simone Palazzo, Quentin Bouniot, Daniela Giordano, Zeynep Akata, Matteo Pennisi, Concetto Spampinato&lt;/p&gt;&lt;p&gt;Ensuring trustworthiness in open-world visual recognition requires models that are interpretable, fair, and robust to distribution shifts. Yet modern vision systems are increasingly deployed as proprietary black-box APIs, exposing only output probabilities and hiding architecture, parameters, gradients, and training data. This opacity prevents meaningful auditing, bias detection, and failure analysis&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08639v1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:16:39 +0000</pubDate>
+      <title>Adaptive Clinical-Aware Latent Diffusion for Multimodal Brain Image Generation and Missing Modality Imputation</title>
+      <link>http://arxiv.org/abs/2603.09931v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rong Zhou, Houliang Zhou, Yao Su, Brian Y. Chen, Yu Zhang, Lifang He, Alzheimer's Disease Neuroimaging Initiative&lt;/p&gt;&lt;p&gt;Multimodal neuroimaging provides complementary insights for Alzheimer's disease diagnosis, yet clinical datasets frequently suffer from missing modalities. We propose ACADiff, a framework that synthesizes missing brain imaging modalities through adaptive clinical-aware diffusion. ACADiff learns mappings between incomplete multimodal observations and target modalities by progressively denoising latent representations while attending to available imaging data and clinical metadata&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09931v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:26:45 +0000</pubDate>
     </item>
     <item>
-      <title>PostTrainBench: Can LLM Agents Automate LLM Post-Training?</title>
-      <link>http://arxiv.org/abs/2603.08640v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ben Rank, Hardik Bhatnagar, Ameya Prabhu, Shira Eisenberg, Karina Nguyen, Matthias Bethge, Maksym Andriushchenko&lt;/p&gt;&lt;p&gt;AI agents have become surprisingly proficient at software engineering over the past year, largely due to improvements in reasoning capabilities. This raises a deeper question: can these systems extend their capabilities to automate AI research itself? In this paper, we explore post-training, the critical phase that turns base LLMs into useful assistants. We introduce PostTrainBench to benchmark how well LLM agents can perform post-training autonomously under bounded compute constraints (10 hours on one H100 GPU)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08640v1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:18:00 +0000</pubDate>
+      <title>Towards Flexible Spectrum Access: Data-Driven Insights into Spectrum Demand</title>
+      <link>http://arxiv.org/abs/2603.09942v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohamad Alkadamani, Amir Ghasemi, Halim Yanikomeroglu&lt;/p&gt;&lt;p&gt;In the diverse landscape of 6G networks, where wireless connectivity demands surge and spectrum resources remain limited, flexible spectrum access becomes paramount. The success of crafting such schemes hinges on our ability to accurately characterize spectrum demand patterns across space and time. This paper presents a data-driven methodology for estimating spectrum demand variations over space and identifying key drivers of these variations in the mobile broadband landscape&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09942v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:34:16 +0000</pubDate>
     </item>
     <item>
-      <title>CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation</title>
-      <link>http://arxiv.org/abs/2603.08652v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haodong Li, Chunmei Qing, Huanyu Zhang, Dongzhi Jiang, Yihang Zou, Hongbo Peng, Dingming Li, Yuhong Dai&lt;/p&gt;&lt;p&gt;Recent advancements in Unified Multimodal Models (UMMs) have significantly advanced text-to-image (T2I) generation, particularly through the integration of Chain-of-Thought (CoT) reasoning. However, existing CoT-based T2I methods largely rely on abstract natural-language planning, which lacks the precision required for complex spatial layouts, structured visual elements, and dense textual content. In this work, we propose CoCo (Code-as-CoT), a code-driven reasoning framework that represents the reasoning process as executable code, enabling explicit and verifiable intermediate planning for ima&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08652v1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:31:16 +0000</pubDate>
+      <title>PathMem: Toward Cognition-Aligned Memory Transformation for Pathology MLLMs</title>
+      <link>http://arxiv.org/abs/2603.09943v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jinyue Li, Yuci Liang, Qiankun Li, Xinheng Lyu, Jiayu Qian, Huabao Chen, Kun Wang, Zhigang Zeng&lt;/p&gt;&lt;p&gt;Computational pathology demands both visual pattern recognition and dynamic integration of structured domain knowledge, including taxonomy, grading criteria, and clinical evidence. In practice, diagnostic reasoning requires linking morphological evidence with formal diagnostic and grading criteria. Although multimodal large language models (MLLMs) demonstrate strong vision language reasoning capabilities, they lack explicit mechanisms for structured knowledge integration and interpretable memory control&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09943v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:35:49 +0000</pubDate>
     </item>
     <item>
-      <title>OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning</title>
-      <link>http://arxiv.org/abs/2603.08655v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Krista Opsahl-Ong, Arnav Singhvi, Jasmine Collins, Ivan Zhou, Cindy Wang, Ashutosh Baheti, Owen Oertell, Jacob Portes&lt;/p&gt;&lt;p&gt;We introduce OfficeQA Pro, a benchmark for evaluating AI agents on grounded, multi-document reasoning over a large and heterogeneous document corpus. The corpus consists of U.S. Treasury Bulletins spanning nearly 100 years, comprising 89,000 pages and over 26 million numerical values&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08655v1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:34:53 +0000</pubDate>
+      <title>No Image, No Problem: End-to-End Multi-Task Cardiac Analysis from Undersampled k-Space</title>
+      <link>http://arxiv.org/abs/2603.09945v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yundi Zhang, Sevgi Gokce Kafali, Niklas Bubeck, Daniel Rueckert, Jiazhen Pan&lt;/p&gt;&lt;p&gt;Conventional clinical CMR pipelines rely on a sequential "reconstruct-then-analyze" paradigm, forcing an ill-posed intermediate step that introduces avoidable artifacts and information bottlenecks. This creates a fundamental mathematical paradox: it attempts to recover high-dimensional pixel arrays (i.e., images) from undersampled k-space, rather than directly extracting the low-dimensional physiological labels actually required for diagnosis. To unlock the direct diagnostic potential of k-space, we propose k-MTR (k-space Multi-Task Representation), a k-space representation learning framework &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09945v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:38:38 +0000</pubDate>
     </item>
     <item>
-      <title>Momentum SVGD-EM for Accelerated Maximum Marginal Likelihood Estimation</title>
-      <link>http://arxiv.org/abs/2603.08676v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Adam Rozzio, Rafael Athanasiades, O. Deniz Akyildiz&lt;/p&gt;&lt;p&gt;Maximum marginal likelihood estimation (MMLE) can be formulated as the optimization of a free energy functional. From this viewpoint, the Expectation-Maximisation (EM) algorithm admits a natural interpretation as a coordinate descent method over the joint space of model parameters and probability measures. Recently, a significant body of work has adopted this perspective, leading to interacting particle algorithms for MMLE&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08676v1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:47:36 +0000</pubDate>
+      <title>The Confidence Gate Theorem: When Should Ranked Decision Systems Abstain?</title>
+      <link>http://arxiv.org/abs/2603.09947v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ronald Doku&lt;/p&gt;&lt;p&gt;Ranked decision systems -- recommenders, ad auctions, clinical triage queues -- must decide when to intervene in ranked outputs and when to abstain. We study when confidence-based abstention monotonically improves decision quality, and when it fails. The formal conditions are simple: rank-alignment and no inversion zones&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09947v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:44:10 +0000</pubDate>
     </item>
     <item>
-      <title>A New Lower Bound for the Random Offerer Mechanism in Bilateral Trade using AI-Guided Evolutionary Search</title>
-      <link>http://arxiv.org/abs/2603.08679v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yang Cai, Vineet Gupta, Zun Li, Aranyak Mehta&lt;/p&gt;&lt;p&gt;The celebrated Myerson--Satterthwaite theorem shows that in bilateral trade, no mechanism can be simultaneously fully efficient, Bayesian incentive compatible (BIC), and budget balanced (BB). This naturally raises the question of how closely the gains from trade (GFT) achievable by a BIC and BB mechanism can approximate the first-best (fully efficient) benchmark. The optimal BIC and BB mechanism is typically complex and highly distribution-dependent, making it difficult to characterize directly&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08679v1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:49:02 +0000</pubDate>
+      <title>Towards a Neural Debugger for Python</title>
+      <link>http://arxiv.org/abs/2603.09951v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Maximilian Beck, Jonas Gehring, Jannik Kossen, Gabriel Synnaeve&lt;/p&gt;&lt;p&gt;Training large language models (LLMs) on Python execution traces grounds them in code execution and enables the line-by-line execution prediction of whole Python programs, effectively turning them into neural interpreters (FAIR CodeGen Team et al., 2025). However, developers rarely execute programs step by step; instead, they use debuggers to stop execution at certain breakpoints and step through relevant portions only while inspecting or modifying program variables. Existing neural interpreter approaches lack such interactive control&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09951v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:47:05 +0000</pubDate>
     </item>
     <item>
-      <title>Structural Causal Bottleneck Models</title>
-      <link>http://arxiv.org/abs/2603.08682v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Simon Bing, Jonas Wahl, Jakob Runge&lt;/p&gt;&lt;p&gt;We introduce structural causal bottleneck models (SCBMs), a novel class of structural causal models. At the core of SCBMs lies the assumption that causal effects between high-dimensional variables only depend on low-dimensional summary statistics, or bottlenecks, of the causes. SCBMs provide a flexible framework for task-specific dimension reduction while being estimable via standard, simple learning algorithms in practice&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08682v1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:50:10 +0000</pubDate>
+      <title>On the Width Scaling of Neural Optimizers Under Matrix Operator Norms I: Row/Column Normalization and Hyperparameter Transfer</title>
+      <link>http://arxiv.org/abs/2603.09952v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruihan Xu, Jiajin Li, Yiping Lu&lt;/p&gt;&lt;p&gt;A central question in modern deep learning is how to design optimizers whose behavior remains stable as the network width $w$ increases. We address this question by interpreting several widely used neural-network optimizers, including \textrm{AdamW} and \textrm{Muon}, as instances of steepest descent under matrix operator norms. This perspective links optimizer geometry with the Lipschitz structure of the network forward map, and enables width-independent control of both Lipschitz and smoothness constants&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09952v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:49:19 +0000</pubDate>
     </item>
     <item>
-      <title>Benchmarking Language Modeling for Lossless Compression of Full-Fidelity Audio</title>
-      <link>http://arxiv.org/abs/2603.08683v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Phillip Long, Zachary Novack, Chris Donahue&lt;/p&gt;&lt;p&gt;Autoregressive "language" models (LMs) trained on raw waveforms can be repurposed for lossless audio compression, but prior work is limited to 8-bit audio, leaving open whether such approaches work for practical settings (16/24-bit) and can compete with existing codecs. We benchmark LM-based compression on full-fidelity audio across diverse domains (music, speech, bioacoustics), sampling rates (16kHz-48kHz), and bit depths (8, 16, 24-bit). Standard sample-level tokenization becomes intractable at higher bit depths due to vocabulary size (65K for 16-bit; 16.7M for 24-bit)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08683v1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:52:02 +0000</pubDate>
+      <title>Think Before You Lie: How Reasoning Improves Honesty</title>
+      <link>http://arxiv.org/abs/2603.09957v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ann Yuan, Asma Ghandeharioun, Carter Blum, Alicia Machado, Jessica Hoffmann, Daphne Ippolito, Martin Wattenberg, Lucas Dixon&lt;/p&gt;&lt;p&gt;While existing evaluations of large language models (LLMs) measure deception rates, the underlying conditions that give rise to deceptive behavior are poorly understood. We investigate this question using a novel dataset of realistic moral trade-offs where honesty incurs variable costs. Contrary to humans, who tend to become less honest given time to deliberate (Capraro, 2017; Capraro et al., 2019), we find that reasoning consistently increases honesty across scales and for several LLM families&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09957v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:52:49 +0000</pubDate>
     </item>
     <item>
-      <title>Split Federated Learning Architectures for High-Accuracy and Low-Delay Model Training</title>
-      <link>http://arxiv.org/abs/2603.08687v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yiannis Papageorgiou, Yannis Thomas, Ramin Khalili, Iordanis Koutsopoulos&lt;/p&gt;&lt;p&gt;Can we find a network architecture for ML model training so as to optimize training loss (and thus, accuracy) in Split Federated Learning (SFL)? And can this architecture also reduce training delay and communication overhead? While accuracy is not influenced by how we split the model in ordinary, state-of-the-art SFL, in this work we answer the questions above in the affirmative. Recent Hierarchical SFL (HSFL) architectures adopt a three-tier training structure consisting of clients, (local) aggregators, and a central server. In this architecture, the model is partitioned at two partitioning l&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08687v1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:53:20 +0000</pubDate>
+      <title>BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion</title>
+      <link>http://arxiv.org/abs/2603.09961v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xinyu Gao, Gang Chen, Javier Alonso-Mora&lt;/p&gt;&lt;p&gt;Language-conditioned local navigation requires a robot to infer a nearby traversable target location from its current observation and an open-vocabulary, relational instruction. Existing vision-language spatial grounding methods usually rely on vision-language models (VLMs) to reason in image space, producing 2D predictions tied to visible pixels. As a result, they struggle to infer target locations in occluded regions, typically caused by furniture or moving humans&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09961v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:56:16 +0000</pubDate>
     </item>
     <item>
-      <title>A Multi-Objective Optimization Approach for Sustainable AI-Driven Entrepreneurship in Resilient Economies</title>
-      <link>http://arxiv.org/abs/2603.08692v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anas ALsobeh, Raneem Alkurdi&lt;/p&gt;&lt;p&gt;The rapid advancement of artificial intelligence (AI) technologies presents both unprecedented opportunities and significant challenges for sustainable economic development. While AI offers transformative potential for addressing environmental challenges and enhancing economic resilience, its deployment often involves substantial energy consumption and environmental costs. This research introduces the EcoAI-Resilience framework, a multi-objective optimization approach designed to maximize the sustainability benefits of AI deployment while minimizing environmental costs and enhancing economic r&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08692v1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:54:32 +0000</pubDate>
+      <title>Emotional Modulation in Swarm Decision Dynamics</title>
+      <link>http://arxiv.org/abs/2603.09963v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; David Freire-Obregón&lt;/p&gt;&lt;p&gt;Collective decision-making in biological and human groups often emerges from simple interaction rules that amplify minor differences into consensus. The bee equation, developed initially to describe nest-site selection in honeybee swarms, captures this dynamic through recruitment and inhibition processes. Here, we extend the bee equation into an agent-based model in which emotional valence (positive-negative) and arousal (low-high) act as modulators of interaction rates, effectively altering the recruitment and cross-inhibition parameters&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09963v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:56:42 +0000</pubDate>
     </item>
     <item>
-      <title>Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines</title>
-      <link>http://arxiv.org/abs/2603.08704v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Akshay Gulati, Kanha Singhania, Tushar Banga, Parth Arora, Anshul Verma, Vaibhav Kumar Singh, Agyapal Digra, Jayant Singh Bisht&lt;/p&gt;&lt;p&gt;Large language models are increasingly used for financial analysis and investment research, yet systematic evaluation of their financial reasoning capabilities remains limited. In this work, we introduce the AI Financial Intelligence Benchmark (AFIB), a multi-dimensional evaluation framework designed to assess financial analysis capabilities across five dimensions: factual accuracy, analytical completeness, data recency, model consistency, and failure patterns. We evaluate five AI systems: GPT, Gemini, Perplexity, Claude, and SuperInvesting, using a dataset of 95+ structured financial analysis&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08704v1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:58:54 +0000</pubDate>
+      <title>Understanding the Use of a Large Language Model-Powered Guide to Make Virtual Reality Accessible for Blind and Low Vision People</title>
+      <link>http://arxiv.org/abs/2603.09964v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jazmin Collins, Sharon Y Lin, Tianqi Liu, Andrea Stevenson Won, Shiri Azenkot&lt;/p&gt;&lt;p&gt;As social virtual reality (VR) grows more popular, addressing accessibility for blind and low vision (BLV) users is increasingly critical. Researchers have proposed an AI "sighted guide" to help users navigate VR and answer their questions, but it has not been studied with users. To address this gap, we developed a large language model (LLM)-powered guide and studied its use with 16 BLV participants in virtual environments with confederates posing as other users&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09964v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:56:57 +0000</pubDate>
     </item>
     <item>
-      <title>Agentic Critical Training</title>
-      <link>http://arxiv.org/abs/2603.08706v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Weize Liu, Minghui Liu, Sy-Tuyen Ho, Souradip Chakraborty, Xiyao Wang, Furong Huang&lt;/p&gt;&lt;p&gt;Training large language models (LLMs) as autonomous agents often begins with imitation learning, but it only teaches agents what to do without understanding why: agents never contrast successful actions against suboptimal alternatives and thus lack awareness of action quality. Recent approaches attempt to address this by introducing self-reflection supervision derived from contrasts between expert and alternative actions. However, the training paradigm fundamentally remains imitation learning: the model imitates pre-constructed reflection text rather than learning to reason autonomously&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08706v1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:58:56 +0000</pubDate>
+      <title>From Data Statistics to Feature Geometry: How Correlations Shape Superposition</title>
+      <link>http://arxiv.org/abs/2603.09972v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lucas Prieto, Edward Stevinson, Melih Barsbey, Tolga Birdal, Pedro A. M. Mediano&lt;/p&gt;&lt;p&gt;A central idea in mechanistic interpretability is that neural networks represent more features than they have dimensions, arranging them in superposition to form an over-complete basis. This framing has been influential, motivating dictionary learning approaches such as sparse autoencoders. However, superposition has mostly been studied in idealized settings where features are sparse and uncorrelated&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09972v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:59:02 +0000</pubDate>
     </item>
     <item>
-      <title>Scale Space Diffusion</title>
-      <link>http://arxiv.org/abs/2603.08709v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Soumik Mukhopadhyay, Prateksha Udhayanan, Abhinav Shrivastava&lt;/p&gt;&lt;p&gt;Diffusion models degrade images through noise, and reversing this process reveals an information hierarchy across timesteps. Scale-space theory exhibits a similar hierarchy via low-pass filtering. We formalize this connection and show that highly noisy diffusion states contain no more information than small, downsampled images - raising the question of why they must be processed at full resolution&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.08709v1</guid>
-      <pubDate>Mon, 09 Mar 2026 17:59:42 +0000</pubDate>
+      <title>Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes</title>
+      <link>http://arxiv.org/abs/2603.09974v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aleksei Rozanov, Arvind Renganathan, Vipin Kumar&lt;/p&gt;&lt;p&gt;Accurately upscaling terrestrial carbon fluxes is central to estimating the global carbon budget, yet remains challenging due to the sparse and regionally biased distribution of ground measurements. Existing data-driven upscaling products often fail to generalize beyond observed domains, leading to systematic regional biases and high predictive uncertainty. We introduce Task-Aware Modulation with Representation Learning (TAM-RL), a framework that couples spatio-temporal representation learning with knowledge-guided encoder-decoder architecture and loss function derived from the carbon balance &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.09974v1</guid>
+      <pubDate>Tue, 10 Mar 2026 17:59:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
