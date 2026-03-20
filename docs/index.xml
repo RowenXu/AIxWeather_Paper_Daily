@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Mar 2026 04:24:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 04:15:26 +0000</lastBuildDate>
     <item>
-      <title>CodeScout: An Effective Recipe for Reinforcement Learning of Code Search Agents</title>
-      <link>http://arxiv.org/abs/2603.17829v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lintang Sutawika, Aditya Bharat Soni, Bharath Sriraam R R, Apurva Gandhi, Taha Yassine, Sanidhya Vijayvargiya, Yuchen Li, Xuhui Zhou&lt;/p&gt;&lt;p&gt;A prerequisite for coding agents to perform tasks on large repositories is code localization - the identification of relevant files, classes, and functions to work on. While repository-level code localization has been performed using embedding-based retrieval approaches such as vector search, recent work has focused on developing agents to localize relevant code either as a standalone precursor to or interleaved with performing actual work. Most prior methods on agentic code search equip the agent with complex, specialized tools, such as repository graphs derived from static analysis&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17829v1</guid>
-      <pubDate>Wed, 18 Mar 2026 15:25:42 +0000</pubDate>
+      <title>How Uncertainty Estimation Scales with Sampling in Reasoning Models</title>
+      <link>http://arxiv.org/abs/2603.19118v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Maksym Del, Markus Kängsepp, Marharyta Domnich, Ardi Tampuu, Lisa Yankovskaya, Meelis Kull, Mark Fishel&lt;/p&gt;&lt;p&gt;Uncertainty estimation is critical for deploying reasoning language models, yet remains poorly understood under extended chain-of-thought reasoning. We study parallel sampling as a fully black-box approach using verbalized confidence and self-consistency. Across three reasoning models and 17 tasks spanning mathematics, STEM, and humanities, we characterize how these signals scale&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19118v1</guid>
+      <pubDate>Thu, 19 Mar 2026 16:42:05 +0000</pubDate>
     </item>
     <item>
-      <title>Text-to-Stage: Spatial Layouts from Long-form Narratives</title>
-      <link>http://arxiv.org/abs/2603.17832v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jefferson Hernandez, Swarnadeep Saha, Chenxi Whitehouse, Sanjeel Parekh, Calvin Murdock, Yuliang Li, W. Owen Brimijoin, Vamsi Krishna Ithapu&lt;/p&gt;&lt;p&gt;In this work, we probe the ability of a language model to demonstrate spatial reasoning from unstructured text, mimicking human capabilities and automating a process that benefits many downstream media applications. Concretely, we study the narrative-to-play task: inferring stage-play layouts (scenes, speaker positions, movements, and room types) from text that lacks explicit spatial, positional, or relational cues. We then introduce a dramaturgy-inspired deterministic evaluation suite and, finally, a training and inference recipe that combines rejection SFT using Best-of-N sampling with RL fr&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17832v1</guid>
-      <pubDate>Wed, 18 Mar 2026 15:26:27 +0000</pubDate>
+      <title>Adaptive Regime-Aware Stock Price Prediction Using Autoencoder-Gated Dual Node Transformers with Reinforcement Learning Control</title>
+      <link>http://arxiv.org/abs/2603.19136v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohammad Al Ridhawi, Mahtab Haj Ali, Hussein Al Osman&lt;/p&gt;&lt;p&gt;Stock markets exhibit regime-dependent behavior where prediction models optimized for stable conditions often fail during volatile periods. Existing approaches typically treat all market states uniformly or require manual regime labeling, which is expensive and quickly becomes stale as market dynamics evolve. This paper introduces an adaptive prediction framework that adaptively identifies deviations from normal market conditions and routes data through specialized prediction pathways&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19136v1</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:33 +0000</pubDate>
     </item>
     <item>
-      <title>Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control</title>
-      <link>http://arxiv.org/abs/2603.17834v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zunzhe Zhang, Runhan Huang, Yicheng Liu, Shaoting Zhu, Linzhan Mou, Hang Zhao&lt;/p&gt;&lt;p&gt;Diffusion models and flow matching have become a cornerstone of robotic imitation learning, yet they suffer from a structural inefficiency where inference is often bound to a fixed integration schedule that is agnostic to state complexity. This paradigm forces the policy to expend the same computational budget on trivial motions as it does on complex tasks. We introduce Generative Control as Optimization (GeCO), a time-unconditional framework that transforms action synthesis from trajectory integration into iterative optimization&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17834v1</guid>
-      <pubDate>Wed, 18 Mar 2026 15:27:17 +0000</pubDate>
+      <title>Implicit Patterns in LLM-Based Binary Analysis</title>
+      <link>http://arxiv.org/abs/2603.19138v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Qiang Li, XiangRui Zhang, Haining Wang&lt;/p&gt;&lt;p&gt;Binary vulnerability analysis is increasingly performed by LLM-based agents in an iterative, multi-pass manner, with the model as the core decision-maker. However, how such systems organize exploration over hundreds of reasoning steps remains poorly understood, due to limited context windows and implicit token-level behaviors. We present the first large-scale, trace-level study showing that multi-pass LLM reasoning gives rise to structured, token-level implicit patterns&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19138v1</guid>
+      <pubDate>Thu, 19 Mar 2026 16:56:56 +0000</pubDate>
     </item>
     <item>
-      <title>How do LLMs Compute Verbal Confidence</title>
-      <link>http://arxiv.org/abs/2603.17839v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dharshan Kumaran, Arthur Conmy, Federico Barbero, Simon Osindero, Viorica Patraucean, Petar Velickovic&lt;/p&gt;&lt;p&gt;Verbal confidence -- prompting LLMs to state their confidence as a number or category -- is widely used to extract uncertainty estimates from black-box models. However, how LLMs internally generate such scores remains unknown. We address two questions: first, when confidence is computed - just-in-time when requested, or automatically during answer generation and cached for later retrieval; and second, what verbal confidence represents - token log-probabilities, or a richer evaluation of answer quality? Focusing on Gemma 3 27B and Qwen 2.5 7B, we provide convergent evidence for cached retrieval&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17839v1</guid>
-      <pubDate>Wed, 18 Mar 2026 15:31:43 +0000</pubDate>
+      <title>UGID: Unified Graph Isomorphism for Debiasing Large Language Models</title>
+      <link>http://arxiv.org/abs/2603.19144v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zikang Ding, Junchi Yao, Junhao Li, Yi Zhang, Wenbo Jiang, Hongbo Liu, Lijie Hu&lt;/p&gt;&lt;p&gt;Large language models (LLMs) exhibit pronounced social biases. Output-level or data-optimization--based debiasing methods cannot fully resolve these biases, and many prior works have shown that biases are embedded in internal representations. We propose \underline{U}nified \underline{G}raph \underline{I}somorphism for \underline{D}ebiasing large language models (\textit{\textbf{UGID}}), an internal-representation--level debiasing framework for large language models that models the Transformer as a structured computational graph, where attention mechanisms define the routing edges of the graph &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19144v1</guid>
+      <pubDate>Thu, 19 Mar 2026 16:59:37 +0000</pubDate>
     </item>
     <item>
-      <title>Procedural Generation of Algorithm Discovery Tasks in Machine Learning</title>
-      <link>http://arxiv.org/abs/2603.17863v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexander D. Goldie, Zilin Wang, Adrian Hayler, Deepak Nathani, Edan Toledo, Ken Thampiratwong, Aleksandra Kalisz, Michael Beukman&lt;/p&gt;&lt;p&gt;Automating the development of machine learning algorithms has the potential to unlock new breakthroughs. However, our ability to improve and evaluate algorithm discovery systems has thus far been limited by existing task suites. They suffer from many issues, such as: poor evaluation methodologies; data contamination; and containing saturated or very similar problems&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17863v1</guid>
-      <pubDate>Wed, 18 Mar 2026 15:49:32 +0000</pubDate>
+      <title>D5P4: Partition Determinantal Point Process for Diversity in Parallel Discrete Diffusion Decoding</title>
+      <link>http://arxiv.org/abs/2603.19146v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jonathan Lys, Vincent Gripon, Bastien Pasdeloup, Axel Marmoret, Lukas Mauch, Fabien Cardinaux, Ghouthi Boukli Hacene&lt;/p&gt;&lt;p&gt;Discrete diffusion models are promising alternatives to autoregressive approaches for text generation, yet their decoding methods remain under-studied. Standard decoding methods for autoregressive models, such as beam search, do not directly apply to iterative denoising, and existing diffusion decoding techniques provide limited control over in-batch diversity. To bridge this gap, we introduce a generalized beam-search framework for discrete diffusion that generates candidates in parallel and supports modular beam-selection objectives&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19146v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:02:08 +0000</pubDate>
     </item>
     <item>
-      <title>Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval</title>
-      <link>http://arxiv.org/abs/2603.17872v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Md. Asraful Haque, Aasar Mehdi, Maaz Mahboob, Tamkeen Fatima&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) have achieved unprecedented fluency but remain susceptible to "hallucinations" - the generation of factually incorrect or ungrounded content. This limitation is particularly critical in high-stakes domains where reliability is paramount. We propose a domain-grounded tiered retrieval and verification architecture designed to systematically intercept factual inaccuracies by shifting LLMs from stochastic pattern-matchers to verified truth-seekers&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17872v1</guid>
-      <pubDate>Wed, 18 Mar 2026 15:59:30 +0000</pubDate>
+      <title>VEPO: Variable Entropy Policy Optimization for Low-Resource Language Foundation Models</title>
+      <link>http://arxiv.org/abs/2603.19152v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chonghan Liu, Yimin Du, Qi An, Xin He, Cunqi Zhai, Fei Tan, Weijia Lin, Xiaochun Gong&lt;/p&gt;&lt;p&gt;Large language models frequently exhibit suboptimal performance on low resource languages, primarily due to inefficient subword segmentation and systemic training data imbalances. In this paper, we propose Variable Entropy Policy Optimization (VEPO), which leverages Reinforcement Learning with Verifiable Rewards to incorporate deterministic structural constraints into the policy alignment process. This framework ensures prescribed sequence length, robust format consistency, and rigorous linguistic well formedness, all enforced during training&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19152v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:10:29 +0000</pubDate>
     </item>
     <item>
-      <title>Differential Attention-Augmented BiomedCLIP with Asymmetric Focal Optimization for Imbalanced Multi-Label Video Capsule Endoscopy Classification</title>
-      <link>http://arxiv.org/abs/2603.17879v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Podakanti Satyajith Chary, Nagarajan Ganapathy&lt;/p&gt;&lt;p&gt;This work presents a multi-label classification framework for video capsule endoscopy (VCE) that addresses the extreme class imbalance inherent in the Galar dataset through a combination of architectural and optimization-level strategies. Our approach modifies BiomedCLIP, a biomedical vision-language foundation model, by replacing its standard multi-head self-attention with a differential attention mechanism that computes the difference between two softmax attention maps to suppress attention noise. To counteract the skewed label distribution, where pathological findings constitute less than 0&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17879v1</guid>
-      <pubDate>Wed, 18 Mar 2026 16:04:50 +0000</pubDate>
+      <title>PPI is the Difference Estimator: Recognizing the Survey Sampling Roots of Prediction-Powered Inference</title>
+      <link>http://arxiv.org/abs/2603.19160v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Reagan Mozer&lt;/p&gt;&lt;p&gt;Prediction-powered inference (PPI) is a rapidly growing framework for combining machine learning predictions with a small set of gold-standard labels to conduct valid statistical inference. In this article, I argue that the core estimators underlying PPI are equivalent to well-established estimators from the survey sampling literature dating back to the 1970s. Specifically, the PPI estimator for a population mean is algebraically equivalent to the difference estimator of Cassel et al&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19160v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:16:28 +0000</pubDate>
     </item>
     <item>
-      <title>AI-Assisted Goal Setting Improves Goal Progress Through Social Accountability</title>
-      <link>http://arxiv.org/abs/2603.17887v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Michel Schimpf, Julian Voigt, Thomas Bohné&lt;/p&gt;&lt;p&gt;Helping people identify and pursue personally meaningful career goals at scale remains a key challenge in applied psychology. Career coaching can improve goal quality and attainment, but its cost and limited availability restrict access. Large language model (LLM)-based chatbots offer a scalable alternative, yet the psychological mechanisms by which they might support goal pursuit remain untested&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17887v1</guid>
-      <pubDate>Wed, 18 Mar 2026 16:12:25 +0000</pubDate>
+      <title>cuGenOpt: A GPU-Accelerated General-Purpose Metaheuristic Framework for Combinatorial Optimization</title>
+      <link>http://arxiv.org/abs/2603.19163v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuyang Liu&lt;/p&gt;&lt;p&gt;Combinatorial optimization problems arise in logistics, scheduling, and resource allocation, yet existing approaches face a fundamental trade-off among generality, performance, and usability. We present cuGenOpt, a GPU-accelerated general-purpose metaheuristic framework that addresses all three dimensions simultaneously.   At the engine level, cuGenOpt adopts a "one block evolves one solution" CUDA architecture with a unified encoding abstraction (permutation, binary, integer), a two-level adaptive operator selection mechanism, and hardware-aware resource management&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19163v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:19:21 +0000</pubDate>
     </item>
     <item>
-      <title>RAMP: Reinforcement Adaptive Mixed Precision Quantization for Efficient On Device LLM Inference</title>
-      <link>http://arxiv.org/abs/2603.17891v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arpit Singh Gautam, Saurabh Jha&lt;/p&gt;&lt;p&gt;Post training quantization is essential for deploying large language models (LLMs) on resource constrained hardware, yet state of the art methods enforce uniform bit widths across layers, yielding suboptimal accuracy efficiency trade offs. We present RAMP (Reinforcement Adaptive Mixed Precision), an off policy Soft Actor Critic framework that learns per layer bit width assignments to minimize perplexity under a global bit budget. The policy conditions on an 11 dimensional embedding of activation statistics, weight properties, and structural descriptors, enabling zero shot transfer across model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17891v1</guid>
-      <pubDate>Wed, 18 Mar 2026 16:16:28 +0000</pubDate>
+      <title>Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation</title>
+      <link>http://arxiv.org/abs/2603.19166v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Swagat Padhan, Lakshya Jain, Bhavya Minesh Shah, Omkar Patil, Thao Nguyen, Nakul Gopalan&lt;/p&gt;&lt;p&gt;Robots collaborating with humans must convert natural language goals into actionable, physically grounded decisions. For example, executing a command such as "go two meters to the right of the fridge" requires grounding semantic references, spatial relations, and metric constraints within a 3D scene. While recent vision language models (VLMs) demonstrate strong semantic grounding capabilities, they are not explicitly designed to reason about metric constraints in physically defined spaces&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19166v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:20:56 +0000</pubDate>
     </item>
     <item>
-      <title>scicode-lint: Detecting Methodology Bugs in Scientific Python Code with LLM-Generated Patterns</title>
-      <link>http://arxiv.org/abs/2603.17893v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sergey V. Samsonau&lt;/p&gt;&lt;p&gt;Methodology bugs in scientific Python code produce plausible but incorrect results that traditional linters and static analysis tools cannot detect. Several research groups have built ML-specific linters, demonstrating that detection is feasible. Yet these tools share a sustainability problem: dependency on specific pylint or Python versions, limited packaging, and reliance on manual engineering for every new pattern&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17893v1</guid>
-      <pubDate>Wed, 18 Mar 2026 16:23:02 +0000</pubDate>
+      <title>ARIADNE: A Perception-Reasoning Synergy Framework for Trustworthy Coronary Angiography Analysis</title>
+      <link>http://arxiv.org/abs/2603.19169v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhan Jin, Yu Luo, Yizhou Zhang, Ziyang Cui, Yuqing Wei, Xianchao Liu, Xueying Zeng, Qing Zhang&lt;/p&gt;&lt;p&gt;Conventional pixel-wise loss functions fail to enforce topological constraints in coronary vessel segmentation, producing fragmented vascular trees despite high pixel-level accuracy. We present ARIADNE, a two-stage framework coupling preference-aligned perception with RL-based diagnostic reasoning for topologically coherent stenosis detection. The perception module employs DPO to fine-tune the Sa2VA vision-language foundation model using Betti number constraints as preference signals, aligning the policy toward geometrically complete vessel structures rather than pixel-wise overlap metrics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19169v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:25:19 +0000</pubDate>
     </item>
     <item>
-      <title>A Noise Sensitivity Exponent Controls Large Statistical-to-Computational Gaps in Single- and Multi-Index Models</title>
-      <link>http://arxiv.org/abs/2603.17896v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Leonardo Defilippis, Florent Krzakala, Bruno Loureiro, Antoine Maillard&lt;/p&gt;&lt;p&gt;Understanding when learning is statistically possible yet computationally hard is a central challenge in high-dimensional statistics. In this work, we investigate this question in the context of single- and multi-index models, classes of functions widely studied as benchmarks to probe the ability of machine learning methods to discover features in high-dimensional data. Our main contribution is to show that a Noise Sensitivity Exponent (NSE) - a simple quantity determined by the activation function - governs the existence and magnitude of statistical-to-computational gaps within a broad regime&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17896v1</guid>
-      <pubDate>Wed, 18 Mar 2026 16:26:41 +0000</pubDate>
+      <title>SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits</title>
+      <link>http://arxiv.org/abs/2603.19173v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Edward Lin, Sahil Modi, Siva Kumar Sastry Hari, Qijing Huang, Zhifan Ye, Nestor Qin, Fengzhe Zhou, Yuan Zhang&lt;/p&gt;&lt;p&gt;As agentic AI systems become increasingly capable of generating and optimizing GPU kernels, progress is constrained by benchmarks that reward speedup over software baselines rather than proximity to hardware-efficient execution. We present SOL-ExecBench, a benchmark of 235 CUDA kernel optimization problems extracted from 124 production and emerging AI models spanning language, diffusion, vision, audio, video, and hybrid architectures, targeting NVIDIA Blackwell GPUs. The benchmark covers forward and backward workloads across BF16, FP8, and NVFP4, including kernels whose best performance is exp&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19173v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:30:02 +0000</pubDate>
     </item>
     <item>
-      <title>Differential Privacy in Generative AI Agents: Analysis and Optimal Tradeoffs</title>
-      <link>http://arxiv.org/abs/2603.17902v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ya-Ting Yang, Quanyan Zhu&lt;/p&gt;&lt;p&gt;Large language models (LLMs) and AI agents are increasingly integrated into enterprise systems to access internal databases and generate context-aware responses. While such integration improves productivity and decision support, the model outputs may inadvertently reveal sensitive information. Although many prior efforts focus on protecting the privacy of user prompts, relatively few studies consider privacy risks from the enterprise data perspective&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17902v1</guid>
-      <pubDate>Wed, 18 Mar 2026 16:35:12 +0000</pubDate>
+      <title>Box Maze: A Process-Control Architecture for Reliable LLM Reasoning</title>
+      <link>http://arxiv.org/abs/2603.19182v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zou Qiang&lt;/p&gt;&lt;p&gt;Large language models (LLMs) demonstrate strong generative capabilities but remain vulnerable to hallucination and unreliable reasoning under adversarial prompting. Existing safety approaches -- such as reinforcement learning from human feedback (RLHF) and output filtering -- primarily operate at the behavioral level and may lack explicit architectural mechanisms for enforcing reasoning process integrity.   This paper proposes the Box Maze framework, a conceptual process-control architecture that decomposes LLM reasoning into three explicit layers: memory grounding, structured inference, and b&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19182v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:41:18 +0000</pubDate>
     </item>
     <item>
-      <title>Pretrained Multilingual Transformers Reveal Quantitative Distance Between Human Languages</title>
-      <link>http://arxiv.org/abs/2603.17912v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yue Zhao, Jiatao Gu, Paloma Jeretič, Weijie Su&lt;/p&gt;&lt;p&gt;Understanding the distance between human languages is central to linguistics, anthropology, and tracing human evolutionary history. Yet, while linguistics has long provided rich qualitative accounts of cross-linguistic variation, a unified and scalable quantitative approach to measuring language distance remains lacking. In this paper, we introduce a method that leverages pretrained multilingual language models as systematic instruments for linguistic measurement&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17912v1</guid>
-      <pubDate>Wed, 18 Mar 2026 16:50:23 +0000</pubDate>
+      <title>OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards</title>
+      <link>http://arxiv.org/abs/2603.19191v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zehao Li, Zhenyu Wu, Yibo Zhao, Bowen Yang, Jingjing Xie, Zhaoyang Liu, Zhoumianze Liu, Kaiming Jin&lt;/p&gt;&lt;p&gt;Reinforcement Learning (RL) has the potential to improve the robustness of GUI agents in stochastic environments, yet training is highly sensitive to the quality of the reward function. Existing reward approaches struggle to achieve both scalability and performance. To address this, we propose OS-Themis, a scalable and accurate multi-agent critic framework&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19191v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:47:47 +0000</pubDate>
     </item>
     <item>
-      <title>IndicSafe: A Benchmark for Evaluating Multilingual LLM Safety in South Asia</title>
-      <link>http://arxiv.org/abs/2603.17915v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Priyaranjan Pattnayak, Sanchari Chowdhuri&lt;/p&gt;&lt;p&gt;As large language models (LLMs) are deployed in multilingual settings, their safety behavior in culturally diverse, low-resource languages remains poorly understood. We present the first systematic evaluation of LLM safety across 12 Indic languages, spoken by over 1.2 billion people but underrepresented in LLM training data. Using a dataset of 6,000 culturally grounded prompts spanning caste, religion, gender, health, and politics, we assess 10 leading LLMs on translated variants of the prompt&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17915v1</guid>
-      <pubDate>Wed, 18 Mar 2026 16:54:07 +0000</pubDate>
+      <title>The Exponentially Weighted Signature</title>
+      <link>http://arxiv.org/abs/2603.19198v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexandre Bloch, Samuel N. Cohen, Terry Lyons, Joël Mouterde, Benjamin Walker&lt;/p&gt;&lt;p&gt;The signature is a canonical representation of a multidimensional path over an interval. However, it treats all historical information uniformly, offering no intrinsic mechanism for contextualising the relevance of the past. To address this, we introduce the Exponentially Weighted Signature (EWS), generalising the Exponentially Fading Memory (EFM) signature from diagonal to general bounded linear operators&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19198v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:51:20 +0000</pubDate>
     </item>
     <item>
-      <title>CARE: Covariance-Aware and Rank-Enhanced Decomposition for Enabling Multi-Head Latent Attention</title>
-      <link>http://arxiv.org/abs/2603.17946v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhongzhu Zhou, Fengxiang Bie, Ziyan Chen, Zhenyu Zhang, Yibo Yang, Junxiong Wang, Ben Athiwaratkun, Xiaoxia Wu&lt;/p&gt;&lt;p&gt;Converting pretrained attention modules such as grouped-query attention (GQA) into multi-head latent attention (MLA) can improve expressivity without increasing KV-cache cost, making it attractive for efficient inference. However, many practical conversion baselines rely on weight-only low-rank approximations (e.g., SVD-style initializations) and uniform rank allocation. They focus on minimizing the difference between weight matrices rather than on how those weights affect input activations, ignore the covariance structure of activations, and enforce uniform rank across layers, causing activat&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17946v1</guid>
-      <pubDate>Wed, 18 Mar 2026 17:18:35 +0000</pubDate>
+      <title>$R$-equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence</title>
+      <link>http://arxiv.org/abs/2603.19215v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dimitri Kanevsky, Julian Salazar, Matt Harvey&lt;/p&gt;&lt;p&gt;Let $V$ be a smooth cubic surface over a $p$-adic field $k$ with good reduction. Swinnerton-Dyer (1981) proved that $R$-equivalence is trivial on $V(k)$ except perhaps if $V$ is one of three special types--those whose $R$-equivalence he could not bound by proving the universal (admissible) equivalence is trivial. We consider all surfaces $V$ currently known to have non-trivial universal equivalence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19215v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:57:38 +0000</pubDate>
     </item>
     <item>
-      <title>VideoAtlas: Navigating Long-Form Video in Logarithmic Compute</title>
-      <link>http://arxiv.org/abs/2603.17948v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohamed Eltahir, Ali Habibullah, Yazan Alshoibi, Lama Ayash, Tanveer Hussain, Naeemullah Khan&lt;/p&gt;&lt;p&gt;Extending language models to video introduces two challenges: representation, where existing methods rely on lossy approximations, and long-context, where caption- or agent-based pipelines collapse video into text and lose visual fidelity. To overcome this, we introduce \textbf{VideoAtlas}, a task-agnostic environment to represent video as a hierarchical grid that is simultaneously lossless, navigable, scalable, caption- and preprocessing-free. An overview of the video is available at a glance, and any region can be recursively zoomed into, with the same visual representation used uniformly fo&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17948v1</guid>
-      <pubDate>Wed, 18 Mar 2026 17:20:19 +0000</pubDate>
+      <title>DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising</title>
+      <link>http://arxiv.org/abs/2603.19216v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tianjiao Yu, Xinzhuo Li, Muntasir Wahed, Jerry Xiong, Yifan Shen, Ying Shen, Ismini Lourentzou&lt;/p&gt;&lt;p&gt;Understanding and generating 3D objects as compositions of meaningful parts is fundamental to human perception and reasoning. However, most text-to-3D methods overlook the semantic and functional structure of parts. While recent part-aware approaches introduce decomposition, they remain largely geometry-focused, lacking semantic grounding and failing to model how parts align with textual descriptions or their inter-part relations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19216v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:58:11 +0000</pubDate>
     </item>
     <item>
-      <title>Specification-Aware Distribution Shaping for Robotics Foundation Models</title>
-      <link>http://arxiv.org/abs/2603.17969v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sadık Bera Yüksel, Derya Aksaray&lt;/p&gt;&lt;p&gt;Robotics foundation models have demonstrated strong capabilities in executing natural language instructions across diverse tasks and environments. However, they remain largely data-driven and lack formal guarantees on safety and satisfaction of time-dependent specifications during deployment. In practice, robots often need to comply with operational constraints involving rich spatio-temporal requirements such as time-bounded goal visits, sequential objectives, and persistent safety conditions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17969v1</guid>
-      <pubDate>Wed, 18 Mar 2026 17:36:46 +0000</pubDate>
+      <title>Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation</title>
+      <link>http://arxiv.org/abs/2603.19220v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhuolin Yang, Zihan Liu, Yang Chen, Wenliang Dai, Boxin Wang, Sheng-Chieh Lin, Chankyu Lee, Yangyi Chen&lt;/p&gt;&lt;p&gt;We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models. It is the second open-weight LLM, after DeepSeekV3.2-Speciale-671B-A37B, to achieve Gold Medal-level performance in the 2025 International Mathematical Olympiad (IMO), the International Olympiad in Informatics (IOI), and the ICPC World Finals, demonstrating remarkably high intelligence density with 20x fewer parameters&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19220v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:58:52 +0000</pubDate>
     </item>
     <item>
-      <title>TDAD: Test-Driven Agentic Development - Reducing Code Regressions in AI Coding Agents via Graph-Based Impact Analysis</title>
-      <link>http://arxiv.org/abs/2603.17973v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pepe Alonso&lt;/p&gt;&lt;p&gt;AI coding agents can resolve real-world software issues, yet they frequently introduce regressions, breaking tests that previously passed. Current benchmarks focus almost exclusively on resolution rate, leaving regression behavior under-studied. This paper presents TDAD (Test-Driven Agentic Development), an open-source tool and benchmark methodology that combines abstract-syntax-tree (AST) based code-test graph construction with weighted impact analysis to surface the tests most likely affected by a proposed change&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.17973v1</guid>
-      <pubDate>Wed, 18 Mar 2026 17:38:22 +0000</pubDate>
+      <title>F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World</title>
+      <link>http://arxiv.org/abs/2603.19223v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziyin Zhang, Zihan Liao, Hang Yu, Peng Di, Rui Wang&lt;/p&gt;&lt;p&gt;We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available high-quality data samples, F2LLM-v2 supports more than 200 languages, with a particular emphasis on previously underserved mid- and low-resource languages. By integrating a two-stage LLM-based embedding training pipeline with matryoshka learning, model pruning, and knowledge distillation techniques, we present models that are far more efficient than previous LLM-based embedding models while retaini&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19223v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:59:21 +0000</pubDate>
     </item>
     <item>
-      <title>Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models</title>
-      <link>http://arxiv.org/abs/2603.18002v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kevin Qu, Haozhe Qi, Mihai Dusmanu, Mahdi Rad, Rui Wang, Marc Pollefeys&lt;/p&gt;&lt;p&gt;Multimodal Large Language Models (MLLMs) have made impressive progress in connecting vision and language, but they still struggle with spatial understanding and viewpoint-aware reasoning. Recent efforts aim to augment the input representations with geometric cues rather than explicitly teaching models to reason in 3D space. We introduce Loc3R-VLM, a framework that equips 2D Vision-Language Models with advanced 3D understanding capabilities from monocular video input&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.18002v1</guid>
-      <pubDate>Wed, 18 Mar 2026 17:59:10 +0000</pubDate>
+      <title>FinTradeBench: A Financial Reasoning Benchmark for LLMs</title>
+      <link>http://arxiv.org/abs/2603.19225v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yogesh Agrawal, Aniruddha Dutta, Md Mahadi Hasan, Santu Karmaker, Aritra Dutta&lt;/p&gt;&lt;p&gt;Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals computed from price dynamics. Recently, with the advancement of Large Language Models (LLMs), financial analysts have begun to use them for financial decision-making tasks. However, existing financial question answering benchmarks for testing these models primarily focus on company balance sheet data and rarely evaluate reasoning over how company stocks trade in the market or their interactions with &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19225v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:59:41 +0000</pubDate>
     </item>
     <item>
-      <title>Unified Spatio-Temporal Token Scoring for Efficient Video VLMs</title>
-      <link>http://arxiv.org/abs/2603.18004v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jianrui Zhang, Yue Yang, Rohun Tripathi, Winson Han, Ranjay Krishna, Christopher Clark, Yong Jae Lee, Sangho Lee&lt;/p&gt;&lt;p&gt;Token pruning is essential for enhancing the computational efficiency of vision-language models (VLMs), particularly for video-based tasks where temporal redundancy is prevalent. Prior approaches typically prune tokens either (1) within the vision transformer (ViT) exclusively for unimodal perception tasks such as action recognition and object segmentation, without adapting to downstream vision-language tasks; or (2) only within the LLM while leaving the ViT output intact, often requiring complex text-conditioned token selection mechanisms. In this paper, we introduce Spatio-Temporal Token Sco&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.18004v1</guid>
-      <pubDate>Wed, 18 Mar 2026 17:59:56 +0000</pubDate>
+      <title>NavTrust: Benchmarking Trustworthiness for Embodied Navigation</title>
+      <link>http://arxiv.org/abs/2603.19229v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Huaide Jiang, Yash Chaudhary, Yuping Wang, Zehao Wang, Raghav Sharma, Manan Mehta, Yang Zhou, Lichao Sun&lt;/p&gt;&lt;p&gt;There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agents navigate to a specified target object. However, existing work primarily evaluates model performance under nominal conditions, overlooking the potential corruptions that arise in real-world settings. To address this gap, we present NavTrust, a unified benchmark that systematically corrupts input modalities, including RGB, depth, and instructions, in realistic scenarios and evaluates their impact &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.19229v1</guid>
+      <pubDate>Thu, 19 Mar 2026 17:59:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
