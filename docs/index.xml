@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Mar 2026 04:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 04:22:35 +0000</lastBuildDate>
     <item>
-      <title>Multimodal Survival Analysis with Locally Deployable Large Language Models</title>
-      <link>http://arxiv.org/abs/2603.22158v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Moritz Gögl, Christopher Yau&lt;/p&gt;&lt;p&gt;We study multimodal survival analysis integrating clinical text, tabular covariates, and genomic profiles using locally deployable large language models (LLMs). As many institutions face tight computational and privacy constraints, this setting motivates the use of lightweight, on-premises models. Our approach jointly estimates calibrated survival probabilities and generates concise, evidence-grounded prognosis text via teacher-student distillation and principled multimodal fusion&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22158v1</guid>
-      <pubDate>Mon, 23 Mar 2026 16:21:37 +0000</pubDate>
+      <title>WISTERIA: Weak Implicit Signal-based Temporal Relation Extraction with Attention</title>
+      <link>http://arxiv.org/abs/2603.23319v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Duy Dao Do, Anaïs Halftermeyer, Thi-Bich-Hanh Dao&lt;/p&gt;&lt;p&gt;Temporal Relation Extraction (TRE) requires identifying how two events or temporal expressions are related in time. Existing attention-based models often highlight globally salient tokens but overlook the pair-specific cues that actually determine the temporal relation. We propose WISTERIA (Weak Implicit Signal-based Temporal Relation Extraction with Attention), a framework that examines whether the top-K attention components conditioned on each event pair truly encode interpretable evidence for temporal classification&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23319v1</guid>
+      <pubDate>Tue, 24 Mar 2026 15:20:54 +0000</pubDate>
     </item>
     <item>
-      <title>MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management</title>
-      <link>http://arxiv.org/abs/2603.22179v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jack W O'Sullivan, Mohammad Asadi, Lennart Elbe, Akshay Chaudhari, Tahoura Nedaee, Francois Haddad, Michael Salerno, Li Fe-Fei&lt;/p&gt;&lt;p&gt;Cardiovascular disease remains the leading cause of global mortality, with progress hindered by human interpretation of complex cardiac tests. Current AI vision-language models are limited to single-modality inputs and are non-interactive. We present MARCUS (Multimodal Autonomous Reasoning and Chat for Ultrasound and Signals), an agentic vision-language system for end-to-end interpretation of electrocardiograms (ECGs), echocardiograms, and cardiac magnetic resonance imaging (CMR) independently and as multimodal input&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22179v1</guid>
-      <pubDate>Mon, 23 Mar 2026 16:42:11 +0000</pubDate>
+      <title>Leveraging LLMs and Social Media to Understand User Perception of Smartphone-Based Earthquake Early Warnings</title>
+      <link>http://arxiv.org/abs/2603.23322v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hanjing Wang, S. Mostafa Mousavi, Patrick Robertson, Richard M. Allen, Alexie Barski, Robert Bosch, Nivetha Thiruverahan, Youngmin Cho&lt;/p&gt;&lt;p&gt;Android's Earthquake Alert (AEA) system provided timely early warnings to millions during the Mw 6.2 Marmara Ereglisi, Türkiye earthquake on April 23, 2025. This event, the largest in the region in 25 years, served as a critical real-world test for smartphone-based Earthquake Early Warning (EEW) systems. The AEA system successfully delivered alerts to users with high precision, offering over a minute of warning before the strongest shaking reached urban areas&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23322v1</guid>
+      <pubDate>Tue, 24 Mar 2026 15:24:33 +0000</pubDate>
     </item>
     <item>
-      <title>Enhancing Document-Level Machine Translation via Filtered Synthetic Corpora and Two-Stage LLM Adaptation</title>
-      <link>http://arxiv.org/abs/2603.22186v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ireh Kim, Tesia Sker, Chanwoo Kim&lt;/p&gt;&lt;p&gt;In Machine Translation, Large Language Models (LLMs) have generally underperformed compared to conventional encoder-decoder systems and thus see limited adoption. However, LLMs excel at modeling contextual information, making them a natural fit for document-level translation tasks where coherence across sentences is crucial. Despite this potential, document-level MT with LLMs faces two key challenges: (1) the scarcity of large-scale, high-quality document-level parallel data; and (2) the propensity of LLMs to introduce hallucinations and omissions during generation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22186v1</guid>
-      <pubDate>Mon, 23 Mar 2026 16:48:22 +0000</pubDate>
+      <title>RelayS2S: A Dual-Path Speculative Generation for Real-Time Dialogue</title>
+      <link>http://arxiv.org/abs/2603.23346v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Long Mai&lt;/p&gt;&lt;p&gt;Real-time spoken dialogue systems face a fundamental tension between latency and response quality. End-to-end speech-to-speech (S2S) models respond immediately and naturally handle turn-taking, backchanneling, and interruption, but produce semantically weaker outputs. Cascaded pipelines (ASR -&gt; LLM) deliver stronger responses at the cost of latency that grows with model size&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23346v1</guid>
+      <pubDate>Tue, 24 Mar 2026 15:43:58 +0000</pubDate>
     </item>
     <item>
-      <title>Seeing is Improving: Visual Feedback for Iterative Text Layout Refinement</title>
-      <link>http://arxiv.org/abs/2603.22187v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junrong Guo, Shancheng Fang, Yadong Qu, Hongtao Xie&lt;/p&gt;&lt;p&gt;Recent advances in Multimodal Large Language Models (MLLMs) have enabled automated generation of structured layouts from natural language descriptions. Existing methods typically follow a code-only paradigm that generates code to represent layouts, which are then rendered by graphic engines to produce final images. However, they are blind to the rendered visual outcome, making it difficult to guarantee readability and aesthetics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22187v1</guid>
-      <pubDate>Mon, 23 Mar 2026 16:48:39 +0000</pubDate>
+      <title>Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors</title>
+      <link>http://arxiv.org/abs/2603.23356v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Max Marriott-Clarke, Lazar Novakovic, Elizabeth Ratzer, Robert J. Bainbridge, Loukas Gouskos, Benedikt Maier&lt;/p&gt;&lt;p&gt;We propose a novel clustering approach for point-cloud segmentation based on supervised contrastive metric learning (CML). Rather than predicting cluster assignments or object-centric variables, the method learns a latent representation in which points belonging to the same object are embedded nearby while unrelated points are separated. Clusters are then reconstructed using a density-based readout in the learned metric space, decoupling representation learning from cluster formation and enabling flexible inference&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23356v1</guid>
+      <pubDate>Tue, 24 Mar 2026 15:55:36 +0000</pubDate>
     </item>
     <item>
-      <title>CayleyPy-4: AI-Holography. Towards analogs of holographic string dualities for AI tasks</title>
-      <link>http://arxiv.org/abs/2603.22195v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; A. Chervov, F. Levkovich-Maslyuk, A. Smolensky, F. Khafizov, I. Kiselev, D. Melnikov, I. Koltsov, S. Kudashev&lt;/p&gt;&lt;p&gt;This is the fourth paper in the CayleyPy project, which applies AI methods to the exploration of large graphs. In this work, we suggest the existence of a new discrete version of holographic string dualities for this setup, and discuss their relevance to AI systems and mathematics. Many modern AI tasks -- such as those addressed by GPT-style language models or RL systems -- can be viewed as direct analogues of predicting particle trajectories on graphs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22195v1</guid>
-      <pubDate>Mon, 23 Mar 2026 16:54:44 +0000</pubDate>
+      <title>Kinetic Langevin Splitting Schemes for Constrained Sampling</title>
+      <link>http://arxiv.org/abs/2603.23397v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Neil K. Chada, Lu Yu&lt;/p&gt;&lt;p&gt;Constrained sampling is an important and challenging task in computational statistics, concerned with generating samples from a distribution under certain constraints. There are numerous types of algorithm aimed at this task, ranging from general Markov chain Monte Carlo, to unadjusted Langevin methods. In this article we propose a series of new sampling algorithms based on the latter of these, specifically the kinetic Langevin dynamics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23397v1</guid>
+      <pubDate>Tue, 24 Mar 2026 16:34:38 +0000</pubDate>
     </item>
     <item>
-      <title>Identification of physiological shock in intensive care units via Bayesian regime switching models</title>
-      <link>http://arxiv.org/abs/2603.22208v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Emmett B. Kendall, Jonathan P. Williams, Curtis B. Storlie, Misty A. Radosevich, Erica D. Wittwer, Matthew A. Warner&lt;/p&gt;&lt;p&gt;Detection of occult hemorrhage (i.e., internal bleeding) in patients in intensive care units (ICUs) can pose significant challenges for critical care workers. Because blood loss may not always be clinically apparent, clinicians rely on monitoring vital signs for specific trends indicative of a hemorrhage event. The inherent difficulties of diagnosing such an event can lead to late intervention by clinicians which has catastrophic consequences&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22208v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:03:07 +0000</pubDate>
+      <title>Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation</title>
+      <link>http://arxiv.org/abs/2603.23398v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Michal Balcerak, Suprosana Shit, Chinmay Prabhakar, Sebastian Kaltenbach, Michael S. Albergo, Yilun Du, Bjoern Menze&lt;/p&gt;&lt;p&gt;Energy-based models for discrete domains, such as graphs, explicitly capture relative likelihoods, naturally enabling composable probabilistic inference tasks like conditional generation or enforcing constraints at test-time. However, discrete energy-based models typically struggle with efficient and high-quality sampling, as off-support regions often contain spurious local minima, trapping samplers and causing training instabilities. This has historically resulted in a fidelity gap relative to discrete diffusion models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23398v1</guid>
+      <pubDate>Tue, 24 Mar 2026 16:35:25 +0000</pubDate>
     </item>
     <item>
-      <title>SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection</title>
-      <link>http://arxiv.org/abs/2603.22213v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kexian Tang, Jiani Wang, Shaowen Wang, Kaifeng Lyu&lt;/p&gt;&lt;p&gt;While large language models (LLMs) are pretrained on massive amounts of data, their knowledge coverage remains incomplete in specialized, data-scarce domains, motivating extensive efforts to study synthetic data generation for knowledge injection. We propose SPA (Scaling Prompt-engineered Augmentation), a simple but tough-to-beat baseline that uses a small set of carefully designed prompts to generate large-scale synthetic data for knowledge injection. Through systematic comparisons, we find that SPA outperforms several strong baselines&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22213v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:11:43 +0000</pubDate>
+      <title>Beyond Preset Identities: How Agents Form Stances and Boundaries in Generative Societies</title>
+      <link>http://arxiv.org/abs/2603.23406v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hanzhong Zhang, Siyang Song, Jindong Wang&lt;/p&gt;&lt;p&gt;While large language models simulate social behaviors, their capacity for stable stance formation and identity negotiation during complex interventions remains unclear. To overcome the limitations of static evaluations, this paper proposes a novel mixed-methods framework combining computational virtual ethnography with quantitative socio-cognitive profiling. By embedding human researchers into generative multiagent communities, controlled discursive interventions are conducted to trace the evolution of collective cognition&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23406v1</guid>
+      <pubDate>Tue, 24 Mar 2026 16:38:46 +0000</pubDate>
     </item>
     <item>
-      <title>Evaluating the Reliability and Fidelity of Automated Judgment Systems of Large Language Models</title>
-      <link>http://arxiv.org/abs/2603.22214v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tom Biskupski, Stephan Kleber&lt;/p&gt;&lt;p&gt;A Large Language Model (LLM) as judge evaluates the quality of victim Machine Learning (ML) models, specifically LLMs, by analyzing their outputs. An LLM as judge is the combination of one model and one specifically engineered judge prompt that contains the criteria for the analysis. The resulting automation of the analysis scales up the complex evaluation of the victim models' free-form text outputs by faster and more consistent judgments compared to human reviewers&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22214v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:12:29 +0000</pubDate>
+      <title>SortedRL: Accelerating RL Training for LLMs through Online Length-Aware Scheduling</title>
+      <link>http://arxiv.org/abs/2603.23414v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yiqi Zhang, Huiqiang Jiang, Xufang Luo, Zhihe Yang, Chengruidong Zhang, Yifei Shen, Dongsheng Li, Yuqing Yang&lt;/p&gt;&lt;p&gt;Scaling reinforcement learning (RL) has shown strong promise for enhancing the reasoning abilities of large language models (LLMs), particularly in tasks requiring long chain-of-thought generation. However, RL training efficiency is often bottlenecked by the rollout phase, which can account for up to 70% of total training time when generating long trajectories (e.g., 16k tokens), due to slow autoregressive generation and synchronization overhead between rollout and policy updates. We propose SortedRL, an online length-aware scheduling strategy designed to address this bottleneck by improving r&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23414v1</guid>
+      <pubDate>Tue, 24 Mar 2026 16:48:31 +0000</pubDate>
     </item>
     <item>
-      <title>Noise Titration: Exact Distributional Benchmarking for Probabilistic Time Series Forecasting</title>
-      <link>http://arxiv.org/abs/2603.22219v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Qilin Wang&lt;/p&gt;&lt;p&gt;Modern time series forecasting is evaluated almost entirely through passive observation of single historical trajectories, rendering claims about a model's robustness to non-stationarity fundamentally unfalsifiable. We propose a paradigm shift toward interventionist, exact-statistical benchmarking. By systematically titrating calibrated Gaussian observation noise into known chaotic and stochastic dynamical systems, we transform forecasting from a black-box sequence matching game into an exact distributional inference task&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22219v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:14:11 +0000</pubDate>
+      <title>Biased Error Attribution in Multi-Agent Human-AI Systems Under Delayed Feedback</title>
+      <link>http://arxiv.org/abs/2603.23419v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Teerthaa Parakh, Karen M. Feigh&lt;/p&gt;&lt;p&gt;Human decision-making is strongly influenced by cognitive biases, particularly under conditions of uncertainty and risk. While prior work has examined bias in single-step decisions with immediate outcomes and in human interaction with a single autonomous agent, comparatively little attention has been paid to decision-making under delayed outcomes involving multiple AI agents, where decisions at each step affect subsequent states. In this work, we study how delayed outcomes shape decision-making and responsibility attribution in a multi-agent human-AI task&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23419v1</guid>
+      <pubDate>Tue, 24 Mar 2026 16:52:14 +0000</pubDate>
     </item>
     <item>
-      <title>Dyadic: A Scalable Platform for Human-Human and Human-AI Conversation Research</title>
-      <link>http://arxiv.org/abs/2603.22227v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; David M. Markowitz&lt;/p&gt;&lt;p&gt;Conversation is ubiquitous in social life, but the empirical study of this interactive process has been thwarted by tools that are insufficiently modular and unadaptive to researcher needs. To relieve many constraints in conversation research, the current tutorial presents an overview and introduction to a new tool, Dyadic (https://www.chatdyadic.com/), a web-based platform for studying human-human and human-AI conversations using text-based or voice-based chats. Dyadic is distinct from other platforms by offering studies with multiple modalities, AI suggestions (e.g., in human-human studies, &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22227v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:25:45 +0000</pubDate>
+      <title>Bilevel Autoresearch: Meta-Autoresearching Itself</title>
+      <link>http://arxiv.org/abs/2603.23420v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yaonan Qu, Meng Lu&lt;/p&gt;&lt;p&gt;If autoresearch is itself a form of research, then autoresearch can be applied to research itself. We take this idea literally: we use an autoresearch loop to optimize the autoresearch loop. Every existing autoresearch system -- from Karpathy's single-track loop to AutoResearchClaw's multi-batch extension and EvoScientist's persistent memory -- was improved by a human who read the code, identified a bottleneck, and wrote new code&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23420v1</guid>
+      <pubDate>Tue, 24 Mar 2026 16:52:25 +0000</pubDate>
     </item>
     <item>
-      <title>SpatialReward: Verifiable Spatial Reward Modeling for Fine-Grained Spatial Consistency in Text-to-Image Generation</title>
-      <link>http://arxiv.org/abs/2603.22228v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sashuai Zhou, Qiang Zhou, Junpeng Ma, Yue Cao, Ruofan Hu, Ziang Zhang, Xiaoda Yang, Zhibin Wang&lt;/p&gt;&lt;p&gt;Recent advances in text-to-image (T2I) generation via reinforcement learning (RL) have benefited from reward models that assess semantic alignment and visual quality. However, most existing reward models pay limited attention to fine-grained spatial relationships, often producing images that appear plausible overall yet contain inaccuracies in object positioning. In this work, we present \textbf{SpatialReward}, a verifiable reward model explicitly designed to evaluate spatial layouts in generated images&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22228v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:26:35 +0000</pubDate>
+      <title>Mecha-nudges for Machines</title>
+      <link>http://arxiv.org/abs/2603.23433v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Giulio Frey, Kawin Ethayarajh&lt;/p&gt;&lt;p&gt;Nudges are subtle changes to the way choices are presented to human decision-makers (e.g., opt-in vs. opt-out by default) that shift behavior without restricting options or changing incentives. As AI agents increasingly make decisions in the same environments as humans, the presentation of choices may be optimized for machines as well as people&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23433v1</guid>
+      <pubDate>Tue, 24 Mar 2026 17:02:21 +0000</pubDate>
     </item>
     <item>
-      <title>One Model, Two Markets: Bid-Aware Generative Recommendation</title>
-      <link>http://arxiv.org/abs/2603.22231v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yanchen Jiang, Zhe Feng, Christopher P. Mah, Aranyak Mehta, Di Wang&lt;/p&gt;&lt;p&gt;Generative Recommender Systems using semantic ids, such as TIGER (Rajput et al., 2023), have emerged as a widely adopted competitive paradigm in sequential recommendation. However, existing architectures are designed solely for semantic retrieval and do not address concerns such as monetization via ad revenue and incorporation of bids for commercial retrieval. We propose GEM-Rec, a unified framework that integrates commercial relevance and monetization objectives directly into the generative sequence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22231v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:27:59 +0000</pubDate>
+      <title>Evaluating LLM-Based Test Generation Under Software Evolution</title>
+      <link>http://arxiv.org/abs/2603.23443v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sabaat Haroon, Mohammad Taha Khan, Muhammad Ali Gulzar&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) are increasingly used for automated unit test generation. However, it remains unclear whether these tests reflect genuine reasoning about program behavior or simply reproduce superficial patterns learned during training. If the latter dominates, LLM-generated tests may exhibit weaknesses such as reduced coverage, missed regressions, and undetected faults&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23443v1</guid>
+      <pubDate>Tue, 24 Mar 2026 17:14:18 +0000</pubDate>
     </item>
     <item>
-      <title>Confidence-Based Decoding is Provably Efficient for Diffusion Language Models</title>
-      <link>http://arxiv.org/abs/2603.22248v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Changxiao Cai, Gen Li&lt;/p&gt;&lt;p&gt;Diffusion language models (DLMs) have emerged as a promising alternative to autoregressive (AR) models for language modeling, allowing flexible generation order and parallel generation of multiple tokens. However, this flexibility introduces a challenge absent in AR models: the \emph{decoding strategy} -- which determines the order and number of tokens generated at each iteration -- critically affects sampling efficiency. Among decoding strategies explored in practice, confidence-based methods, which adaptively select which and how many tokens to unmask based on prediction confidence, have sho&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22248v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:43:21 +0000</pubDate>
+      <title>3DCity-LLM: Empowering Multi-modality Large Language Models for 3D City-scale Perception and Understanding</title>
+      <link>http://arxiv.org/abs/2603.23447v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yiping Chen, Jinpeng Li, Wenyu Ke, Yang Luo, Jie Ouyang, Zhongjie He, Li Liu, Hongchao Fan&lt;/p&gt;&lt;p&gt;While multi-modality large language models excel in object-centric or indoor scenarios, scaling them to 3D city-scale environments remains a formidable challenge. To bridge this gap, we propose 3DCity-LLM, a unified framework designed for 3D city-scale vision-language perception and understanding. 3DCity-LLM employs a coarse-to-fine feature encoding strategy comprising three parallel branches for target object, inter-object relationship, and global scene&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23447v1</guid>
+      <pubDate>Tue, 24 Mar 2026 17:18:44 +0000</pubDate>
     </item>
     <item>
-      <title>TiCo: Time-Controllable Training for Spoken Dialogue Models</title>
-      <link>http://arxiv.org/abs/2603.22267v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kai-Wei Chang, Wei-Chih Chen, En-Pei Hu, Hung-yi Lee, James Glass&lt;/p&gt;&lt;p&gt;We propose TiCo, a simple post-training method for enabling spoken dialogue models (SDMs) to follow time-constrained instructions and generate responses with controllable duration. This capability is valuable for real-world spoken language systems such as voice assistants and interactive agents, where controlling response duration can improve interaction quality. However, despite their strong ability to generate natural spoken responses, existing models lack time awareness and struggle to follow duration-related instructions (e.g., "Please generate a response lasting about 15 seconds")&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22267v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:51:40 +0000</pubDate>
+      <title>Code Review Agent Benchmark</title>
+      <link>http://arxiv.org/abs/2603.23448v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuntong Zhang, Zhiyuan Pan, Imam Nur Bani Yusuf, Haifeng Ruan, Ridwan Shariffdeen, Abhik Roychoudhury&lt;/p&gt;&lt;p&gt;Software engineering agents have shown significant promise in writing code. As AI agents permeate code writing, and generate huge volumes of code automatically -- the matter of code quality comes front and centre. As the automatically generated code gets integrated into huge code-bases -- the issue of code review and broadly quality assurance becomes important&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23448v1</guid>
+      <pubDate>Tue, 24 Mar 2026 17:19:32 +0000</pubDate>
     </item>
     <item>
-      <title>Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels</title>
-      <link>http://arxiv.org/abs/2603.22276v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexandra Zelenin, Alexandra Zhuravlyova&lt;/p&gt;&lt;p&gt;Weight-Decomposed Low-Rank Adaptation (DoRA) extends LoRA by decoupling weight magnitude from direction, but its forward pass requires the row-wise norm of W + sBA, a computation that every major framework we surveyed implements by materializing the dense [d_out, d_in] product BA. At d_in = 8192 and rank r = 384, a single module's norm requires about 512 MB of transient working memory in bf16, making high-rank DoRA costly and often infeasible on common single-GPU setups once hundreds of adapted modules and checkpointing are involved.   We present two systems contributions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22276v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:57:24 +0000</pubDate>
+      <title>InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting</title>
+      <link>http://arxiv.org/abs/2603.23463v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Duc Vu, Kien Nguyen, Trong-Tung Nguyen, Ngan Nguyen, Phong Nguyen, Khoi Nguyen, Cuong Pham, Anh Tran&lt;/p&gt;&lt;p&gt;Recent diffusion-based models achieve photorealism in image inpainting but require many sampling steps, limiting practical use. Few-step text-to-image models offer faster generation, but naively applying them to inpainting yields poor harmonization and artifacts between the background and inpainted region. We trace this cause to random Gaussian noise initialization, which under low function evaluations causes semantic misalignment and reduced fidelity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23463v1</guid>
+      <pubDate>Tue, 24 Mar 2026 17:32:55 +0000</pubDate>
     </item>
     <item>
-      <title>3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing</title>
-      <link>http://arxiv.org/abs/2603.22279v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haoyu Zhen, Xiaolong Li, Yilin Zhao, Han Zhang, Sifei Liu, Kaichun Mo, Chuang Gan, Subhashree Radhakrishnan&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) and Vision Language Models (VLMs) have shown impressive reasoning abilities, yet they struggle with spatial understanding and layout consistency when performing fine-grained visual editing. We introduce a Structured Reasoning framework that performs text-conditioned spatial layout editing via scene-graph reasoning. Given an input scene graph and a natural-language instruction, the model reasons over the graph to generate an updated scene graph that satisfies the text condition while maintaining spatial coherence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22279v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:59:14 +0000</pubDate>
+      <title>VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs</title>
+      <link>http://arxiv.org/abs/2603.23481v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haoran Yuan, Weigang Yi, Zhenyu Zhang, Wendi Chen, Yuchen Mo, Jiashi Yin, Xinzhuo Li, Xiangyu Zeng&lt;/p&gt;&lt;p&gt;Video-Action Models (VAMs) have emerged as a promising framework for embodied intelligence, learning implicit world dynamics from raw video streams to produce temporally consistent action predictions. Although such models demonstrate strong performance on long-horizon tasks through visual reasoning, they remain limited in contact-rich scenarios where critical interaction states are only partially observable from vision alone. In particular, fine-grained force modulation and contact transitions are not reliably encoded in visual tokens, leading to unstable or imprecise behaviors&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23481v1</guid>
+      <pubDate>Tue, 24 Mar 2026 17:45:06 +0000</pubDate>
     </item>
     <item>
-      <title>ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model</title>
-      <link>http://arxiv.org/abs/2603.22281v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haichao Zhang, Yijiang Li, Shwai He, Tushar Nagarajan, Mingfei Chen, Jianglin Lu, Ang Li, Yun Fu&lt;/p&gt;&lt;p&gt;Recent progress in latent world models (e.g., V-JEPA2) has shown promising capability in forecasting future world states from video observations. Nevertheless, dense prediction from a short observation window limits temporal context and can bias predictors toward local, low-level extrapolation, making it difficult to capture long-horizon semantics and reducing downstream utility. Vision--language models (VLMs), in contrast, provide strong semantic grounding and general knowledge by reasoning over uniformly sampled frames, but they are not ideal as standalone dense predictors due to compute-dri&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22281v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:59:42 +0000</pubDate>
+      <title>ReqFusion: A Multi-Provider Framework for Automated PEGS Analysis Across Software Domains</title>
+      <link>http://arxiv.org/abs/2603.23482v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Muhammad Khalid, Manuel Oriol, Yilmaz Uygun&lt;/p&gt;&lt;p&gt;Requirements engineering is a vital, yet labor-intensive, stage in the software development process. This article introduces ReqFusion: an AI-enhanced system that automates the extraction, classification, and analysis of software requirements utilizing multiple Large Language Model (LLM) providers. The architecture of ReqFusion integrates OpenAI GPT, Anthropic Claude, and Groq models to extract functional and non-functional requirements from various documentation formats (PDF, DOCX, and PPTX) in academic, industrial, and tender proposal contexts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23482v1</guid>
+      <pubDate>Tue, 24 Mar 2026 17:45:40 +0000</pubDate>
     </item>
     <item>
-      <title>UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation</title>
-      <link>http://arxiv.org/abs/2603.22282v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziyi Wang, Xinshun Wang, Shuang Chen, Yang Cong, Mengyuan Liu&lt;/p&gt;&lt;p&gt;We present UniMotion, to our knowledge the first unified framework for simultaneous understanding and generation of human motion, natural language, and RGB images within a single architecture. Existing unified models handle only restricted modality subsets (e.g., Motion-Text or static Pose-Image) and predominantly rely on discrete tokenization, which introduces quantization errors and disrupts temporal continuity. UniMotion overcomes both limitations through a core principle: treating motion as a first-class continuous modality on equal footing with RGB&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22282v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:59:48 +0000</pubDate>
+      <title>Failure of contextual invariance in gender inference with large language models</title>
+      <link>http://arxiv.org/abs/2603.23485v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sagar Kumar, Ariel Flint, Luca Maria Aiello, Andrea Baronchelli&lt;/p&gt;&lt;p&gt;Standard evaluation practices assume that large language model (LLM) outputs are stable under contextually equivalent formulations of a task. Here, we test this assumption in the setting of gender inference. Using a controlled pronoun selection task, we introduce minimal, theoretically uninformative discourse context and find that this induces large, systematic shifts in model outputs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23485v1</guid>
+      <pubDate>Tue, 24 Mar 2026 17:52:22 +0000</pubDate>
     </item>
     <item>
-      <title>End-to-End Training for Unified Tokenization and Latent Denoising</title>
-      <link>http://arxiv.org/abs/2603.22283v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shivam Duggal, Xingjian Bai, Zongze Wu, Richard Zhang, Eli Shechtman, Antonio Torralba, Phillip Isola, William T. Freeman&lt;/p&gt;&lt;p&gt;Latent diffusion models (LDMs) enable high-fidelity synthesis by operating in learned latent spaces. However, training state-of-the-art LDMs requires complex staging: a tokenizer must be trained first, before the diffusion model can be trained in the frozen latent space. We propose UNITE - an autoencoder architecture for unified tokenization and latent diffusion&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22283v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:59:49 +0000</pubDate>
+      <title>VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions</title>
+      <link>http://arxiv.org/abs/2603.23495v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Adrian Bulat, Alberto Baldrati, Ioannis Maniadis Metaxas, Yassine Ouali, Georgios Tzimiropoulos&lt;/p&gt;&lt;p&gt;Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bottleneck that impairs performance, especially on challenging tasks that require fine-grained understanding and reasoning. In this work, we challenge this paradigm by introducing VISion On Request (VISOR), a method that reduces inference cost without discarding visual information&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23495v1</guid>
+      <pubDate>Tue, 24 Mar 2026 17:58:17 +0000</pubDate>
     </item>
     <item>
-      <title>WorldCache: Content-Aware Caching for Accelerated Video World Models</title>
-      <link>http://arxiv.org/abs/2603.22286v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Umair Nawaz, Ahmed Heakl, Ufaq Khan, Abdelrahman Shaker, Salman Khan, Fahad Shahbaz Khan&lt;/p&gt;&lt;p&gt;Diffusion Transformers (DiTs) power high-fidelity video world models but remain computationally expensive due to sequential denoising and costly spatio-temporal attention. Training-free feature caching accelerates inference by reusing intermediate activations across denoising steps; however, existing methods largely rely on a Zero-Order Hold assumption i.e., reusing cached features as static snapshots when global drift is small. This often leads to ghosting artifacts, blur, and motion inconsistencies in dynamic scenes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.22286v1</guid>
-      <pubDate>Mon, 23 Mar 2026 17:59:54 +0000</pubDate>
+      <title>MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage</title>
+      <link>http://arxiv.org/abs/2603.23501v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ufaq Khan, Umair Nawaz, L D M S S Teja, Numaan Saeed, Muhammad Bilal, Yutong Xie, Mohammad Yaqub, Muhammad Haris Khan&lt;/p&gt;&lt;p&gt;Vision Language Models (VLMs) are increasingly used for tasks like medical report generation and visual question answering. However, fluent diagnostic text does not guarantee safe visual understanding. In clinical practice, interpretation begins with pre-diagnostic sanity checks: verifying that the input is valid to read (correct modality and anatomy, plausible viewpoint and orientation, and no obvious integrity violations)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.23501v1</guid>
+      <pubDate>Tue, 24 Mar 2026 17:59:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
