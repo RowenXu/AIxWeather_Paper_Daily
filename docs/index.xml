@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Mar 2026 04:22:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 04:34:12 +0000</lastBuildDate>
     <item>
-      <title>WISTERIA: Weak Implicit Signal-based Temporal Relation Extraction with Attention</title>
-      <link>http://arxiv.org/abs/2603.23319v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Duy Dao Do, Anaïs Halftermeyer, Thi-Bich-Hanh Dao&lt;/p&gt;&lt;p&gt;Temporal Relation Extraction (TRE) requires identifying how two events or temporal expressions are related in time. Existing attention-based models often highlight globally salient tokens but overlook the pair-specific cues that actually determine the temporal relation. We propose WISTERIA (Weak Implicit Signal-based Temporal Relation Extraction with Attention), a framework that examines whether the top-K attention components conditioned on each event pair truly encode interpretable evidence for temporal classification&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23319v1</guid>
-      <pubDate>Tue, 24 Mar 2026 15:20:54 +0000</pubDate>
+      <title>Multi-Agent Reasoning with Consistency Verification Improves Uncertainty Calibration in Medical MCQA</title>
+      <link>http://arxiv.org/abs/2603.24481v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; John Ray B. Martinez&lt;/p&gt;&lt;p&gt;Miscalibrated confidence scores are a practical obstacle to deploying AI in clinical settings. A model that is always overconfident offers no useful signal for deferral. We present a multi-agent framework that combines domain-specific specialist agents with Two-Phase Verification and S-Score Weighted Fusion to improve both calibration and discrimination in medical multiple-choice question answering&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24481v1</guid>
+      <pubDate>Wed, 25 Mar 2026 16:22:53 +0000</pubDate>
     </item>
     <item>
-      <title>Leveraging LLMs and Social Media to Understand User Perception of Smartphone-Based Earthquake Early Warnings</title>
-      <link>http://arxiv.org/abs/2603.23322v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hanjing Wang, S. Mostafa Mousavi, Patrick Robertson, Richard M. Allen, Alexie Barski, Robert Bosch, Nivetha Thiruverahan, Youngmin Cho&lt;/p&gt;&lt;p&gt;Android's Earthquake Alert (AEA) system provided timely early warnings to millions during the Mw 6.2 Marmara Ereglisi, Türkiye earthquake on April 23, 2025. This event, the largest in the region in 25 years, served as a critical real-world test for smartphone-based Earthquake Early Warning (EEW) systems. The AEA system successfully delivered alerts to users with high precision, offering over a minute of warning before the strongest shaking reached urban areas&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23322v1</guid>
-      <pubDate>Tue, 24 Mar 2026 15:24:33 +0000</pubDate>
+      <title>The forgotten role of wave dynamics in modulating the low cloud response to warm pool warming</title>
+      <link>http://arxiv.org/abs/2603.24488v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Cristian Proistosescu, Pappu Paul, Nicholas J. Lutsko, Andrew I. L. Williams, Malte F. Stuecker&lt;/p&gt;&lt;p&gt;The Pattern Effect describes the dependence of top-of-atmosphere radiation anomalies on changes in the pattern of sea surface temperatures. The emerging consensus in the field explains the impact of Pacific warm pool temperature on radiation using Convective Quasi-Equilibrium Weak Temperature Gradient (QE-WTG) theory: warm pool warming leads to increase in free-tropospheric temperatures across the tropics, a strengthening of inversion, increased cloud cover in the East Pacific low cloud decks, and negative radiative anomalies. Here we call on overlooked past results and new simulations from th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24488v1</guid>
+      <pubDate>Wed, 25 Mar 2026 16:29:48 +0000</pubDate>
     </item>
     <item>
-      <title>RelayS2S: A Dual-Path Speculative Generation for Real-Time Dialogue</title>
-      <link>http://arxiv.org/abs/2603.23346v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Long Mai&lt;/p&gt;&lt;p&gt;Real-time spoken dialogue systems face a fundamental tension between latency and response quality. End-to-end speech-to-speech (S2S) models respond immediately and naturally handle turn-taking, backchanneling, and interruption, but produce semantically weaker outputs. Cascaded pipelines (ASR -&gt; LLM) deliver stronger responses at the cost of latency that grows with model size&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23346v1</guid>
-      <pubDate>Tue, 24 Mar 2026 15:43:58 +0000</pubDate>
+      <title>Reflected diffusion models adapt to low-dimensional data</title>
+      <link>http://arxiv.org/abs/2603.24495v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Asbjørn Holk, Claudia Strauch, Lukas Trottner&lt;/p&gt;&lt;p&gt;While the mathematical foundations of score-based generative models are increasingly well understood for unconstrained Euclidean spaces, many practical applications involve data restricted to bounded domains. This paper provides a statistical analysis of reflected diffusion models on the hypercube $[0,1]^D$ for target distributions supported on $d$-dimensional linear subspaces. A primary challenge in this setting is the absence of Gaussian transition kernels, which play a central role in standard theory in $\mathbb{R}^D$&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24495v1</guid>
+      <pubDate>Wed, 25 Mar 2026 16:37:33 +0000</pubDate>
     </item>
     <item>
-      <title>Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors</title>
-      <link>http://arxiv.org/abs/2603.23356v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Max Marriott-Clarke, Lazar Novakovic, Elizabeth Ratzer, Robert J. Bainbridge, Loukas Gouskos, Benedikt Maier&lt;/p&gt;&lt;p&gt;We propose a novel clustering approach for point-cloud segmentation based on supervised contrastive metric learning (CML). Rather than predicting cluster assignments or object-centric variables, the method learns a latent representation in which points belonging to the same object are embedded nearby while unrelated points are separated. Clusters are then reconstructed using a density-based readout in the learned metric space, decoupling representation learning from cluster formation and enabling flexible inference&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23356v1</guid>
-      <pubDate>Tue, 24 Mar 2026 15:55:36 +0000</pubDate>
+      <title>Claudini: Autoresearch Discovers State-of-the-Art Adversarial Attack Algorithms for LLMs</title>
+      <link>http://arxiv.org/abs/2603.24511v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexander Panfilov, Peter Romov, Igor Shilov, Yves-Alexandre de Montjoye, Jonas Geiping, Maksym Andriushchenko&lt;/p&gt;&lt;p&gt;LLM agents like Claude Code can not only write code but also be used for autonomous AI research and engineering \citep{rank2026posttrainbench, novikov2025alphaevolve}. We show that an \emph{autoresearch}-style pipeline \citep{karpathy2026autoresearch} powered by Claude Code discovers novel white-box adversarial attack \textit{algorithms} that \textbf{significantly outperform all existing (30+) methods} in jailbreaking and prompt injection evaluations.   Starting from existing attack implementations, such as GCG~\citep{zou2023universal}, the agent iterates to produce new algorithms achieving up&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24511v1</guid>
+      <pubDate>Wed, 25 Mar 2026 16:50:56 +0000</pubDate>
     </item>
     <item>
-      <title>Kinetic Langevin Splitting Schemes for Constrained Sampling</title>
-      <link>http://arxiv.org/abs/2603.23397v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Neil K. Chada, Lu Yu&lt;/p&gt;&lt;p&gt;Constrained sampling is an important and challenging task in computational statistics, concerned with generating samples from a distribution under certain constraints. There are numerous types of algorithm aimed at this task, ranging from general Markov chain Monte Carlo, to unadjusted Langevin methods. In this article we propose a series of new sampling algorithms based on the latter of these, specifically the kinetic Langevin dynamics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23397v1</guid>
-      <pubDate>Tue, 24 Mar 2026 16:34:38 +0000</pubDate>
+      <title>No Single Metric Tells the Whole Story: A Multi-Dimensional Evaluation Framework for Uncertainty Attributions</title>
+      <link>http://arxiv.org/abs/2603.24524v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Emily Schiller, Teodor Chiaburu, Marco Zullich, Luca Longo&lt;/p&gt;&lt;p&gt;Research on explainable AI (XAI) has frequently focused on explaining model predictions. More recently, methods have been proposed to explain prediction uncertainty by attributing it to input features (uncertainty attributions). However, the evaluation of these methods remains inconsistent as studies rely on heterogeneous proxy tasks and metrics, hindering comparability&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24524v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:02:13 +0000</pubDate>
     </item>
     <item>
-      <title>Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation</title>
-      <link>http://arxiv.org/abs/2603.23398v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Michal Balcerak, Suprosana Shit, Chinmay Prabhakar, Sebastian Kaltenbach, Michael S. Albergo, Yilun Du, Bjoern Menze&lt;/p&gt;&lt;p&gt;Energy-based models for discrete domains, such as graphs, explicitly capture relative likelihoods, naturally enabling composable probabilistic inference tasks like conditional generation or enforcing constraints at test-time. However, discrete energy-based models typically struggle with efficient and high-quality sampling, as off-support regions often contain spurious local minima, trapping samplers and causing training instabilities. This has historically resulted in a fidelity gap relative to discrete diffusion models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23398v1</guid>
-      <pubDate>Tue, 24 Mar 2026 16:35:25 +0000</pubDate>
+      <title>From Liar Paradox to Incongruent Sets: A Normal Form for Self-Reference</title>
+      <link>http://arxiv.org/abs/2603.24527v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shalender Singh, Vishnu Priya Singh Parmar&lt;/p&gt;&lt;p&gt;We introduce incongruent normal form (INF), a structural representation for self-referential semantic sentences. An INF replaces a self-referential sentence with a finite family of non-self-referential sentences that are individually satisfiable but not jointly satisfiable. This transformation isolates the semantic obstruction created by self-reference while preserving classical semantics locally and is accompanied by correctness theorems characterizing when global inconsistency arises from locally compatible commitments&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24527v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:04:42 +0000</pubDate>
     </item>
     <item>
-      <title>Beyond Preset Identities: How Agents Form Stances and Boundaries in Generative Societies</title>
-      <link>http://arxiv.org/abs/2603.23406v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hanzhong Zhang, Siyang Song, Jindong Wang&lt;/p&gt;&lt;p&gt;While large language models simulate social behaviors, their capacity for stable stance formation and identity negotiation during complex interventions remains unclear. To overcome the limitations of static evaluations, this paper proposes a novel mixed-methods framework combining computational virtual ethnography with quantitative socio-cognitive profiling. By embedding human researchers into generative multiagent communities, controlled discursive interventions are conducted to trace the evolution of collective cognition&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23406v1</guid>
-      <pubDate>Tue, 24 Mar 2026 16:38:46 +0000</pubDate>
+      <title>UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience</title>
+      <link>http://arxiv.org/abs/2603.24533v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zichuan Lin, Feiyu Liu, Yijun Yang, Jiafei Lyu, Yiming Gao, Yicheng Liu, Zhicong Lu, Yangbin Yu&lt;/p&gt;&lt;p&gt;Autonomous mobile GUI agents have attracted increasing attention along with the advancement of Multimodal Large Language Models (MLLMs). However, existing methods still suffer from inefficient learning from failed trajectories and ambiguous credit assignment under sparse rewards for long-horizon GUI tasks. To that end, we propose UI-Voyager, a novel two-stage self-evolving mobile GUI agent&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24533v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:10:29 +0000</pubDate>
     </item>
     <item>
-      <title>SortedRL: Accelerating RL Training for LLMs through Online Length-Aware Scheduling</title>
-      <link>http://arxiv.org/abs/2603.23414v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yiqi Zhang, Huiqiang Jiang, Xufang Luo, Zhihe Yang, Chengruidong Zhang, Yifei Shen, Dongsheng Li, Yuqing Yang&lt;/p&gt;&lt;p&gt;Scaling reinforcement learning (RL) has shown strong promise for enhancing the reasoning abilities of large language models (LLMs), particularly in tasks requiring long chain-of-thought generation. However, RL training efficiency is often bottlenecked by the rollout phase, which can account for up to 70% of total training time when generating long trajectories (e.g., 16k tokens), due to slow autoregressive generation and synchronization overhead between rollout and policy updates. We propose SortedRL, an online length-aware scheduling strategy designed to address this bottleneck by improving r&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23414v1</guid>
-      <pubDate>Tue, 24 Mar 2026 16:48:31 +0000</pubDate>
+      <title>CliPPER: Contextual Video-Language Pretraining on Long-form Intraoperative Surgical Procedures for Event Recognition</title>
+      <link>http://arxiv.org/abs/2603.24539v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Florian Stilz, Vinkle Srivastav, Nassir Navab, Nicolas Padoy&lt;/p&gt;&lt;p&gt;Video-language foundation models have proven to be highly effective in zero-shot applications across a wide range of tasks. A particularly challenging area is the intraoperative surgical procedure domain, where labeled data is scarce, and precise temporal understanding is often required for complex downstream tasks. To address this challenge, we introduce CliPPER (Contextual Video-Language Pretraining on Long-form Intraoperative Surgical Procedures for Event Recognition), a novel video-language pretraining framework trained on surgical lecture videos&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24539v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:14:36 +0000</pubDate>
     </item>
     <item>
-      <title>Biased Error Attribution in Multi-Agent Human-AI Systems Under Delayed Feedback</title>
-      <link>http://arxiv.org/abs/2603.23419v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Teerthaa Parakh, Karen M. Feigh&lt;/p&gt;&lt;p&gt;Human decision-making is strongly influenced by cognitive biases, particularly under conditions of uncertainty and risk. While prior work has examined bias in single-step decisions with immediate outcomes and in human interaction with a single autonomous agent, comparatively little attention has been paid to decision-making under delayed outcomes involving multiple AI agents, where decisions at each step affect subsequent states. In this work, we study how delayed outcomes shape decision-making and responsibility attribution in a multi-agent human-AI task&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23419v1</guid>
-      <pubDate>Tue, 24 Mar 2026 16:52:14 +0000</pubDate>
+      <title>SEGAR: Selective Enhancement for Generative Augmented Reality</title>
+      <link>http://arxiv.org/abs/2603.24541v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fanjun Bu, Chenyang Yuan, Hiroshi Yasuda&lt;/p&gt;&lt;p&gt;Generative world models offer a compelling foundation for augmented-reality (AR) applications: by predicting future image sequences that incorporate deliberate visual edits, they enable temporally coherent, augmented future frames that can be computed ahead of time and cached, avoiding per-frame rendering from scratch in real time. In this work, we present SEGAR, a preliminary framework that combines a diffusion-based world model with a selective correction stage to support this vision. The world model generates augmented future frames with region-specific edits while preserving others, and th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24541v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:15:45 +0000</pubDate>
     </item>
     <item>
-      <title>Bilevel Autoresearch: Meta-Autoresearching Itself</title>
-      <link>http://arxiv.org/abs/2603.23420v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yaonan Qu, Meng Lu&lt;/p&gt;&lt;p&gt;If autoresearch is itself a form of research, then autoresearch can be applied to research itself. We take this idea literally: we use an autoresearch loop to optimize the autoresearch loop. Every existing autoresearch system -- from Karpathy's single-track loop to AutoResearchClaw's multi-batch extension and EvoScientist's persistent memory -- was improved by a human who read the code, identified a bottleneck, and wrote new code&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23420v1</guid>
-      <pubDate>Tue, 24 Mar 2026 16:52:25 +0000</pubDate>
+      <title>Detection of local geometry in random graphs: information-theoretic and computational limits</title>
+      <link>http://arxiv.org/abs/2603.24545v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jinho Bok, Shuangping Li, Sophie H. Yu&lt;/p&gt;&lt;p&gt;We study the problem of detecting local geometry in random graphs. We introduce a model $\mathcal{G}(n, p, d, k)$, where a hidden community of average size $k$ has edges drawn as a random geometric graph on $\mathbb{S}^{d-1}$, while all remaining edges follow the Erdős--Rényi model $\mathcal{G}(n, p)$. The random geometric graph is generated by thresholding inner products of latent vectors on $\mathbb{S}^{d-1}$, with each edge having marginal probability equal to $p$&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24545v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:20:01 +0000</pubDate>
     </item>
     <item>
-      <title>Mecha-nudges for Machines</title>
-      <link>http://arxiv.org/abs/2603.23433v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Giulio Frey, Kawin Ethayarajh&lt;/p&gt;&lt;p&gt;Nudges are subtle changes to the way choices are presented to human decision-makers (e.g., opt-in vs. opt-out by default) that shift behavior without restricting options or changing incentives. As AI agents increasingly make decisions in the same environments as humans, the presentation of choices may be optimized for machines as well as people&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23433v1</guid>
-      <pubDate>Tue, 24 Mar 2026 17:02:21 +0000</pubDate>
+      <title>A Sociolinguistic Analysis of Automatic Speech Recognition Bias in Newcastle English</title>
+      <link>http://arxiv.org/abs/2603.24549v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dana Serditova, Kevin Tang&lt;/p&gt;&lt;p&gt;Automatic Speech Recognition (ASR) systems are widely used in everyday communication, education, healthcare, and industry, yet their performance remains uneven across speakers, particularly when dialectal variation diverges from the mainstream accents represented in training data. This study investigates ASR bias through a sociolinguistic analysis of Newcastle English, a regional variety of North-East England that has been shown to challenge current speech recognition technologies. Using spontaneous speech from the Diachronic Electronic Corpus of Tyneside English (DECTE), we evaluate the outpu&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24549v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:24:47 +0000</pubDate>
     </item>
     <item>
-      <title>Evaluating LLM-Based Test Generation Under Software Evolution</title>
-      <link>http://arxiv.org/abs/2603.23443v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sabaat Haroon, Mohammad Taha Khan, Muhammad Ali Gulzar&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) are increasingly used for automated unit test generation. However, it remains unclear whether these tests reflect genuine reasoning about program behavior or simply reproduce superficial patterns learned during training. If the latter dominates, LLM-generated tests may exhibit weaknesses such as reduced coverage, missed regressions, and undetected faults&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23443v1</guid>
-      <pubDate>Tue, 24 Mar 2026 17:14:18 +0000</pubDate>
+      <title>Evaluating Chunking Strategies For Retrieval-Augmented Generation in Oil and Gas Enterprise Documents</title>
+      <link>http://arxiv.org/abs/2603.24556v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Samuel Taiwo, Mohd Amaluddin Yusoff&lt;/p&gt;&lt;p&gt;Retrieval-Augmented Generation (RAG) has emerged as a framework to address the constraints of Large Language Models (LLMs). Yet, its effectiveness fundamentally hinges on document chunking - an often-overlooked determinant of its quality. This paper presents an empirical study quantifying performance differences across four chunking strategies: fixed-size sliding window, recursive, breakpoint-based semantic, and structure-aware&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24556v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:35:24 +0000</pubDate>
     </item>
     <item>
-      <title>3DCity-LLM: Empowering Multi-modality Large Language Models for 3D City-scale Perception and Understanding</title>
-      <link>http://arxiv.org/abs/2603.23447v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yiping Chen, Jinpeng Li, Wenyu Ke, Yang Luo, Jie Ouyang, Zhongjie He, Li Liu, Hongchao Fan&lt;/p&gt;&lt;p&gt;While multi-modality large language models excel in object-centric or indoor scenarios, scaling them to 3D city-scale environments remains a formidable challenge. To bridge this gap, we propose 3DCity-LLM, a unified framework designed for 3D city-scale vision-language perception and understanding. 3DCity-LLM employs a coarse-to-fine feature encoding strategy comprising three parallel branches for target object, inter-object relationship, and global scene&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23447v1</guid>
-      <pubDate>Tue, 24 Mar 2026 17:18:44 +0000</pubDate>
+      <title>LensWalk: Agentic Video Understanding by Planning How You See in Videos</title>
+      <link>http://arxiv.org/abs/2603.24558v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Keliang Li, Yansong Li, Hongze Shen, Mengdi Liu, Hong Chang, Shiguang Shan&lt;/p&gt;&lt;p&gt;The dense, temporal nature of video presents a profound challenge for automated analysis. Despite the use of powerful Vision-Language Models, prevailing methods for video understanding are limited by the inherent disconnect between reasoning and perception: they rely on static, pre-processed information and cannot actively seek raw evidence from video as their understanding evolves. To address this, we introduce LensWalk, a flexible agentic framework that empowers a Large Language Model reasoner to control its own visual observation actively&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24558v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:38:54 +0000</pubDate>
     </item>
     <item>
-      <title>Code Review Agent Benchmark</title>
-      <link>http://arxiv.org/abs/2603.23448v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuntong Zhang, Zhiyuan Pan, Imam Nur Bani Yusuf, Haifeng Ruan, Ridwan Shariffdeen, Abhik Roychoudhury&lt;/p&gt;&lt;p&gt;Software engineering agents have shown significant promise in writing code. As AI agents permeate code writing, and generate huge volumes of code automatically -- the matter of code quality comes front and centre. As the automatically generated code gets integrated into huge code-bases -- the issue of code review and broadly quality assurance becomes important&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23448v1</guid>
-      <pubDate>Tue, 24 Mar 2026 17:19:32 +0000</pubDate>
+      <title>Trust Region Constrained Bayesian Optimization with Penalized Constraint Handling</title>
+      <link>http://arxiv.org/abs/2603.24567v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Raju Chowdhury, Tanmay Sen, Prajamitra Bhuyan, Biswabrata Pradhan&lt;/p&gt;&lt;p&gt;Constrained optimization in high-dimensional black-box settings is difficult due to expensive evaluations, the lack of gradient information, and complex feasibility regions. In this work, we propose a Bayesian optimization method that combines a penalty formulation, a surrogate model, and a trust region strategy. The constrained problem is converted to an unconstrained form by penalizing constraint violations, which provides a unified modeling framework&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24567v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:44:27 +0000</pubDate>
     </item>
     <item>
-      <title>InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting</title>
-      <link>http://arxiv.org/abs/2603.23463v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Duc Vu, Kien Nguyen, Trong-Tung Nguyen, Ngan Nguyen, Phong Nguyen, Khoi Nguyen, Cuong Pham, Anh Tran&lt;/p&gt;&lt;p&gt;Recent diffusion-based models achieve photorealism in image inpainting but require many sampling steps, limiting practical use. Few-step text-to-image models offer faster generation, but naively applying them to inpainting yields poor harmonization and artifacts between the background and inpainted region. We trace this cause to random Gaussian noise initialization, which under low function evaluations causes semantic misalignment and reduced fidelity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23463v1</guid>
-      <pubDate>Tue, 24 Mar 2026 17:32:55 +0000</pubDate>
+      <title>Anti-I2V: Safeguarding your photos from malicious image-to-video generation</title>
+      <link>http://arxiv.org/abs/2603.24570v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Duc Vu, Anh Nguyen, Chi Tran, Anh Tran&lt;/p&gt;&lt;p&gt;Advances in diffusion-based video generation models, while significantly improving human animation, poses threats of misuse through the creation of fake videos from a specific person's photo and text prompts. Recent efforts have focused on adversarial attacks that introduce crafted perturbations to protect images from diffusion-based models. However, most existing approaches target image generation, while relatively few explicitly address image-to-video diffusion models (VDMs), and most primarily focus on UNet-based architectures&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24570v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:48:10 +0000</pubDate>
     </item>
     <item>
-      <title>VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs</title>
-      <link>http://arxiv.org/abs/2603.23481v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haoran Yuan, Weigang Yi, Zhenyu Zhang, Wendi Chen, Yuchen Mo, Jiashi Yin, Xinzhuo Li, Xiangyu Zeng&lt;/p&gt;&lt;p&gt;Video-Action Models (VAMs) have emerged as a promising framework for embodied intelligence, learning implicit world dynamics from raw video streams to produce temporally consistent action predictions. Although such models demonstrate strong performance on long-horizon tasks through visual reasoning, they remain limited in contact-rich scenarios where critical interaction states are only partially observable from vision alone. In particular, fine-grained force modulation and contact transitions are not reliably encoded in visual tokens, leading to unstable or imprecise behaviors&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23481v1</guid>
-      <pubDate>Tue, 24 Mar 2026 17:45:06 +0000</pubDate>
+      <title>VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models</title>
+      <link>http://arxiv.org/abs/2603.24575v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Qijia He, Xunmei Liu, Hammaad Memon, Ziang Li, Zixian Ma, Jaemin Cho, Jason Ren, Daniel S Weld&lt;/p&gt;&lt;p&gt;Scalable Vector Graphics (SVG) are an essential format for technical illustration and digital design, offering precise resolution independence and flexible semantic editability. In practice, however, original vector source files are frequently lost or inaccessible, leaving only "flat" rasterized versions (e.g., PNG or JPEG) that are difficult to modify or scale. Manually reconstructing these figures is a prohibitively labor-intensive process, requiring specialized expertise to recover the original geometric intent&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24575v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:52:23 +0000</pubDate>
     </item>
     <item>
-      <title>ReqFusion: A Multi-Provider Framework for Automated PEGS Analysis Across Software Domains</title>
-      <link>http://arxiv.org/abs/2603.23482v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Muhammad Khalid, Manuel Oriol, Yilmaz Uygun&lt;/p&gt;&lt;p&gt;Requirements engineering is a vital, yet labor-intensive, stage in the software development process. This article introduces ReqFusion: an AI-enhanced system that automates the extraction, classification, and analysis of software requirements utilizing multiple Large Language Model (LLM) providers. The architecture of ReqFusion integrates OpenAI GPT, Anthropic Claude, and Groq models to extract functional and non-functional requirements from various documentation formats (PDF, DOCX, and PPTX) in academic, industrial, and tender proposal contexts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23482v1</guid>
-      <pubDate>Tue, 24 Mar 2026 17:45:40 +0000</pubDate>
+      <title>EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction</title>
+      <link>http://arxiv.org/abs/2603.24577v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Falong Fan, Yi Xie, Arnis Lektauers, Bo Liu, Jerzy Rozenblit&lt;/p&gt;&lt;p&gt;Accurate 3D reconstruction of deformable soft tissues is essential for surgical robotic perception. However, low-texture surfaces, specular highlights, and instrument occlusions often fragment geometric continuity, posing a challenge for existing fixed-topology approaches. To address this, we propose EndoVGGT, a geometry-centric framework equipped with a Deformation-aware Graph Attention (DeGAT) module&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24577v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:53:34 +0000</pubDate>
     </item>
     <item>
-      <title>Failure of contextual invariance in gender inference with large language models</title>
-      <link>http://arxiv.org/abs/2603.23485v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sagar Kumar, Ariel Flint, Luca Maria Aiello, Andrea Baronchelli&lt;/p&gt;&lt;p&gt;Standard evaluation practices assume that large language model (LLM) outputs are stable under contextually equivalent formulations of a task. Here, we test this assumption in the setting of gender inference. Using a controlled pronoun selection task, we introduce minimal, theoretically uninformative discourse context and find that this induces large, systematic shifts in model outputs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23485v1</guid>
-      <pubDate>Tue, 24 Mar 2026 17:52:22 +0000</pubDate>
+      <title>Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA</title>
+      <link>http://arxiv.org/abs/2603.24580v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Saahil Mathur, Ryan David Rittner, Vedant Ajit Thakur, Daniel Stuart Schiff, Tunazzina Islam&lt;/p&gt;&lt;p&gt;Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characterized by dense legal language and evolving, overlapping regulatory frameworks. We study the application of RAG to AI governance and policy analysis using the AI Governance and Regulatory Archive (AGORA) corpus, a curated collection of 947 AI policy documents. Our system combines a ColBERT-based retriever fine-tuned with contrastive learning and a generator aligned to human preferences using Direct Pr&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24580v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:54:39 +0000</pubDate>
     </item>
     <item>
-      <title>VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions</title>
-      <link>http://arxiv.org/abs/2603.23495v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Adrian Bulat, Alberto Baldrati, Ioannis Maniadis Metaxas, Yassine Ouali, Georgios Tzimiropoulos&lt;/p&gt;&lt;p&gt;Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bottleneck that impairs performance, especially on challenging tasks that require fine-grained understanding and reasoning. In this work, we challenge this paradigm by introducing VISion On Request (VISOR), a method that reduces inference cost without discarding visual information&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23495v1</guid>
-      <pubDate>Tue, 24 Mar 2026 17:58:17 +0000</pubDate>
+      <title>The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence</title>
+      <link>http://arxiv.org/abs/2603.24582v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Biplab Pal, Santanu Bhattacharya&lt;/p&gt;&lt;p&gt;Agentic artificial intelligence (AI) in organizations is a sequential decision problem constrained by reliability and oversight cost. When deterministic workflows are replaced by stochastic policies over actions and tool calls, the key question is not whether a next step appears plausible, but whether the resulting trajectory remains statistically supported, locally unambiguous, and economically governable. We develop a measure-theoretic Markov framework for this setting&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24582v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:56:11 +0000</pubDate>
     </item>
     <item>
-      <title>MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage</title>
-      <link>http://arxiv.org/abs/2603.23501v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ufaq Khan, Umair Nawaz, L D M S S Teja, Numaan Saeed, Muhammad Bilal, Yutong Xie, Mohammad Yaqub, Muhammad Haris Khan&lt;/p&gt;&lt;p&gt;Vision Language Models (VLMs) are increasingly used for tasks like medical report generation and visual question answering. However, fluent diagnostic text does not guarantee safe visual understanding. In clinical practice, interpretation begins with pre-diagnostic sanity checks: verifying that the input is valid to read (correct modality and anatomy, plausible viewpoint and orientation, and no obvious integrity violations)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.23501v1</guid>
-      <pubDate>Tue, 24 Mar 2026 17:59:54 +0000</pubDate>
+      <title>Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method</title>
+      <link>http://arxiv.org/abs/2603.24594v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arthur Jacot&lt;/p&gt;&lt;p&gt;We introduce the Multilevel Euler-Maruyama (ML-EM) method compute solutions of SDEs and ODEs using a range of approximators $f^1,\dots,f^k$ to the drift $f$ with increasing accuracy and computational cost, only requiring a few evaluations of the most accurate $f^k$ and many evaluations of the less costly $f^1,\dots,f^{k-1}$. If the drift lies in the so-called Harder than Monte Carlo (HTMC) regime, i.e. it requires $ε^{-γ}$ compute to be $ε$-approximated for some $γ&gt;2$, then ML-EM $ε$-approximates the solution of the SDE with $ε^{-γ}$ compute, improving over the traditional EM rate of $ε^{-γ-1}&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.24594v1</guid>
+      <pubDate>Wed, 25 Mar 2026 17:59:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
