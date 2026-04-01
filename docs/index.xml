@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 31 Mar 2026 04:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 04:47:57 +0000</lastBuildDate>
     <item>
-      <title>TGIF2: Extended Text-Guided Inpainting Forgery Dataset &amp; Benchmark</title>
-      <link>http://arxiv.org/abs/2603.28613v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hannes Mareen, Dimitrios Karageorgiou, Paschalis Giakoumoglou, Peter Lambert, Symeon Papadopoulos, Glenn Van Wallendael&lt;/p&gt;&lt;p&gt;Generative AI has made text-guided inpainting a powerful image editing tool, but at the same time a growing challenge for media forensics. Existing benchmarks, including our text-guided inpainting forgery (TGIF) dataset, show that image forgery localization (IFL) methods can localize manipulations in spliced images but struggle not in fully regenerated (FR) images, while synthetic image detection (SID) methods can detect fully regenerated images but cannot perform localization. With new generative inpainting models emerging and the open problem of localization in FR images remaining, updated d&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28613v1</guid>
-      <pubDate>Mon, 30 Mar 2026 15:59:16 +0000</pubDate>
+      <title>ScoringBench: A Benchmark for Evaluating Tabular Foundation Models with Proper Scoring Rules</title>
+      <link>http://arxiv.org/abs/2603.29928v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jonas Landsgesell, Pascal Knoll&lt;/p&gt;&lt;p&gt;Tabular foundation models such as TabPFN and TabICL already produce full predictive distributions yet prevailing regression benchmarks evaluate them almost exclusively via point estimate metrics RMSE R2 These aggregate measures often obscure model performance in the tails of the distribution a critical deficit for high stakes decision making in domains like finance and clinical research where asymmetric risk profiles are the norm We introduce ScoringBench an open benchmark that computes a comprehensive suite of proper scoring rules like CRPS CRLS Interval Score Energy Score weighted CRPS and B&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.29928v1</guid>
+      <pubDate>Tue, 31 Mar 2026 16:01:56 +0000</pubDate>
     </item>
     <item>
-      <title>Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning</title>
-      <link>http://arxiv.org/abs/2603.28618v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziqi Miao, Haonan Jia, Lijun Li, Chen Qian, Yuan Xiong, Wenting Yan, Jing Shao&lt;/p&gt;&lt;p&gt;Reinforcement learning with verifiable rewards (RLVR) has substantially enhanced the reasoning capabilities of multimodal large language models (MLLMs). However, existing RLVR approaches typically rely on outcome-driven optimization that updates both perception and reasoning using a shared reward based solely on the final answer. This shared reward blurs credit assignment, frequently improving reasoning patterns while failing to reliably enhance the accuracy of upstream visual evidence extraction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28618v1</guid>
-      <pubDate>Mon, 30 Mar 2026 16:03:56 +0000</pubDate>
+      <title>Bethe Ansatz with a Large Language Model</title>
+      <link>http://arxiv.org/abs/2603.29932v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Balázs Pozsgay, István Vona&lt;/p&gt;&lt;p&gt;We explore the capability of a Large Language Model (LLM) to perform specific computations in mathematical physics: the task is to compute the coordinate Bethe Ansatz solution of selected integrable spin chain models. We select three integrable Hamiltonians for which the solutions were unpublished; two of the Hamiltonians are actually new. We observed that the LLM semi-autonomously solved the task in all cases, with a few mistakes along the way&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.29932v1</guid>
+      <pubDate>Tue, 31 Mar 2026 16:06:19 +0000</pubDate>
     </item>
     <item>
-      <title>Trust-Aware Routing for Distributed Generative AI Inference at the Edge</title>
-      <link>http://arxiv.org/abs/2603.28622v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chanh Nguyen, Erik Elmroth&lt;/p&gt;&lt;p&gt;Emerging deployments of Generative AI increasingly execute inference across decentralized and heterogeneous edge devices rather than on a single trusted server. In such environments, a single device failure or misbehavior can disrupt the entire inference process, making traditional best-effort peer-to-peer routing insufficient. Coordinating distributed generative inference therefore requires mechanisms that explicitly account for reliability, performance variability, and trust among participating peers&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28622v1</guid>
-      <pubDate>Mon, 30 Mar 2026 16:07:11 +0000</pubDate>
+      <title>Rethinking AI Literacy Education in Higher Education: Bridging Risk Perception and Responsible Adoption</title>
+      <link>http://arxiv.org/abs/2603.29935v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shasha Yu, Fiona Carroll, Barry L. Bentley&lt;/p&gt;&lt;p&gt;As AI becomes increasingly embedded across societal domains, understanding how future AI practitioners, particularly technology students, perceive its risks is essential for responsible development and adoption. This study analyzed responses from 139 students in Computer Science, Data Science/Data Analytics, and other disciplines using both explicit AI risk ratings and scenario-based assessments of risk and adoption willingness. Four key findings emerged: (1) Students expressed substantially higher concern for concrete, explicitly stated risks than for abstract or scenario-embedded risks; (2) &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.29935v1</guid>
+      <pubDate>Tue, 31 Mar 2026 16:08:16 +0000</pubDate>
     </item>
     <item>
-      <title>The Ultimate Tutorial for AI-driven Scale Development in Generative Psychometrics: Releasing AIGENIE from its Bottle</title>
-      <link>http://arxiv.org/abs/2603.28643v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lara Russell-Lasalandra, Hudson Golino, Luis Eduardo Garrido, Alexander P. Christensen&lt;/p&gt;&lt;p&gt;Psychological scale development has traditionally required extensive expert involvement, iterative revision, and large-scale pilot testing before psychometric evaluation can begin. The `AIGENIE` R package implements the AI-GENIE framework (Automatic Item Generation with Network-Integrated Evaluation), which integrates large language model (LLM) text generation with network psychometric methods to automate the early stages of this process. The package generates candidate item pools using LLMs, transforms them into high-dimensional embeddings, and applies a multi-step reduction pipeline -- Explo&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28643v1</guid>
-      <pubDate>Mon, 30 Mar 2026 16:25:37 +0000</pubDate>
+      <title>Four Generations of Quantum Biomedical Sensors</title>
+      <link>http://arxiv.org/abs/2603.29944v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xin Jin, Priyam Srivastava, Ronghe Wang, Yuqing Li, Jonathan Beaumariage, Tom Purdy, M. V. Gurudev Dutt, Kang Kim&lt;/p&gt;&lt;p&gt;Quantum sensing technologies offer transformative potential for ultra-sensitive biomedical sensing, yet their clinical translation remains constrained by classical noise limits and a reliance on macroscopic ensembles. We propose a unifying generational framework to organize the evolving landscape of quantum biosensors based on their utilization of quantum resources. First-generation devices utilize discrete energy levels for signal transduction but follow classical scaling laws&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.29944v1</guid>
+      <pubDate>Tue, 31 Mar 2026 16:16:27 +0000</pubDate>
     </item>
     <item>
-      <title>Information-Theoretic Limits of Safety Verification for Self-Improving Systems</title>
-      <link>http://arxiv.org/abs/2603.28650v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arsenios Scrivens&lt;/p&gt;&lt;p&gt;Can a safety gate permit unbounded beneficial self-modification while maintaining bounded cumulative risk? We formalize this question through dual conditions -- requiring sum delta_n &lt; infinity (bounded risk) and sum TPR_n = infinity (unbounded utility) -- and establish a theory of their (in)compatibility.   Classification impossibility (Theorem 1): For power-law risk schedules delta_n = O(n^{-p}) with p &gt; 1, any classifier-based gate under overlapping safe/unsafe distributions satisfies TPR_n &lt;= C_alpha * delta_n^beta via Holder's inequality, forcing sum TPR_n &lt; infinity. This impossibility i&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28650v1</guid>
-      <pubDate>Mon, 30 Mar 2026 16:34:37 +0000</pubDate>
+      <title>Physiological and Semantic Patterns in Medical Teams Using an Intelligent Tutoring System</title>
+      <link>http://arxiv.org/abs/2603.29950v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaoshan Huang, Conrad Borchers, Jiayi Zhang, Susanne P. Lajoie&lt;/p&gt;&lt;p&gt;Effective collaboration requires teams to manage complex cognitive and emotional states through Socially Shared Regulation of Learning (SSRL). Physiological synchrony (i.e., longitudinal alignment in physiological signals) can indicate these states, but is hard to interpret on its own. We investigate the physiological and conversational dynamics of four medical dyads diagnosing a virtual patient case using an intelligent tutoring system&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.29950v1</guid>
+      <pubDate>Tue, 31 Mar 2026 16:18:57 +0000</pubDate>
     </item>
     <item>
-      <title>AMIGO: Agentic Multi-Image Grounding Oracle Benchmark</title>
-      <link>http://arxiv.org/abs/2603.28662v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Min Wang, Ata Mahjoubfar&lt;/p&gt;&lt;p&gt;Agentic vision-language models increasingly act through extended interactions, but most evaluations still focus on single-image, single-turn correctness. We introduce AMIGO (Agentic Multi-Image Grounding Oracle Benchmark), a long-horizon benchmark for hidden-target identification over galleries of visually similar images. In AMIGO, the oracle privately selects a target image, and the model must recover it by asking a sequence of attribute-focused Yes/No/Unsure questions under a strict protocol that penalizes invalid actions with Skip&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28662v1</guid>
-      <pubDate>Mon, 30 Mar 2026 16:48:51 +0000</pubDate>
+      <title>Structured Intent as a Protocol-Like Communication Layer: Cross-Model Robustness, Framework Comparison, and the Weak-Model Compensation Effect</title>
+      <link>http://arxiv.org/abs/2603.29953v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Peng Gang&lt;/p&gt;&lt;p&gt;How reliably can structured intent representations preserve user goals across different AI models, languages, and prompting frameworks? Prior work showed that PPS (Prompt Protocol Specification), a 5W3H-based structured intent framework, improves goal alignment in Chinese and generalizes to English and Japanese. This paper extends that line of inquiry in three directions: cross-model robustness across Claude, GPT-4o, and Gemini 2.5 Pro; controlled comparison with CO-STAR and RISEN; and a user study (N=50) of AI-assisted intent expansion in ecologically valid settings. Across 3,240 model output&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.29953v1</guid>
+      <pubDate>Tue, 31 Mar 2026 16:20:28 +0000</pubDate>
     </item>
     <item>
-      <title>Stochasticity and probabilistic trajectory scoring are essential for data-driven closures of chaotic systems</title>
-      <link>http://arxiv.org/abs/2603.28671v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Martin Thomas Brolly&lt;/p&gt;&lt;p&gt;Coarse-grained models of chaotic systems neglect unresolved degrees of freedom, inducing structured model error that limits predictability and distorts long-term statistics. Typical data-driven closures are trained to minimize error over a single time step, implicitly assuming Markovian dynamics and often failing to capture long-term behavior. Recent approaches instead optimize losses over finite trajectories&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28671v1</guid>
-      <pubDate>Mon, 30 Mar 2026 16:55:10 +0000</pubDate>
+      <title>Trimodal Deep Learning for Glioma Survival Prediction: A Feasibility Study Integrating Histopathology, Gene Expression, and MRI</title>
+      <link>http://arxiv.org/abs/2603.29968v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Iain Swift, JingHua Ye&lt;/p&gt;&lt;p&gt;Multimodal deep learning has improved prognostic accuracy for brain tumours by integrating histopathology and genomic data, yet the contribution of volumetric MRI within unified survival frameworks remains unexplored. This pilot study extends a bimodal framework by incorporating Fluid Attenuated Inversion Recovery (FLAIR) MRI from BraTS2021 as a third modality. Using the TCGA-GBMLGG cohort (664 patients), we evaluate three unimodal models, nine bimodal configurations, and three trimodal configurations across early, late, and joint fusion strategies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.29968v1</guid>
+      <pubDate>Tue, 31 Mar 2026 16:32:22 +0000</pubDate>
     </item>
     <item>
-      <title>Why Aggregate Accuracy is Inadequate for Evaluating Fairness in Law Enforcement Facial Recognition Systems</title>
-      <link>http://arxiv.org/abs/2603.28675v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Khalid Adnan Alsayed&lt;/p&gt;&lt;p&gt;Facial recognition systems are increasingly deployed in law enforcement and security contexts, where algorithmic decisions can carry significant societal consequences. Despite high reported accuracy, growing evidence demonstrates that such systems often exhibit uneven performance across demographic groups, leading to disproportionate error rates and potential harm. This paper argues that aggregate accuracy is an insufficient metric for evaluating the fairness and reliability of facial recognition systems in high-stakes environments&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28675v1</guid>
-      <pubDate>Mon, 30 Mar 2026 16:56:54 +0000</pubDate>
+      <title>Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition</title>
+      <link>http://arxiv.org/abs/2603.29972v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Manuel Quintero, Advik Shreekumar, William T. Stephenson, Tamara Broderick&lt;/p&gt;&lt;p&gt;Scientists often want to explain why an outcome is different in two groups. For instance, differences in patient mortality rates across two hospitals could be due to differences in the patients themselves (covariates) or differences in medical care (outcomes given covariates). The Oaxaca--Blinder decomposition (OBD) is a standard tool to tease apart these factors&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.29972v1</guid>
+      <pubDate>Tue, 31 Mar 2026 16:34:48 +0000</pubDate>
     </item>
     <item>
-      <title>Functional Natural Policy Gradients</title>
-      <link>http://arxiv.org/abs/2603.28681v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aurelien Bibaut, Houssam Zenati, Thibaud Rahier, Nathan Kallus&lt;/p&gt;&lt;p&gt;We propose a cross-fitted debiasing device for policy learning from offline data. A key consequence of the resulting learning principle is $\sqrt N$ regret even for policy classes with complexity greater than Donsker, provided a product-of-errors nuisance remainder is $O(N^{-1/2})$. The regret bound factors into a plug-in policy error factor governed by policy-class complexity and an environment nuisance factor governed by the complexity of the environment dynamics, making explicit how one may be traded against the other.&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28681v1</guid>
-      <pubDate>Mon, 30 Mar 2026 16:59:53 +0000</pubDate>
+      <title>Quantifying Cross-Modal Interactions in Multimodal Glioma Survival Prediction via InterSHAP: Evidence for Additive Signal Integration</title>
+      <link>http://arxiv.org/abs/2603.29977v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Iain Swift, JingHua Ye, Ruairi O'Reilly&lt;/p&gt;&lt;p&gt;Multimodal deep learning for cancer prognosis is commonly assumed to benefit from synergistic cross-modal interactions, yet this assumption has not been directly tested in survival prediction settings. This work adapts InterSHAP, a Shapley interaction index-based metric, from classification to Cox proportional hazards models and applies it to quantify cross-modal interactions in glioma survival prediction. Using TCGA-GBM and TCGA-LGG data (n=575), we evaluate four fusion architectures combining whole-slide image (WSI) and RNA-seq features&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.29977v1</guid>
+      <pubDate>Tue, 31 Mar 2026 16:39:56 +0000</pubDate>
     </item>
     <item>
-      <title>AdaptToken: Entropy-based Adaptive Token Selection for MLLM Long Video Understanding</title>
-      <link>http://arxiv.org/abs/2603.28696v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haozhe Qi, Kevin Qu, Mahdi Rad, Rui Wang, Alexander Mathis, Marc Pollefeys&lt;/p&gt;&lt;p&gt;Long video understanding remains challenging for Multi-modal Large Language Models (MLLMs) due to high memory costs and context-length limits. Prior approaches mitigate this by scoring and selecting frames/tokens within short clips, but they lack a principled mechanism to (i) compare relevance across distant video clips and (ii) stop processing once sufficient evidence has been gathered. We propose AdaptToken, a training-free framework that turns an MLLM's self-uncertainty into a global control signal for long-video token selection&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28696v1</guid>
-      <pubDate>Mon, 30 Mar 2026 17:14:15 +0000</pubDate>
+      <title>Aligning Validation with Deployment: Target-Weighted Cross-Validation for Spatial Prediction</title>
+      <link>http://arxiv.org/abs/2603.29981v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexander Brenning, Thomas Suesse&lt;/p&gt;&lt;p&gt;Cross-validation (CV) is commonly used to estimate predictive risk when independent test data are unavailable. Its validity depends on the assumption that validation tasks are sampled from the same distribution as prediction tasks encountered during deployment. In spatial prediction and other settings with structured data, this assumption is frequently violated, leading to biased estimates of deployment risk&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.29981v1</guid>
+      <pubDate>Tue, 31 Mar 2026 16:44:07 +0000</pubDate>
     </item>
     <item>
-      <title>ACE2-NEMO: Coupling an ML atmospheric emulator to a full-depth dynamical ocean model</title>
-      <link>http://arxiv.org/abs/2603.28704v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bobby Antonio, Kristian Strommen, Pablo Ortega, Hannah M. Christensen&lt;/p&gt;&lt;p&gt;Understanding how fast atmospheric variability shapes slow climate variability and sensitivity remains a central challenge in Earth-system science. Recent advances in machine-learned (ML) atmospheric models have demonstrated remarkable skill on weather timescales, but their emergent behaviour in a fully coupled climate system remains largely unexplored. We present early results from a new hybrid modelling framework, in which the ACE2 ML atmospheric emulator is interactively coupled to the NEMO ocean model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28704v1</guid>
-      <pubDate>Mon, 30 Mar 2026 17:21:18 +0000</pubDate>
+      <title>Extending MONA in Camera Dropbox: Reproduction, Learned Approval, and Design Implications for Reward-Hacking Mitigation</title>
+      <link>http://arxiv.org/abs/2603.29993v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nathan Heath&lt;/p&gt;&lt;p&gt;Myopic Optimization with Non-myopic Approval (MONA) mitigates multi-step reward hacking by restricting the agent's planning horizon while supplying far-sighted approval as a training signal~\cite{farquhar2025mona}. The original paper identifies a critical open question: how the method of constructing approval -- particularly the degree to which approval depends on achieved outcomes -- affects whether MONA's safety guarantees hold. We present a reproduction-first extension of the public MONA Camera Dropbox environment that (i)~repackages the released codebase as a standard Python project with s&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.29993v1</guid>
+      <pubDate>Tue, 31 Mar 2026 16:56:10 +0000</pubDate>
     </item>
     <item>
-      <title>A Convex Route to Thermomechanics: Learning Internal Energy and Dissipation</title>
-      <link>http://arxiv.org/abs/2603.28707v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hagen Holthusen, Paul Steinmann, Ellen Kuhl&lt;/p&gt;&lt;p&gt;We present a physics-based neural network framework for the discovery of constitutive models in fully coupled thermomechanics. In contrast to classical formulations based on the Helmholtz energy, we adopt the internal energy and a dissipation potential as primary constitutive functions, expressed in terms of deformation and entropy. This choice avoids the need to enforce mixed convexity--concavity conditions and facilitates a consistent incorporation of thermodynamic principles&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28707v1</guid>
-      <pubDate>Mon, 30 Mar 2026 17:26:13 +0000</pubDate>
+      <title>Enhancing Structural Mapping with LLM-derived Abstractions for Analogical Reasoning in Narratives</title>
+      <link>http://arxiv.org/abs/2603.29997v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohammadhossein Khojasteh, Yifan Jiang, Stefano De Giorgis, Frank van Harmelen, Filip Ilievski&lt;/p&gt;&lt;p&gt;Analogical reasoning is a key driver of human generalization in problem-solving and argumentation. Yet, analogies between narrative structures remain challenging for machines. Cognitive engines for structural mapping are not directly applicable, as they assume pre-extracted entities, whereas LLMs' performance is sensitive to prompt format and the degree of surface similarity between narratives&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.29997v1</guid>
+      <pubDate>Tue, 31 Mar 2026 16:57:11 +0000</pubDate>
     </item>
     <item>
-      <title>Dynamic Dual-Granularity Skill Bank for Agentic RL</title>
-      <link>http://arxiv.org/abs/2603.28716v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Songjun Tu, Chengdong Xu, Qichao Zhang, Yaocheng Zhang, Xiangyuan Lan, Linjing Li, Dongbin Zhao&lt;/p&gt;&lt;p&gt;Agentic reinforcement learning (RL) can benefit substantially from reusable experience, yet existing skill-based methods mainly extract trajectory-level guidance and often lack principled mechanisms for maintaining an evolving skill memory. We propose D2Skill, a dynamic dual-granularity skill bank for agentic RL that organizes reusable experience into task skills for high-level guidance and step skills for fine-grained decision support and error correction. D2Skill jointly trains the policy and skill bank through paired baseline and skill-injected rollouts under the same policy, using their pe&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28716v1</guid>
-      <pubDate>Mon, 30 Mar 2026 17:32:11 +0000</pubDate>
+      <title>Phyelds: A Pythonic Framework for Aggregate Computing</title>
+      <link>http://arxiv.org/abs/2603.29999v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gianluca Aguzzi, Davide Domini, Nicolas Farabegoli, Mirko Viroli&lt;/p&gt;&lt;p&gt;Aggregate programming is a field-based coordination paradigm with over a decade of exploration and successful applications across domains including sensor networks, robotics, and IoT, with implementations in various programming languages, such as Protelis, ScaFi (Scala), and FCPP (C++). A recent research direction integrates machine learning with aggregate computing, aiming to support large-scale distributed learning and provide new abstractions for implementing learning algorithms. However, existing implementations do not target data science practitioners, who predominantly work in Python--th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.29999v1</guid>
+      <pubDate>Tue, 31 Mar 2026 16:57:32 +0000</pubDate>
     </item>
     <item>
-      <title>Stepwise Credit Assignment for GRPO on Flow-Matching Models</title>
-      <link>http://arxiv.org/abs/2603.28718v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yash Savani, Branislav Kveton, Yuchen Liu, Yilin Wang, Jing Shi, Subhojyoti Mukherjee, Nikos Vlassis, Krishna Kumar Singh&lt;/p&gt;&lt;p&gt;Flow-GRPO successfully applies reinforcement learning to flow models, but uses uniform credit assignment across all steps. This ignores the temporal structure of diffusion generation: early steps determine composition and content (low-frequency structure), while late steps resolve details and textures (high-frequency details). Moreover, assigning uniform credit based solely on the final image can inadvertently reward suboptimal intermediate steps, especially when errors are corrected later in the diffusion trajectory&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28718v1</guid>
-      <pubDate>Mon, 30 Mar 2026 17:35:14 +0000</pubDate>
+      <title>Scalable AI-assisted Workflow Management for Detector Design Optimization Using Distributed Computing</title>
+      <link>http://arxiv.org/abs/2603.30014v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Derek Anderson, Amit Bashyal, Markus Diefenthaler, Cristiano Fanelli, Wen Guan, Tanja Horn, Alex Jentsch Meifeng Lin, Tadashi Maeno&lt;/p&gt;&lt;p&gt;The Production and Distributed Analysis (PanDA) system, originally developed for the ATLAS experiment at the CERN Large Hadron Collider (LHC), has evolved into a robust platform for orchestrating large-scale workflows across distributed computing resources. Coupled with its intelligent Distributed Dispatch and Scheduling (iDDS) component, PanDA supports AI/ML-driven workflows through a scalable and flexible workflow engine.   We present an AI-assisted framework for detector design optimization that integrates multi-objective Bayesian optimization with the PanDA--iDDS workflow engine to coordin&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.30014v1</guid>
+      <pubDate>Tue, 31 Mar 2026 17:11:16 +0000</pubDate>
     </item>
     <item>
-      <title>SAGAI-MID: A Generative AI-Driven Middleware for Dynamic Runtime Interoperability</title>
-      <link>http://arxiv.org/abs/2603.28731v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Oliver Aleksander Larsen, Mahyar T. Moghaddam&lt;/p&gt;&lt;p&gt;Modern distributed systems integrate heterogeneous services, REST APIs with different schema versions, GraphQL endpoints, and IoT devices with proprietary payloads that suffer from persistent schema mismatches. Traditional static adapters require manual coding for every schema pair and cannot handle novel combinations at runtime. We present SAGAI-MID, a FastAPI-based middleware that uses large language models (LLMs) to dynamically detect and resolve schema mismatches at runtime&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28731v1</guid>
-      <pubDate>Mon, 30 Mar 2026 17:46:41 +0000</pubDate>
+      <title>Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks</title>
+      <link>http://arxiv.org/abs/2603.30016v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chong Xiang, Drew Zagieboylo, Shaona Ghosh, Sanjay Kariyappa, Kai Greshake, Hanshen Xiao, Chaowei Xiao, G. Edward Suh&lt;/p&gt;&lt;p&gt;AI agents, predominantly powered by large language models (LLMs), are vulnerable to indirect prompt injection, in which malicious instructions embedded in untrusted data can trigger dangerous agent actions. This position paper discusses our vision for system-level defenses against indirect prompt injection attacks. We articulate three positions: (1) dynamic replanning and security policy updates are often necessary for dynamic tasks and realistic environments; (2) certain context-dependent security decisions would still require LLMs (or other learned models), but should only be made within sys&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.30016v1</guid>
+      <pubDate>Tue, 31 Mar 2026 17:15:46 +0000</pubDate>
     </item>
     <item>
-      <title>RAD-AI: Rethinking Architecture Documentation for AI-Augmented Ecosystems</title>
-      <link>http://arxiv.org/abs/2603.28735v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Oliver Aleksander Larsen, Mahyar T. Moghaddam&lt;/p&gt;&lt;p&gt;AI-augmented ecosystems (interconnected systems where multiple AI components interact through shared data and infrastructure) are becoming the architectural norm for smart cities, autonomous fleets, and intelligent platforms. Yet the architecture documentation frameworks practitioners rely on, arc42 and the C4 model, were designed for deterministic software and cannot capture probabilistic behavior, data-dependent evolution, or dual ML/software lifecycles. This gap carries regulatory consequence: the EU AI Act (Regulation 2024/1689) mandates technical documentation through Annex IV that no exi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28735v1</guid>
-      <pubDate>Mon, 30 Mar 2026 17:48:56 +0000</pubDate>
+      <title>Refined Detection for Gumbel Watermarking</title>
+      <link>http://arxiv.org/abs/2603.30017v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tor Lattimore&lt;/p&gt;&lt;p&gt;We propose a simple detection mechanism for the Gumbel watermarking scheme proposed by Aaronson (2022). The new mechanism is proven to be near-optimal in a problem-dependent sense among all model-agnostic watermarking schemes under the assumption that the next-token distribution is sampled i.i.d.&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.30017v1</guid>
+      <pubDate>Tue, 31 Mar 2026 17:16:27 +0000</pubDate>
     </item>
     <item>
-      <title>ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining</title>
-      <link>http://arxiv.org/abs/2603.28737v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anuj Diwan, Eunsol Choi, David Harwath&lt;/p&gt;&lt;p&gt;We introduce ParaSpeechCLAP, a dual-encoder contrastive model that maps speech and text style captions into a common embedding space, supporting a wide range of intrinsic (speaker-level) and situational (utterance-level) descriptors (such as pitch, texture and emotion) far beyond the narrow set handled by existing models. We train specialized ParaSpeechCLAP-Intrinsic and ParaSpeechCLAP-Situational models alongside a unified ParaSpeechCLAP-Combined model, finding that specialization yields stronger performance on individual style dimensions while the unified model excels on compositional evalua&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28737v1</guid>
-      <pubDate>Mon, 30 Mar 2026 17:50:07 +0000</pubDate>
+      <title>Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models</title>
+      <link>http://arxiv.org/abs/2603.30022v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Md Saad, Sajjad Hussain, Mohd Suhaib&lt;/p&gt;&lt;p&gt;This paper introduces a new hybrid framework that combines Reinforcement Learning (RL) and Large Language Models (LLMs) to improve robotic manipulation tasks. By utilizing RL for accurate low-level control and LLMs for high level task planning and understanding of natural language, the proposed framework effectively connects low-level execution with high-level reasoning in robotic systems. This integration allows robots to understand and carry out complex, human-like instructions while adapting to changing environments in real time&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.30022v1</guid>
+      <pubDate>Tue, 31 Mar 2026 17:19:34 +0000</pubDate>
     </item>
     <item>
-      <title>Expectation Error Bounds for Transfer Learning in Linear Regression and Linear Neural Networks</title>
-      <link>http://arxiv.org/abs/2603.28739v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Meitong Liu, Christopher Jung, Rui Li, Xue Feng, Han Zhao&lt;/p&gt;&lt;p&gt;In transfer learning, the learner leverages auxiliary data to improve generalization on a main task. However, the precise theoretical understanding of when and how auxiliary data help remains incomplete. We provide new insights on this issue in two canonical linear settings: ordinary least squares regression and under-parameterized linear neural networks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28739v1</guid>
-      <pubDate>Mon, 30 Mar 2026 17:50:52 +0000</pubDate>
+      <title>The Triadic Cognitive Architecture: Bounding Autonomous Action via Spatio-Temporal and Epistemic Friction</title>
+      <link>http://arxiv.org/abs/2603.30031v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Davide Di Gioia&lt;/p&gt;&lt;p&gt;Current autonomous AI agents, driven primarily by Large Language Models (LLMs), operate in a state of cognitive weightlessness: they process information without an intrinsic sense of network topology, temporal pacing, or epistemic limits. Consequently, heuristic agentic loops (e.g., ReAct) can exhibit failure modes in interactive environments, including excessive tool use under congestion, prolonged deliberation under time decay, and brittle behavior under ambiguous evidence. In this paper, we propose the Triadic Cognitive Architecture (TCA), a unified mathematical framework that grounds machi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.30031v1</guid>
+      <pubDate>Tue, 31 Mar 2026 17:30:25 +0000</pubDate>
     </item>
     <item>
-      <title>On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers</title>
-      <link>http://arxiv.org/abs/2603.28762v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Omer Dahary, Benaya Koren, Daniel Garibi, Daniel Cohen-Or&lt;/p&gt;&lt;p&gt;Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for any given prompt. This typicality bias presents a challenge for creative applications that require a wide range of generative outcomes. We identify a fundamental trade-off in current approaches to diversity: modifying model inputs requires costly optimization to incorporate feedback from the generative path&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28762v1</guid>
-      <pubDate>Mon, 30 Mar 2026 17:59:13 +0000</pubDate>
+      <title>Aligned, Orthogonal or In-conflict: When can we safely optimize Chain-of-Thought?</title>
+      <link>http://arxiv.org/abs/2603.30036v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Max Kaufmann, David Lindner, Roland S. Zimmermann, and Rohin Shah&lt;/p&gt;&lt;p&gt;Chain-of-Thought (CoT) monitoring, in which automated systems monitor the CoT of an LLM, is a promising approach for effectively overseeing AI systems. However, the extent to which a model's CoT helps us oversee the model - the monitorability of the CoT - can be affected by training, for instance by the model learning to hide important features of its reasoning. We propose and empirically validate a conceptual framework for predicting when and why this occurs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.30036v1</guid>
+      <pubDate>Tue, 31 Mar 2026 17:38:39 +0000</pubDate>
     </item>
     <item>
-      <title>Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds</title>
-      <link>http://arxiv.org/abs/2603.28764v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; N Alex Cayco Gajic, Arthur Pellegrino&lt;/p&gt;&lt;p&gt;Similarity measures are widely used to interpret the representational geometries used by neural networks to solve tasks. Yet, because existing methods compare the extrinsic geometry of representations in state space, rather than their intrinsic geometry, they may fail to capture subtle yet crucial distinctions between fundamentally different neural network solutions. Here, we introduce metric similarity analysis (MSA), a novel method which leverages tools from Riemannian geometry to compare the intrinsic geometry of neural representations under the manifold hypothesis&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.28764v1</guid>
-      <pubDate>Mon, 30 Mar 2026 17:59:22 +0000</pubDate>
+      <title>Automatic Identification of Parallelizable Loops Using Transformer-Based Source Code Representations</title>
+      <link>http://arxiv.org/abs/2603.30040v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Izavan dos S. Correia, Henrique C. T. Santos, Tiago A. E. Ferreira&lt;/p&gt;&lt;p&gt;Automatic parallelization remains a challenging problem in software engineering, particularly in identifying code regions where loops can be safely executed in parallel on modern multi-core architectures. Traditional static analysis techniques, such as dependence analysis and polyhedral models, often struggle with irregular or dynamically structured code. In this work, we propose a Transformer-based approach to classify the parallelization potential of source code, focusing on distinguishing independent (parallelizable) loops from undefined ones&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2603.30040v1</guid>
+      <pubDate>Tue, 31 Mar 2026 17:54:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
