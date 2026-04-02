@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 01 Apr 2026 04:47:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 04:31:43 +0000</lastBuildDate>
     <item>
-      <title>ScoringBench: A Benchmark for Evaluating Tabular Foundation Models with Proper Scoring Rules</title>
-      <link>http://arxiv.org/abs/2603.29928v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jonas Landsgesell, Pascal Knoll&lt;/p&gt;&lt;p&gt;Tabular foundation models such as TabPFN and TabICL already produce full predictive distributions yet prevailing regression benchmarks evaluate them almost exclusively via point estimate metrics RMSE R2 These aggregate measures often obscure model performance in the tails of the distribution a critical deficit for high stakes decision making in domains like finance and clinical research where asymmetric risk profiles are the norm We introduce ScoringBench an open benchmark that computes a comprehensive suite of proper scoring rules like CRPS CRLS Interval Score Energy Score weighted CRPS and B&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.29928v1</guid>
-      <pubDate>Tue, 31 Mar 2026 16:01:56 +0000</pubDate>
+      <title>Temporal Dependencies in In-Context Learning: The Role of Induction Heads</title>
+      <link>http://arxiv.org/abs/2604.01094v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anooshka Bajaj, Deven Mahesh Mistry, Sahaj Singh Maini, Yash Aggarwal, Billy Dickson, Zoran Tiganj&lt;/p&gt;&lt;p&gt;Large language models (LLMs) exhibit strong in-context learning capabilities, but how they track and retrieve information from context remains underexplored. Drawing on the free recall paradigm in cognitive science (where participants recall list items in any order), we show that several open-source LLMs consistently display a serial-recall-like pattern, assigning peak probability to tokens that immediately follow a repeated token in the input sequence. Through systematic ablation experiments, we show that induction heads, specialized attention heads that attend to the token following a previo&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01094v1</guid>
+      <pubDate>Wed, 01 Apr 2026 16:21:38 +0000</pubDate>
     </item>
     <item>
-      <title>Bethe Ansatz with a Large Language Model</title>
-      <link>http://arxiv.org/abs/2603.29932v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Balázs Pozsgay, István Vona&lt;/p&gt;&lt;p&gt;We explore the capability of a Large Language Model (LLM) to perform specific computations in mathematical physics: the task is to compute the coordinate Bethe Ansatz solution of selected integrable spin chain models. We select three integrable Hamiltonians for which the solutions were unpublished; two of the Hamiltonians are actually new. We observed that the LLM semi-autonomously solved the task in all cases, with a few mistakes along the way&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.29932v1</guid>
-      <pubDate>Tue, 31 Mar 2026 16:06:19 +0000</pubDate>
+      <title>Adversarial Moral Stress Testing of Large Language Models</title>
+      <link>http://arxiv.org/abs/2604.01108v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Saeid Jamshidi, Foutse Khomh, Arghavan Moradi Dakhel, Amin Nikanjam, Mohammad Hamdaqa, Kawser Wazed Nafi&lt;/p&gt;&lt;p&gt;Evaluating the ethical robustness of large language models (LLMs) deployed in software systems remains challenging, particularly under sustained adversarial user interaction. Existing safety benchmarks typically rely on single-round evaluations and aggregate metrics, such as toxicity scores and refusal rates, which offer limited visibility into behavioral instability that may arise during realistic multi-turn interactions. As a result, rare but high-impact ethical failures and progressive degradation effects may remain undetected prior to deployment&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01108v1</guid>
+      <pubDate>Wed, 01 Apr 2026 16:34:20 +0000</pubDate>
     </item>
     <item>
-      <title>Rethinking AI Literacy Education in Higher Education: Bridging Risk Perception and Responsible Adoption</title>
-      <link>http://arxiv.org/abs/2603.29935v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shasha Yu, Fiona Carroll, Barry L. Bentley&lt;/p&gt;&lt;p&gt;As AI becomes increasingly embedded across societal domains, understanding how future AI practitioners, particularly technology students, perceive its risks is essential for responsible development and adoption. This study analyzed responses from 139 students in Computer Science, Data Science/Data Analytics, and other disciplines using both explicit AI risk ratings and scenario-based assessments of risk and adoption willingness. Four key findings emerged: (1) Students expressed substantially higher concern for concrete, explicitly stated risks than for abstract or scenario-embedded risks; (2) &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.29935v1</guid>
-      <pubDate>Tue, 31 Mar 2026 16:08:16 +0000</pubDate>
+      <title>Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators</title>
+      <link>http://arxiv.org/abs/2604.01114v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Griffin Pitts, Neha Rani, Weedguet Mildort&lt;/p&gt;&lt;p&gt;As generative AI systems are integrated into educational settings, students often encounter AI-generated output while working through learning tasks, either by requesting help or through integrated tools. Trust in AI can influence how students interpret and use that output, including whether they evaluate it critically or exhibit overreliance. We investigate how students' trust relates to their appropriate reliance on an AI assistant during programming problem-solving tasks, and whether this relationship differs by learner characteristics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01114v1</guid>
+      <pubDate>Wed, 01 Apr 2026 16:38:47 +0000</pubDate>
     </item>
     <item>
-      <title>Four Generations of Quantum Biomedical Sensors</title>
-      <link>http://arxiv.org/abs/2603.29944v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xin Jin, Priyam Srivastava, Ronghe Wang, Yuqing Li, Jonathan Beaumariage, Tom Purdy, M. V. Gurudev Dutt, Kang Kim&lt;/p&gt;&lt;p&gt;Quantum sensing technologies offer transformative potential for ultra-sensitive biomedical sensing, yet their clinical translation remains constrained by classical noise limits and a reliance on macroscopic ensembles. We propose a unifying generational framework to organize the evolving landscape of quantum biosensors based on their utilization of quantum resources. First-generation devices utilize discrete energy levels for signal transduction but follow classical scaling laws&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.29944v1</guid>
-      <pubDate>Tue, 31 Mar 2026 16:16:27 +0000</pubDate>
+      <title>Lightweight Prompt-Guided CLIP Adaptation for Monocular Depth Estimation</title>
+      <link>http://arxiv.org/abs/2604.01118v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Reyhaneh Ahani Manghotay, Jie Liang&lt;/p&gt;&lt;p&gt;Leveraging the rich semantic features of vision-language models (VLMs) like CLIP for monocular depth estimation tasks is a promising direction, yet often requires extensive fine-tuning or lacks geometric precision. We present a parameter-efficient framework, named MoA-DepthCLIP, that adapts pretrained CLIP representations for monocular depth estimation with minimal supervision. Our method integrates a lightweight Mixture-of-Adapters (MoA) module into the pretrained Vision Transformer (ViT-B/32) backbone combined with selective fine-tuning of the final layers&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01118v1</guid>
+      <pubDate>Wed, 01 Apr 2026 16:41:04 +0000</pubDate>
     </item>
     <item>
-      <title>Physiological and Semantic Patterns in Medical Teams Using an Intelligent Tutoring System</title>
-      <link>http://arxiv.org/abs/2603.29950v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaoshan Huang, Conrad Borchers, Jiayi Zhang, Susanne P. Lajoie&lt;/p&gt;&lt;p&gt;Effective collaboration requires teams to manage complex cognitive and emotional states through Socially Shared Regulation of Learning (SSRL). Physiological synchrony (i.e., longitudinal alignment in physiological signals) can indicate these states, but is hard to interpret on its own. We investigate the physiological and conversational dynamics of four medical dyads diagnosing a virtual patient case using an intelligent tutoring system&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.29950v1</guid>
-      <pubDate>Tue, 31 Mar 2026 16:18:57 +0000</pubDate>
+      <title>Paper Reconstruction Evaluation: Evaluating Presentation and Hallucination in AI-written Papers</title>
+      <link>http://arxiv.org/abs/2604.01128v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Atsuyuki Miyai, Mashiro Toyooka, Zaiying Zhao, Kenta Watanabe, Toshihiko Yamasaki, Kiyoharu Aizawa&lt;/p&gt;&lt;p&gt;This paper introduces the first systematic evaluation framework for quantifying the quality and risks of papers written by modern coding agents. While AI-driven paper writing has become a growing concern, rigorous evaluation of the quality and potential risks of AI-written papers remains limited, and a unified understanding of their reliability is still lacking. We introduce Paper Reconstruction Evaluation (PaperRecon), an evaluation framework in which an overview (overview.md) is created from an existing paper, after which an agent generates a full paper based on the overview and minimal addi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01128v1</guid>
+      <pubDate>Wed, 01 Apr 2026 16:48:04 +0000</pubDate>
     </item>
     <item>
-      <title>Structured Intent as a Protocol-Like Communication Layer: Cross-Model Robustness, Framework Comparison, and the Weak-Model Compensation Effect</title>
-      <link>http://arxiv.org/abs/2603.29953v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Peng Gang&lt;/p&gt;&lt;p&gt;How reliably can structured intent representations preserve user goals across different AI models, languages, and prompting frameworks? Prior work showed that PPS (Prompt Protocol Specification), a 5W3H-based structured intent framework, improves goal alignment in Chinese and generalizes to English and Japanese. This paper extends that line of inquiry in three directions: cross-model robustness across Claude, GPT-4o, and Gemini 2.5 Pro; controlled comparison with CO-STAR and RISEN; and a user study (N=50) of AI-assisted intent expansion in ecologically valid settings. Across 3,240 model output&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.29953v1</guid>
-      <pubDate>Tue, 31 Mar 2026 16:20:28 +0000</pubDate>
+      <title>Looking into a Pixel by Nonlinear Unmixing -- A Generative Approach</title>
+      <link>http://arxiv.org/abs/2604.01141v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Maofeng Tang, Hairong Qi&lt;/p&gt;&lt;p&gt;Due to the large footprint of pixels in remote sensing imagery, hyperspectral unmixing (HU) has become an important and necessary procedure in hyperspectral image analysis. Traditional HU methods rely on a prior spectral mixing model, especially for nonlinear mixtures, which has largely limited the performance and generalization capacity of the unmixing approach. In this paper, we address the challenging problem of hyperspectral nonlinear unmixing (HNU) without explicit knowledge of the mixing model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01141v1</guid>
+      <pubDate>Wed, 01 Apr 2026 16:58:05 +0000</pubDate>
     </item>
     <item>
-      <title>Trimodal Deep Learning for Glioma Survival Prediction: A Feasibility Study Integrating Histopathology, Gene Expression, and MRI</title>
-      <link>http://arxiv.org/abs/2603.29968v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Iain Swift, JingHua Ye&lt;/p&gt;&lt;p&gt;Multimodal deep learning has improved prognostic accuracy for brain tumours by integrating histopathology and genomic data, yet the contribution of volumetric MRI within unified survival frameworks remains unexplored. This pilot study extends a bimodal framework by incorporating Fluid Attenuated Inversion Recovery (FLAIR) MRI from BraTS2021 as a third modality. Using the TCGA-GBMLGG cohort (664 patients), we evaluate three unimodal models, nine bimodal configurations, and three trimodal configurations across early, late, and joint fusion strategies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.29968v1</guid>
-      <pubDate>Tue, 31 Mar 2026 16:32:22 +0000</pubDate>
+      <title>Detecting Multi-Agent Collusion Through Multi-Agent Interpretability</title>
+      <link>http://arxiv.org/abs/2604.01151v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aaron Rose, Carissa Cullen, Brandon Gary Kaplowitz, Christian Schroeder de Witt&lt;/p&gt;&lt;p&gt;As LLM agents are increasingly deployed in multi-agent systems, they introduce risks of covert coordination that may evade standard forms of human oversight. While linear probes on model activations have shown promise for detecting deception in single-agent settings, collusion is inherently a multi-agent phenomenon, and the use of internal representations for detecting collusion between agents remains unexplored. We introduce NARCBench, a benchmark for evaluating collusion detection under environment distribution shift, and propose five probing techniques that aggregate per-agent deception sco&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01151v1</guid>
+      <pubDate>Wed, 01 Apr 2026 17:08:05 +0000</pubDate>
     </item>
     <item>
-      <title>Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition</title>
-      <link>http://arxiv.org/abs/2603.29972v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Manuel Quintero, Advik Shreekumar, William T. Stephenson, Tamara Broderick&lt;/p&gt;&lt;p&gt;Scientists often want to explain why an outcome is different in two groups. For instance, differences in patient mortality rates across two hospitals could be due to differences in the patients themselves (covariates) or differences in medical care (outcomes given covariates). The Oaxaca--Blinder decomposition (OBD) is a standard tool to tease apart these factors&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.29972v1</guid>
-      <pubDate>Tue, 31 Mar 2026 16:34:48 +0000</pubDate>
+      <title>Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning</title>
+      <link>http://arxiv.org/abs/2604.01152v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohammad R. Abu Ayyash&lt;/p&gt;&lt;p&gt;We present Brainstacks, a modular architecture for continual multi-domain fine-tuning of large language models that packages domain expertise as frozen adapter stacks composing additively on a shared frozen base at inference. Five interlocking components: (1) MoE-LoRA with Shazeer-style noisy top-2 routing across all seven transformer projections under QLoRA 4-bit quantization with rsLoRA scaling; (2) an inner loop performing residual boosting by freezing trained stacks and adding new ones; (3) an outer loop training sequential domain-specific stacks with curriculum-ordered dependencies; (4) n&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01152v1</guid>
+      <pubDate>Wed, 01 Apr 2026 17:08:25 +0000</pubDate>
     </item>
     <item>
-      <title>Quantifying Cross-Modal Interactions in Multimodal Glioma Survival Prediction via InterSHAP: Evidence for Additive Signal Integration</title>
-      <link>http://arxiv.org/abs/2603.29977v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Iain Swift, JingHua Ye, Ruairi O'Reilly&lt;/p&gt;&lt;p&gt;Multimodal deep learning for cancer prognosis is commonly assumed to benefit from synergistic cross-modal interactions, yet this assumption has not been directly tested in survival prediction settings. This work adapts InterSHAP, a Shapley interaction index-based metric, from classification to Cox proportional hazards models and applies it to quantify cross-modal interactions in glioma survival prediction. Using TCGA-GBM and TCGA-LGG data (n=575), we evaluate four fusion architectures combining whole-slide image (WSI) and RNA-seq features&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.29977v1</guid>
-      <pubDate>Tue, 31 Mar 2026 16:39:56 +0000</pubDate>
+      <title>AdaLoRA-QAT: Adaptive Low-Rank and Quantization-Aware Segmentation</title>
+      <link>http://arxiv.org/abs/2604.01167v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Prantik Deb, Srimanth Dhondy, N. Ramakrishna, Anu Kapoor, Raju S. Bapi, Tapabrata Chakraborti&lt;/p&gt;&lt;p&gt;Chest X-ray (CXR) segmentation is an important step in computer-aided diagnosis, yet deploying large foundation models in clinical settings remains challenging due to computational constraints. We propose AdaLoRA-QAT, a two-stage fine-tuning framework that combines adaptive low-rank encoder adaptation with full quantization-aware training. Adaptive rank allocation improves parameter efficiency, while selective mixed-precision INT8 quantization preserves structural fidelity crucial for clinical reliability&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01167v1</guid>
+      <pubDate>Wed, 01 Apr 2026 17:18:46 +0000</pubDate>
     </item>
     <item>
-      <title>Aligning Validation with Deployment: Target-Weighted Cross-Validation for Spatial Prediction</title>
-      <link>http://arxiv.org/abs/2603.29981v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexander Brenning, Thomas Suesse&lt;/p&gt;&lt;p&gt;Cross-validation (CV) is commonly used to estimate predictive risk when independent test data are unavailable. Its validity depends on the assumption that validation tasks are sampled from the same distribution as prediction tasks encountered during deployment. In spatial prediction and other settings with structured data, this assumption is frequently violated, leading to biased estimates of deployment risk&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.29981v1</guid>
-      <pubDate>Tue, 31 Mar 2026 16:44:07 +0000</pubDate>
+      <title>Online Reasoning Calibration: Test-Time Training Enables Generalizable Conformal LLM Reasoning</title>
+      <link>http://arxiv.org/abs/2604.01170v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Cai Zhou, Zekai Wang, Menghua Wu, Qianyu Julie Zhu, Flora C. Shi, Chenyu Wang, Ashia Wilson, Tommi Jaakkola&lt;/p&gt;&lt;p&gt;While test-time scaling has enabled large language models to solve highly difficult tasks, state-of-the-art results come at exorbitant compute costs. These inefficiencies can be attributed to the miscalibration of post-trained language models, and the lack of calibration in popular sampling techniques. Here, we present Online Reasoning Calibration (ORCA), a framework for calibrating the sampling process that draws upon conformal prediction and test-time training&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01170v1</guid>
+      <pubDate>Wed, 01 Apr 2026 17:21:50 +0000</pubDate>
     </item>
     <item>
-      <title>Extending MONA in Camera Dropbox: Reproduction, Learned Approval, and Design Implications for Reward-Hacking Mitigation</title>
-      <link>http://arxiv.org/abs/2603.29993v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nathan Heath&lt;/p&gt;&lt;p&gt;Myopic Optimization with Non-myopic Approval (MONA) mitigates multi-step reward hacking by restricting the agent's planning horizon while supplying far-sighted approval as a training signal~\cite{farquhar2025mona}. The original paper identifies a critical open question: how the method of constructing approval -- particularly the degree to which approval depends on achieved outcomes -- affects whether MONA's safety guarantees hold. We present a reproduction-first extension of the public MONA Camera Dropbox environment that (i)~repackages the released codebase as a standard Python project with s&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.29993v1</guid>
-      <pubDate>Tue, 31 Mar 2026 16:56:10 +0000</pubDate>
+      <title>Screening Is Enough</title>
+      <link>http://arxiv.org/abs/2604.01178v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ken M. Nakanishi&lt;/p&gt;&lt;p&gt;A core limitation of standard softmax attention is that it does not define a notion of absolute query--key relevance: attention weights are obtained by redistributing a fixed unit mass across all keys according to their relative scores. As a result, relevance is defined only relative to competing keys, and irrelevant keys cannot be explicitly rejected. We introduce Multiscreen, a language-model architecture built around a mechanism we call screening, which enables absolute query--key relevance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01178v1</guid>
+      <pubDate>Wed, 01 Apr 2026 17:29:08 +0000</pubDate>
     </item>
     <item>
-      <title>Enhancing Structural Mapping with LLM-derived Abstractions for Analogical Reasoning in Narratives</title>
-      <link>http://arxiv.org/abs/2603.29997v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohammadhossein Khojasteh, Yifan Jiang, Stefano De Giorgis, Frank van Harmelen, Filip Ilievski&lt;/p&gt;&lt;p&gt;Analogical reasoning is a key driver of human generalization in problem-solving and argumentation. Yet, analogies between narrative structures remain challenging for machines. Cognitive engines for structural mapping are not directly applicable, as they assume pre-extracted entities, whereas LLMs' performance is sensitive to prompt format and the degree of surface similarity between narratives&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.29997v1</guid>
-      <pubDate>Tue, 31 Mar 2026 16:57:11 +0000</pubDate>
+      <title>A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems</title>
+      <link>http://arxiv.org/abs/2604.01179v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; J. E. Domínguez-Vidal&lt;/p&gt;&lt;p&gt;Foundation vision-language models are becoming increasingly relevant to robotics because they can provide richer semantic perception than narrow task-specific pipelines. However, their practical adoption in robot software stacks still depends on reproducible middleware integrations rather than on model quality alone. Florence-2 is especially attractive in this regard because it unifies captioning, optical character recognition, open-vocabulary detection, grounding and related vision-language tasks within a comparatively manageable model size&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01179v1</guid>
+      <pubDate>Wed, 01 Apr 2026 17:29:59 +0000</pubDate>
     </item>
     <item>
-      <title>Phyelds: A Pythonic Framework for Aggregate Computing</title>
-      <link>http://arxiv.org/abs/2603.29999v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gianluca Aguzzi, Davide Domini, Nicolas Farabegoli, Mirko Viroli&lt;/p&gt;&lt;p&gt;Aggregate programming is a field-based coordination paradigm with over a decade of exploration and successful applications across domains including sensor networks, robotics, and IoT, with implementations in various programming languages, such as Protelis, ScaFi (Scala), and FCPP (C++). A recent research direction integrates machine learning with aggregate computing, aiming to support large-scale distributed learning and provide new abstractions for implementing learning algorithms. However, existing implementations do not target data science practitioners, who predominantly work in Python--th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.29999v1</guid>
-      <pubDate>Tue, 31 Mar 2026 16:57:32 +0000</pubDate>
+      <title>ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget</title>
+      <link>http://arxiv.org/abs/2604.01195v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nandan Thakur, Zijian Chen, Xueguang Ma, Jimmy Lin&lt;/p&gt;&lt;p&gt;Search agents, which integrate language models (LMs) with web search, are becoming crucial for answering complex user queries. Constructing training datasets for deep research tasks, involving multi-step retrieval and reasoning, remains challenging due to expensive human annotation, or cumbersome prerequisites. In this work, we introduce ORBIT, a training dataset with 20K reasoning-intensive queries with short verifiable answers, generated using a frugal framework without relying on paid API services&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01195v1</guid>
+      <pubDate>Wed, 01 Apr 2026 17:42:41 +0000</pubDate>
     </item>
     <item>
-      <title>Scalable AI-assisted Workflow Management for Detector Design Optimization Using Distributed Computing</title>
-      <link>http://arxiv.org/abs/2603.30014v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Derek Anderson, Amit Bashyal, Markus Diefenthaler, Cristiano Fanelli, Wen Guan, Tanja Horn, Alex Jentsch Meifeng Lin, Tadashi Maeno&lt;/p&gt;&lt;p&gt;The Production and Distributed Analysis (PanDA) system, originally developed for the ATLAS experiment at the CERN Large Hadron Collider (LHC), has evolved into a robust platform for orchestrating large-scale workflows across distributed computing resources. Coupled with its intelligent Distributed Dispatch and Scheduling (iDDS) component, PanDA supports AI/ML-driven workflows through a scalable and flexible workflow engine.   We present an AI-assisted framework for detector design optimization that integrates multi-objective Bayesian optimization with the PanDA--iDDS workflow engine to coordin&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.30014v1</guid>
-      <pubDate>Tue, 31 Mar 2026 17:11:16 +0000</pubDate>
+      <title>Therefore I am. I Think</title>
+      <link>http://arxiv.org/abs/2604.01202v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Esakkivel Esakkiraja, Sai Rajeswar, Denis Akhiyarov, Rajagopal Venkatesaramani&lt;/p&gt;&lt;p&gt;We consider the question: when a large language reasoning model makes a choice, did it think first and then decide to, or decide first and then think? In this paper, we present evidence that detectable, early-encoded decisions shape chain-of-thought in reasoning models. Specifically, we show that a simple linear probe successfully decodes tool-calling decisions from pre-generation activations with very high confidence, and in some cases, even before a single reasoning token is produced. Activation steering supports this causally: perturbing the decision direction leads to inflated deliberation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01202v1</guid>
+      <pubDate>Wed, 01 Apr 2026 17:46:23 +0000</pubDate>
     </item>
     <item>
-      <title>Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks</title>
-      <link>http://arxiv.org/abs/2603.30016v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chong Xiang, Drew Zagieboylo, Shaona Ghosh, Sanjay Kariyappa, Kai Greshake, Hanshen Xiao, Chaowei Xiao, G. Edward Suh&lt;/p&gt;&lt;p&gt;AI agents, predominantly powered by large language models (LLMs), are vulnerable to indirect prompt injection, in which malicious instructions embedded in untrusted data can trigger dangerous agent actions. This position paper discusses our vision for system-level defenses against indirect prompt injection attacks. We articulate three positions: (1) dynamic replanning and security policy updates are often necessary for dynamic tasks and realistic environments; (2) certain context-dependent security decisions would still require LLMs (or other learned models), but should only be made within sys&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.30016v1</guid>
-      <pubDate>Tue, 31 Mar 2026 17:15:46 +0000</pubDate>
+      <title>Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction</title>
+      <link>http://arxiv.org/abs/2604.01204v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jorge Condor, Nicolas Moenne-Loccoz, Merlin Nimier-David, Piotr Didyk, Zan Gojcic, Qi Wu&lt;/p&gt;&lt;p&gt;Primitive-based methods such as 3D Gaussian Splatting have recently become the state-of-the-art for novel-view synthesis and related reconstruction tasks. Compared to neural fields, these representations are more flexible, adaptive, and scale better to large scenes. However, the limited expressivity of individual primitives makes modeling high-frequency detail challenging&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01204v1</guid>
+      <pubDate>Wed, 01 Apr 2026 17:48:22 +0000</pubDate>
     </item>
     <item>
-      <title>Refined Detection for Gumbel Watermarking</title>
-      <link>http://arxiv.org/abs/2603.30017v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tor Lattimore&lt;/p&gt;&lt;p&gt;We propose a simple detection mechanism for the Gumbel watermarking scheme proposed by Aaronson (2022). The new mechanism is proven to be near-optimal in a problem-dependent sense among all model-agnostic watermarking schemes under the assumption that the next-token distribution is sampled i.i.d.&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.30017v1</guid>
-      <pubDate>Tue, 31 Mar 2026 17:16:27 +0000</pubDate>
+      <title>CliffSearch: Structured Agentic Co-Evolution over Theory and Code for Scientific Algorithm Discovery</title>
+      <link>http://arxiv.org/abs/2604.01210v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Youssef Mroueh, Carlos Fonseca, Brian Belgodere, David Cox&lt;/p&gt;&lt;p&gt;Scientific algorithm discovery is iterative: hypotheses are proposed, implemented, stress-tested, and revised. Current LLM-guided search systems accelerate proposal generation, but often under-represent scientific structure by optimizing code-only artifacts with weak correctness/originality gating. We present CliffSearch, an agentic evolutionary framework in which the core evolution operators (pair selection, crossover, mutation, and review) are implemented as LLM agents, and the loop is designed around three principles: (1) each node is a structured scientific artifact, instantiated in either&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01210v1</guid>
+      <pubDate>Wed, 01 Apr 2026 17:51:26 +0000</pubDate>
     </item>
     <item>
-      <title>Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models</title>
-      <link>http://arxiv.org/abs/2603.30022v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Md Saad, Sajjad Hussain, Mohd Suhaib&lt;/p&gt;&lt;p&gt;This paper introduces a new hybrid framework that combines Reinforcement Learning (RL) and Large Language Models (LLMs) to improve robotic manipulation tasks. By utilizing RL for accurate low-level control and LLMs for high level task planning and understanding of natural language, the proposed framework effectively connects low-level execution with high-level reasoning in robotic systems. This integration allows robots to understand and carry out complex, human-like instructions while adapting to changing environments in real time&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.30022v1</guid>
-      <pubDate>Tue, 31 Mar 2026 17:19:34 +0000</pubDate>
+      <title>$\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution</title>
+      <link>http://arxiv.org/abs/2604.01212v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Muyu He, Adit Jain, Anand Kumar, Vincent Tu, Soumyadeep Bakshi, Sachin Patro, Nazneen Rajani&lt;/p&gt;&lt;p&gt;As LLM agents tackle increasingly complex tasks, a critical question is whether they can maintain strategic coherence over long horizons: planning under uncertainty, learning from delayed feedback, and adapting when early mistakes compound. We introduce $\texttt{YC-Bench}$, a benchmark that evaluates these capabilities by tasking an agent with running a simulated startup over a one-year horizon spanning hundreds of turns. The agent must manage employees, select task contracts, and maintain profitability in a partially observable environment where adversarial clients and growing payroll create &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01212v1</guid>
+      <pubDate>Wed, 01 Apr 2026 17:52:19 +0000</pubDate>
     </item>
     <item>
-      <title>The Triadic Cognitive Architecture: Bounding Autonomous Action via Spatio-Temporal and Epistemic Friction</title>
-      <link>http://arxiv.org/abs/2603.30031v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Davide Di Gioia&lt;/p&gt;&lt;p&gt;Current autonomous AI agents, driven primarily by Large Language Models (LLMs), operate in a state of cognitive weightlessness: they process information without an intrinsic sense of network topology, temporal pacing, or epistemic limits. Consequently, heuristic agentic loops (e.g., ReAct) can exhibit failure modes in interactive environments, including excessive tool use under congestion, prolonged deliberation under time decay, and brittle behavior under ambiguous evidence. In this paper, we propose the Triadic Cognitive Architecture (TCA), a unified mathematical framework that grounds machi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.30031v1</guid>
-      <pubDate>Tue, 31 Mar 2026 17:30:25 +0000</pubDate>
+      <title>The Recipe Matters More Than the Kitchen:Mathematical Foundations of the AI Weather Prediction Pipeline</title>
+      <link>http://arxiv.org/abs/2604.01215v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Piyush Garg, Diana R. Gergel, Andrew E. Shao, Galen J. Yacalis&lt;/p&gt;&lt;p&gt;AI weather prediction has advanced rapidly, yet no unified mathematical framework explains what determines forecast skill. Existing theory addresses specific architectural choices rather than the learning pipeline as a whole, while operational evidence from 2023-2026 demonstrates that training methodology, loss function design, and data diversity matter at least as much as architecture selection. This paper makes two interleaved contributions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01215v1</guid>
+      <pubDate>Wed, 01 Apr 2026 17:53:51 +0000</pubDate>
     </item>
     <item>
-      <title>Aligned, Orthogonal or In-conflict: When can we safely optimize Chain-of-Thought?</title>
-      <link>http://arxiv.org/abs/2603.30036v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Max Kaufmann, David Lindner, Roland S. Zimmermann, and Rohin Shah&lt;/p&gt;&lt;p&gt;Chain-of-Thought (CoT) monitoring, in which automated systems monitor the CoT of an LLM, is a promising approach for effectively overseeing AI systems. However, the extent to which a model's CoT helps us oversee the model - the monitorability of the CoT - can be affected by training, for instance by the model learning to hide important features of its reasoning. We propose and empirically validate a conceptual framework for predicting when and why this occurs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.30036v1</guid>
-      <pubDate>Tue, 31 Mar 2026 17:38:39 +0000</pubDate>
+      <title>LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)</title>
+      <link>http://arxiv.org/abs/2604.01216v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuxuan Bao, Xingyue Zhang, J. Nathan Kutz&lt;/p&gt;&lt;p&gt;Reconstructing full spatio-temporal dynamics from sparse observations in both space and time remains a central challenge in complex systems, as measurements can be spatially incomplete and can be also limited to narrow temporal windows. Yet approximating the complete spatio-temporal trajectory is essential for mechanistic insight and understanding, model calibration, and operational decision-making. We introduce LAPIS-SHRED (LAtent Phase Inference from Short time sequence using SHallow REcurrent Decoders), a modular architecture that reconstructs and/or forecasts complete spatiotemporal dynami&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01216v1</guid>
+      <pubDate>Wed, 01 Apr 2026 17:55:10 +0000</pubDate>
     </item>
     <item>
-      <title>Automatic Identification of Parallelizable Loops Using Transformer-Based Source Code Representations</title>
-      <link>http://arxiv.org/abs/2603.30040v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Izavan dos S. Correia, Henrique C. T. Santos, Tiago A. E. Ferreira&lt;/p&gt;&lt;p&gt;Automatic parallelization remains a challenging problem in software engineering, particularly in identifying code regions where loops can be safely executed in parallel on modern multi-core architectures. Traditional static analysis techniques, such as dependence analysis and polyhedral models, often struggle with irregular or dynamically structured code. In this work, we propose a Transformer-based approach to classify the parallelization potential of source code, focusing on distinguishing independent (parallelizable) loops from undefined ones&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2603.30040v1</guid>
-      <pubDate>Tue, 31 Mar 2026 17:54:27 +0000</pubDate>
+      <title>HippoCamp: Benchmarking Contextual Agents on Personal Computers</title>
+      <link>http://arxiv.org/abs/2604.01221v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhe Yang, Shulin Tian, Kairui Hu, Shuai Liu, Hoang-Nhat Nguyen, Yichi Zhang, Zujin Guo, Mengying Yu&lt;/p&gt;&lt;p&gt;We present HippoCamp, a new benchmark designed to evaluate agents' capabilities on multimodal file management. Unlike existing agent benchmarks that focus on tasks like web interaction, tool use, or software automation in generic settings, HippoCamp evaluates agents in user-centric environments to model individual user profiles and search massive personal files for context-aware reasoning. Our benchmark instantiates device-scale file systems over real-world profiles spanning diverse modalities, comprising 42.4 GB of data across over 2K real-world files&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.01221v1</guid>
+      <pubDate>Wed, 01 Apr 2026 17:58:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
