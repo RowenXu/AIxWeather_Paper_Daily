@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 03 Apr 2026 04:31:17 +0000</lastBuildDate>
-    <item>
-      <title>Impact of Multimodal and Conversational AI on Learning Outcomes and Experience</title>
-      <link>http://arxiv.org/abs/2604.02221v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Karan Taneja, Anjali Singh, Ashok K. Goel&lt;/p&gt;&lt;p&gt;Multimodal Large Language Models (MLLMs) offer an opportunity to support multimedia learning through conversational systems grounded in educational content. However, while conversational AI is known to boost engagement, its impact on learning in visually-rich STEM domains remains under-explored. Moreover, there is limited understanding of how multimodality and conversationality jointly influence learning in generative AI systems&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.02221v1</guid>
-      <pubDate>Thu, 02 Apr 2026 16:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>When to ASK: Uncertainty-Gated Language Assistance for Reinforcement Learning</title>
-      <link>http://arxiv.org/abs/2604.02226v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Juarez Monteiro, Nathan Gavenski, Gianlucca Zuin, Adriano Veloso&lt;/p&gt;&lt;p&gt;Reinforcement learning (RL) agents often struggle with out-of-distribution (OOD) scenarios, leading to high uncertainty and random behavior. While language models (LMs) contain valuable world knowledge, larger ones incur high computational costs, hindering real-time use, and exhibit limitations in autonomous planning. We introduce Adaptive Safety through Knowledge (ASK), which combines smaller LMs with trained RL policies to enhance OOD generalization without retraining&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.02226v1</guid>
-      <pubDate>Thu, 02 Apr 2026 16:19:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Apr 2026 04:19:49 +0000</lastBuildDate>
     <item>
       <title>Answering the Wrong Question: Reasoning Trace Inversion for Abstention in LLMs</title>
       <link>http://arxiv.org/abs/2604.02230v1</link>
