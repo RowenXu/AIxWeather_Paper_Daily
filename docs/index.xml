@@ -7,6 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 06 Apr 2026 04:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 04:35:43 +0000</lastBuildDate>
+    <item>
+      <title>ANX: Protocol-First Design for AI Agent Interaction with a Supporting 3EX Decoupled Architecture</title>
+      <link>http://arxiv.org/abs/2604.04820v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xu Mingze&lt;/p&gt;&lt;p&gt;AI agents, autonomous digital actors, need agent-native protocols; existing methods include GUI automation and MCP-based skills, with defects of high token consumption, fragmented interaction, inadequate security, due to lacking a unified top-level framework and key components, each independent module flawed. To address these issues, we present ANX, an open, extensible, verifiable agent-native protocol and top-level framework integrating CLI, Skill, MCP, resolving pain points via protocol innovation, architectural optimization and tool supplementation. Its four core innovations: 1) Agent-nativ&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04820v1</guid>
+      <pubDate>Mon, 06 Apr 2026 16:24:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plausibility as Commonsense Reasoning: Humans Succeed, Large Language Models Do not</title>
+      <link>http://arxiv.org/abs/2604.04825v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sercan Karakaş&lt;/p&gt;&lt;p&gt;Large language models achieve strong performance on many language tasks, yet it remains unclear whether they integrate world knowledge with syntactic structure in a human-like, structure-sensitive way during ambiguity resolution. We test this question in Turkish prenominal relative-clause attachment ambiguities, where the same surface string permits high attachment (HA) or low attachment (LA). We construct ambiguous items that keep the syntactic configuration fixed and ensure both parses remain pragmatically possible, while graded event plausibility selectively favors High Attachment vs.\ Low &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04825v1</guid>
+      <pubDate>Mon, 06 Apr 2026 16:27:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Robust SINDy Autoencoder for Noisy Dynamical System Identification</title>
+      <link>http://arxiv.org/abs/2604.04829v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kairui Ding&lt;/p&gt;&lt;p&gt;Sparse identification of nonlinear dynamics (SINDy) has been widely used to discover the governing equations of a dynamical system from data. It uses sparse regression techniques to identify parsimonious models of unknown systems from a library of candidate functions. Therefore, it relies on the assumption that the dynamics are sparsely represented in the coordinate system used&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04829v1</guid>
+      <pubDate>Mon, 06 Apr 2026 16:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement</title>
+      <link>http://arxiv.org/abs/2604.04843v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yude Zou, Junji Gong, Xing Gao, Zixuan Li, Tianxing Chen, Guanjie Zheng&lt;/p&gt;&lt;p&gt;Human-object-scene interactions (HOSI) generation has broad applications in embodied AI, simulation, and animation. Unlike human-object interaction (HOI) and human-scene interaction (HSI), HOSI generation requires reasoning over dynamic object-scene changes, yet suffers from limited annotated data. To address these issues, we propose a coarse-to-fine instruction-conditioned interaction generation framework that is explicitly aligned with the iterative denoising process of a consistency model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04843v1</guid>
+      <pubDate>Mon, 06 Apr 2026 16:44:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strengthening Human-Centric Chain-of-Thought Reasoning Integrity in LLMs via a Structured Prompt Framework</title>
+      <link>http://arxiv.org/abs/2604.04852v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiling Zhou, Aisvarya Adeseye, Seppo Virtanen, Antti Hakkala, Jouni Isoaho&lt;/p&gt;&lt;p&gt;Chain-of-Thought (CoT) prompting has been used to enhance the reasoning capability of LLMs. However, its reliability in security-sensitive analytical tasks remains insufficiently examined, particularly under structured human evaluation. Alternative approaches, such as model scaling and fine-tuning can be used to help improve performance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04852v1</guid>
+      <pubDate>Mon, 06 Apr 2026 16:53:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents</title>
+      <link>http://arxiv.org/abs/2604.04853v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shu Wang, Edwin Yu, Oscar Love, Tom Zhang, Tom Wong, Steve Scargall, Charles Fan&lt;/p&gt;&lt;p&gt;Large Language Model (LLM) agents require persistent memory to maintain personalization, factual continuity, and long-horizon reasoning, yet standard context-window and retrieval-augmented generation (RAG) pipelines degrade over multi-session interactions. We present MemMachine, an open-source memory system that integrates short-term, long-term episodic, and profile memory within a ground-truth-preserving architecture that stores entire conversational episodes and reduces lossy LLM-based extraction. MemMachine uses contextualized retrieval that expands nucleus matches with surrounding context,&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04853v1</guid>
+      <pubDate>Mon, 06 Apr 2026 16:57:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tracing the origin of tropical North Atlantic Sargassum blooms to West Africa</title>
+      <link>http://arxiv.org/abs/2604.04866v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Francisco J. Beron-Vera, Maria J. Olascoaga, Phillipe Miron, Gage Bonner&lt;/p&gt;&lt;p&gt;We simulate the dynamics of pelagic \emph{Sargassum} rafts as systems of finite-size floating particles, governed by a Maxey--Riley law with nonlinear elastic interactions. Using surface ocean currents and wind data from reanalysis systems for clump transport, we computed trajectories within a domain covering the tropical and subtropical north Atlantic. The subsequent motion is reduced using Ulam's discretization method into a time-inhomogeneous Markov chain that simulates a background \emph{Sargassum} concentration&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04866v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:09:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Noise Immunity in In-Context Tabular Learning: An Empirical Robustness Analysis of TabPFN's Attention Mechanisms</title>
+      <link>http://arxiv.org/abs/2604.04868v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; James Hu, Mahdi Ghelichi&lt;/p&gt;&lt;p&gt;Tabular foundation models (TFMs) such as TabPFN (Tabular Prior-Data Fitted Network) are designed to generalize across heterogeneous tabular datasets through in-context learning (ICL). They perform prediction in a single forward pass conditioned on labeled examples without dataset-specific parameter updates. This paradigm is particularly attractive in industrial domains (e.g., finance and healthcare) where tabular prediction is pervasive&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04868v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:16:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incompleteness of AI Safety Verification via Kolmogorov Complexity</title>
+      <link>http://arxiv.org/abs/2604.04876v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Munawar Hasan&lt;/p&gt;&lt;p&gt;Ensuring that artificial intelligence (AI) systems satisfy formal safety and policy constraints is a central challenge in safety-critical domains. While limitations of verification are often attributed to combinatorial complexity and model expressiveness, we show that they arise from intrinsic information-theoretic limits. We formalize policy compliance as a verification problem over encoded system behaviors and analyze it using Kolmogorov complexity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04876v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:26:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning, Potential, and Retention: An Approach for Evaluating Adaptive AI-Enabled Medical Devices</title>
+      <link>http://arxiv.org/abs/2604.04878v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexis Burgon, Berkman Sahiner, Nicholas A Petrick, Gene Pennello, Ravi K Samala&lt;/p&gt;&lt;p&gt;This work addresses challenges in evaluating adaptive artificial intelligence (AI) models for medical devices, where iterative updates to both models and evaluation datasets complicate performance assessment. We introduce a novel approach with three complementary measurements: learning (model improvement on current data), potential (dataset-driven performance shifts), and retention (knowledge preservation across modification steps), to disentangle performance changes caused by model adaptations versus dynamic environments. Case studies using simulated population shifts demonstrate the approach&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04878v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:27:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Muon Dynamics as a Spectral Wasserstein Flow</title>
+      <link>http://arxiv.org/abs/2604.04891v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gabriel Peyré&lt;/p&gt;&lt;p&gt;Gradient normalization is central in deep-learning optimization because it stabilizes training and reduces sensitivity to scale. For deep architectures, parameters are naturally grouped into matrices or blocks, so spectral normalizations are often more faithful than coordinatewise Euclidean ones; Muon is the main motivating example of this paper. More broadly, we study a family of spectral normalization rules, ranging from ordinary gradient descent to Muon and intermediate Schatten-type schemes, in a mean-field regime where parameters are modeled by probability measures&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04891v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:41:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rethinking Exploration in RLVR: From Entropy Regularization to Refinement via Bidirectional Entropy Modulation</title>
+      <link>http://arxiv.org/abs/2604.04894v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hengrui Gu, Xiaotian Han, Yujing Bian, Kaixiong Zhou&lt;/p&gt;&lt;p&gt;Reinforcement learning with verifiable rewards (RLVR) has significantly advanced the reasoning capabilities of large language models (LLMs). However, it faces a fundamental limitation termed \textit{restricted exploration}, where the policy rapidly converges to a narrow set of solutions. While entropy regularization is a popular approach used to sustain exploration, it often proves unreliable for LLMs, suffering from high hyperparameter sensitivity and yielding only marginal performance gains&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04894v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:42:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic Federated Learning: The Future of Distributed Training Orchestration</title>
+      <link>http://arxiv.org/abs/2604.04895v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rafael O. Jarczewski, Gabriel U. Talasso, Leandro Villas, Allan M. de Souza&lt;/p&gt;&lt;p&gt;Although Federated Learning (FL) promises privacy and distributed collaboration, its effectiveness in real-world scenarios is often hampered by the stochastic heterogeneity of clients and unpredictable system dynamics. Existing static optimization approaches fail to adapt to these fluctuations, resulting in resource underutilization and systemic bias. In this work, we propose a paradigm shift towards Agentic-FL, a framework where Language Model-based Agents (LMagents) assume autonomous orchestration roles&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04895v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:43:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>QED-Nano: Teaching a Tiny Model to Prove Hard Theorems</title>
+      <link>http://arxiv.org/abs/2604.04898v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; LM-Provers, Yuxiao Qu, Amrith Setlur, Jasper Dekoninck, Edward Beeching, Jia Li, Ian Wu, Lewis Tunstall&lt;/p&gt;&lt;p&gt;Proprietary AI systems have recently demonstrated impressive capabilities on complex proof-based problems, with gold-level performance reported at the 2025 International Mathematical Olympiad (IMO). However, the training pipelines behind these systems remain largely undisclosed, and their reliance on large "internal" models and scaffolds makes them expensive to run, difficult to reproduce, and hard to study or improve upon. This raises a central question: can small, open models also be trained to achieve competitive reasoning performance on difficult Olympiad-level math? In this paper, we answ&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04898v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:44:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>FileGram: Grounding Agent Personalization in File-System Behavioral Traces</title>
+      <link>http://arxiv.org/abs/2604.04901v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shuai Liu, Shulin Tian, Kairui Hu, Yuhao Dong, Zhe Yang, Bo Li, Jingkang Yang, Chen Change Loy&lt;/p&gt;&lt;p&gt;Coworking AI agents operating within local file systems are rapidly emerging as a paradigm in human-AI interaction; however, effective personalization remains limited by severe data constraints, as strict privacy barriers and the difficulty of jointly collecting multimodal real-world traces prevent scalable training and evaluation, and existing methods remain interaction-centric while overlooking dense behavioral traces in file-system operations; to address this gap, we propose FileGram, a comprehensive framework that grounds agent memory and personalization in file-system behavioral traces, c&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04901v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:49:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI Aggregation Affects Knowledge</title>
+      <link>http://arxiv.org/abs/2604.04906v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daron Acemoglu, Tianyi Lin, Asuman Ozdaglar, James Siderius&lt;/p&gt;&lt;p&gt;Artificial intelligence (AI) changes social learning when aggregated outputs become training data for future predictions. To study this, we extend the DeGroot model by introducing an AI aggregator that trains on population beliefs and feeds synthesized signals back to agents. We define the learning gap as the deviation of long-run beliefs from the efficient benchmark, allowing us to capture how AI aggregation affects learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04906v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:51:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyzing Symbolic Properties for DRL Agents in Systems and Networking</title>
+      <link>http://arxiv.org/abs/2604.04914v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohammad Zangooei, Jannis Weil, Amr Rizk, Mina Tahmasbi Arashloo, Raouf Boutaba&lt;/p&gt;&lt;p&gt;Deep reinforcement learning (DRL) has shown remarkable performance on complex control problems in systems and networking, including adaptive video streaming, wireless resource management, and congestion control. For safe deployment, however, it is critical to reason about how agents behave across the range of system states they encounter in practice. Existing verification-based methods in this domain primarily focus on point properties, defined around fixed input states, which offer limited coverage and require substantial manual effort to identify relevant input-output pairs for analysis&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04914v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:55:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vero: An Open RL Recipe for General Visual Reasoning</title>
+      <link>http://arxiv.org/abs/2604.04917v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gabriel Sarch, Linrong Cai, Qunzhong Wang, Haoyang Wu, Danqi Chen, Zhuang Liu&lt;/p&gt;&lt;p&gt;What does it take to build a visual reasoner that works across charts, science, spatial understanding, and open-ended tasks? The strongest vision-language models (VLMs) show such broad visual reasoning is within reach, but the recipe behind them remains unclear, locked behind proprietary reinforcement learning (RL) pipelines with non-public data. We introduce Vero, a family of fully open VLMs that matches or exceeds existing open-weight models across diverse visual reasoning tasks. We scale RL data and rewards across six broad task categories, constructing Vero-600K, a 600K-sample dataset from&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04917v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:56:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your Pre-trained Diffusion Model Secretly Knows Restoration</title>
+      <link>http://arxiv.org/abs/2604.04924v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sudarshan Rajagopalan, Vishal M. Patel&lt;/p&gt;&lt;p&gt;Pre-trained diffusion models have enabled significant advancements in All-in-One Restoration (AiOR), offering improved perceptual quality and generalization. However, diffusion-based restoration methods primarily rely on fine-tuning or Control-Net style modules to leverage the pre-trained diffusion model's priors for AiOR. In this work, we show that these pre-trained diffusion models inherently possess restoration behavior, which can be unlocked by directly learning prompt embeddings at the output of the text encoder&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04924v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:59:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Early Stopping for Large Reasoning Models via Confidence Dynamics</title>
+      <link>http://arxiv.org/abs/2604.04930v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Parsa Hosseini, Sumit Nawathe, Mahdi Salmani, Meisam Razaviyayn, Soheil Feizi&lt;/p&gt;&lt;p&gt;Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial computational cost and can even degrade performance due to overthinking. A key challenge is determining when the model should stop reasoning and produce the final answer. In this work, we study the confidence of intermediate answers during reasoning and observe two characteristic behaviors: correct reasoning trajectories often reach high-confidence answers early, while incorrect rollouts tend to produce long, unproductive reasoning traces and exhibit less r&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.04930v1</guid>
+      <pubDate>Mon, 06 Apr 2026 17:59:45 +0000</pubDate>
+    </item>
   </channel>
 </rss>
