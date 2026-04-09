@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 07 Apr 2026 04:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 04:35:01 +0000</lastBuildDate>
     <item>
-      <title>ANX: Protocol-First Design for AI Agent Interaction with a Supporting 3EX Decoupled Architecture</title>
-      <link>http://arxiv.org/abs/2604.04820v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xu Mingze&lt;/p&gt;&lt;p&gt;AI agents, autonomous digital actors, need agent-native protocols; existing methods include GUI automation and MCP-based skills, with defects of high token consumption, fragmented interaction, inadequate security, due to lacking a unified top-level framework and key components, each independent module flawed. To address these issues, we present ANX, an open, extensible, verifiable agent-native protocol and top-level framework integrating CLI, Skill, MCP, resolving pain points via protocol innovation, architectural optimization and tool supplementation. Its four core innovations: 1) Agent-nativ&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04820v1</guid>
-      <pubDate>Mon, 06 Apr 2026 16:24:07 +0000</pubDate>
+      <title>Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization</title>
+      <link>http://arxiv.org/abs/2604.07165v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yu Li, Sizhe Tang, Tian Lan&lt;/p&gt;&lt;p&gt;Reinforcement learning for Large Language Model agents is often hindered by sparse rewards in multi-step reasoning tasks. Existing approaches like Group Relative Policy Optimization treat sampled trajectories as independent chains, assigning uniform credit to all steps in each chain and ignoring the existence of critical steps that may disproportionally impact reasoning outcome. In this paper, we propose T-STAR(Tree-structured Self-Taught Agent Rectification), a framework that recovers the latent correlated reward structure across seemingly independent trajectories&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07165v1</guid>
+      <pubDate>Wed, 08 Apr 2026 14:55:29 +0000</pubDate>
     </item>
     <item>
-      <title>Plausibility as Commonsense Reasoning: Humans Succeed, Large Language Models Do not</title>
-      <link>http://arxiv.org/abs/2604.04825v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sercan Karakaş&lt;/p&gt;&lt;p&gt;Large language models achieve strong performance on many language tasks, yet it remains unclear whether they integrate world knowledge with syntactic structure in a human-like, structure-sensitive way during ambiguity resolution. We test this question in Turkish prenominal relative-clause attachment ambiguities, where the same surface string permits high attachment (HA) or low attachment (LA). We construct ambiguous items that keep the syntactic configuration fixed and ensure both parses remain pragmatically possible, while graded event plausibility selectively favors High Attachment vs.\ Low &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04825v1</guid>
-      <pubDate>Mon, 06 Apr 2026 16:27:06 +0000</pubDate>
+      <title>Amortized Filtering and Smoothing with Conditional Normalizing Flows</title>
+      <link>http://arxiv.org/abs/2604.07169v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tiangang Cui, Xiaodong Feng, Chenlong Pei, Xiaoliang Wan, Tao Zhou&lt;/p&gt;&lt;p&gt;Bayesian filtering and smoothing for high-dimensional nonlinear dynamical systems are fundamental yet challenging problems in many areas of science and engineering. In this work, we propose AFSF, a unified amortized framework for filtering and smoothing with conditional normalizing flows. The core idea is to encode each observation history into a fixed-dimensional summary statistic and use this shared representation to learn both a forward flow for the filtering distribution and a backward flow for the backward transition kernel&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07169v1</guid>
+      <pubDate>Wed, 08 Apr 2026 14:59:43 +0000</pubDate>
     </item>
     <item>
-      <title>A Robust SINDy Autoencoder for Noisy Dynamical System Identification</title>
-      <link>http://arxiv.org/abs/2604.04829v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kairui Ding&lt;/p&gt;&lt;p&gt;Sparse identification of nonlinear dynamics (SINDy) has been widely used to discover the governing equations of a dynamical system from data. It uses sparse regression techniques to identify parsimonious models of unknown systems from a library of candidate functions. Therefore, it relies on the assumption that the dynamics are sparsely represented in the coordinate system used&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04829v1</guid>
-      <pubDate>Mon, 06 Apr 2026 16:30:24 +0000</pubDate>
+      <title>Energy-based Tissue Manifolds for Longitudinal Multiparametric MRI Analysis</title>
+      <link>http://arxiv.org/abs/2604.07180v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kartikay Tehlan, Lukas Förner, Nico Schmutzenhofer, Michael Frühwald, Matthias Wagner, Nassir Navab, Thomas Wendler&lt;/p&gt;&lt;p&gt;We propose a geometric framework for longitudinal multi-parametric MRI analysis based on patient-specific energy modelling in sequence space. Rather than operating on images with spatial networks, each voxel is represented by its multi-sequence intensity vector ($T1$, $T1c$, $T2$, FLAIR, ADC), and a compact implicit neural representation is trained via denoising score matching to learn an energy function $E_θ(\mathbf{u})$ over $\mathbb{R}^d$ from a single baseline scan. The learned energy landscape provides a differential-geometric description of tissue regimes without segmentation labels&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07180v1</guid>
+      <pubDate>Wed, 08 Apr 2026 15:08:38 +0000</pubDate>
     </item>
     <item>
-      <title>InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement</title>
-      <link>http://arxiv.org/abs/2604.04843v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yude Zou, Junji Gong, Xing Gao, Zixuan Li, Tianxing Chen, Guanjie Zheng&lt;/p&gt;&lt;p&gt;Human-object-scene interactions (HOSI) generation has broad applications in embodied AI, simulation, and animation. Unlike human-object interaction (HOI) and human-scene interaction (HSI), HOSI generation requires reasoning over dynamic object-scene changes, yet suffers from limited annotated data. To address these issues, we propose a coarse-to-fine instruction-conditioned interaction generation framework that is explicitly aligned with the iterative denoising process of a consistency model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04843v1</guid>
-      <pubDate>Mon, 06 Apr 2026 16:44:02 +0000</pubDate>
+      <title>TeaLeafVision: An Explainable and Robust Deep Learning Framework for Tea Leaf Disease Classification</title>
+      <link>http://arxiv.org/abs/2604.07182v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rafi Ahamed, Sidratul Moon Nafsin, Md Abir Rahman, Tasnia Tarannum Roza, Munaia Jannat Easha, Abu Raihan&lt;/p&gt;&lt;p&gt;As the worlds second most consumed beverage after water, tea is not just a cultural staple but a global economic force of profound scale and influence. More than a mere drink, it represents a quiet negotiation between nature, culture, and the human desire for a moment of reflection. So, the precise identification and detection of tea leaf disease is crucial&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07182v1</guid>
+      <pubDate>Wed, 08 Apr 2026 15:11:33 +0000</pubDate>
     </item>
     <item>
-      <title>Strengthening Human-Centric Chain-of-Thought Reasoning Integrity in LLMs via a Structured Prompt Framework</title>
-      <link>http://arxiv.org/abs/2604.04852v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiling Zhou, Aisvarya Adeseye, Seppo Virtanen, Antti Hakkala, Jouni Isoaho&lt;/p&gt;&lt;p&gt;Chain-of-Thought (CoT) prompting has been used to enhance the reasoning capability of LLMs. However, its reliability in security-sensitive analytical tasks remains insufficiently examined, particularly under structured human evaluation. Alternative approaches, such as model scaling and fine-tuning can be used to help improve performance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04852v1</guid>
-      <pubDate>Mon, 06 Apr 2026 16:53:52 +0000</pubDate>
+      <title>The ATOM Report: Measuring the Open Language Model Ecosystem</title>
+      <link>http://arxiv.org/abs/2604.07190v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nathan Lambert, Florian Brand&lt;/p&gt;&lt;p&gt;We present a comprehensive adoption snapshot of the leading open language models and who is building them, focusing on the ~1.5K mainline open models from the likes of Alibaba's Qwen, DeepSeek, Meta's Llama, that are the foundation of an ecosystem crucial to researchers, entrepreneurs, and policy advisors. We document a clear trend where Chinese models overtook their counterparts built in the U.S. in the summer of 2025 and subsequently widened the gap over their western counterparts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07190v1</guid>
+      <pubDate>Wed, 08 Apr 2026 15:15:50 +0000</pubDate>
     </item>
     <item>
-      <title>MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents</title>
-      <link>http://arxiv.org/abs/2604.04853v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shu Wang, Edwin Yu, Oscar Love, Tom Zhang, Tom Wong, Steve Scargall, Charles Fan&lt;/p&gt;&lt;p&gt;Large Language Model (LLM) agents require persistent memory to maintain personalization, factual continuity, and long-horizon reasoning, yet standard context-window and retrieval-augmented generation (RAG) pipelines degrade over multi-session interactions. We present MemMachine, an open-source memory system that integrates short-term, long-term episodic, and profile memory within a ground-truth-preserving architecture that stores entire conversational episodes and reduces lossy LLM-based extraction. MemMachine uses contextualized retrieval that expands nucleus matches with surrounding context,&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04853v1</guid>
-      <pubDate>Mon, 06 Apr 2026 16:57:06 +0000</pubDate>
+      <title>Mixture Proportion Estimation and Weakly-supervised Kernel Test for Conditional Independence</title>
+      <link>http://arxiv.org/abs/2604.07191v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yushi Hirose, Akito Narahara, Takafumi Kanamori&lt;/p&gt;&lt;p&gt;Mixture proportion estimation (MPE) aims to estimate class priors from unlabeled data. This task is a critical component in weakly supervised learning, such as PU learning, learning with label noise, and domain adaptation. Existing MPE methods rely on the \textit{irreducibility} assumption or its variant for identifiability&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07191v1</guid>
+      <pubDate>Wed, 08 Apr 2026 15:17:19 +0000</pubDate>
     </item>
     <item>
-      <title>Tracing the origin of tropical North Atlantic Sargassum blooms to West Africa</title>
-      <link>http://arxiv.org/abs/2604.04866v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Francisco J. Beron-Vera, Maria J. Olascoaga, Phillipe Miron, Gage Bonner&lt;/p&gt;&lt;p&gt;We simulate the dynamics of pelagic \emph{Sargassum} rafts as systems of finite-size floating particles, governed by a Maxey--Riley law with nonlinear elastic interactions. Using surface ocean currents and wind data from reanalysis systems for clump transport, we computed trajectories within a domain covering the tropical and subtropical north Atlantic. The subsequent motion is reduced using Ulam's discretization method into a time-inhomogeneous Markov chain that simulates a background \emph{Sargassum} concentration&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04866v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:09:05 +0000</pubDate>
+      <title>TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories</title>
+      <link>http://arxiv.org/abs/2604.07223v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yen-Shan Chen, Sian-Yao Huang, Cheng-Lin Yang, Yun-Nung Chen&lt;/p&gt;&lt;p&gt;As large language models (LLMs) evolve from static chatbots into autonomous agents, the primary vulnerability surface shifts from final outputs to intermediate execution traces. While safety guardrails are well-benchmarked for natural language responses, their efficacy remains largely unexplored within multi-step tool-use trajectories. To address this gap, we introduce TraceSafe-Bench, the first comprehensive benchmark specifically designed to assess mid-trajectory safety&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07223v1</guid>
+      <pubDate>Wed, 08 Apr 2026 15:46:14 +0000</pubDate>
     </item>
     <item>
-      <title>Noise Immunity in In-Context Tabular Learning: An Empirical Robustness Analysis of TabPFN's Attention Mechanisms</title>
-      <link>http://arxiv.org/abs/2604.04868v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; James Hu, Mahdi Ghelichi&lt;/p&gt;&lt;p&gt;Tabular foundation models (TFMs) such as TabPFN (Tabular Prior-Data Fitted Network) are designed to generalize across heterogeneous tabular datasets through in-context learning (ICL). They perform prediction in a single forward pass conditioned on labeled examples without dataset-specific parameter updates. This paradigm is particularly attractive in industrial domains (e.g., finance and healthcare) where tabular prediction is pervasive&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04868v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:16:37 +0000</pubDate>
+      <title>How Much LLM Does a Self-Revising Agent Actually Need?</title>
+      <link>http://arxiv.org/abs/2604.07236v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Seongwoo Jeong, Seonil Son&lt;/p&gt;&lt;p&gt;Recent LLM-based agents often place world modeling, planning, and reflection inside a single language model loop. This can produce capable behavior, but it makes a basic scientific question difficult to answer: which part of the agent's competence actually comes from the LLM, and which part comes from explicit structure around it?   We study this question not by claiming a general answer, but by making it empirically tractable. We introduce a declared reflective runtime protocol that externalizes agent state, confidence signals, guarded actions, and hypothetical transitions into inspectable ru&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07236v1</guid>
+      <pubDate>Wed, 08 Apr 2026 16:02:04 +0000</pubDate>
     </item>
     <item>
-      <title>Incompleteness of AI Safety Verification via Kolmogorov Complexity</title>
-      <link>http://arxiv.org/abs/2604.04876v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Munawar Hasan&lt;/p&gt;&lt;p&gt;Ensuring that artificial intelligence (AI) systems satisfy formal safety and policy constraints is a central challenge in safety-critical domains. While limitations of verification are often attributed to combinatorial complexity and model expressiveness, we show that they arise from intrinsic information-theoretic limits. We formalize policy compliance as a verification problem over encoded system behaviors and analyze it using Kolmogorov complexity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04876v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:26:09 +0000</pubDate>
+      <title>Designing Safe and Accountable GenAI as a Learning Companion with Women Banned from Formal Education</title>
+      <link>http://arxiv.org/abs/2604.07253v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hamayoon Behmanush, Freshta Akhtari, Ingmar Weber, Vikram Kamath Cannanure&lt;/p&gt;&lt;p&gt;In gender-restrictive and surveilled contexts, where access to formal education may be restricted for women, pursuing education involves safety and privacy risks. When women are excluded from schools and universities, they often turn to online self-learning and generative AI (GenAI) to pursue their educational and career aspirations. However, we know little about what safe and accountable GenAI support is required in the context of surveillance, household responsibilities, and the absence of learning communities&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07253v1</guid>
+      <pubDate>Wed, 08 Apr 2026 16:14:26 +0000</pubDate>
     </item>
     <item>
-      <title>Learning, Potential, and Retention: An Approach for Evaluating Adaptive AI-Enabled Medical Devices</title>
-      <link>http://arxiv.org/abs/2604.04878v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexis Burgon, Berkman Sahiner, Nicholas A Petrick, Gene Pennello, Ravi K Samala&lt;/p&gt;&lt;p&gt;This work addresses challenges in evaluating adaptive artificial intelligence (AI) models for medical devices, where iterative updates to both models and evaluation datasets complicate performance assessment. We introduce a novel approach with three complementary measurements: learning (model improvement on current data), potential (dataset-driven performance shifts), and retention (knowledge preservation across modification steps), to disentangle performance changes caused by model adaptations versus dynamic environments. Case studies using simulated population shifts demonstrate the approach&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04878v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:27:02 +0000</pubDate>
+      <title>The Theory and Practice of Highly Scalable Gaussian Process Regression with Nearest Neighbours</title>
+      <link>http://arxiv.org/abs/2604.07267v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Robert Allison, Tomasz Maciazek, Anthony Stephenson&lt;/p&gt;&lt;p&gt;Gaussian process ($GP$) regression is a widely used non-parametric modeling tool, but its cubic complexity in the training size limits its use on massive data sets. A practical remedy is to predict using only the nearest neighbours of each test point, as in Nearest Neighbour Gaussian Process ($NNGP$) regression for geospatial problems and the related scalable $GPnn$ method for more general machine-learning applications. Despite their strong empirical performance, the large-$n$ theory of $NNGP/GPnn$ remains incomplete&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07267v1</guid>
+      <pubDate>Wed, 08 Apr 2026 16:30:40 +0000</pubDate>
     </item>
     <item>
-      <title>Muon Dynamics as a Spectral Wasserstein Flow</title>
-      <link>http://arxiv.org/abs/2604.04891v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gabriel Peyré&lt;/p&gt;&lt;p&gt;Gradient normalization is central in deep-learning optimization because it stabilizes training and reduces sensitivity to scale. For deep architectures, parameters are naturally grouped into matrices or blocks, so spectral normalizations are often more faithful than coordinatewise Euclidean ones; Muon is the main motivating example of this paper. More broadly, we study a family of spectral normalization rules, ranging from ordinary gradient descent to Muon and intermediate Schatten-type schemes, in a mean-field regime where parameters are modeled by probability measures&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04891v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:41:12 +0000</pubDate>
+      <title>A Systematic Study of Retrieval Pipeline Design for Retrieval-Augmented Medical Question Answering</title>
+      <link>http://arxiv.org/abs/2604.07274v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nusrat Sultana, Abdullah Muhammad Moosa, Kazi Afzalur Rahman, Sajal Chandra Banik&lt;/p&gt;&lt;p&gt;Large language models (LLMs) have demonstrated strong capabilities in medical question answering; however, purely parametric models often suffer from knowledge gaps and limited factual grounding. Retrieval-augmented generation (RAG) addresses this limitation by integrating external knowledge retrieval into the reasoning process. Despite increasing interest in RAG-based medical systems, the impact of individual retrieval components on performance remains insufficiently understood&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07274v1</guid>
+      <pubDate>Wed, 08 Apr 2026 16:37:22 +0000</pubDate>
     </item>
     <item>
-      <title>Rethinking Exploration in RLVR: From Entropy Regularization to Refinement via Bidirectional Entropy Modulation</title>
-      <link>http://arxiv.org/abs/2604.04894v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hengrui Gu, Xiaotian Han, Yujing Bian, Kaixiong Zhou&lt;/p&gt;&lt;p&gt;Reinforcement learning with verifiable rewards (RLVR) has significantly advanced the reasoning capabilities of large language models (LLMs). However, it faces a fundamental limitation termed \textit{restricted exploration}, where the policy rapidly converges to a narrow set of solutions. While entropy regularization is a popular approach used to sustain exploration, it often proves unreliable for LLMs, suffering from high hyperparameter sensitivity and yielding only marginal performance gains&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04894v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:42:38 +0000</pubDate>
+      <title>Making Room for AI: Multi-GPU Molecular Dynamics with Deep Potentials in GROMACS</title>
+      <link>http://arxiv.org/abs/2604.07276v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Luca Pennati, Andong Hu, Ivy Peng, Lukas Müllender, Stefano Markidis&lt;/p&gt;&lt;p&gt;GROMACS is a de-facto standard for classical Molecular Dynamics (MD). The rise of AI-driven interatomic potentials that pursue near-quantum accuracy at MD throughput now poses a significant challenge: embedding neural-network inference into multi-GPU simulations retaining high-performance. In this work, we integrate the MLIP framework DeePMD-kit into GROMACS, enabling domain-decomposed, GPU-accelerated inference across multi-node systems&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07276v1</guid>
+      <pubDate>Wed, 08 Apr 2026 16:40:08 +0000</pubDate>
     </item>
     <item>
-      <title>Agentic Federated Learning: The Future of Distributed Training Orchestration</title>
-      <link>http://arxiv.org/abs/2604.04895v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rafael O. Jarczewski, Gabriel U. Talasso, Leandro Villas, Allan M. de Souza&lt;/p&gt;&lt;p&gt;Although Federated Learning (FL) promises privacy and distributed collaboration, its effectiveness in real-world scenarios is often hampered by the stochastic heterogeneity of clients and unpredictable system dynamics. Existing static optimization approaches fail to adapt to these fluctuations, resulting in resource underutilization and systemic bias. In this work, we propose a paradigm shift towards Agentic-FL, a framework where Language Model-based Agents (LMagents) assume autonomous orchestration roles&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04895v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:43:30 +0000</pubDate>
+      <title>Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions</title>
+      <link>http://arxiv.org/abs/2604.07277v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guo Gan, Yuxuan Ding, Cong Chen, Yuwei Ren, Yin Huang, Hong Zhou&lt;/p&gt;&lt;p&gt;Online reinforcement learning (RL) serves as an effective method for enhancing the capabilities of Android agents. However, guiding agents to learn through online interaction is prohibitively expensive due to the high latency of emulators and the sample inefficiency of existing RL algorithms. We identify a fundamental limitation in current approaches: the Single State Single Action paradigm, which updates the policy with one-to-one state-action pairs from online one-way rollouts without fully exploring each costly emulator state&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07277v1</guid>
+      <pubDate>Wed, 08 Apr 2026 16:40:26 +0000</pubDate>
     </item>
     <item>
-      <title>QED-Nano: Teaching a Tiny Model to Prove Hard Theorems</title>
-      <link>http://arxiv.org/abs/2604.04898v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; LM-Provers, Yuxiao Qu, Amrith Setlur, Jasper Dekoninck, Edward Beeching, Jia Li, Ian Wu, Lewis Tunstall&lt;/p&gt;&lt;p&gt;Proprietary AI systems have recently demonstrated impressive capabilities on complex proof-based problems, with gold-level performance reported at the 2025 International Mathematical Olympiad (IMO). However, the training pipelines behind these systems remain largely undisclosed, and their reliance on large "internal" models and scaffolds makes them expensive to run, difficult to reproduce, and hard to study or improve upon. This raises a central question: can small, open models also be trained to achieve competitive reasoning performance on difficult Olympiad-level math? In this paper, we answ&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04898v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:44:25 +0000</pubDate>
+      <title>Region-Graph Optimal Transport Routing for Mixture-of-Experts Whole-Slide Image Classification</title>
+      <link>http://arxiv.org/abs/2604.07298v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xin Tian, Jiuliu Lu, Ephraim Tsalik, Bart Wanders, Colleen Knoth, Julian Knight&lt;/p&gt;&lt;p&gt;Multiple Instance Learning (MIL) is the dominant framework for gigapixel whole-slide image (WSI) classification in computational pathology. However, current MIL aggregators route all instances through a shared pathway, constraining their capacity to specialise across the pathological heterogeneity inherent in each slide. Mixture-of-Experts (MoE) methods offer a natural remedy by partitioning instances across specialised expert subnetworks; yet unconstrained softmax routing may yield highly imbalanced utilisation, where one or a few experts absorb most routing mass, collapsing the mixture back &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07298v1</guid>
+      <pubDate>Wed, 08 Apr 2026 17:04:45 +0000</pubDate>
     </item>
     <item>
-      <title>FileGram: Grounding Agent Personalization in File-System Behavioral Traces</title>
-      <link>http://arxiv.org/abs/2604.04901v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shuai Liu, Shulin Tian, Kairui Hu, Yuhao Dong, Zhe Yang, Bo Li, Jingkang Yang, Chen Change Loy&lt;/p&gt;&lt;p&gt;Coworking AI agents operating within local file systems are rapidly emerging as a paradigm in human-AI interaction; however, effective personalization remains limited by severe data constraints, as strict privacy barriers and the difficulty of jointly collecting multimodal real-world traces prevent scalable training and evaluation, and existing methods remain interaction-centric while overlooking dense behavioral traces in file-system operations; to address this gap, we propose FileGram, a comprehensive framework that grounds agent memory and personalization in file-system behavioral traces, c&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04901v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:49:31 +0000</pubDate>
+      <title>Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems</title>
+      <link>http://arxiv.org/abs/2604.07304v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Eduard Frankford, Erik Cikalleshi, Ruth Breu&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) challenge conventional automated programming assessment because students can now produce functionally correct code without demonstrating corresponding understanding. This paper makes two contributions. First, it reports a saturation-based scoping review of conversational assessment approaches in programming education&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07304v1</guid>
+      <pubDate>Wed, 08 Apr 2026 17:11:30 +0000</pubDate>
     </item>
     <item>
-      <title>How AI Aggregation Affects Knowledge</title>
-      <link>http://arxiv.org/abs/2604.04906v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daron Acemoglu, Tianyi Lin, Asuman Ozdaglar, James Siderius&lt;/p&gt;&lt;p&gt;Artificial intelligence (AI) changes social learning when aggregated outputs become training data for future predictions. To study this, we extend the DeGroot model by introducing an AI aggregator that trains on population beliefs and feeds synthesized signals back to agents. We define the learning gap as the deviation of long-run beliefs from the efficient benchmark, allowing us to capture how AI aggregation affects learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04906v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:51:34 +0000</pubDate>
+      <title>Evaluating In-Context Translation with Synchronous Context-Free Grammar Transduction</title>
+      <link>http://arxiv.org/abs/2604.07320v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jackson Petty, Jaulie Goe, Tal Linzen&lt;/p&gt;&lt;p&gt;Low-resource languages pose a challenge for machine translation with large language models (LLMs), which require large amounts of training data. One potential way to circumvent this data dependence is to rely on LLMs' ability to use in-context descriptions of languages, like textbooks and dictionaries. To do so, LLMs must be able to infer the link between the languages' grammatical descriptions and the sentences in question&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07320v1</guid>
+      <pubDate>Wed, 08 Apr 2026 17:35:44 +0000</pubDate>
     </item>
     <item>
-      <title>Analyzing Symbolic Properties for DRL Agents in Systems and Networking</title>
-      <link>http://arxiv.org/abs/2604.04914v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohammad Zangooei, Jannis Weil, Amr Rizk, Mina Tahmasbi Arashloo, Raouf Boutaba&lt;/p&gt;&lt;p&gt;Deep reinforcement learning (DRL) has shown remarkable performance on complex control problems in systems and networking, including adaptive video streaming, wireless resource management, and congestion control. For safe deployment, however, it is critical to reason about how agents behave across the range of system states they encounter in practice. Existing verification-based methods in this domain primarily focus on point properties, defined around fixed input states, which offer limited coverage and require substantial manual effort to identify relevant input-output pairs for analysis&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04914v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:55:15 +0000</pubDate>
+      <title>Syntax Is Easy, Semantics Is Hard: Evaluating LLMs for LTL Translation</title>
+      <link>http://arxiv.org/abs/2604.07321v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Priscilla Kyei Danso, Mohammad Saqib Hasan, Niranjan Balasubramanian, Omar Chowdhury&lt;/p&gt;&lt;p&gt;Propositional Linear Temporal Logic (LTL) is a popular formalism for specifying desirable requirements and security and privacy policies for software, networks, and systems. Yet expressing such requirements and policies in LTL remains challenging because of its intricate semantics. Since many security and privacy analysis tools require LTL formulas as input, this difficulty places them out of reach for many developers and analysts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07321v1</guid>
+      <pubDate>Wed, 08 Apr 2026 17:36:33 +0000</pubDate>
     </item>
     <item>
-      <title>Vero: An Open RL Recipe for General Visual Reasoning</title>
-      <link>http://arxiv.org/abs/2604.04917v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gabriel Sarch, Linrong Cai, Qunzhong Wang, Haoyang Wu, Danqi Chen, Zhuang Liu&lt;/p&gt;&lt;p&gt;What does it take to build a visual reasoner that works across charts, science, spatial understanding, and open-ended tasks? The strongest vision-language models (VLMs) show such broad visual reasoning is within reach, but the recipe behind them remains unclear, locked behind proprietary reinforcement learning (RL) pipelines with non-public data. We introduce Vero, a family of fully open VLMs that matches or exceeds existing open-weight models across diverse visual reasoning tasks. We scale RL data and rewards across six broad task categories, constructing Vero-600K, a 600K-sample dataset from&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04917v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:56:25 +0000</pubDate>
+      <title>Conformal Prediction with Time-Series Data via Sequential Conformalized Density Regions</title>
+      <link>http://arxiv.org/abs/2604.07325v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; M. Sampson, K. S. Chan&lt;/p&gt;&lt;p&gt;We propose a new conformal prediction method for time-series data with a guaranteed asymptotic conditional coverage rate, Sequential Conformalized Density Regions (SCDR), which is flexible enough to produce both prediction intervals and disconnected prediction sets, signifying the emergence of bifurcations. Our approach uses existing estimated conditional highest density predictive regions to form initial predictive regions. We then use a quantile random forest conformal adjustment to provide guaranteed coverage while adaptively changing to take the non-exchangeable nature of time-series data &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07325v1</guid>
+      <pubDate>Wed, 08 Apr 2026 17:38:44 +0000</pubDate>
     </item>
     <item>
-      <title>Your Pre-trained Diffusion Model Secretly Knows Restoration</title>
-      <link>http://arxiv.org/abs/2604.04924v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sudarshan Rajagopalan, Vishal M. Patel&lt;/p&gt;&lt;p&gt;Pre-trained diffusion models have enabled significant advancements in All-in-One Restoration (AiOR), offering improved perceptual quality and generalization. However, diffusion-based restoration methods primarily rely on fine-tuning or Control-Net style modules to leverage the pre-trained diffusion model's priors for AiOR. In this work, we show that these pre-trained diffusion models inherently possess restoration behavior, which can be unlocked by directly learning prompt embeddings at the output of the text encoder&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04924v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:59:04 +0000</pubDate>
+      <title>RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild</title>
+      <link>http://arxiv.org/abs/2604.07331v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wenjing Margaret Mao, Jefferson Ng, Luyang Hu, Daniel Gehrig, Antonio Loquercio&lt;/p&gt;&lt;p&gt;Scaling up robot learning will likely require human data containing rich and long-horizon interactions in the wild. Existing approaches for collecting such data trade off portability, robustness to occlusion, and global consistency. We introduce RoSHI, a hybrid wearable that fuses low-cost sparse IMUs with the Project Aria glasses to estimate the full 3D pose and body shape of the wearer in a metric global coordinate frame from egocentric perception&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07331v1</guid>
+      <pubDate>Wed, 08 Apr 2026 17:48:46 +0000</pubDate>
     </item>
     <item>
-      <title>Early Stopping for Large Reasoning Models via Confidence Dynamics</title>
-      <link>http://arxiv.org/abs/2604.04930v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Parsa Hosseini, Sumit Nawathe, Mahdi Salmani, Meisam Razaviyayn, Soheil Feizi&lt;/p&gt;&lt;p&gt;Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial computational cost and can even degrade performance due to overthinking. A key challenge is determining when the model should stop reasoning and produce the final answer. In this work, we study the confidence of intermediate answers during reasoning and observe two characteristic behaviors: correct reasoning trajectories often reach high-confidence answers early, while incorrect rollouts tend to produce long, unproductive reasoning traces and exhibit less r&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.04930v1</guid>
-      <pubDate>Mon, 06 Apr 2026 17:59:45 +0000</pubDate>
+      <title>MoRight: Motion Control Done Right</title>
+      <link>http://arxiv.org/abs/2604.07348v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shaowei Liu, Xuanchi Ren, Tianchang Shen, Huan Ling, Saurabh Gupta, Shenlong Wang, Sanja Fidler, Jun Gao&lt;/p&gt;&lt;p&gt;Generating motion-controlled videos--where user-specified actions drive physically plausible scene dynamics under freely chosen viewpoints--demands two capabilities: (1) disentangled motion control, allowing users to separately control the object motion and adjust camera viewpoint; and (2) motion causality, ensuring that user-driven actions trigger coherent reactions from other objects rather than merely displacing pixels. Existing methods fall short on both fronts: they entangle camera and object motion into a single tracking signal and treat motion as kinematic displacement without modeling &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.07348v1</guid>
+      <pubDate>Wed, 08 Apr 2026 17:59:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
