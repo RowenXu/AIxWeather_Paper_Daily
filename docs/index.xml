@@ -7,42 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 17 Apr 2026 04:49:53 +0000</lastBuildDate>
-    <item>
-      <title>Class Unlearning via Depth-Aware Removal of Forget-Specific Directions</title>
-      <link>http://arxiv.org/abs/2604.15166v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arman Hatami, Romina Aalishah, Ilya E. Monosov&lt;/p&gt;&lt;p&gt;Machine unlearning aims to remove targeted knowledge from a trained model without the cost of retraining from scratch. In class unlearning, however, reducing accuracy on forget classes does not necessarily imply true forgetting: forgotten information can remain encoded in internal representations, and apparent forgetting may arise from classifier-head suppression rather than representational removal. We show that existing class-unlearning methods often exhibit weak or negative selectivity, preserve forget-class structure in deep representations, or rely heavily on final-layer bias shifts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.15166v1</guid>
-      <pubDate>Thu, 16 Apr 2026 15:46:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>MambaSL: Exploring Single-Layer Mamba for Time Series Classification</title>
-      <link>http://arxiv.org/abs/2604.15174v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yoo-Min Jung, Leekyung Kim&lt;/p&gt;&lt;p&gt;Despite recent advances in state space models (SSMs) such as Mamba across various sequence domains, research on their standalone capacity for time series classification (TSC) has remained limited. We propose MambaSL, a framework that minimally redesigns the selective SSM and projection layers of a single-layer Mamba, guided by four TSC-specific hypotheses. To address benchmarking limitations -- restricted configurations, partial University of East Anglia (UEA) dataset coverage, and insufficiently reproducible setups -- we re-evaluate 20 strong baselines across all 30 UEA datasets under a unifi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.15174v1</guid>
-      <pubDate>Thu, 16 Apr 2026 15:51:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agent-Aided Design for Dynamic CAD Models</title>
-      <link>http://arxiv.org/abs/2604.15184v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mitch Adler, Matthew Russo, Michael Cafarella&lt;/p&gt;&lt;p&gt;In the past year, researchers have started to create agentic systems that can design real-world CAD-style objects in a training-free setting, a new variety of system that we call Agent-Aided Design. Generally speaking, these systems place an agent in a feedback loop in which it can write code, compile that code to an assembly of CAD model(s), visualize the model, and then iteratively refine its code based on visual and other feedback. Despite rapid progress, a key problem remains: none of these systems can build complex 3D assemblies with moving parts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.15184v1</guid>
-      <pubDate>Thu, 16 Apr 2026 16:15:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines</title>
-      <link>http://arxiv.org/abs/2604.15186v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marcel Wagenländer, Otto White, Britannio Jarrett, Pedro Silvestre, Yanda Tao, Guo Li, Huanzhou Zhu, Llúis Vilanova&lt;/p&gt;&lt;p&gt;Agentic workflows carry out complex tasks by orchestrating multiple large language models (LLMs) and tools. Serving such workflows at a target throughput with low latency is challenging because they can be defined using arbitrary agentic frameworks and exhibit unpredictable execution times: execution may branch, fan-out, or recur in data-dependent ways. Since LLMs in workflows often outnumber available GPUs, their execution also leads to GPU oversubscription&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.15186v1</guid>
-      <pubDate>Thu, 16 Apr 2026 16:15:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models</title>
-      <link>http://arxiv.org/abs/2604.15188v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Huawei Ji, Yuanhao Sun, Yuan Jin, Cheng Deng, Jiaxin Ding, Luoyi Fu, Xinbing Wang&lt;/p&gt;&lt;p&gt;Visual token pruning methods effectively mitigate the quadratic computational growth caused by processing high-resolution images and video frames in vision-language models (VLMs). However, existing approaches rely on predefined pruning configurations without determining whether they achieve computation-performance optimality. In this work, we introduce , a novel framework that formulates visual token pruning as a Pareto configuration optimization problem to automatically identify optimal configurations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.15188v1</guid>
-      <pubDate>Thu, 16 Apr 2026 16:21:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Apr 2026 04:33:11 +0000</lastBuildDate>
     <item>
       <title>Learning to Think Like a Cartoon Captionist: Incongruity-Resolution Supervision for Multimodal Humor Understanding</title>
       <link>http://arxiv.org/abs/2604.15210v1</link>
