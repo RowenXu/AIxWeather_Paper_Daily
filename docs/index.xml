@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 22 Apr 2026 04:47:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 04:51:13 +0000</lastBuildDate>
     <item>
-      <title>Cross-Model Consistency of AI-Generated Exercise Prescriptions: A Repeated Generation Study Across Three Large Language Models</title>
-      <link>http://arxiv.org/abs/2604.19598v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kihyuk Lee&lt;/p&gt;&lt;p&gt;This study compared repeated generation consistency of exercise prescription outputs across three large language models (LLMs), specifically GPT-4.1, Claude Sonnet 4.6, and Gemini 2.5 Flash, under temperature=0 conditions. Each model generated prescriptions for six clinical scenarios 20 times, yielding 360 total outputs analyzed across four dimensions: semantic similarity, output reproducibility, FITT classification, and safety expression. Mean semantic similarity was highest for GPT-4.1 (0.955), followed by Gemini 2.5 Flash (0.950) and Claude Sonnet 4.6 (0.903), with significant inter-model d&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19598v1</guid>
-      <pubDate>Tue, 21 Apr 2026 15:51:46 +0000</pubDate>
+      <title>COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling</title>
+      <link>http://arxiv.org/abs/2604.20720v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Noah Flynn&lt;/p&gt;&lt;p&gt;Large language models (LLMs) often exhibit performance disparities across languages, with naive multilingual fine-tuning frequently degrading performance due to negative cross-lingual interference. To address this, we introduce COMPASS (COntinual Multilingual PEFT with Adaptive Semantic Sampling), a novel data-centric framework for adapting LLMs to target languages. COMPASS leverages parameter-efficient fine-tuning (PEFT) by training lightweight, language-specific adapters on a judiciously selected subset of auxiliary multilingual data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20720v1</guid>
+      <pubDate>Wed, 22 Apr 2026 16:07:10 +0000</pubDate>
     </item>
     <item>
-      <title>AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories</title>
-      <link>http://arxiv.org/abs/2604.19606v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xue Xia, Chengkai Yao, Mingyu Tsoi, Xinjie Mao, Wenxuan Huang, Jiaqi Wei, Hao Wu, Cheng Tan&lt;/p&gt;&lt;p&gt;Systematic ablations are essential to attribute performance gains in AI Virtual Cells, yet they are rarely performed because biological repositories are under-standardized and tightly coupled to domain-specific data and formats. While recent coding agents can translate ideas into implementations, they typically stop at producing code and lack a verifier that can reproduce strong baselines and rigorously test which components truly matter. We introduce AblateCell, a reproduce-then-ablate agent for virtual cell repositories that closes this verification gap&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19606v1</guid>
-      <pubDate>Tue, 21 Apr 2026 15:55:33 +0000</pubDate>
+      <title>Tokenised Flow Matching for Hierarchical Simulation Based Inference</title>
+      <link>http://arxiv.org/abs/2604.20723v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Giovanni Charles, Cosmo Santoni, Seth Flaxman, Elizaveta Semenova&lt;/p&gt;&lt;p&gt;The cost of simulator evaluations is a key practical bottleneck for Simulation Based Inference (SBI). In hierarchical settings with shared global parameters and exchangeable site-level parameters and observations, this structure can be exploited to improve simulation efficiency. Existing hierarchical SBI approaches factorise the posterior yet still simulate across multiple sites per training sample; We instead explore likelihood factorisation (LF) to train from single-site simulations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20723v1</guid>
+      <pubDate>Wed, 22 Apr 2026 16:07:47 +0000</pubDate>
     </item>
     <item>
-      <title>Time Series Augmented Generation for Financial Applications</title>
-      <link>http://arxiv.org/abs/2604.19633v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anton Kolonin, Alexey Glushchenko, Evgeny Bochkov, Abhishek Saxena&lt;/p&gt;&lt;p&gt;Evaluating the reasoning capabilities of Large Language Models (LLMs) for complex, quantitative financial tasks is a critical and unsolved challenge. Standard benchmarks often fail to isolate an agent's core ability to parse queries and orchestrate computations. To address this, we introduce a novel evaluation methodology and benchmark designed to rigorously measure an LLM agent's reasoning for financial time-series analysis&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19633v1</guid>
-      <pubDate>Tue, 21 Apr 2026 16:20:59 +0000</pubDate>
+      <title>Supplement Generation Training for Enhancing Agentic Task Performance</title>
+      <link>http://arxiv.org/abs/2604.20727v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Young Min Cho, Daniele Bonadiman, Divya Bhargavi, Tamer Alkhouli, Salvatore Romeo, Dongwei Jiang, Khushbu Pahwa, Yubin Ge&lt;/p&gt;&lt;p&gt;Training large foundation models for agentic tasks is increasingly impractical due to the high computational costs, long iteration cycles, and rapid obsolescence as new models are continuously released. Instead of post-training massive models for every new task or domain, we propose Supplement Generation Training (SGT), a more efficient and sustainable strategy. SGT trains a smaller LLM to generate useful supplemental text that, when appended to the original input, helps the larger LLM solve the task more effectively&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20727v1</guid>
+      <pubDate>Wed, 22 Apr 2026 16:12:36 +0000</pubDate>
     </item>
     <item>
-      <title>Towards Streaming Target Speaker Extraction via Chunk-wise Interleaved Splicing of Autoregressive Language Model</title>
-      <link>http://arxiv.org/abs/2604.19635v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shuhai Peng, Hui Lu, Jinjiang Liu, Liyang Chen, Guiping Zhong, Jiakui Li, Huimeng Wang, Haiyun Li&lt;/p&gt;&lt;p&gt;While generative models have set new benchmarks for Target Speaker Extraction (TSE), their inherent reliance on global context precludes deployment in real-time applications. Direct adaptation to streaming scenarios often leads to catastrophic inference performance degradation due to the severe mismatch between training and streaming inference. To bridge this gap, we present the first autoregressive (AR) models tailored for streaming TSE&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19635v1</guid>
-      <pubDate>Tue, 21 Apr 2026 16:25:22 +0000</pubDate>
+      <title>Exploiting LLM-as-a-Judge Disposition on Free Text Legal QA via Prompt Optimization</title>
+      <link>http://arxiv.org/abs/2604.20726v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohamed Hesham Elganayni, Runsheng Chen, Sebastian Nagl, Matthias Grabmair&lt;/p&gt;&lt;p&gt;This work explores the role of prompt design and judge selection in LLM-as-a-Judge evaluations of free text legal question answering. We examine whether automatic task prompt optimization improves over human-centered design, whether optimization effectiveness varies by judge feedback style, and whether optimized prompts transfer across judges. We systematically address these questions on the LEXam benchmark by optimizing task prompts using the ProTeGi method with feedback from two judges (Qwen3-32B, DeepSeek-V3) across four task models, and then testing cross-judge transfer&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20726v1</guid>
+      <pubDate>Wed, 22 Apr 2026 16:12:36 +0000</pubDate>
     </item>
     <item>
-      <title>SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models</title>
-      <link>http://arxiv.org/abs/2604.19638v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Josue Torres-Fonseca, Naihao Deng, Yinpei Dai, Shane Storks, Yichi Zhang, Rada Mihalcea, Casey Kennington, Joyce Chai&lt;/p&gt;&lt;p&gt;Multimodal Large Language Models are increasingly adopted as autonomous agents in interactive environments, yet their ability to proactively address safety hazards remains insufficient. We introduce SafetyALFRED, built upon the embodied agent benchmark ALFRED, augmented with six categories of real-world kitchen hazards. While existing safety evaluations focus on hazard recognition through disembodied question answering (QA) settings, we evaluate eleven state-of-the-art models from the Qwen, Gemma, and Gemini families on not only hazard recognition, but also active risk mitigation through embod&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19638v1</guid>
-      <pubDate>Tue, 21 Apr 2026 16:27:20 +0000</pubDate>
+      <title>Interval POMDP Shielding for Imperfect-Perception Agents</title>
+      <link>http://arxiv.org/abs/2604.20728v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; William Scarbro, Ravi Mangal&lt;/p&gt;&lt;p&gt;Autonomous systems that rely on learned perception can make unsafe decisions when sensor readings are misclassified. We study shielding for this setting: given a proposed action, a shield blocks actions that could violate safety. We consider the common case where system dynamics are known but perception uncertainty must be estimated from finite labeled data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20728v1</guid>
+      <pubDate>Wed, 22 Apr 2026 16:12:37 +0000</pubDate>
     </item>
     <item>
-      <title>Safety-Critical Contextual Control via Online Riemannian Optimization with World Models</title>
-      <link>http://arxiv.org/abs/2604.19639v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tongxin Li&lt;/p&gt;&lt;p&gt;Modern world models are becoming too complex to admit explicit dynamical descriptions. We study safety-critical contextual control, where a Planner must optimize a task objective using only feasibility samples from a black-box Simulator, conditioned on a context signal $ξ_t$. We develop a sample-based Penalized Predictive Control (PPC) framework grounded in online Riemannian optimization, in which the Simulator compresses the feasibility manifold into a score-based density $\hat{p}(u \mid ξ_t)$ that endows the action space with a Riemannian geometry guiding the Planner's gradient descent&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19639v1</guid>
-      <pubDate>Tue, 21 Apr 2026 16:28:36 +0000</pubDate>
+      <title>Anchor-and-Resume Concession Under Dynamic Pricing for LLM-Augmented Freight Negotiation</title>
+      <link>http://arxiv.org/abs/2604.20732v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hoang Nguyen, Lu Wang, Marta Gaia Bras&lt;/p&gt;&lt;p&gt;Freight brokerages negotiate thousands of carrier rates daily under dynamic pricing conditions where models frequently revise targets mid-conversation. Classical time-dependent concession frameworks use a fixed shape parameter $β$ that cannot adapt to these updates. Deriving $β$ from the live spread enables adaptation but introduces a new problem: a pricing shift can cause the formula to retract a previous offer, violating monotonicity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20732v1</guid>
+      <pubDate>Wed, 22 Apr 2026 16:17:07 +0000</pubDate>
     </item>
     <item>
-      <title>Environmental Sound Deepfake Detection Using Deep-Learning Framework</title>
-      <link>http://arxiv.org/abs/2604.19652v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lam Pham, Khoi Vu, Dat Tran, Phat Lam, Vu Nguyen, David Fischinger, Alexander Schindler, Martin Boyer&lt;/p&gt;&lt;p&gt;In this paper, we propose a deep-learning framework for environmental sound deepfake detection (ESDD) -- the task of identifying whether the sound scene and sound event in an input audio recording is fake or not. To this end, we conducted extensive experiments to explore how individual spectrograms, a wide range of network architectures and pre-trained models, ensemble of spectrograms or network architectures affect the ESDD task performance. The experimental results on the benchmark datasets of EnvSDD and ESDD-Challenge-TestSet indicate that detecting deepfake audio of sound scene and detecti&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19652v1</guid>
-      <pubDate>Tue, 21 Apr 2026 16:41:55 +0000</pubDate>
+      <title>Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation</title>
+      <link>http://arxiv.org/abs/2604.20749v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dongding Lin, Jian Wang, Yongqi Li, Wenjie Li&lt;/p&gt;&lt;p&gt;Situated conversational recommendation (SCR), which utilizes visual scenes grounded in specific environments and natural language dialogue to deliver contextually appropriate recommendations, has emerged as a promising research direction due to its close alignment with real-world scenarios. Compared to traditional recommendations, SCR requires a deeper understanding of dynamic and implicit user preferences, as the surrounding scene often influences users' underlying interests, while both may evolve across conversations. This complexity significantly impacts the timing and relevance of recommen&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20749v1</guid>
+      <pubDate>Wed, 22 Apr 2026 16:39:52 +0000</pubDate>
     </item>
     <item>
-      <title>A Dual Perspective on Synthetic Trajectory Generators: Utility Framework and Privacy Vulnerabilities</title>
-      <link>http://arxiv.org/abs/2604.19653v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aya Cherigui, Florent Guépin, Arnaud Legendre, Jean-François Couchot&lt;/p&gt;&lt;p&gt;Human mobility data are used in numerous applications, ranging from public health to urban planning. Human mobility is inherently sensitive, as it can contain information such as religious beliefs and political affiliations. Historically, it has been proposed to modify the information using techniques such as aggregation, obfuscation, or noise addition, to adequately protect privacy and eliminate concerns&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19653v1</guid>
-      <pubDate>Tue, 21 Apr 2026 16:42:33 +0000</pubDate>
+      <title>V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization</title>
+      <link>http://arxiv.org/abs/2604.20755v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yubo Jiang, Yitong An, Xin Yang, Abudukelimu Wuerkaixi, Xuxin Cheng, Fengying Xie, Zhiguo Jiang, Cao Liu&lt;/p&gt;&lt;p&gt;We introduce V-tableR1, a process-supervised reinforcement learning framework that elicits rigorous, verifiable reasoning from multimodal large language models (MLLMs). Current MLLMs trained solely on final outcomes often treat visual reasoning as a black box, relying on superficial pattern matching rather than performing rigorous multi-step inference. While Reinforcement Learning with Verifiable Rewards could enforce transparent reasoning trajectories, extending it to visual domains remains severely hindered by the ambiguity of grounding abstract logic into continuous pixel space&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20755v1</guid>
+      <pubDate>Wed, 22 Apr 2026 16:44:33 +0000</pubDate>
     </item>
     <item>
-      <title>An AI Agent Execution Environment to Safeguard User Data</title>
-      <link>http://arxiv.org/abs/2604.19657v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Robert Stanley, Avi Verma, Lillian Tsai, Konstantinos Kallas, Sam Kumar&lt;/p&gt;&lt;p&gt;AI agents promise to serve as general-purpose personal assistants for their users, which requires them to have access to private user data (e.g., personal and financial information). This poses a serious risk to security and privacy. Adversaries may attack the AI model (e.g., via prompt injection) to exfiltrate user data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19657v1</guid>
-      <pubDate>Tue, 21 Apr 2026 16:45:30 +0000</pubDate>
+      <title>Geometric Renyi Differential Privacy: Ricci Curvature Characterized by Heat Diffusion Mechanisms</title>
+      <link>http://arxiv.org/abs/2604.20761v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaotian Chang, Yangdi Jiang, Cyrus Mostajeran, Qirui Hu&lt;/p&gt;&lt;p&gt;In this paper, we develop a novel privacy mechanism for Riemannian manifold-valued data. Our key contribution lies in uncovering unexpected connections among geometric analysis, heat diffusion models, and differential privacy (DP). We characterize the Renyi divergence via dimension-free Harnack inequalities on Riemannian manifolds and establish Renyi differential privacy guarantees governed by Ricci curvature&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20761v1</guid>
+      <pubDate>Wed, 22 Apr 2026 16:48:55 +0000</pubDate>
     </item>
     <item>
-      <title>Chat2Workflow: A Benchmark for Generating Executable Visual Workflows with Natural Language</title>
-      <link>http://arxiv.org/abs/2604.19667v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yi Zhong, Buqiang Xu, Yijun Wang, Zifei Shan, Shuofei Qiao, Guozhou Zheng, Ningyu Zhang&lt;/p&gt;&lt;p&gt;At present, executable visual workflows have emerged as a mainstream paradigm in real-world industrial deployments, offering strong reliability and controllability. However, in current practice, such workflows are almost entirely constructed through manual engineering: developers must carefully design workflows, write prompts for each step, and repeatedly revise the logic as requirements evolve-making development costly, time-consuming, and error-prone. To study whether large language models can automate this multi-round interaction process, we introduce Chat2Workflow, a benchmark for generati&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19667v1</guid>
-      <pubDate>Tue, 21 Apr 2026 16:49:11 +0000</pubDate>
+      <title>DAIRE: A lightweight AI model for real-time detection of Controller Area Network attacks in the Internet of Vehicles</title>
+      <link>http://arxiv.org/abs/2604.20771v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shahid Alam, Amina Jameel, Zahida Parveen, Ehab Alnfrawy, Adeela Ashraf, Raza Uddin, Jamal Aqib&lt;/p&gt;&lt;p&gt;The Internet of Vehicles (IoV) is advancing modern transportation by improving safety, efficiency, and intelligence. However, the reliance on the Controller Area Network (CAN) introduces critical security risks, as CAN-based communication is highly vulnerable to cyberattacks. Addressing this challenge, we propose DAIRE (Detecting Attacks in IoV in REal-time), a lightweight machine learning framework designed for real-time detection and classification of CAN attacks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20771v1</guid>
+      <pubDate>Wed, 22 Apr 2026 16:58:58 +0000</pubDate>
     </item>
     <item>
-      <title>Multi-Cycle Spatio-Temporal Adaptation in Human-Robot Teaming</title>
-      <link>http://arxiv.org/abs/2604.19670v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alex Cuellar, Michael Hagenow, Julie Shah&lt;/p&gt;&lt;p&gt;Effective human-robot teaming is crucial for the practical deployment of robots in human workspaces. However, optimizing joint human-robot plans remains a challenge due to the difficulty of modeling individualized human capabilities and preferences. While prior research has leveraged the multi-cycle structure of domains like manufacturing to learn an individual's tendencies and adapt plans over repeated interactions, these techniques typically consider task-level and motion-level adaptation in isolation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19670v1</guid>
-      <pubDate>Tue, 21 Apr 2026 16:49:59 +0000</pubDate>
+      <title>SWE-chat: Coding Agent Interactions From Real Users in the Wild</title>
+      <link>http://arxiv.org/abs/2604.20779v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Joachim Baumann, Vishakh Padmakumar, Xiang Li, John Yang, Diyi Yang, Sanmi Koyejo&lt;/p&gt;&lt;p&gt;AI coding agents are being adopted at scale, yet we lack empirical evidence on how people actually use them and how much of their output is useful in practice. We present SWE-chat, the first large-scale dataset of real coding agent sessions collected from open-source developers in the wild. The dataset currently contains 6,000 sessions, comprising more than 63,000 user prompts and 355,000 agent tool calls&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20779v1</guid>
+      <pubDate>Wed, 22 Apr 2026 17:08:19 +0000</pubDate>
     </item>
     <item>
-      <title>Budgeted Online Influence Maximization</title>
-      <link>http://arxiv.org/abs/2604.19672v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pierre Perrault, Jennifer Healey, Zheng Wen, Michal Valko&lt;/p&gt;&lt;p&gt;We introduce a new budgeted framework for online influence maximization, considering the total cost of an advertising campaign instead of the common cardinality constraint on a chosen influencer set. Our approach better models the real-world setting where the cost of influencers varies and advertisers want to find the best value for their overall social advertising budget. We propose an algorithm assuming an independent cascade diffusion model and edge level semi-bandit feedback, and provide both theoretical and experimental results&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19672v1</guid>
-      <pubDate>Tue, 21 Apr 2026 16:51:57 +0000</pubDate>
+      <title>Working Memory Constraints Scaffold Learning in Transformers under Data Scarcity</title>
+      <link>http://arxiv.org/abs/2604.20789v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pranava Madhyastha, Dagmar Adamcova&lt;/p&gt;&lt;p&gt;We investigate the integration of human-like working memory constraints into the Transformer architecture and implement several cognitively inspired attention variants, including fixed-width windows based and temporal decay based attention mechanisms. Our modified GPT-2 models are trained from scratch on developmentally plausible datasets (10M and 100M words). Performance is evaluated on grammatical judgment tasks (BLiMP) and alignment with human reading time data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20789v1</guid>
+      <pubDate>Wed, 22 Apr 2026 17:14:52 +0000</pubDate>
     </item>
     <item>
-      <title>Learning Hybrid-Control Policies for High-Precision In-Contact Manipulation Under Uncertainty</title>
-      <link>http://arxiv.org/abs/2604.19677v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hunter L. Brown, Geoffrey Hollinger, Stefan Lee&lt;/p&gt;&lt;p&gt;Reinforcement learning-based control policies have been frequently demonstrated to be more effective than analytical techniques for many manipulation tasks. Commonly, these methods learn neural control policies that predict end-effector pose changes directly from observed state information. For tasks like inserting delicate connectors which induce force constraints, pose-based policies have limited explicit control over force and rely on carefully tuned low-level controllers to avoid executing damaging actions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19677v1</guid>
-      <pubDate>Tue, 21 Apr 2026 16:55:48 +0000</pubDate>
+      <title>Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs</title>
+      <link>http://arxiv.org/abs/2604.20791v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mariano Barone, Francesco Di Serio, Roberto Moio, Marco Postiglione, Giuseppe Riccio, Antonio Romano, Vincenzo Moscato&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) are increasingly deployed in healthcare, yet their communicative alignment with clinical standards remains insufficiently quantified. We conduct a multidimensional evaluation of general-purpose and domain-specialized LLMs across structured medical explanations and real-world physician-patient interactions, analyzing semantic fidelity, readability, and affective resonance. Baseline models amplify affective polarity relative to physicians (Very Negative: 43.14-45.10% vs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20791v1</guid>
+      <pubDate>Wed, 22 Apr 2026 17:17:27 +0000</pubDate>
     </item>
     <item>
-      <title>A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding</title>
-      <link>http://arxiv.org/abs/2604.19689v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shuai Wang, Hongyi Zhu, Jia-Hong Huang, Yixian Shen, Chengxi Zeng, Stevan Rudinac, Monika Kackovic, Nachoem Wijnberg&lt;/p&gt;&lt;p&gt;Understanding artworks requires multi-step reasoning over visual content and cultural, historical, and stylistic context. While recent multimodal large language models show promise in artwork explanation, they rely on implicit reasoning and internalized knowl- edge, limiting interpretability and explicit evidence grounding. We propose A-MAR, an Agent-based Multimodal Art Retrieval framework that explicitly conditions retrieval on structured reasoning plans&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19689v1</guid>
-      <pubDate>Tue, 21 Apr 2026 17:11:48 +0000</pubDate>
+      <title>Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems</title>
+      <link>http://arxiv.org/abs/2604.20795v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pavel Salovskii, Iuliia Gorshkova&lt;/p&gt;&lt;p&gt;This paper presents a hybrid architecture for intelligent systems in which large language models (LLMs) are extended with an external ontological memory layer. Instead of relying solely on parametric knowledge and vector-based retrieval (RAG), the proposed approach constructs and maintains a structured knowledge graph using RDF/OWL representations, enabling persistent, verifiable, and semantically grounded reasoning.   The core contribution is an automated pipeline for ontology construction from heterogeneous data sources, including documents, APIs, and dialogue logs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20795v1</guid>
+      <pubDate>Wed, 22 Apr 2026 17:19:43 +0000</pubDate>
     </item>
     <item>
-      <title>Adaptive MSD-Splitting: Enhancing C4.5 and Random Forests for Skewed Continuous Attributes</title>
-      <link>http://arxiv.org/abs/2604.19722v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jake Lee&lt;/p&gt;&lt;p&gt;The discretization of continuous numerical attributes remains a persistent computational bottleneck in the induction of decision trees, particularly as dataset dimensions scale. Building upon the recently proposed MSD-Splitting technique -- which bins continuous data using the empirical mean and standard deviation to dramatically improve the efficiency and accuracy of the C4.5 algorithm -- we introduce Adaptive MSD-Splitting (AMSD). While standard MSD-Splitting is highly effective for approximately symmetric distributions, its rigid adherence to fixed one-standard-deviation cutoffs can lead to&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19722v1</guid>
-      <pubDate>Tue, 21 Apr 2026 17:48:27 +0000</pubDate>
+      <title>Relative Principals, Pluralistic Alignment, and the Structural Value Alignment Problem</title>
+      <link>http://arxiv.org/abs/2604.20805v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Travis LaCroix&lt;/p&gt;&lt;p&gt;The value alignment problem for artificial intelligence (AI) is often framed as a purely technical or normative challenge, sometimes focused on hypothetical future systems. I argue that the problem is better understood as a structural question about governance: not whether an AI system is aligned in the abstract, but whether it is aligned enough, for whom, and at what cost. Drawing on the principal-agent framework from economics, this paper reconceptualises misalignment as arising along three interacting axes: objectives, information, and principals&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20805v1</guid>
+      <pubDate>Wed, 22 Apr 2026 17:36:52 +0000</pubDate>
     </item>
     <item>
-      <title>Benign Overfitting in Adversarial Training for Vision Transformers</title>
-      <link>http://arxiv.org/abs/2604.19724v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiaming Zhang, Meng Ding, Shaopeng Fu, Jingfeng Zhang, Di Wang&lt;/p&gt;&lt;p&gt;Despite the remarkable success of Vision Transformers (ViTs) across a wide range of vision tasks, recent studies have revealed that they remain vulnerable to adversarial examples, much like Convolutional Neural Networks (CNNs). A common empirical defense strategy is adversarial training, yet the theoretical underpinnings of its robustness in ViTs remain largely unexplored. In this work, we present the first theoretical analysis of adversarial training under simplified ViT architectures&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19724v1</guid>
-      <pubDate>Tue, 21 Apr 2026 17:48:51 +0000</pubDate>
+      <title>OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model</title>
+      <link>http://arxiv.org/abs/2604.20806v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Qiguang Chen, Chengyu Luan, Jiajun Wu, Qiming Yu, Yi Yang, Yizhuo Li, Jingqi Tong, Xiachong Feng&lt;/p&gt;&lt;p&gt;Large vision-language models (LVLMs) have made substantial advances in reasoning tasks at the Olympiad level. Nevertheless, current Olympiad-level multimodal reasoning benchmarks for these models often emphasize single-image analysis and fail to exploit contextual information across multiple images. We present OMIBench, a benchmark designed to evaluate Olympiad-level reasoning when the required evidence is distributed over multiple images&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20806v1</guid>
+      <pubDate>Wed, 22 Apr 2026 17:37:40 +0000</pubDate>
     </item>
     <item>
-      <title>VLA Foundry: A Unified Framework for Training Vision-Language-Action Models</title>
-      <link>http://arxiv.org/abs/2604.19728v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jean Mercat, Sedrick Keh, Kushal Arora, Isabella Huang, Paarth Shah, Haruki Nishimura, Shun Iwase, Katherine Liu&lt;/p&gt;&lt;p&gt;We present VLA Foundry, an open-source framework that unifies LLM, VLM, and VLA training in a single codebase. Most open-source VLA efforts specialize on the action training stage, often stitching together incompatible pretraining pipelines. VLA Foundry instead provides a shared training stack with end-to-end control, from language pretraining to action-expert fine-tuning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19728v1</guid>
-      <pubDate>Tue, 21 Apr 2026 17:51:51 +0000</pubDate>
+      <title>Convergent Evolution: How Different Language Models Learn Similar Number Representations</title>
+      <link>http://arxiv.org/abs/2604.20817v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Deqing Fu, Tianyi Zhou, Mikhail Belkin, Vatsal Sharan, Robin Jia&lt;/p&gt;&lt;p&gt;Language models trained on natural text learn to represent numbers using periodic features with dominant periods at $T=2, 5, 10$. In this paper, we identify a two-tiered hierarchy of these features: while Transformers, Linear RNNs, LSTMs, and classical word embeddings trained in different ways all learn features that have period-$T$ spikes in the Fourier domain, only some learn geometrically separable features that can be used to linearly classify a number mod-$T$. To explain this incongruity, we prove that Fourier domain sparsity is necessary but not sufficient for mod-$T$ geometric separabil&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20817v1</guid>
+      <pubDate>Wed, 22 Apr 2026 17:45:27 +0000</pubDate>
     </item>
     <item>
-      <title>FASTER: Value-Guided Sampling for Fast RL</title>
-      <link>http://arxiv.org/abs/2604.19730v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Perry Dong, Alexander Swerdlow, Dorsa Sadigh, Chelsea Finn&lt;/p&gt;&lt;p&gt;Some of the most performant reinforcement learning algorithms today can be prohibitively expensive as they use test-time scaling methods such as sampling multiple action candidates and selecting the best one. In this work, we propose FASTER, a method for getting the benefits of sampling-based test-time scaling of diffusion-based policies without the computational cost by tracing the performance gain of action samples back to earlier in the denoising process. Our key insight is that we can model the denoising of multiple action candidates and selecting the best one as a Markov Decision Process &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19730v1</guid>
-      <pubDate>Tue, 21 Apr 2026 17:52:17 +0000</pubDate>
+      <title>FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels</title>
+      <link>http://arxiv.org/abs/2604.20825v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sina Gholami, Abdulmoneam Ali, Tania Haghighi, Ahmed Arafa, Minhaj Nur Alam&lt;/p&gt;&lt;p&gt;Federated learning (FL) enables collaborative model training without sharing raw data; however, the presence of noisy labels across distributed clients can severely degrade the learning performance. In this paper, we propose FedSIR, a multi-stage framework for robust FL under noisy labels. Different from existing approaches that mainly rely on designing noise-tolerant loss functions or exploiting loss dynamics during training, our method leverages the spectral structure of client feature representations to identify and mitigate label noise&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20825v1</guid>
+      <pubDate>Wed, 22 Apr 2026 17:49:20 +0000</pubDate>
     </item>
     <item>
-      <title>UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling</title>
-      <link>http://arxiv.org/abs/2604.19734v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Boyu Chen, Yi Chen, Lu Qiu, Jerry Bai, Yuying Ge, Yixiao Ge&lt;/p&gt;&lt;p&gt;Scaling humanoid foundation models is bottlenecked by the scarcity of robotic data. While massive egocentric human data offers a scalable alternative, bridging the cross-embodiment chasm remains a fundamental challenge due to kinematic mismatches. We introduce UniT (Unified Latent Action Tokenizer via Visual Anchoring), a framework that establishes a unified physical language for human-to-humanoid transfer&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19734v1</guid>
-      <pubDate>Tue, 21 Apr 2026 17:57:27 +0000</pubDate>
+      <title>AVISE: Framework for Evaluating the Security of AI Systems</title>
+      <link>http://arxiv.org/abs/2604.20833v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mikko Lempinen, Joni Kemppainen, Niklas Raesalmi&lt;/p&gt;&lt;p&gt;As artificial intelligence (AI) systems are increasingly deployed across critical domains, their security vulnerabilities pose growing risks of high-profile exploits and consequential system failures. Yet systematic approaches to evaluating AI security remain underdeveloped. In this paper, we introduce AVISE (AI Vulnerability Identification and Security Evaluation), a modular open-source framework for identifying vulnerabilities in and evaluating the security of AI systems and models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20833v1</guid>
+      <pubDate>Wed, 22 Apr 2026 17:58:17 +0000</pubDate>
     </item>
     <item>
-      <title>Generalization at the Edge of Stability</title>
-      <link>http://arxiv.org/abs/2604.19740v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mario Tuci, Caner Korkmaz, Umut Şimşekli, Tolga Birdal&lt;/p&gt;&lt;p&gt;Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this regime often yields improved generalization performance, yet the underlying mechanism remains poorly understood. In this work, we represent stochastic optimizers as random dynamical systems, which often converge to a fractal attractor set (rather than a point) with a smaller intrinsic dimension&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.19740v1</guid>
-      <pubDate>Tue, 21 Apr 2026 17:59:02 +0000</pubDate>
+      <title>SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation</title>
+      <link>http://arxiv.org/abs/2604.20842v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruohan Liu, Shukang Yin, Tao Wang, Dong Zhang, Weiji Zhuang, Shuhuai Ren, Ran He, Caifeng Shan&lt;/p&gt;&lt;p&gt;Paralinguistic cues are essential for natural human-computer interaction, yet their evaluation in Large Audio-Language Models (LALMs) remains limited by coarse feature coverage and the inherent subjectivity of assessment. To address these challenges, we introduce SpeechParaling-Bench, a comprehensive benchmark for paralinguistic-aware speech generation. It expands existing coverage from fewer than 50 to over 100 fine-grained features, supported by more than 1,000 English-Chinese parallel speech queries, and is organized into three progressively challenging tasks: fine-grained control, intra-ut&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.20842v1</guid>
+      <pubDate>Wed, 22 Apr 2026 17:59:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
