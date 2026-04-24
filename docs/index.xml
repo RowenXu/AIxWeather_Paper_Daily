@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 23 Apr 2026 04:51:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 04:55:28 +0000</lastBuildDate>
     <item>
-      <title>COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling</title>
-      <link>http://arxiv.org/abs/2604.20720v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Noah Flynn&lt;/p&gt;&lt;p&gt;Large language models (LLMs) often exhibit performance disparities across languages, with naive multilingual fine-tuning frequently degrading performance due to negative cross-lingual interference. To address this, we introduce COMPASS (COntinual Multilingual PEFT with Adaptive Semantic Sampling), a novel data-centric framework for adapting LLMs to target languages. COMPASS leverages parameter-efficient fine-tuning (PEFT) by training lightweight, language-specific adapters on a judiciously selected subset of auxiliary multilingual data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20720v1</guid>
-      <pubDate>Wed, 22 Apr 2026 16:07:10 +0000</pubDate>
+      <title>Quotient-Space Diffusion Models</title>
+      <link>http://arxiv.org/abs/2604.21809v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yixian Xu, Yusong Wang, Shengjie Luo, Kaiyuan Gao, Tianyu He, Di He, Chang Liu&lt;/p&gt;&lt;p&gt;Diffusion-based generative models have reformed generative AI, and have enabled new capabilities in the science domain, for example, generating 3D structures of molecules. Due to the intrinsic problem structure of certain tasks, there is often a symmetry in the system, which identifies objects that can be converted by a group action as equivalent, hence the target distribution is essentially defined on the quotient space with respect to the group. In this work, we establish a formal framework for diffusion modeling on a general quotient space, and apply it to molecular structure generation whi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21809v1</guid>
+      <pubDate>Thu, 23 Apr 2026 16:04:40 +0000</pubDate>
     </item>
     <item>
-      <title>Tokenised Flow Matching for Hierarchical Simulation Based Inference</title>
-      <link>http://arxiv.org/abs/2604.20723v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Giovanni Charles, Cosmo Santoni, Seth Flaxman, Elizaveta Semenova&lt;/p&gt;&lt;p&gt;The cost of simulator evaluations is a key practical bottleneck for Simulation Based Inference (SBI). In hierarchical settings with shared global parameters and exchangeable site-level parameters and observations, this structure can be exploited to improve simulation efficiency. Existing hierarchical SBI approaches factorise the posterior yet still simulate across multiple sites per training sample; We instead explore likelihood factorisation (LF) to train from single-site simulations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20723v1</guid>
-      <pubDate>Wed, 22 Apr 2026 16:07:47 +0000</pubDate>
+      <title>Probably Approximately Consensus: On the Learning Theory of Finding Common Ground</title>
+      <link>http://arxiv.org/abs/2604.21811v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Carter Blair, Ben Armstrong, Shiri Alouf-Heffetz, Nimrod Talmon, Davide Grossi&lt;/p&gt;&lt;p&gt;A primary goal of online deliberation platforms is to identify ideas that are broadly agreeable to a community of users through their expressed preferences. Yet, consensus elicitation should ideally extend beyond the specific statements provided by users and should incorporate the relative salience of particular topics. We address this issue by modelling consensus as an interval in a one-dimensional opinion space derived from potentially high-dimensional data via embedding and dimensionality reduction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21811v1</guid>
+      <pubDate>Thu, 23 Apr 2026 16:06:41 +0000</pubDate>
     </item>
     <item>
-      <title>Supplement Generation Training for Enhancing Agentic Task Performance</title>
-      <link>http://arxiv.org/abs/2604.20727v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Young Min Cho, Daniele Bonadiman, Divya Bhargavi, Tamer Alkhouli, Salvatore Romeo, Dongwei Jiang, Khushbu Pahwa, Yubin Ge&lt;/p&gt;&lt;p&gt;Training large foundation models for agentic tasks is increasingly impractical due to the high computational costs, long iteration cycles, and rapid obsolescence as new models are continuously released. Instead of post-training massive models for every new task or domain, we propose Supplement Generation Training (SGT), a more efficient and sustainable strategy. SGT trains a smaller LLM to generate useful supplemental text that, when appended to the original input, helps the larger LLM solve the task more effectively&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20727v1</guid>
-      <pubDate>Wed, 22 Apr 2026 16:12:36 +0000</pubDate>
+      <title>Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows</title>
+      <link>http://arxiv.org/abs/2604.21816v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anuj Sadani, Deepak Kumar&lt;/p&gt;&lt;p&gt;The Model Context Protocol (MCP) has become a common interface for connecting large language model (LLM) agents to external tools, but its reliance on stateless, eager schema injection imposes a hidden per-turn overhead the MCP Tax or Tools Tax that practitioner reports place between roughly 10k and 60k tokens in typical multi-server deployments. This payload inflates the key-value cache, is associated with reasoning degradation as context utilization approaches published fracture points around 70%, and turns token budgets into a recurring operational cost. We introduce Tool Attention, a middl&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21816v1</guid>
+      <pubDate>Thu, 23 Apr 2026 16:10:00 +0000</pubDate>
     </item>
     <item>
-      <title>Exploiting LLM-as-a-Judge Disposition on Free Text Legal QA via Prompt Optimization</title>
-      <link>http://arxiv.org/abs/2604.20726v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohamed Hesham Elganayni, Runsheng Chen, Sebastian Nagl, Matthias Grabmair&lt;/p&gt;&lt;p&gt;This work explores the role of prompt design and judge selection in LLM-as-a-Judge evaluations of free text legal question answering. We examine whether automatic task prompt optimization improves over human-centered design, whether optimization effectiveness varies by judge feedback style, and whether optimized prompts transfer across judges. We systematically address these questions on the LEXam benchmark by optimizing task prompts using the ProTeGi method with feedback from two judges (Qwen3-32B, DeepSeek-V3) across four task models, and then testing cross-judge transfer&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20726v1</guid>
-      <pubDate>Wed, 22 Apr 2026 16:12:36 +0000</pubDate>
+      <title>Alignment has a Fantasia Problem</title>
+      <link>http://arxiv.org/abs/2604.21827v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nathanael Jo, Zoe De Simone, Mitchell Gordon, Ashia Wilson&lt;/p&gt;&lt;p&gt;Modern AI assistants are trained to follow instructions, implicitly assuming that users can clearly articulate their goals and the kind of assistance they need. Decades of behavioral research, however, show that people often engage with AI systems before their goals are fully formed. When AI systems treat prompts as complete expressions of intent, they can appear to be useful or convenient, but not necessarily aligned with the users' needs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21827v1</guid>
+      <pubDate>Thu, 23 Apr 2026 16:18:10 +0000</pubDate>
     </item>
     <item>
-      <title>Interval POMDP Shielding for Imperfect-Perception Agents</title>
-      <link>http://arxiv.org/abs/2604.20728v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; William Scarbro, Ravi Mangal&lt;/p&gt;&lt;p&gt;Autonomous systems that rely on learned perception can make unsafe decisions when sensor readings are misclassified. We study shielding for this setting: given a proposed action, a shield blocks actions that could violate safety. We consider the common case where system dynamics are known but perception uncertainty must be estimated from finite labeled data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20728v1</guid>
-      <pubDate>Wed, 22 Apr 2026 16:12:37 +0000</pubDate>
+      <title>Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion</title>
+      <link>http://arxiv.org/abs/2604.21836v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Eghbal A. Hosseini, Brian Cheung, Evelina Fedorenko, Alex H. Williams&lt;/p&gt;&lt;p&gt;Neural networks exhibit a remarkable degree of representational convergence across diverse architectures, training objectives, and even data modalities. This convergence is predictive of alignment with brain representation. A recent hypothesis suggests this arises from learning the underlying structure in the environment in similar ways&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21836v1</guid>
+      <pubDate>Thu, 23 Apr 2026 16:27:04 +0000</pubDate>
     </item>
     <item>
-      <title>Anchor-and-Resume Concession Under Dynamic Pricing for LLM-Augmented Freight Negotiation</title>
-      <link>http://arxiv.org/abs/2604.20732v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hoang Nguyen, Lu Wang, Marta Gaia Bras&lt;/p&gt;&lt;p&gt;Freight brokerages negotiate thousands of carrier rates daily under dynamic pricing conditions where models frequently revise targets mid-conversation. Classical time-dependent concession frameworks use a fixed shape parameter $β$ that cannot adapt to these updates. Deriving $β$ from the live spread enables adaptation but introduces a new problem: a pricing shift can cause the formula to retract a previous offer, violating monotonicity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20732v1</guid>
-      <pubDate>Wed, 22 Apr 2026 16:17:07 +0000</pubDate>
+      <title>Causality-Encoded Diffusion Models for Interventional Sampling and Edge Inference</title>
+      <link>http://arxiv.org/abs/2604.21843v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Li Chen, Xiaotong Shen, Wei Pan&lt;/p&gt;&lt;p&gt;Standard diffusion models are flexible estimators of complex distributions, but they do not encode causal structures and therefore do not by themselves support causal analysis. We propose a causality-encoded diffusion framework that incorporates a known directed acyclic graph by training conditional diffusion models consistent with the graph factorisation. The resulting sampler approximately recovers the observational distribution and enables interventional sampling by fixing intervened variables while propagating effects through the graph during reverse diffusion&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21843v1</guid>
+      <pubDate>Thu, 23 Apr 2026 16:32:49 +0000</pubDate>
     </item>
     <item>
-      <title>Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation</title>
-      <link>http://arxiv.org/abs/2604.20749v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dongding Lin, Jian Wang, Yongqi Li, Wenjie Li&lt;/p&gt;&lt;p&gt;Situated conversational recommendation (SCR), which utilizes visual scenes grounded in specific environments and natural language dialogue to deliver contextually appropriate recommendations, has emerged as a promising research direction due to its close alignment with real-world scenarios. Compared to traditional recommendations, SCR requires a deeper understanding of dynamic and implicit user preferences, as the surrounding scene often influences users' underlying interests, while both may evolve across conversations. This complexity significantly impacts the timing and relevance of recommen&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20749v1</guid>
-      <pubDate>Wed, 22 Apr 2026 16:39:52 +0000</pubDate>
+      <title>Beyond Expected Information Gain: Stable Bayesian Optimal Experimental Design with Integral Probability Metrics and Plug-and-Play Extensions</title>
+      <link>http://arxiv.org/abs/2604.21849v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Di Wu, Ling Liang, Haizhao Yang&lt;/p&gt;&lt;p&gt;Bayesian Optimal Experimental Design (BOED) provides a rigorous framework for decision-making tasks in which data acquisition is often the critical bottleneck, especially in resource-constrained settings. Traditionally, BOED typically selects designs by maximizing expected information gain (EIG), commonly defined through the Kullback-Leibler (KL) divergence. However, classical evaluation of EIG often involves challenging nested expectations, and even advanced variational methods leave the underlying log-density-ratio objective unchanged&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21849v1</guid>
+      <pubDate>Thu, 23 Apr 2026 16:40:11 +0000</pubDate>
     </item>
     <item>
-      <title>V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization</title>
-      <link>http://arxiv.org/abs/2604.20755v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yubo Jiang, Yitong An, Xin Yang, Abudukelimu Wuerkaixi, Xuxin Cheng, Fengying Xie, Zhiguo Jiang, Cao Liu&lt;/p&gt;&lt;p&gt;We introduce V-tableR1, a process-supervised reinforcement learning framework that elicits rigorous, verifiable reasoning from multimodal large language models (MLLMs). Current MLLMs trained solely on final outcomes often treat visual reasoning as a black box, relying on superficial pattern matching rather than performing rigorous multi-step inference. While Reinforcement Learning with Verifiable Rewards could enforce transparent reasoning trajectories, extending it to visual domains remains severely hindered by the ambiguity of grounding abstract logic into continuous pixel space&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20755v1</guid>
-      <pubDate>Wed, 22 Apr 2026 16:44:33 +0000</pubDate>
+      <title>Bounding the Black Box: A Statistical Certification Framework for AI Risk Regulation</title>
+      <link>http://arxiv.org/abs/2604.21854v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Natan Levy, Gadi Perl&lt;/p&gt;&lt;p&gt;Artificial intelligence now decides who receives a loan, who is flagged for criminal investigation, and whether an autonomous vehicle brakes in time. Governments have responded: the EU AI Act, the NIST Risk Management Framework, and the Council of Europe Convention all demand that high-risk systems demonstrate safety before deployment. Yet beneath this regulatory consensus lies a critical vacuum: none specifies what ``acceptable risk'' means in quantitative terms, and none provides a technical method for verifying that a deployed system actually meets such a threshold&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21854v1</guid>
+      <pubDate>Thu, 23 Apr 2026 16:50:35 +0000</pubDate>
     </item>
     <item>
-      <title>Geometric Renyi Differential Privacy: Ricci Curvature Characterized by Heat Diffusion Mechanisms</title>
-      <link>http://arxiv.org/abs/2604.20761v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaotian Chang, Yangdi Jiang, Cyrus Mostajeran, Qirui Hu&lt;/p&gt;&lt;p&gt;In this paper, we develop a novel privacy mechanism for Riemannian manifold-valued data. Our key contribution lies in uncovering unexpected connections among geometric analysis, heat diffusion models, and differential privacy (DP). We characterize the Renyi divergence via dimension-free Harnack inequalities on Riemannian manifolds and establish Renyi differential privacy guarantees governed by Ricci curvature&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20761v1</guid>
-      <pubDate>Wed, 22 Apr 2026 16:48:55 +0000</pubDate>
+      <title>Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models</title>
+      <link>http://arxiv.org/abs/2604.21860v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Naheed Rayhan, Sohely Jahan&lt;/p&gt;&lt;p&gt;Large language models (LLMs) are increasingly integrated into sensitive workflows, raising the stakes for adversarial robustness and safety. This paper introduces Transient Turn Injection(TTI), a new multi-turn attack technique that systematically exploits stateless moderation by distributing adversarial intent across isolated interactions. TTI leverages automated attacker agents powered by large language models to iteratively test and evade policy enforcement in both commercial and open-source LLMs, marking a departure from conventional jailbreak approaches that typically depend on maintainin&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21860v1</guid>
+      <pubDate>Thu, 23 Apr 2026 16:56:14 +0000</pubDate>
     </item>
     <item>
-      <title>DAIRE: A lightweight AI model for real-time detection of Controller Area Network attacks in the Internet of Vehicles</title>
-      <link>http://arxiv.org/abs/2604.20771v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shahid Alam, Amina Jameel, Zahida Parveen, Ehab Alnfrawy, Adeela Ashraf, Raza Uddin, Jamal Aqib&lt;/p&gt;&lt;p&gt;The Internet of Vehicles (IoV) is advancing modern transportation by improving safety, efficiency, and intelligence. However, the reliance on the Controller Area Network (CAN) introduces critical security risks, as CAN-based communication is highly vulnerable to cyberattacks. Addressing this challenge, we propose DAIRE (Detecting Attacks in IoV in REal-time), a lightweight machine learning framework designed for real-time detection and classification of CAN attacks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20771v1</guid>
-      <pubDate>Wed, 22 Apr 2026 16:58:58 +0000</pubDate>
+      <title>Addressing Image Authenticity When Cameras Use Generative AI</title>
+      <link>http://arxiv.org/abs/2604.21879v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Umar Masud, Abhijith Punnappurath, Luxi Zhao, David B. Lindell, Michael S. Brown&lt;/p&gt;&lt;p&gt;The ability of generative AI (GenAI) methods to photorealistically alter camera images has raised awareness about the authenticity of images shared online. Interestingly, images captured directly by our cameras are considered authentic and faithful. However, with the increasing integration of deep-learning modules into cameras' capture-time hardware -- namely, the image signal processor (ISP) -- there is now a potential for hallucinated content in images directly output by our cameras&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21879v1</guid>
+      <pubDate>Thu, 23 Apr 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
-      <title>SWE-chat: Coding Agent Interactions From Real Users in the Wild</title>
-      <link>http://arxiv.org/abs/2604.20779v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Joachim Baumann, Vishakh Padmakumar, Xiang Li, John Yang, Diyi Yang, Sanmi Koyejo&lt;/p&gt;&lt;p&gt;AI coding agents are being adopted at scale, yet we lack empirical evidence on how people actually use them and how much of their output is useful in practice. We present SWE-chat, the first large-scale dataset of real coding agent sessions collected from open-source developers in the wild. The dataset currently contains 6,000 sessions, comprising more than 63,000 user prompts and 355,000 agent tool calls&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20779v1</guid>
-      <pubDate>Wed, 22 Apr 2026 17:08:19 +0000</pubDate>
+      <title>A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents</title>
+      <link>http://arxiv.org/abs/2604.21885v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Praval Sharma&lt;/p&gt;&lt;p&gt;Event extraction is essential for event understanding and analysis. It supports tasks such as document summarization and decision-making in emergency scenarios. However, existing event extraction approaches have limitations: (1) closed-domain algorithms are restricted to predefined event types and thus rarely generalize to unseen types and (2) open-domain event extraction algorithms, capable of handling unconstrained event types, have largely overlooked the potential of large language models (LLMs) despite their advanced abilities&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21885v1</guid>
+      <pubDate>Thu, 23 Apr 2026 17:33:44 +0000</pubDate>
     </item>
     <item>
-      <title>Working Memory Constraints Scaffold Learning in Transformers under Data Scarcity</title>
-      <link>http://arxiv.org/abs/2604.20789v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pranava Madhyastha, Dagmar Adamcova&lt;/p&gt;&lt;p&gt;We investigate the integration of human-like working memory constraints into the Transformer architecture and implement several cognitively inspired attention variants, including fixed-width windows based and temporal decay based attention mechanisms. Our modified GPT-2 models are trained from scratch on developmentally plausible datasets (10M and 100M words). Performance is evaluated on grammatical judgment tasks (BLiMP) and alignment with human reading time data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20789v1</guid>
-      <pubDate>Wed, 22 Apr 2026 17:14:52 +0000</pubDate>
+      <title>TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale</title>
+      <link>http://arxiv.org/abs/2604.21889v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jun Wang, Ziyin Zhang, Rui Wang, Hang Yu, Peng Di, Rui Wang&lt;/p&gt;&lt;p&gt;Real-time detection and mitigation of technical anomalies are critical for large-scale cloud-native services, where even minutes of downtime can result in massive financial losses and diminished user trust. While customer incidents serve as a vital signal for discovering risks missed by monitoring, extracting actionable intelligence from this data remains challenging due to extreme noise, high throughput, and semantic complexity of diverse business lines. In this paper, we present TingIS, an end-to-end system designed for enterprise-grade incident discovery&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21889v1</guid>
+      <pubDate>Thu, 23 Apr 2026 17:40:45 +0000</pubDate>
     </item>
     <item>
-      <title>Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs</title>
-      <link>http://arxiv.org/abs/2604.20791v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mariano Barone, Francesco Di Serio, Roberto Moio, Marco Postiglione, Giuseppe Riccio, Antonio Romano, Vincenzo Moscato&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) are increasingly deployed in healthcare, yet their communicative alignment with clinical standards remains insufficiently quantified. We conduct a multidimensional evaluation of general-purpose and domain-specialized LLMs across structured medical explanations and real-world physician-patient interactions, analyzing semantic fidelity, readability, and affective resonance. Baseline models amplify affective polarity relative to physicians (Very Negative: 43.14-45.10% vs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20791v1</guid>
-      <pubDate>Wed, 22 Apr 2026 17:17:27 +0000</pubDate>
+      <title>A Multi-Stage Warm-Start Deep Learning Framework for Unit Commitment</title>
+      <link>http://arxiv.org/abs/2604.21891v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Muhy Eddin Za'ter, Anna Van Boven, Bri-Mathias Hodge, Kyri Baker&lt;/p&gt;&lt;p&gt;Maintaining instantaneous balance between electricity supply and demand is critical for reliability and grid instability. System operators achieve this through solving the task of Unit Commitment (UC),ca high dimensional large-scale Mixed-integer Linear Programming (MILP) problem that is strictly and heavily governed by the grid physical constraints. As grid integrate variable renewable sources, and new technologies such as long duration storage in the grid, UC must be optimally solved for multi-day horizons and potentially with greater frequency&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21891v1</guid>
+      <pubDate>Thu, 23 Apr 2026 17:44:02 +0000</pubDate>
     </item>
     <item>
-      <title>Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems</title>
-      <link>http://arxiv.org/abs/2604.20795v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pavel Salovskii, Iuliia Gorshkova&lt;/p&gt;&lt;p&gt;This paper presents a hybrid architecture for intelligent systems in which large language models (LLMs) are extended with an external ontological memory layer. Instead of relying solely on parametric knowledge and vector-based retrieval (RAG), the proposed approach constructs and maintains a structured knowledge graph using RDF/OWL representations, enabling persistent, verifiable, and semantically grounded reasoning.   The core contribution is an automated pipeline for ontology construction from heterogeneous data sources, including documents, APIs, and dialogue logs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20795v1</guid>
-      <pubDate>Wed, 22 Apr 2026 17:19:43 +0000</pubDate>
+      <title>Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors</title>
+      <link>http://arxiv.org/abs/2604.21893v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sherly Alfonso-Sánchez, Cristián Bravo, Kristina G. Stankova&lt;/p&gt;&lt;p&gt;Geographic context is often consider relevant to motor insurance risk, yet public actuarial datasets provide limited location identifiers, constraining how this information can be incorporated and evaluated in claim-frequency models. This study examines how geographic information from alternative data sources can be incorporated into actuarial models for Motor Third Party Liability (MTPL) claim prediction under such constraints.   Using the BeMTPL97 dataset, we adopt a zone-level modeling framework and evaluate predictive performance on unseen postcodes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21893v1</guid>
+      <pubDate>Thu, 23 Apr 2026 17:44:52 +0000</pubDate>
     </item>
     <item>
-      <title>Relative Principals, Pluralistic Alignment, and the Structural Value Alignment Problem</title>
-      <link>http://arxiv.org/abs/2604.20805v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Travis LaCroix&lt;/p&gt;&lt;p&gt;The value alignment problem for artificial intelligence (AI) is often framed as a purely technical or normative challenge, sometimes focused on hypothetical future systems. I argue that the problem is better understood as a structural question about governance: not whether an AI system is aligned in the abstract, but whether it is aligned enough, for whom, and at what cost. Drawing on the principal-agent framework from economics, this paper reconceptualises misalignment as arising along three interacting axes: objectives, information, and principals&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20805v1</guid>
-      <pubDate>Wed, 22 Apr 2026 17:36:52 +0000</pubDate>
+      <title>Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models</title>
+      <link>http://arxiv.org/abs/2604.21896v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chee Wei Tan, Yuchen Wang, Shangxin Guo&lt;/p&gt;&lt;p&gt;This paper introduces a new paradigm for AI game programming, leveraging large language models (LLMs) to extend and operationalize Claude Shannon's taxonomy of game-playing machines. Central to this paradigm is Nemobot, an interactive agentic engineering environment that enables users to create, customize, and deploy LLM-powered game agents while actively engaging with AI-driven strategies. The LLM-based chatbot, integrated within Nemobot, demonstrates its capabilities across four distinct classes of games&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21896v1</guid>
+      <pubDate>Thu, 23 Apr 2026 17:46:29 +0000</pubDate>
     </item>
     <item>
-      <title>OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model</title>
-      <link>http://arxiv.org/abs/2604.20806v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Qiguang Chen, Chengyu Luan, Jiajun Wu, Qiming Yu, Yi Yang, Yizhuo Li, Jingqi Tong, Xiachong Feng&lt;/p&gt;&lt;p&gt;Large vision-language models (LVLMs) have made substantial advances in reasoning tasks at the Olympiad level. Nevertheless, current Olympiad-level multimodal reasoning benchmarks for these models often emphasize single-image analysis and fail to exploit contextual information across multiple images. We present OMIBench, a benchmark designed to evaluate Olympiad-level reasoning when the required evidence is distributed over multiple images&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20806v1</guid>
-      <pubDate>Wed, 22 Apr 2026 17:37:40 +0000</pubDate>
+      <title>GiVA: Gradient-Informed Bases for Vector-Based Adaptation</title>
+      <link>http://arxiv.org/abs/2604.21901v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Neeraj Gangwar, Rishabh Deshmukh, Michael Shavlovsky, Hancao Li, Vivek Mittal, Lexing Ying, Nickvash Kani&lt;/p&gt;&lt;p&gt;As model sizes continue to grow, parameter-efficient fine-tuning has emerged as a powerful alternative to full fine-tuning. While LoRA is widely adopted among these methods, recent research has explored vector-based adaptation methods due to their extreme parameter efficiency. However, these methods typically require substantially higher ranks than LoRA to match its performance, leading to increased training costs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21901v1</guid>
+      <pubDate>Thu, 23 Apr 2026 17:48:18 +0000</pubDate>
     </item>
     <item>
-      <title>Convergent Evolution: How Different Language Models Learn Similar Number Representations</title>
-      <link>http://arxiv.org/abs/2604.20817v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Deqing Fu, Tianyi Zhou, Mikhail Belkin, Vatsal Sharan, Robin Jia&lt;/p&gt;&lt;p&gt;Language models trained on natural text learn to represent numbers using periodic features with dominant periods at $T=2, 5, 10$. In this paper, we identify a two-tiered hierarchy of these features: while Transformers, Linear RNNs, LSTMs, and classical word embeddings trained in different ways all learn features that have period-$T$ spikes in the Fourier domain, only some learn geometrically separable features that can be used to linearly classify a number mod-$T$. To explain this incongruity, we prove that Fourier domain sparsity is necessary but not sufficient for mod-$T$ geometric separabil&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20817v1</guid>
-      <pubDate>Wed, 22 Apr 2026 17:45:27 +0000</pubDate>
+      <title>A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models</title>
+      <link>http://arxiv.org/abs/2604.21903v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Max Defez, Filippo Quarenghi, Mathieu Vrac, Stephan Mandt, Tom Beucler&lt;/p&gt;&lt;p&gt;Deep-learning video super-resolution has progressed rapidly, but climate applications typically super-resolve (increase resolution) either space or time, and joint spatiotemporal models are often designed for a single pair of super-resolution (SR) factors (upscaling spatial and temporal ratio between the low-resolution sequence and the high-resolution sequence), limiting transfer across spatial resolutions and temporal cadences (frame rates). We present a scale-adaptive framework that reuses the same architecture across factors by decomposing spatiotemporal SR into a deterministic prediction o&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21903v1</guid>
+      <pubDate>Thu, 23 Apr 2026 17:49:16 +0000</pubDate>
     </item>
     <item>
-      <title>FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels</title>
-      <link>http://arxiv.org/abs/2604.20825v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sina Gholami, Abdulmoneam Ali, Tania Haghighi, Ahmed Arafa, Minhaj Nur Alam&lt;/p&gt;&lt;p&gt;Federated learning (FL) enables collaborative model training without sharing raw data; however, the presence of noisy labels across distributed clients can severely degrade the learning performance. In this paper, we propose FedSIR, a multi-stage framework for robust FL under noisy labels. Different from existing approaches that mainly rely on designing noise-tolerant loss functions or exploiting loss dynamics during training, our method leverages the spectral structure of client feature representations to identify and mitigate label noise&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20825v1</guid>
-      <pubDate>Wed, 22 Apr 2026 17:49:20 +0000</pubDate>
+      <title>From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation</title>
+      <link>http://arxiv.org/abs/2604.21910v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bartosz Balis, Michal Orzechowski, Piotr Kica, Michal Dygas, Michal Kuszewski&lt;/p&gt;&lt;p&gt;Scientific workflow systems automate execution -- scheduling, fault tolerance, resource management -- but not the semantic translation that precedes it. Scientists still manually convert research questions into workflow specifications, a task requiring both domain knowledge and infrastructure expertise. We propose an agentic architecture that closes this gap through three layers: an LLM interprets natural language into structured intents (semantic layer); validated generators produce reproducible workflow DAGs (deterministic layer); and domain experts author ``Skills'': markdown documents enco&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21910v1</guid>
+      <pubDate>Thu, 23 Apr 2026 17:52:52 +0000</pubDate>
     </item>
     <item>
-      <title>AVISE: Framework for Evaluating the Security of AI Systems</title>
-      <link>http://arxiv.org/abs/2604.20833v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mikko Lempinen, Joni Kemppainen, Niklas Raesalmi&lt;/p&gt;&lt;p&gt;As artificial intelligence (AI) systems are increasingly deployed across critical domains, their security vulnerabilities pose growing risks of high-profile exploits and consequential system failures. Yet systematic approaches to evaluating AI security remain underdeveloped. In this paper, we introduce AVISE (AI Vulnerability Identification and Security Evaluation), a modular open-source framework for identifying vulnerabilities in and evaluating the security of AI systems and models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20833v1</guid>
-      <pubDate>Wed, 22 Apr 2026 17:58:17 +0000</pubDate>
+      <title>When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs</title>
+      <link>http://arxiv.org/abs/2604.21911v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pegah Khayatan, Jayneel Parekh, Arnaud Dapogny, Mustafa Shukor, Alasdair Newson, Matthieu Cord&lt;/p&gt;&lt;p&gt;Despite impressive progress in capabilities of large vision-language models (LVLMs), these systems remain vulnerable to hallucinations, i.e., outputs that are not grounded in the visual input. Prior work has attributed hallucinations in LVLMs to factors such as limitations of the vision backbone or the dominance of the language component, yet the relative importance of these factors remains unclear. To resolve this ambiguity, We propose HalluScope, a benchmark to better understand the extent to which different factors induce hallucinations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21911v1</guid>
+      <pubDate>Thu, 23 Apr 2026 17:54:36 +0000</pubDate>
     </item>
     <item>
-      <title>SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation</title>
-      <link>http://arxiv.org/abs/2604.20842v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruohan Liu, Shukang Yin, Tao Wang, Dong Zhang, Weiji Zhuang, Shuhuai Ren, Ran He, Caifeng Shan&lt;/p&gt;&lt;p&gt;Paralinguistic cues are essential for natural human-computer interaction, yet their evaluation in Large Audio-Language Models (LALMs) remains limited by coarse feature coverage and the inherent subjectivity of assessment. To address these challenges, we introduce SpeechParaling-Bench, a comprehensive benchmark for paralinguistic-aware speech generation. It expands existing coverage from fewer than 50 to over 100 fine-grained features, supported by more than 1,000 English-Chinese parallel speech queries, and is organized into three progressively challenging tasks: fine-grained control, intra-ut&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.20842v1</guid>
-      <pubDate>Wed, 22 Apr 2026 17:59:58 +0000</pubDate>
+      <title>Seeing Fast and Slow: Learning the Flow of Time in Videos</title>
+      <link>http://arxiv.org/abs/2604.21931v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yen-Siang Wu, Rundong Luo, Jingsen Zhu, Tao Tu, Ali Farhadi, Matthew Wallingford, Yu-Chiang Frank Wang, Steve Marschner&lt;/p&gt;&lt;p&gt;How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention has been paid to perceiving and controlling the passage of time. In this paper, we study time as a learnable visual concept and develop models for reasoning about and manipulating the flow of time in videos. We first exploit the multimodal cues and temporal structure naturally present in videos to learn, in a self-supervised manner, to detect speed changes and estimate playback speed&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.21931v1</guid>
+      <pubDate>Thu, 23 Apr 2026 17:59:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
