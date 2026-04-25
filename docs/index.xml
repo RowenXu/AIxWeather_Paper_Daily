@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 24 Apr 2026 04:55:28 +0000</lastBuildDate>
-    <item>
-      <title>Quotient-Space Diffusion Models</title>
-      <link>http://arxiv.org/abs/2604.21809v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yixian Xu, Yusong Wang, Shengjie Luo, Kaiyuan Gao, Tianyu He, Di He, Chang Liu&lt;/p&gt;&lt;p&gt;Diffusion-based generative models have reformed generative AI, and have enabled new capabilities in the science domain, for example, generating 3D structures of molecules. Due to the intrinsic problem structure of certain tasks, there is often a symmetry in the system, which identifies objects that can be converted by a group action as equivalent, hence the target distribution is essentially defined on the quotient space with respect to the group. In this work, we establish a formal framework for diffusion modeling on a general quotient space, and apply it to molecular structure generation whi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.21809v1</guid>
-      <pubDate>Thu, 23 Apr 2026 16:04:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Probably Approximately Consensus: On the Learning Theory of Finding Common Ground</title>
-      <link>http://arxiv.org/abs/2604.21811v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Carter Blair, Ben Armstrong, Shiri Alouf-Heffetz, Nimrod Talmon, Davide Grossi&lt;/p&gt;&lt;p&gt;A primary goal of online deliberation platforms is to identify ideas that are broadly agreeable to a community of users through their expressed preferences. Yet, consensus elicitation should ideally extend beyond the specific statements provided by users and should incorporate the relative salience of particular topics. We address this issue by modelling consensus as an interval in a one-dimensional opinion space derived from potentially high-dimensional data via embedding and dimensionality reduction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.21811v1</guid>
-      <pubDate>Thu, 23 Apr 2026 16:06:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows</title>
-      <link>http://arxiv.org/abs/2604.21816v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anuj Sadani, Deepak Kumar&lt;/p&gt;&lt;p&gt;The Model Context Protocol (MCP) has become a common interface for connecting large language model (LLM) agents to external tools, but its reliance on stateless, eager schema injection imposes a hidden per-turn overhead the MCP Tax or Tools Tax that practitioner reports place between roughly 10k and 60k tokens in typical multi-server deployments. This payload inflates the key-value cache, is associated with reasoning degradation as context utilization approaches published fracture points around 70%, and turns token budgets into a recurring operational cost. We introduce Tool Attention, a middl&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.21816v1</guid>
-      <pubDate>Thu, 23 Apr 2026 16:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alignment has a Fantasia Problem</title>
-      <link>http://arxiv.org/abs/2604.21827v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nathanael Jo, Zoe De Simone, Mitchell Gordon, Ashia Wilson&lt;/p&gt;&lt;p&gt;Modern AI assistants are trained to follow instructions, implicitly assuming that users can clearly articulate their goals and the kind of assistance they need. Decades of behavioral research, however, show that people often engage with AI systems before their goals are fully formed. When AI systems treat prompts as complete expressions of intent, they can appear to be useful or convenient, but not necessarily aligned with the users' needs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.21827v1</guid>
-      <pubDate>Thu, 23 Apr 2026 16:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion</title>
-      <link>http://arxiv.org/abs/2604.21836v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Eghbal A. Hosseini, Brian Cheung, Evelina Fedorenko, Alex H. Williams&lt;/p&gt;&lt;p&gt;Neural networks exhibit a remarkable degree of representational convergence across diverse architectures, training objectives, and even data modalities. This convergence is predictive of alignment with brain representation. A recent hypothesis suggests this arises from learning the underlying structure in the environment in similar ways&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.21836v1</guid>
-      <pubDate>Thu, 23 Apr 2026 16:27:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Causality-Encoded Diffusion Models for Interventional Sampling and Edge Inference</title>
-      <link>http://arxiv.org/abs/2604.21843v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Li Chen, Xiaotong Shen, Wei Pan&lt;/p&gt;&lt;p&gt;Standard diffusion models are flexible estimators of complex distributions, but they do not encode causal structures and therefore do not by themselves support causal analysis. We propose a causality-encoded diffusion framework that incorporates a known directed acyclic graph by training conditional diffusion models consistent with the graph factorisation. The resulting sampler approximately recovers the observational distribution and enables interventional sampling by fixing intervened variables while propagating effects through the graph during reverse diffusion&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.21843v1</guid>
-      <pubDate>Thu, 23 Apr 2026 16:32:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Apr 2026 04:37:03 +0000</lastBuildDate>
     <item>
       <title>Beyond Expected Information Gain: Stable Bayesian Optimal Experimental Design with Integral Probability Metrics and Plug-and-Play Extensions</title>
       <link>http://arxiv.org/abs/2604.21849v1</link>
