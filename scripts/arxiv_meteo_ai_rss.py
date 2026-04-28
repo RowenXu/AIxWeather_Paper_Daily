@@ -16,17 +16,41 @@ TIMEZONE = os.getenv("TZ", "Asia/Shanghai")
 LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", 36))
 MAX_RESULTS = int(os.getenv("ARXIV_MAX_RESULTS", 30))
 MAX_ITEMS_PER_RUN = int(os.getenv("MAX_ITEMS_PER_RUN", 20))
+MIN_RELEVANCE_SCORE = int(os.getenv("MIN_RELEVANCE_SCORE", 7))
 
+# Phase 2.1 — 扩展检索类别
 CATEGORIES = [
-    "physics.ao-ph",  # Atmospheric and Oceanic Physics
-    "cs.AI", "stat.ML"
+    "physics.ao-ph",   # Atmospheric and Oceanic Physics
+    "physics.geo-ph",  # Geophysics
+    "cs.LG",           # Machine Learning
+    "cs.AI",           # Artificial Intelligence
+    "stat.ML",         # Machine Learning statistics
 ]
-KEYWORDS_ANY = [
-    "climate", "weather", "precipitation", "ENSO",
-    "nowcasting", "reanalysis", "downscaling", "data assimilation",
-    "typhoon", "cyclone", "monsoon", "teleconnection", "MJO", "WRF", "ERA5", "model",
-    "AI", "Transformer"
+
+# Phase 2.2 — 分层关键词
+DOMAIN_TERMS = [
+    "weather", "climate", "atmosphere", "ocean", "earth system",
+    "precipitation", "temperature", "wind", "sst", "sea surface temperature",
+    "enso", "mjo", "monsoon", "typhoon", "cyclone", "teleconnection",
+    "subseasonal", "seasonal", "s2s",
 ]
+
+AI_TERMS = [
+    "machine learning", "deep learning", "artificial intelligence", "ai",
+    "neural network", "transformer", "diffusion", "foundation model",
+    "neural operator", "graph neural network", "emulator", "surrogate",
+]
+
+FORECAST_TERMS = [
+    "forecast", "forecasting", "prediction", "predict", "nowcasting", "hindcast",
+    "data assimilation", "downscaling", "reanalysis",
+]
+
+MODEL_NAMES = [
+    "graphcast", "panguweather", "pangu-weather", "fengwu", "fourcastnet",
+    "aurora", "neuralgcm", "climax", "fuxi", "swinrnn", "weathergfm",
+]
+
 BLACKLIST_TERMS = ["quantum field", "string theory"]
 
 RSS_CHANNEL = {
@@ -51,15 +75,16 @@ def save_state(state):
     STATE_PATH.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+# Phase 2.3 — 宽松 query，后处理用 relevance_score 严格筛选
 def build_query():
     cat_expr = " OR ".join([f"cat:{c}" for c in CATEGORIES])
-    kw_expr = " OR ".join([f"ti:{k} OR abs:{k}" for k in KEYWORDS_ANY])
+    broad_terms = sorted(set(DOMAIN_TERMS + FORECAST_TERMS + MODEL_NAMES))
+    kw_expr = " OR ".join([f'ti:"{k}" OR abs:"{k}"' for k in broad_terms])
     return f"({cat_expr}) AND ({kw_expr})"
 
 
 def fetch_arxiv():
     query = build_query()
-    # arxiv.Client 实例本身是可迭代的，直接遍历即可
     client = arxiv.Client(page_size=5, delay_seconds=5, num_retries=5)
     search = arxiv.Search(
         query=query,
@@ -67,17 +92,15 @@ def fetch_arxiv():
         sort_by=arxiv.SortCriterion.SubmittedDate,
         sort_order=arxiv.SortOrder.Descending,
     )
-    
-    # 直接迭代 search.results()
     for r in client.results(search):
         yield {
-            "id": r.get_short_id(),  # '2501.01234'
+            "id": r.get_short_id(),
             "title": r.title.strip(),
             "summary": r.summary.strip(),
             "authors": [a.name for a in r.authors],
             "updated": r.updated,
             "published": r.published,
-            "link": r.entry_id,  # https://arxiv.org/abs/...
+            "link": r.entry_id,
         }
 
 
@@ -91,9 +114,52 @@ def within_lookback(item, hours=LOOKBACK_HOURS, tzname=TIMEZONE):
     return ts >= threshold
 
 
-def topic_ok(item):
+# Phase 3.1 — 相关性评分
+def relevance_score(item):
     text = (item["title"] + " " + item["summary"]).lower()
-    return not any(b.lower() in text for b in BLACKLIST_TERMS)
+
+    if any(b.lower() in text for b in BLACKLIST_TERMS):
+        return 0
+
+    domain_hit = sum(1 for t in DOMAIN_TERMS if t.lower() in text)
+    ai_hit = sum(1 for t in AI_TERMS if t.lower() in text)
+    forecast_hit = sum(1 for t in FORECAST_TERMS if t.lower() in text)
+    model_hit = sum(1 for t in MODEL_NAMES if t.lower() in text)
+
+    score = 0
+    score += 3 * min(model_hit, 2)
+    score += 2 * min(domain_hit, 3)
+    score += 2 * min(ai_hit, 3)
+    score += 2 * min(forecast_hit, 3)
+
+    if domain_hit and ai_hit:
+        score += 3
+    if domain_hit and forecast_hit:
+        score += 2
+    if domain_hit and ai_hit and forecast_hit:
+        score += 4
+
+    return score
+
+
+# Phase 3.3 — 主题分类
+def classify_topic(item):
+    text = (item["title"] + " " + item["summary"]).lower()
+
+    if any(x in text for x in ["ocean", "sst", "sea surface temperature", "marine"]):
+        return "AI海洋/海气预报"
+    if any(x in text for x in ["weather", "atmosphere", "precipitation", "wind", "typhoon", "cyclone"]):
+        return "AI天气预报"
+    if any(x in text for x in ["climate", "earth system", "seasonal", "subseasonal", "s2s"]):
+        return "AI气候/地球系统预测"
+    if "data assimilation" in text or "assimilation" in text:
+        return "资料同化/融合"
+    return "相关AI方法"
+
+
+# Phase 3.2 — topic_ok 基于 MIN_RELEVANCE_SCORE
+def topic_ok(item):
+    return relevance_score(item) >= MIN_RELEVANCE_SCORE
 
 
 def summarize(title, abstract):
@@ -104,7 +170,7 @@ def summarize(title, abstract):
             from openai import OpenAI
             client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com/v1")
             prompt = f"""
-你是“气象×AI”论文解读者。请基于以下标题与摘要，输出：
+你是"气象×AI"论文解读者。请基于以下标题与摘要，输出：
 1) 80–150字中文精炼摘要；
 2) 3–5条要点（方法/数据/结论/局限）；
 3) 关键词：3–5个。
@@ -146,16 +212,16 @@ def to_rfc822(dt_obj):
 
 def build_rss(channel, items):
     fg = FeedGenerator()
-    fg.title(channel["title"])    
+    fg.title(channel["title"])
     fg.link(href=channel["link"], rel='alternate')
     fg.description(channel["description"])
     fg.language('zh-CN')
 
     for it in items:
         fe = fg.add_entry()
-        fe.id(it["guid"])          
-        fe.title(it["title"])      
-        fe.link(href=it["link"])   
+        fe.id(it["guid"])
+        fe.title(it["title"])
+        fe.link(href=it["link"])
         fe.pubDate(to_rfc822(it["pubDate"]))
         authors = ", ".join(it["authors"][:8])
         desc_html = f"<p><b>Authors:</b> {authors}</p><p>{it['summary_html']}</p>"
@@ -168,7 +234,7 @@ def main():
     state = ensure_state()
     seen = set(state.get("seen_ids", []))
 
-    # 拉取 & 过滤
+    # 拉取 & 过滤（topic_ok 现在基于 relevance_score）
     papers = [p for p in fetch_arxiv() if within_lookback(p) and topic_ok(p)]
     fresh = [p for p in papers if p["id"] not in seen]
     fresh = fresh[:MAX_ITEMS_PER_RUN]
@@ -186,7 +252,7 @@ def main():
             "summary_html": summ,
         })
 
-    # 读取历史 RSS（若需保留历史，可在此合并旧条；此处简单用“只生成当日条目”也足够）
+    # 读取历史 RSS（若需保留历史，可在此合并旧条；此处简单用"只生成当日条目"也足够）
     rss_bytes = build_rss(RSS_CHANNEL, items)
 
     # 写出 RSS
