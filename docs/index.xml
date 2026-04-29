@@ -7,146 +7,111 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 28 Apr 2026 05:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 05:27:22 +0000</lastBuildDate>
     <item>
-      <title>Meta-CoT: Enhancing Granularity and Generalization in Image Editing</title>
-      <link>http://arxiv.org/abs/2604.24625v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shiyi Zhang, Yiji Cheng, Tiankai Hang, Zijin Yin, Runze He, Yu Xu, Wenxun Dai, Yunlong Lin&lt;/p&gt;&lt;p&gt;Unified multi-modal understanding/generative models have shown improved image editing performance by incorporating fine-grained understanding into their Chain-of-Thought (CoT) process. However, a critical question remains underexplored: what forms of CoT and training strategy can jointly enhance both the understanding granularity and generalization? To address this, we propose Meta-CoT, a paradigm that performs a two-level decomposition of any single-image editing operation with two key properties: (1) Decomposability. We observe that any editing intention can be represented as a triplet - (ta&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24625v1</guid>
-      <pubDate>Mon, 27 Apr 2026 15:52:48 +0000</pubDate>
+      <title>Online combinatorial optimization with stochastic decision sets and adversarial losses</title>
+      <link>http://arxiv.org/abs/2604.25269v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gergely Neu, Michal Valko&lt;/p&gt;&lt;p&gt;Most work on sequential learning assumes a fixed set of actions that are available all the time. However, in practice, actions can consist of picking subsets of readings from sensors that may break from time to time, road segments that can be blocked or goods that are out of stock. In this paper we study learning algorithms that are able to deal with stochastic availability of such unreliable composite actions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25269v1</guid>
+      <pubDate>Tue, 28 Apr 2026 06:28:51 +0000</pubDate>
     </item>
     <item>
-      <title>Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application</title>
-      <link>http://arxiv.org/abs/2604.24636v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; William Oliveira&lt;/p&gt;&lt;p&gt;On-device Small Language Models (SLMs) promise fully offline, private AI experiences for mobile users (no cloud dependency, no data leaving the device). But is this promise achievable in practice? This paper presents a longitudinal practitioner case study documenting the engineering challenges of integrating SLMs (Gemma 4 E2B, 2.6B parameters; Qwen3 0.6B, 600M parameters) into Palabrita, a production Android word-guessing game. Over a 5-day development sprint comprising 204 commits (~90 directly AI-related), the system underwent a radical transformation: from an ambitious design where the LLM &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24636v1</guid>
-      <pubDate>Mon, 27 Apr 2026 16:05:39 +0000</pubDate>
+      <title>Optimization-Free Topological Sort for Causal Discovery via the Schur Complement of Score Jacobians</title>
+      <link>http://arxiv.org/abs/2604.25295v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rui Wu, Hong Xie&lt;/p&gt;&lt;p&gt;Continuous causal discovery typically couples representation learning with structural optimization via non-convex acyclicity penalties, which subjects solvers to local optima and restricts scalability in high-dimensional regimes. We propose a decoupled paradigm that shifts the causal discovery bottleneck from non-convex optimization to statistical score estimation. We introduce the Score-Schur Topological Sort (SSTS), an algorithm that extracts topological order directly from unconstrained generative models, bypassing constrained structure optimization&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25295v1</guid>
+      <pubDate>Tue, 28 Apr 2026 07:03:04 +0000</pubDate>
     </item>
     <item>
-      <title>Cortex-Inspired Continual Learning: Unsupervised Instantiation and Recovery of Functional Task Networks</title>
-      <link>http://arxiv.org/abs/2604.24637v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kevin McKee, Thomas Hazy, Yicong Zheng, Zacharie Bugaud, Thomas Miconi&lt;/p&gt;&lt;p&gt;Block-sequential continual learning demands that a single model both protect prior solutions from catastrophic forgetting and efficiently infer at inference time which prior solution matches the current input without task labels. We present Functional Task Networks (FTN), a parameter-isolation method inspired by structural and dynamical motifs found in the mammalian neocortex. Similar to mixture-of-experts, this method uses a high dimensional, self-organizing binary mask over a large population of small but deep networks, inspired by dendritic models of pyramidal neurons&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24637v1</guid>
-      <pubDate>Mon, 27 Apr 2026 16:06:28 +0000</pubDate>
+      <title>RCProb: Probabilistic Rule Extraction for Efficient Simplification of Tree Ensembles</title>
+      <link>http://arxiv.org/abs/2604.25304v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Josue Obregon&lt;/p&gt;&lt;p&gt;Tree ensembles are widely used in industrial machine learning due to their strong predictive performance and efficient training procedures. However, as the number of trees in an ensemble grows, the resulting models become increasingly difficult for humans to interpret. To address this limitation, explainable artificial intelligence (XAI) studies methods that generate interpretable models capable of explaining complex predictors&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25304v1</guid>
+      <pubDate>Tue, 28 Apr 2026 07:12:15 +0000</pubDate>
     </item>
     <item>
-      <title>K-MetBench: A Multi-Dimensional Benchmark for Fine-Grained Evaluation of Expert Reasoning, Locality, and Multimodality in Meteorology</title>
-      <link>http://arxiv.org/abs/2604.24645v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Soyeon Kim, Cheongwoong Kang, Myeongjin Lee, Eun-Chul Chang, Jaedeok Lee, Jaesik Choi&lt;/p&gt;&lt;p&gt;The development of practical (multimodal) large language model assistants for Korean weather forecasters is hindered by the absence of a multidimensional, expert-level evaluation framework grounded in authoritative sources. To address this, we introduce K-MetBench, a diagnostic benchmark grounded in national qualification exams. It exposes critical gaps across four dimensions: expert visual reasoning of charts, logical validity via expert-verified rationales, Korean-specific geo-cultural comprehension, and fine-grained domain analysis&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24645v1</guid>
-      <pubDate>Mon, 27 Apr 2026 16:13:14 +0000</pubDate>
+      <title>GraphPL: Leveraging GNN for Efficient and Robust Modalities Imputation in Patchwork Learning</title>
+      <link>http://arxiv.org/abs/2604.25352v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xingjian Hu, Zuoyu Yan, Jianhua Zhu, Liangcai Gao, Fei Wang, Tengfei Ma&lt;/p&gt;&lt;p&gt;Current research on distributed multi-modal learning typically assumes that clients can access complete information across all modalities, which may not hold in practice. In this paper, we explore patchwork learning, in which the modalities available to different clients vary, and the objective is to impute the missing modalities for each client in an unsupervised manner. Existing methods are shown not to fully utilize the modality information as they tend to rely on only a subset of the observed modalities&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25352v1</guid>
+      <pubDate>Tue, 28 Apr 2026 08:09:51 +0000</pubDate>
     </item>
     <item>
-      <title>DepthKV: Layer-Dependent KV Cache Pruning for Long-Context LLM Inference</title>
-      <link>http://arxiv.org/abs/2604.24647v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zahra Dehghanighobadi, Asja Fischer&lt;/p&gt;&lt;p&gt;Long-context reasoning is a critical capability of large language models (LLMs), enabling applications such as long-document understanding, summarization, and code generation. However, efficient autoregressive inference relies on the key-value (KV) cache, whose memory footprint grows linearly with sequence length, leading to a major memory bottleneck. To mitigate this overhead, KV cache pruning methods discard cached tokens with low attention scores during inference&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24647v1</guid>
-      <pubDate>Mon, 27 Apr 2026 16:15:37 +0000</pubDate>
+      <title>Evaluating local climate in global storm-resolving models with the Köppen-Geiger classification</title>
+      <link>http://arxiv.org/abs/2604.25447v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chiel C. van Heerwaarden, Menno A. Veerman, Imme Benedict, Lukas Brunner, Edgar Dolores-Tesillos, Emanuel Dutra, Erich Fischer, Junhong Lee&lt;/p&gt;&lt;p&gt;Global storm-resolving models aspire to become digital twins of the Earth, delivering information at the local scale at which humans experience climate. We evaluated how well two such models, ICON and IFS-FESOM, reproduce the climate as classified by the Köppen-Geiger system, using 30-year (2020-2049) simulations from the nextGEMS project at 9~km global resolution under SSP3-7.0 scenario. Both models capture the global distribution of the five main climate categories, encouraging given the infancy of storm-resolving climate modelling&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25447v1</guid>
+      <pubDate>Tue, 28 Apr 2026 09:57:57 +0000</pubDate>
     </item>
     <item>
-      <title>AgentWard: A Lifecycle Security Architecture for Autonomous AI Agents</title>
-      <link>http://arxiv.org/abs/2604.24657v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yixiang Zhang, Xinhao Deng, Jiaqing Wu, Yue Xiao, Ke Xu, Qi Li&lt;/p&gt;&lt;p&gt;Autonomous AI agents extend large language models into full runtime systems that load skills, ingest external content, maintain memory, plan multi-step actions, and invoke privileged tools. In such systems, security failures rarely remain confined to a single interface; instead, they can propagate across initialization, input processing, memory, decision-making, and execution, often becoming apparent only when harmful effects materialize in the environment. This paper presents AgentWard, a lifecycle-oriented, defense-in-depth architecture that systematically organizes protection across these f&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24657v1</guid>
-      <pubDate>Mon, 27 Apr 2026 16:22:27 +0000</pubDate>
+      <title>PHISHREV: A Hybrid Machine Learning and Post-Hoc Non-monotonic Reasoning Framework for Context-Aware Phishing Website Classification</title>
+      <link>http://arxiv.org/abs/2604.25512v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mainak Sen, Kumar Sankar Ray, Amlan Chakrabarti&lt;/p&gt;&lt;p&gt;Phishing detection systems are predominantly rely on statistical machine learning models, which often lack contextual reasoning and are vulnerable to adversarial manipulation. In this work, we propose a hybrid framework that integrates machine learning classifiers with non-monotonic reasoning using Answer Set Programming (ASP) to enable context-aware decision refinement. The proposed post-hoc reasoning layer incorporates expert knowledge to revise classifier predictions through formal belief revisions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25512v1</guid>
+      <pubDate>Tue, 28 Apr 2026 11:20:55 +0000</pubDate>
     </item>
     <item>
-      <title>Instrumental Variable Analysis Without Structural Equations</title>
-      <link>http://arxiv.org/abs/2604.24660v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zikai Shen, Dimitri Meunier, Houssam Zenati, Arthur Gretton, Nathan Kallus, Aurélien Bibaut&lt;/p&gt;&lt;p&gt;We consider debiased inference on least-squares solutions to inverse problems as a way to avoid having to assume exact solutions exist. Such assumptions are substantive and not innocuous and their failure may well imperil inference when we impose them on the statistical model. Our approach instead allows us to conduct inference on a quantity that is defined regardless of solutions existing and coincides with the usual estimands when they do&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24660v1</guid>
-      <pubDate>Mon, 27 Apr 2026 16:24:35 +0000</pubDate>
+      <title>Representing the Surface Ocean in ECMWF's data-driven forecasting system AIFS</title>
+      <link>http://arxiv.org/abs/2604.25559v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sara Hahner, Lorenzo Zampieri, Jean-Raymond Bidlot, Philip Browne, Matthew Chantry, Mariana C. A. Clare, Harrison Cook, Peter Dueben&lt;/p&gt;&lt;p&gt;Machine-learning (ML) models, such as the AIFS at the ECMWF, have revolutionised weather forecasting in recent years. We present an extension of the AIFS that jointly models the atmosphere and surface ocean, including ocean waves and sea ice. The primary objective of this extension is to enhance machine-learning medium-range forecasting and enable new use cases by expanding the weather state to better capture coupled surface processes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25559v1</guid>
+      <pubDate>Tue, 28 Apr 2026 12:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Information bottleneck for learning the phase space of dynamics from high-dimensional experimental data</title>
-      <link>http://arxiv.org/abs/2604.24662v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; K. Michael Martini, Eslam Abdelaleem, Paarth Gulati, Ilya Nemenman&lt;/p&gt;&lt;p&gt;Identifying the dynamical state variables of a system from high-dimensional observations is a central problem across physical sciences. The challenge is that the state variables are not directly observable and must be inferred from raw high-dimensional data without supervision. Here we introduce DySIB (Dynamical Symmetric Information Bottleneck) as a method to learn low-dimensional representations of time-series data by maximizing predictive mutual information between past and future observation windows while penalizing representation complexity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24662v1</guid>
-      <pubDate>Mon, 27 Apr 2026 16:24:45 +0000</pubDate>
+      <title>Benchmarking bandgap prediction in semiconductors under experimental and realistic evaluation settings</title>
+      <link>http://arxiv.org/abs/2604.25568v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haolin Wang, Xianyuan Liu, Anna Jungbluth, Alexandra J. Ramadan, Robert D. J. Oliver, Haiping Lu&lt;/p&gt;&lt;p&gt;Accurate bandgap prediction is crucial for semiconductor applications, yet machine learning models trained on computational data often struggle to generalize to experimental bandgap measurements. Challenges related to data fidelity, domain generalization, and model interpretability remain insufficiently addressed in existing evaluation frameworks. To bridge this gap, we introduce RealMat-BaG, a benchmark for assessing model reliability under experimentally relevant conditions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25568v1</guid>
+      <pubDate>Tue, 28 Apr 2026 12:39:21 +0000</pubDate>
     </item>
     <item>
-      <title>Benchmarking Source-Sensitive Reasoning in Turkish: Humans and LLMs under Evidential Trust Manipulation</title>
-      <link>http://arxiv.org/abs/2604.24665v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sercan Karakaş, Yusuf Şimşek&lt;/p&gt;&lt;p&gt;This paper investigates whether source trustworthiness shapes Turkish evidential morphology and whether large language models (LLMs) track this sensitivity. We study the past-domain contrast between -DI and -mIs in controlled cloze contexts where the information source is overtly external, while only its perceived reliability is manipulated (High-Trust vs. Low-Trust)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24665v1</guid>
-      <pubDate>Mon, 27 Apr 2026 16:26:20 +0000</pubDate>
+      <title>The Physical Limit of Neural Hypoxia Detection in the Black Sea from Satellite Observations</title>
+      <link>http://arxiv.org/abs/2604.25608v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Victor Mangeleer, Luc Vandenbulcke, Marilaure Grégoire, Gilles Louppe&lt;/p&gt;&lt;p&gt;Coastal hypoxia (O_2 &lt; 63 [mmol / m^3]) threatens ocean health worldwide. Bottom oxygen consumed by respiration cannot be renewed, making monitoring essential to protect vulnerable marine ecosystems and reduce biodiversity loss. Despite the growing availability of Black Sea satellite observations, no operational system currently exploits them to directly infer the oxygen state in real time&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25608v1</guid>
+      <pubDate>Tue, 28 Apr 2026 13:13:44 +0000</pubDate>
     </item>
     <item>
-      <title>The Price of Agreement: Measuring LLM Sycophancy in Agentic Financial Applications</title>
-      <link>http://arxiv.org/abs/2604.24668v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhenyu Zhao, Aparna Balagopalan, Adi Agrawal, Dilshoda Yergasheva, Waseem Alshikh, Daniel M. Bikel&lt;/p&gt;&lt;p&gt;Given the increased use of LLMs in financial systems today, it becomes important to evaluate the safety and robustness of such systems. One failure mode that LLMs frequently display in general domain settings is that of sycophancy. That is, models prioritize agreement with expressed user beliefs over correctness, leading to decreased accuracy and trust&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24668v1</guid>
-      <pubDate>Mon, 27 Apr 2026 16:27:10 +0000</pubDate>
+      <title>Towards interpretable AI with quantum annealing feature selection</title>
+      <link>http://arxiv.org/abs/2604.25649v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Francesco Aldo Venturelli, Emanuele Costa, Sikha O K, Bruno Juliá-Díaz, Miguel A. González Ballester, Alba Cervera-Lierta&lt;/p&gt;&lt;p&gt;Deep learning models are used in critical applications, in which mistakes can have serious consequences. Therefore, it is crucial to understand how and why models generate predictions. This understanding provides useful information to check whether the model is learning the right patterns, detect biases in the data, improve model design, and build systems that can be trusted&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25649v1</guid>
+      <pubDate>Tue, 28 Apr 2026 13:47:22 +0000</pubDate>
     </item>
     <item>
-      <title>Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study</title>
-      <link>http://arxiv.org/abs/2604.24678v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sivajeet Chand, Kevin Nguyen, Peter Kuntz, Alexander Pretschner&lt;/p&gt;&lt;p&gt;Large language models (LLMs) perform strongly on general-purpose code generation, yet their applicability to enterprise domain-specific languages (DSLs) remains underexplored, especially for repository-scale change generation spanning multiple files and folder structures from a single natural-language (NL) instruction. We report an industrial case study at BMW that adapts code-oriented LLMs to generate and modify project-root DSL artifacts for an Xtext-based DSL that drives downstream Java/TypeScript code generation. We develop an end-to-end pipeline for dataset construction, multi-file task r&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24678v1</guid>
-      <pubDate>Mon, 27 Apr 2026 16:38:01 +0000</pubDate>
+      <title>RADD: Retrieval-Augmented Discrete Diffusion for Multi-Modal Knowledge Graph Completion</title>
+      <link>http://arxiv.org/abs/2604.25693v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guanglin Niu, Bo Li&lt;/p&gt;&lt;p&gt;Most multi-modal knowledge graph completion (MMKGC) models use one embedding scorer to do both retrieval over the full entity set and final decision making. We argue that this coupling is a core bottleneck: global high-recall search and local fine-grained disambiguation require different inductive biases. Therefore, we propose a Retrieval-Augmented Discrete Diffusion (RADD) framework to decouple retrieve and reranking for MMKGC&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25693v1</guid>
+      <pubDate>Tue, 28 Apr 2026 14:21:03 +0000</pubDate>
     </item>
     <item>
-      <title>Governing What You Cannot Observe: Adaptive Runtime Governance for Autonomous AI Agents</title>
-      <link>http://arxiv.org/abs/2604.24686v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; German Marin, Jatin Chaudhary&lt;/p&gt;&lt;p&gt;Autonomous AI agents can remain fully authorized and still become unsafe as behavior drifts, adversaries adapt, and decision patterns shift without any code change. We propose the \textbf{Informational Viability Principle}: governing an agent reduces to estimating a bound on unobserved risk $\hat{B}(x) = U(x) + SB(x) + RG(x)$ and allowing an action only when its capacity $S(x)$ exceeds $\hat{B}(x)$ by a safety margin. The \textbf{Agent Viability Framework}, grounded in Aubin's viability theory, establishes three properties -- monitoring (P1), anticipation (P2), and monotonic restriction (P3) -&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24686v1</guid>
-      <pubDate>Mon, 27 Apr 2026 16:46:15 +0000</pubDate>
+      <title>Semi-Markov Reinforcement Learning for City-Scale EV Ride-Hailing with Feasibility-Guaranteed Actions</title>
+      <link>http://arxiv.org/abs/2604.25848v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; An Nguyen, Hoang Nguyen, Phuong Le, Hung Pham, Cuong Do, Laurent El Ghaoui&lt;/p&gt;&lt;p&gt;We study city-scale control of electric-vehicle (EV) ride-hailing fleets where dispatch, repositioning, and charging decisions must respect charger and feeder limits under uncertain, spatially correlated demand and travel times. We formulate the problem as a hex-grid semi-Markov decision process (semi-MDP) with mixed actions -- discrete actions for serving, repositioning, and charging, together with continuous charging power -- and variable action durations. To guarantee physical feasibility during both training and deployment, the policy learns over high-level intentions produced by a masked,&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25848v1</guid>
+      <pubDate>Tue, 28 Apr 2026 16:54:03 +0000</pubDate>
     </item>
     <item>
-      <title>Can Current Agents Close the Discovery-to-Application Gap? A Case Study in Minecraft</title>
-      <link>http://arxiv.org/abs/2604.24697v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhou Ziheng, Huacong Tang, Jinyuan Zhang, Haowei Lin, Bangcheng Yang, Qian Long, Fang Sun, Yizhou Sun&lt;/p&gt;&lt;p&gt;Discovering causal regularities and applying them to build functional systems--the discovery-to-application loop--is a hallmark of general intelligence, yet evaluating this capacity has been hindered by the vast complexity gap between scientific discovery and real-world engineering. We introduce SciCrafter, a Minecraft-based benchmark that operationalizes this loop through parameterized redstone circuit tasks. Agents must ignite lamps in specified patterns (e.g., simultaneously or in timed sequences); scaling target parameters substantially increases construction complexity and required knowle&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24697v1</guid>
-      <pubDate>Mon, 27 Apr 2026 16:58:04 +0000</pubDate>
+      <title>Explainable AI for Jet Tagging: A Comparative Study of GNNExplainer, GNNShap, and GradCAM for Jet Tagging in the Lund Jet Plane</title>
+      <link>http://arxiv.org/abs/2604.25885v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pahal D. Patel, Sanmay Ganguly&lt;/p&gt;&lt;p&gt;Graph neural networks such as ParticleNet and transformer based networks on point clouds such as ParticleTransformer achieve state-of-the-art performance on jet tagging benchmarks at the Large Hadron Collider, yet the physical reasoning behind their predictions remains opaque. We present different methods, i.e. perturbation-based (GNNExplainer), Shapley-value-based (GNNShap), and gradient-based (GRADCam); adapted to operate on LundNet's Lund-plane graph representation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25885v1</guid>
+      <pubDate>Tue, 28 Apr 2026 17:28:41 +0000</pubDate>
     </item>
     <item>
-      <title>Green Shielding: A User-Centric Approach Towards Trustworthy AI</title>
-      <link>http://arxiv.org/abs/2604.24700v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aaron J. Li, Nicolas Sanchez, Hao Huang, Ruijiang Dong, Jaskaran Bains, Katrin Jaradeh, Zhen Xiang, Bo Li&lt;/p&gt;&lt;p&gt;Large language models (LLMs) are increasingly deployed, yet their outputs can be highly sensitive to routine, non-adversarial variation in how users phrase queries, a gap not well addressed by existing red-teaming efforts. We propose Green Shielding, a user-centric agenda for building evidence-backed deployment guidance by characterizing how benign input variation shifts model behavior. We operationalize this agenda through the CUE criteria: benchmarks with authentic Context, reference standards and metrics that capture true Utility, and perturbations that reflect realistic variations in the E&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24700v1</guid>
-      <pubDate>Mon, 27 Apr 2026 17:04:17 +0000</pubDate>
+      <title>Observation-Guided Neural Surrogate Learning for Scientific Simulation Emulation: A Single-Gauge Flood-Inundation Proof of Concept</title>
+      <link>http://arxiv.org/abs/2604.25890v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marzieh Alireza Mirhoseini&lt;/p&gt;&lt;p&gt;We present an observation-guided neural surrogate-learning framework for scientific simulation emulation, demonstrated on urban flood-inundation mapping. The framework combines LISFLOOD-FP hydrodynamic simulations with a real Gauge L stage record that is mapped to the simulation grid and converted to a datum-consistent local water-depth target before being used as single-site supervision. Focusing on a 256 x 256 crop around Gauge L in the Chicago metropolitan area, the method first constructs an ensemble-approximated Gaussian-process/local analogue surrogate (EnsCGP) to obtain a coarse flood-d&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25890v1</guid>
+      <pubDate>Tue, 28 Apr 2026 17:33:02 +0000</pubDate>
     </item>
     <item>
-      <title>Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis</title>
-      <link>http://arxiv.org/abs/2604.24703v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Amal Akli, Mike Papadakis, Maxime Cordy, Yves Le Traon&lt;/p&gt;&lt;p&gt;Large language models are widely used for code generation, yet they rely on an implicit assumption that the task descriptions are sufficiently detailed and well-formed. However, in practice, users may provide defective descriptions, which can have a strong effect on code correctness. To address this issue, we develop SpecValidator, a lightweight classifier based on a small model that has been parameter-efficiently finetuned, to automatically detect task description defects&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24703v1</guid>
-      <pubDate>Mon, 27 Apr 2026 17:07:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scalable Hyperparameter-Divergent Ensemble Training with Automatic Learning Rate Exploration for Large Models</title>
-      <link>http://arxiv.org/abs/2604.24708v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hailing Cheng, Tao Huang, Chen Zhu, Antonio Alonso&lt;/p&gt;&lt;p&gt;Training large neural networks with data-parallel stochastic gradient descent allocates N GPU replicas to compute effectively identical updates -- a practice that leaves the rich space of learning rate configurations entirely unexplored during training. We propose Hyperparameter-Divergent Ensemble Training (HDET), a method that repurposes these replicas for simultaneous learning rate exploration at negligible communication overhead. HDET operates in alternating phases: a fan-out stage in which replicas train independently under a structured, symmetric spread of learning rates, and a converge s&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24708v1</guid>
-      <pubDate>Mon, 27 Apr 2026 17:17:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Case-Specific Rubrics for Clinical AI Evaluation: Methodology, Validation, and LLM-Clinician Agreement Across 823 Encounters</title>
-      <link>http://arxiv.org/abs/2604.24710v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aaryan Shah, Andrew Hines, Alexia Downs, Denis Bajet, Paulius Mui, Fabiano Araujo, Laura Offutt, Aida Rutledge&lt;/p&gt;&lt;p&gt;Objective. Clinical AI documentation systems require evaluation methodologies that are clinically valid, economically viable, and sensitive to iterative changes. Methods requiring expert review per scoring instance are too slow and expensive for safe, iterative deployment&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24710v1</guid>
-      <pubDate>Mon, 27 Apr 2026 17:17:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learning to Rotate: Temporal and Semantic Rotary Encoding for Sequential Modeling</title>
-      <link>http://arxiv.org/abs/2604.24717v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hailing Cheng, Daqi Sun, Xinyu Lu&lt;/p&gt;&lt;p&gt;Every Transformer architecture dedicates enormous capacity to learning rich representations in semantic embedding space -- yet the rotation manifold acted upon by Rotary Positional Embeddings (RoPE) has been treated as a fixed, hand-crafted structure, populated only by discrete ordinal indices. We argue that this rotation space is a largely overlooked second dimension of expressivity in the attention mechanism, one whose systematic exploration may open a new door for attention-based architectures. The analogy to complex numbers is instructive: just as introducing the imaginary axis -- orthogon&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24717v1</guid>
-      <pubDate>Mon, 27 Apr 2026 17:26:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learning to Think from Multiple Thinkers</title>
-      <link>http://arxiv.org/abs/2604.24737v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nirmit Joshi, Roey Magen, Nathan Srebro, Nikolaos Tsilivis, Gal Vardi&lt;/p&gt;&lt;p&gt;We study learning with Chain-of-Thought (CoT) supervision from multiple thinkers, all of whom provide correct but possibly systematically different solutions, e.g., step-by-step solutions to math problems written by different thinkers, or step-by-step execution traces of different programs solving the same problem.   We consider classes that are computationally easy to learn using CoT supervision from a single thinker, but hard to learn with only end-result supervision, i.e., without CoT (Joshi et al. 2025)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24737v1</guid>
-      <pubDate>Mon, 27 Apr 2026 17:43:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components</title>
-      <link>http://arxiv.org/abs/2604.24758v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Griffin Pitts, Muntasir Hoq, Peter Brusilovsky, Narges Norouzi, Arto Hellas, Juho Leinonen, Bita Akram&lt;/p&gt;&lt;p&gt;Adaptive programming practice often relies on fixed libraries of worked examples and practice problems, which require substantial authoring effort and may not correspond well to the logical errors and partial solutions students produce while writing code. As a result, students may receive learning content that does not directly address the concepts they are working to understand, while instructors must either invest additional effort in expanding content libraries or accept a coarse level of personalization. We present an approach for knowledge-component (KC) guided educational content generat&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.24758v1</guid>
-      <pubDate>Mon, 27 Apr 2026 17:56:56 +0000</pubDate>
+      <title>Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics</title>
+      <link>http://arxiv.org/abs/2604.25904v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andre Herz, Daniel Durstewitz, Georgia Koppe&lt;/p&gt;&lt;p&gt;Identity teacher forcing (ITF) enables stable training of deterministic recurrent surrogates for chaotic dynamical systems and has been highly effective for dynamical systems reconstruction (DSR) with recurrent neural networks (RNNs), including interpretable almost-linear RNNs (AL-RNNs). However, as an intervention-based prediction loss (and thus a generalized Bayes update), teacher forcing need not match the free-running model's marginal likelihood geometry. We compare the objective-induced curvatures of ITF and marginal likelihood in a probabilistic switching augmentation of AL-RNNs, estimat&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2604.25904v1</guid>
+      <pubDate>Tue, 28 Apr 2026 17:50:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
