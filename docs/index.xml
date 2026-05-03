@@ -7,34 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 02 May 2026 05:12:50 +0000</lastBuildDate>
-    <item>
-      <title>Explainable Load Forecasting with Covariate-Informed Time Series Foundation Models</title>
-      <link>http://arxiv.org/abs/2604.28149v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Matthias Hertel, Alexandra Nikoltchovska, Sebastian Pütz, Ralf Mikut, Benjamin Schäfer, Veit Hagenmeyer&lt;/p&gt;&lt;p&gt;Time Series Foundation Models (TSFMs) have recently emerged as general-purpose forecasting models and show considerable potential for applications in energy systems. However, applications in critical infrastructure like power grids require transparency to ensure trust and reliability and cannot rely on pure black-box models. To enhance the transparency of TSFMs, we propose an efficient algorithm for computing Shapley Additive Explanations (SHAP) tailored to these models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.28149v1</guid>
-      <pubDate>Thu, 30 Apr 2026 17:36:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sequential Inference for Gaussian Processes: A Signal Processing Perspective</title>
-      <link>http://arxiv.org/abs/2604.28163v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daniel Waxman, Fernando Llorente, Petar M. Djurić&lt;/p&gt;&lt;p&gt;The proliferation of capable and efficient machine learning (ML) models marks one of the strongest methodological shifts in signal processing (SP) in its nearly 100-year history. ML models support the development of SP systems that represent complex, nonlinear relationships with high predictive accuracy. Adapting these models often requires sequential inference, which differs both theoretically and methodologically from the usual paradigm of ML, where data are often assumed independent and identically distributed&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.28163v1</guid>
-      <pubDate>Thu, 30 Apr 2026 17:48:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strait: Perceiving Priority and Interference in ML Inference Serving</title>
-      <link>http://arxiv.org/abs/2604.28175v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haidong Zhao, Nikolaos Georgantas&lt;/p&gt;&lt;p&gt;Machine learning (ML) inference serving systems host deep neural network (DNN) models and schedule incoming inference requests across deployed GPUs. However, limited support for task prioritization and insufficient latency estimation under concurrent execution may restrict their applicability in on-premises scenarios. We present \emph{Strait}, a serving system designed to enhance deadline satisfaction for dual-priority inference traffic under high GPU utilization&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.28175v1</guid>
-      <pubDate>Thu, 30 Apr 2026 17:55:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders</title>
-      <link>http://arxiv.org/abs/2604.28176v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Emma Andrews, Sahan Sanjaya, Prabhat Mishra&lt;/p&gt;&lt;p&gt;Machine learning models can learn from data samples to carry out various tasks efficiently. When data samples are adversarially manipulated, such as by insertion of carefully crafted noise, it can cause the model to make mistakes. Quantum machine learning models are also vulnerable to such adversarial attacks, especially in image classification using variational quantum classifiers&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2604.28176v1</guid>
-      <pubDate>Thu, 30 Apr 2026 17:56:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 May 2026 05:31:28 +0000</lastBuildDate>
   </channel>
 </rss>
