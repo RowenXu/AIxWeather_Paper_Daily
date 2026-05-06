@@ -7,118 +7,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 05 May 2026 05:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 05:30:23 +0000</lastBuildDate>
     <item>
-      <title>Pretraining on Sleep Data Improves non-Sleep Biosignal Tasks</title>
-      <link>http://arxiv.org/abs/2605.02500v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; William Lehn-Schiøler, Magnus Ruud Kjær, Phillip Hempel, Magnus Guldberg Pedersen, Rahul Thapa, Bryan He, Nicolai Spicher, Andreas Brink-Kjaer&lt;/p&gt;&lt;p&gt;Sleep foundation models have recently demonstrated strong performance on in-domain polysomnography tasks, including sleep staging, apnea detection, and disease risk prediction. In this work, we investigate whether sleep biosignals can serve as an effective pretraining distribution for learning representations that transfer beyond sleep to adjacent domains. Following sleep foundation models, we perform sleep-only multimodal contrastive pretraining (with a leave-one-out objective) and evaluate transfer to non-sleep EEG and ECG, two well-benchmarked biosignal modalities with heterogeneous dataset&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02500v1</guid>
-      <pubDate>Mon, 04 May 2026 11:51:54 +0000</pubDate>
+      <title>From Code to Prediction: Fine-Tuning LLMs for Neural Network Performance Classification in NNGPT</title>
+      <link>http://arxiv.org/abs/2605.03686v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mahmoud Hanouneh, Radu Timofte, Dmitry Ignatov&lt;/p&gt;&lt;p&gt;Automated Machine Learning (AutoML) frameworks increasingly leverage Large Language Models (LLMs) for tasks such as hyperparameter optimization and neural architecture code generation. However, current LLM-based approaches focus on generative outputs and evaluate them by training the produced artifacts. Whether LLMs can learn to reason about neural network performance across datasets remains underexplored&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.03686v1</guid>
+      <pubDate>Tue, 05 May 2026 12:30:19 +0000</pubDate>
     </item>
     <item>
-      <title>A Novel Preprocessing-Driven Approach to Remaining Useful Life (RUL) Prediction Using Temporal Convolutional Networks (TCN)</title>
-      <link>http://arxiv.org/abs/2605.02507v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Florent Imbert, Tosin Adewumi, Hui Han&lt;/p&gt;&lt;p&gt;Accurate prediction of Remaining Useful Life (RUL) in aero-engines is vital for predictive maintenance, improved operational reliability, and reduced lifecycle costs. While deep learning approaches have demonstrated strong potential in this area, most existing methods focus primarily on model architecture design and treat input features uniformly, often neglecting the influence of data preprocessing. In this work, we propose a novel preprocessing pipeline that enhances RUL prediction by improving data quality and temporal representation before model training&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02507v1</guid>
-      <pubDate>Mon, 04 May 2026 12:00:22 +0000</pubDate>
+      <title>Graph Neural Network based Hierarchy-Aware Embeddings of Knowledge Graphs: Applications to Yeast Phenotype Prediction</title>
+      <link>http://arxiv.org/abs/2605.03690v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Filip Kronström, Alexander H. Gower, Daniel Brunnsåker, Ievgeniia A. Tiukova, Ross D. King&lt;/p&gt;&lt;p&gt;We present a method for finding hierarchy-aware embeddings of knowledge graphs (KGs) using graph neural networks (GNNs) enriched with a semantic loss derived from underlying ontologies. This method yields embeddings that better reflect domain knowledge. To demonstrate their utility, we predict and interpret the effects of gene deletions in the yeast Saccharomyces cerevisiae and learn box embeddings for KGs in the absence of a prediction task&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.03690v1</guid>
+      <pubDate>Tue, 05 May 2026 12:34:45 +0000</pubDate>
     </item>
     <item>
-      <title>Physics-Informed Neural Learning for State Reconstruction and Parameter Identification in Coupled Greenhouse Climate Dynamics</title>
-      <link>http://arxiv.org/abs/2605.02524v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sani Biswas, Khursheed J. Ansari, Md. Nasim Akhtar&lt;/p&gt;&lt;p&gt;Physics-informed neural networks (PINNs) have recently emerged as a promising framework for integrating data-driven learning with physical knowledge. In this work, we propose a coupled PINN approach for the joint reconstruction of indoor temperature and humidity dynamics in greenhouse environments, together with simultaneous identification of key model parameters. The method incorporates a reduced-order physically motivated model into the learning process, enabling consistent estimation under sparse and noisy observations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02524v1</guid>
-      <pubDate>Mon, 04 May 2026 12:26:30 +0000</pubDate>
+      <title>Training-Free Probabilistic Time-Series Forecasting with Conformal Seasonal Pools</title>
+      <link>http://arxiv.org/abs/2605.03789v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Valery Manokhin&lt;/p&gt;&lt;p&gt;We propose Conformal Seasonal Pools (CSP), a training-free probabilistic time-series forecaster that mixes same-season empirical draws with signed residual draws around a seasonal naive forecast. In an audited rolling-origin benchmark on the six time-series datasets where DeepNPTS was originally evaluated (electricity, exchange_rate, solar_energy, taxi, traffic, wikipedia), CSP-Adaptive significantly outperforms DeepNPTS on every metric we report -- CRPS (per-window paired Wilcoxon $p \approx 4 \times 10^{-10}$), normalized mean quantile loss ($p \approx 7 \times 10^{-10}$), and empirical 95% &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.03789v1</guid>
+      <pubDate>Tue, 05 May 2026 14:16:35 +0000</pubDate>
     </item>
     <item>
-      <title>HARMES: A Multi-Modal Dataset for Wearable Human Activity Recognition with Motion, Environmental Sensing and Sound</title>
-      <link>http://arxiv.org/abs/2605.02596v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Robin Burchard, Pascal-André Brückner, Marius Bock, Juergen Gall, Kristof Van Laerhoven&lt;/p&gt;&lt;p&gt;With each sensing modality exhibiting inherent strengths and limitations, multi-modal approaches for wearable Human Activity Recognition (HAR) are becoming increasingly relevant -- particularly for recognizing Activities of Daily Living (ADLs), where individual modalities often produce ambiguous signals for similar or complex activities. This work introduces HARMES, a multi-modal wearable dataset combining three wrist-recorded modalities: motion sensing via an Inertial Measurement Unit (IMU), atmospheric environmental sensors (humidity, temperature, and pressure), and audio. Collected from 20 &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02596v1</guid>
-      <pubDate>Mon, 04 May 2026 13:47:41 +0000</pubDate>
+      <title>Graph Convolutional Support Vector Regression for Robust Spatiotemporal Forecasting of Urban Air Pollution</title>
+      <link>http://arxiv.org/abs/2605.03795v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nourin Jahan, Madhurima Panja, Muhammed Navas T, Tanujit Chakraborty&lt;/p&gt;&lt;p&gt;Urban air quality forecasting is challenging because pollutant concentrations are nonlinear, nonstationary, spatiotemporally dependent, and often affected by anomalous observations caused by traffic congestion, industrial emissions, and seasonal meteorological variability. This study proposes a Graph Convolutional Support Vector Regression (GCSVR) framework for robust spatiotemporal forecasting of urban air pollution. The model combines graph convolutional learning to capture inter-station spatial dependence with support vector regression to model nonlinear temporal dynamics while reducing sen&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.03795v1</guid>
+      <pubDate>Tue, 05 May 2026 14:24:49 +0000</pubDate>
     </item>
     <item>
-      <title>SCGNN: Semantic Consistency enhanced Graph Neural Network Guided by Granular-ball Computing</title>
-      <link>http://arxiv.org/abs/2605.02617v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Genhao Tian, Taihua Xu, Shuyin Xia, Qinghua Zhang, Jie Yang, Jianjun Chen&lt;/p&gt;&lt;p&gt;Capturing semantic consistency among nodes is crucial for effective graph representation learning. Existing approaches typically rely on $k$-nearest neighbors ($k$NN) or other node-level full search algorithms (FSA) to mine semantic relationships via exhaustive pairwise similarity computation, which suffer from high computational complexity and rigid neighbor selection, limiting scalability and introducing noisy connections. In this paper, we propose the Semantic Consistency enhanced Graph Neural Network (SCGNN), a novel plug-and-play framework that leverages granular-ball computing (GBC) to e&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02617v1</guid>
-      <pubDate>Mon, 04 May 2026 14:09:56 +0000</pubDate>
+      <title>Towards accurate extreme event likelihoods from diffusion model climate emulators</title>
+      <link>http://arxiv.org/abs/2605.03802v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Peter Manshausen, Noah Brenowitz, Julius Berner, Karthik Kashinath, Mike Pritchard&lt;/p&gt;&lt;p&gt;ML climate model emulators are useful for scenario planning and adaptation, allowing for cost-efficient experimentation. Recently, the diffusion model Climate in a Bottle (cBottle) has been proposed for generation of atmospheric states compatible with boundary conditions of solar position and sea surface temperatures. Crucially, cBottle can be guided to generate extreme events such as Tropical Cyclones (TCs) over locations of interest&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.03802v1</guid>
+      <pubDate>Tue, 05 May 2026 14:28:20 +0000</pubDate>
     </item>
     <item>
-      <title>ARA: Agentic Reproducibility Assessment For Scalable Support Of Scientific Peer-Review</title>
-      <link>http://arxiv.org/abs/2605.02651v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kevin Riehl, Andres L. Marin, Nikofors Zacharof, Fan Wu, Patrick Langer, Robert Jakob, Anastasios Kouvelas, Georgios Fontaras&lt;/p&gt;&lt;p&gt;Scientific peer review increasingly struggles to assess reproducibility at the scale and complexity of modern research output. Evaluating reproducibility requires reconstructing experimental dependencies, methodological choices, data flows, and result-generating procedures, which often exceeds what human reviewers can provide. Agentic Reproducibility Assessment (ARA) formalizes reproducibility assessment as a structured reasoning task over scientific documents&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02651v1</guid>
-      <pubDate>Mon, 04 May 2026 14:34:36 +0000</pubDate>
+      <title>RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models</title>
+      <link>http://arxiv.org/abs/2605.03821v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hao Wu, Yuqi Li, Yuan Gao, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang&lt;/p&gt;&lt;p&gt;Existing robot video world models are typically trained with low-level objectives such as reconstruction and perceptual similarity, which are poorly aligned with the capabilities that matter most for robot decision making, including instruction following, manipulation success, and physical plausibility. They also suffer from error accumulation in long-horizon autoregressive prediction. We present RoboAlign-R1, a framework that combines reward-aligned post-training with stabilized long-horizon inference for robot video world models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.03821v1</guid>
+      <pubDate>Tue, 05 May 2026 14:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>Spectral Model eXplainer: a chemically-grounded explainability framework for spectral-based machine learning models</title>
-      <link>http://arxiv.org/abs/2605.02684v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jose Vinicius Ribeiro, Rafael Figueira Goncalves, Fabio Luiz Melquiades, Sylvio Barbon Junior&lt;/p&gt;&lt;p&gt;Spectral-based machine learning models have been increasingly deployed in chemometrics and spectroscopy, where predictive accuracy is as important as explainability. Current employed eXplainable Artificial Intelligence (XAI) methods are largely adapted from tabular or generic multivariate domains, assigning relevance to isolated spectral variables rather than to the chemically meaningful spectral zones. Widely adopted tools such as SHapley Additive exPlanations (SHAP), Permutation Feature Importance (PFI), and Variable Importance in Projection scores (VIP) were not designed for the physical co&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02684v1</guid>
-      <pubDate>Mon, 04 May 2026 15:01:04 +0000</pubDate>
+      <title>A Domain Incremental Continual Learning Benchmark for ICU Time Series Model Transportability</title>
+      <link>http://arxiv.org/abs/2605.03832v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ryan King, Conrad Krueger, Ethan Veselka, Tianbao Yang, Bobak J. Mortazavi&lt;/p&gt;&lt;p&gt;In recent years, machine learning has made significant progress in clinical outcome prediction, demonstrating increasingly accurate results. However, the substantial resources required for hospitals to train these models, such as data collection, labeling, and computational power, limit the feasibility for smaller hospitals to develop their own models. An alternative approach involves transferring a machine learning model trained by a large hospital to smaller hospitals, allowing them to fine-tune the model on their specific patient data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.03832v1</guid>
+      <pubDate>Tue, 05 May 2026 15:02:07 +0000</pubDate>
     </item>
     <item>
-      <title>MSMixer: Learned Multi-Scale Temporal Mixing with Complementary Linear Shortcut for Long-Term Time Series Forecasting</title>
-      <link>http://arxiv.org/abs/2605.02689v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ahmed Cherif&lt;/p&gt;&lt;p&gt;Long-term time series forecasting requires models that simultaneously capture rapid oscillations, medium-range periodicities, and slowly evolving macro-trends from a fixed look-back window. Existing lightweight MLP-based models typically operate on a single temporal resolution, limiting their ability to explicitly model patterns at multiple scales. We propose MSMixer, a channel-independent multi-scale MLP architecture that addresses this limitation through three complementary innovations: (i) three parallel scale branches at down-sample factors {1x, 4x, 16x} with independent MLP blocks, (ii) a&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02689v1</guid>
-      <pubDate>Mon, 04 May 2026 15:03:46 +0000</pubDate>
+      <title>Graph Neural Networks in the Wilson Loop Representation of Abelian Lattice Gauge Theories</title>
+      <link>http://arxiv.org/abs/2605.03901v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ali Rayat, Gia-Wei Chern&lt;/p&gt;&lt;p&gt;Local gauge structures play a central role in a wide range of condensed matter systems and synthetic quantum platforms, where they emerge as effective descriptions of strongly correlated phases and engineered dynamics. We introduce a gauge-invariant graph neural network (GNN) architecture for Abelian lattice gauge models, in which symmetry is enforced explicitly through local gauge-invariant inputs, such as Wilson loops, and preserved throughout message passing, eliminating redundant gauge degrees of freedom while retaining expressive power. We benchmark the approach on both $\mathbb{Z}_2$ and&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.03901v1</guid>
+      <pubDate>Tue, 05 May 2026 15:55:21 +0000</pubDate>
     </item>
     <item>
-      <title>ParaRNN: An Interpretable and Parallelizable Recurrent Neural Network for Time-Dependent Data</title>
-      <link>http://arxiv.org/abs/2605.02692v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuxi Cai, Lan Li, Feiqing Huang, Guodong Li&lt;/p&gt;&lt;p&gt;The proliferation of large-scale and structurally complex data has spurred the integration of machine learning methods into statistical modeling. Recurrent neural networks (RNNs), a foundational class of models for time-dependent data, can be viewed as nonlinear extensions of classical autoregressive moving average models. Despite their flexibility and empirical success in machine learning, RNNs often suffer from limited interpretability and slow training, which hinders their use in statistics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02692v1</guid>
-      <pubDate>Mon, 04 May 2026 15:05:24 +0000</pubDate>
+      <title>A frictional control mechanism of circumpolar transport in barotropic reentrant channel models</title>
+      <link>http://arxiv.org/abs/2605.03915v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Takuro Matsuta, Atsushi Kubokawa, Humio Mitsudera, Tomomichi Ogata&lt;/p&gt;&lt;p&gt;Recent studies have reported that an increase in the bottom drag coefficient can enhance the volume transport of the Antarctic Circumpolar Current. Several mechanisms have been proposed to explain this frictional control, including the regulation of the geostrophic velocity by baroclinic instability and the influence of the form stress associated with standing meanders and wind-driven gyres. In this study, the role of momentum transport associated with Rossby wave radiations from disturbances is investigated as a potential frictional control mechanism&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.03915v1</guid>
+      <pubDate>Tue, 05 May 2026 16:11:10 +0000</pubDate>
     </item>
     <item>
-      <title>Learning Equivariant Neural-Augmented Object Dynamics From Few Interactions</title>
-      <link>http://arxiv.org/abs/2605.02699v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sergio Orozco, Tushar Kusnur, Brandon May, George Konidaris, Laura Herlant&lt;/p&gt;&lt;p&gt;Learning data-efficient object dynamics models for robotic manipulation remains challenging, especially for deformable objects. A popular approach is to model objects as sets of 3D particles and learn their motion using graph neural networks. In practice, this is not enough to maintain physical feasibility over long horizons and may require large amounts of interaction data to learn&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02699v1</guid>
-      <pubDate>Mon, 04 May 2026 15:11:22 +0000</pubDate>
+      <title>A Benchmark for Interactive World Models with a Unified Action Generation Framework</title>
+      <link>http://arxiv.org/abs/2605.03941v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jianjie Fang, Yingshan Lei, Qin Wan, Ziyou Wang, Yuchao Huang, Yongyan Xu, Baining Zhao, Weichen Zhang&lt;/p&gt;&lt;p&gt;Achieving Artificial General Intelligence (AGI) requires agents that learn and interact adaptively, with interactive world models providing scalable environments for perception, reasoning, and action. Yet current research still lacks large-scale datasets and unified benchmarks to evaluate their physical interaction capabilities. To address this, we propose iWorld-Bench, a comprehensive benchmark for training and testing world models on interaction-related abilities such as distance perception and memory&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.03941v1</guid>
+      <pubDate>Tue, 05 May 2026 16:30:03 +0000</pubDate>
     </item>
     <item>
-      <title>ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming</title>
-      <link>http://arxiv.org/abs/2605.02703v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anahita Golrang, Kshitij Sharma, olga viberg&lt;/p&gt;&lt;p&gt;Effective pair programming depends on coordination of attention, cognitive effort, and joint regulation over time, yet most adaptive learning systems remain individual-centric and reactive. This paper introduces ProPACT, a proactive AI-driven adaptive collaborative tutor that treats collaboration itself as the object of instruction. ProPACT constructs a multimodal dyadic learner model based on Joint Visual Attention (JVA), Joint Mental Effort (JME), and individual mental effort, and employs an XGBoost-based forecasting model to predict emerging suboptimal collaboration states up to 30 seconds &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02703v1</guid>
-      <pubDate>Mon, 04 May 2026 15:12:49 +0000</pubDate>
+      <title>TabSurv: Adapting Modern Tabular Neural Networks to Survival Analysis</title>
+      <link>http://arxiv.org/abs/2605.03944v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Stanislav Kirpichenko, Andrei Konstantinov, Lev Utkin&lt;/p&gt;&lt;p&gt;Survival analysis on tabular data is a well-studied problem. However, existing deep learning methods are often highly task-specific, which can limit the transfer of new approaches from other domains and introduce constraints that may affect performance. We propose TabSurv, an approach that adapts modern tabular architectures to survival analysis using either the Weibull distribution or non-parametric survival prediction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.03944v1</guid>
+      <pubDate>Tue, 05 May 2026 16:32:10 +0000</pubDate>
     </item>
     <item>
-      <title>AI and Open-data Driven Scalable Solar Power Profiling</title>
-      <link>http://arxiv.org/abs/2605.02738v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shiliang Zhang, Sabita Maharjan, Damla Turgut&lt;/p&gt;&lt;p&gt;Solar photovoltaic (PV) deployment is expanding rapidly, yet detailed, up-to-date information on the spatial distribution and capacity of rooftop PV remains limited. This paper presents an open, scalable framework for detecting solar panels from open data and generating city-level solar power profiles. We leverage foundation vision AI models to detect solar panel geometries from open-source satellite imagery&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02738v1</guid>
-      <pubDate>Mon, 04 May 2026 15:37:52 +0000</pubDate>
+      <title>Uncertainty Quantification in Forecast Comparisons</title>
+      <link>http://arxiv.org/abs/2605.03997v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marc-Oliver Pohle, Tanja Zahn, Sebastian Lerch&lt;/p&gt;&lt;p&gt;Skill scores, which measure the relative improvement of a forecasting method over a benchmark via consistent scoring functions and proper scoring rules, are a standard tool in forecast evaluation, yet their sampling uncertainty is rarely rigorously quantified. With modern forecasting applications being increasingly multivariate and involving evaluations across multiple horizons, variables, spatial locations, and forecasting methods, standard tools like the pairwise Diebold-Mariano forecast accuracy test or pointwise confidence intervals fail to account for the multiple comparison problem, lead&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.03997v1</guid>
+      <pubDate>Tue, 05 May 2026 17:20:48 +0000</pubDate>
     </item>
     <item>
-      <title>Foundation Models to Unlock Real-World Evidence from Nationwide Medical Claims</title>
-      <link>http://arxiv.org/abs/2605.02740v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fan Ma, Yuntian Liu, Xiang Lan, Weipeng Zhou, Jun Ni, Mauro Giuffrè, Lingfei Qian, Xueqing Peng&lt;/p&gt;&lt;p&gt;Evidence derived from large-scale real-world data (RWD) is increasingly informing regulatory evaluation and healthcare decision-making. Administrative claims provide population-scale, longitudinal records of healthcare utilization, expenditure, and detailed coding of diagnoses, procedures, and medications, yet their potential as a substrate for healthcare foundation models remains largely unexplored. Here we present ReClaim, a generative transformer trained from scratch on 43.8 billion medical events from more than 200 million enrollees in the MarketScan claims data spanning 2008-2022&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02740v1</guid>
-      <pubDate>Mon, 04 May 2026 15:38:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Bayesian Reflex: Online Learning as the Autonomic Nervous System of Modern and Future AI</title>
-      <link>http://arxiv.org/abs/2605.02825v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Durba Bhattacharya, Sucharita Roy, Sourabh Bhattacharya&lt;/p&gt;&lt;p&gt;This chapter introduces the Bayesian reflex -- an analogy with the autonomic nervous system -- as a unifying framework for online learning in AI. Bayesian online algorithms automatically maintain equilibrium in dynamic environments via three mechanisms: belief maintenance through probabilistic representations, sequential updating via Bayes' theorem, and uncertainty-driven action balancing exploration and exploitation. We survey online Bayesian methods, highlighting two computational principles: the look-up table principle for sequential inference in function space, and the ellipsoidal decompos&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02825v1</guid>
-      <pubDate>Mon, 04 May 2026 17:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Closed-Form Persistence-Landmark Pipeline for Certified Point-Cloud and Graph Classification</title>
-      <link>http://arxiv.org/abs/2605.02836v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sushovan Majhi, Atish Mitra, Žiga Virk, Pramita Bagchi&lt;/p&gt;&lt;p&gt;We introduce PLACE (Persistence-Landmark Analytic Classification Engine), a closed-form pipeline for classifying point clouds and graphs through their persistent-homology signatures. Three quantitative guarantees -- a margin-based excess-risk rate, a closed-form descriptor-selection rule, and a per-prediction certificate -- are derived from training labels alone, with no learned weights or held-out calibration. The embedding sums Mitra-Virk single-point coordinate functions over a sparse landmark grid; closed-form weights maximize a structural distortion constant $λ(ν)$ (a Lipschitz lower boun&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02836v1</guid>
-      <pubDate>Mon, 04 May 2026 17:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multi-fidelity surrogates for mechanics of composites: from co-kriging to multi-fidelity neural networks</title>
-      <link>http://arxiv.org/abs/2605.02871v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haizhou Wen, Elham Kiyani, Gang Li, Srikanth Pilla, George Em Karniadakis, Zhen Li&lt;/p&gt;&lt;p&gt;Composite materials exhibit strongly hierarchical and anisotropic properties governed by coupled mechanisms spanning constituents, plies, laminates, structures, and manufacturing history. This intrinsic complexity makes predictive modeling of composites expensive, because repeated experiments and high-fidelity simulations are needed to cover large design spaces of material, structure, and manufacturing. Multi-fidelity surrogate modeling addresses this challenge by combining abundant, less expensive data with limited high-accuracy data to recover reliable high-fidelity predictions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.02871v1</guid>
-      <pubDate>Mon, 04 May 2026 17:45:47 +0000</pubDate>
+      <title>A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification</title>
+      <link>http://arxiv.org/abs/2605.04046v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sushovan Majhi, Atish Mitra, Žiga Virk, Pramita Bagchi&lt;/p&gt;&lt;p&gt;We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth; $\leq 5$ choices each). A cover-theoretic core (Lebesgue-number criterion on the landmark cover) yields four closed-form guarantees. (i) A structural lower distortion bound $λ(τ;ν)$ on $\mathcal{D}_n$ under cross-diagram non-interference, with a $(D/L)^2$ budget reduction over the uniform grid when diagrams concentrate&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.04046v1</guid>
+      <pubDate>Tue, 05 May 2026 17:59:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
