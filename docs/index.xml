@@ -7,97 +7,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 06 May 2026 05:30:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 05:33:02 +0000</lastBuildDate>
     <item>
-      <title>From Code to Prediction: Fine-Tuning LLMs for Neural Network Performance Classification in NNGPT</title>
-      <link>http://arxiv.org/abs/2605.03686v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mahmoud Hanouneh, Radu Timofte, Dmitry Ignatov&lt;/p&gt;&lt;p&gt;Automated Machine Learning (AutoML) frameworks increasingly leverage Large Language Models (LLMs) for tasks such as hyperparameter optimization and neural architecture code generation. However, current LLM-based approaches focus on generative outputs and evaluate them by training the produced artifacts. Whether LLMs can learn to reason about neural network performance across datasets remains underexplored&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.03686v1</guid>
-      <pubDate>Tue, 05 May 2026 12:30:19 +0000</pubDate>
+      <title>Cross-Model Consistency of Feature Importance in Electrospinning: Separating Robust from Model-Dependent Features</title>
+      <link>http://arxiv.org/abs/2605.04905v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mehrab Mahdian, Ferenc Ender, Tamas Pardy&lt;/p&gt;&lt;p&gt;Electrospinning is a highly sensitive fabrication process in which small variations in operating parameters can significantly influence fiber morphology and material performance. Machine learning (ML) methods are increasingly employed to model these process-structure relationships and to identify the relative importance of processing variables. However, most existing studies rely on a single ML model, implicitly assuming that the resulting feature importance is robust and reproducible&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.04905v1</guid>
+      <pubDate>Wed, 06 May 2026 13:35:04 +0000</pubDate>
     </item>
     <item>
-      <title>Graph Neural Network based Hierarchy-Aware Embeddings of Knowledge Graphs: Applications to Yeast Phenotype Prediction</title>
-      <link>http://arxiv.org/abs/2605.03690v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Filip Kronström, Alexander H. Gower, Daniel Brunnsåker, Ievgeniia A. Tiukova, Ross D. King&lt;/p&gt;&lt;p&gt;We present a method for finding hierarchy-aware embeddings of knowledge graphs (KGs) using graph neural networks (GNNs) enriched with a semantic loss derived from underlying ontologies. This method yields embeddings that better reflect domain knowledge. To demonstrate their utility, we predict and interpret the effects of gene deletions in the yeast Saccharomyces cerevisiae and learn box embeddings for KGs in the absence of a prediction task&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.03690v1</guid>
-      <pubDate>Tue, 05 May 2026 12:34:45 +0000</pubDate>
+      <title>A Foundation Model for Zero-Shot Logical Rule Induction</title>
+      <link>http://arxiv.org/abs/2605.04916v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yin Jun Phua&lt;/p&gt;&lt;p&gt;Inductive Logic Programming (ILP) learns interpretable logical rules from data. Existing methods are transductive: their learned parameters are bound to specific predicates and require retraining for each new task. We introduce Neural Rule Inducer (NRI), a pretrained model for zero-shot rule induction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.04916v1</guid>
+      <pubDate>Wed, 06 May 2026 13:45:31 +0000</pubDate>
     </item>
     <item>
-      <title>Training-Free Probabilistic Time-Series Forecasting with Conformal Seasonal Pools</title>
-      <link>http://arxiv.org/abs/2605.03789v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Valery Manokhin&lt;/p&gt;&lt;p&gt;We propose Conformal Seasonal Pools (CSP), a training-free probabilistic time-series forecaster that mixes same-season empirical draws with signed residual draws around a seasonal naive forecast. In an audited rolling-origin benchmark on the six time-series datasets where DeepNPTS was originally evaluated (electricity, exchange_rate, solar_energy, taxi, traffic, wikipedia), CSP-Adaptive significantly outperforms DeepNPTS on every metric we report -- CRPS (per-window paired Wilcoxon $p \approx 4 \times 10^{-10}$), normalized mean quantile loss ($p \approx 7 \times 10^{-10}$), and empirical 95% &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.03789v1</guid>
-      <pubDate>Tue, 05 May 2026 14:16:35 +0000</pubDate>
+      <title>DART: A Vision-Language Foundation Model for Comprehensive Rope Condition Monitoring</title>
+      <link>http://arxiv.org/abs/2605.04943v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anju Rani, Daniel Ortiz-Arroyo, Petar Durdevic&lt;/p&gt;&lt;p&gt;The condition monitoring (CM) of synthetic fibre ropes (SFRs) used in offshore, maritime, and industrial settings demands more than a classifier: inspectors need continuous severity estimates, maintenance recommendations, anomaly flags, deterioration timelines, and automated reports, all from a single inspection image. We present DART (Damage Assessment via Rope Transformer), a vision-language foundation model that addresses the full rope inspection workflow through a unified multi-task architecture. DART extends the Joint-Embedding Predictive Architecture (JEPA) to the cross-modal domain by c&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.04943v1</guid>
+      <pubDate>Wed, 06 May 2026 14:12:02 +0000</pubDate>
     </item>
     <item>
-      <title>Graph Convolutional Support Vector Regression for Robust Spatiotemporal Forecasting of Urban Air Pollution</title>
-      <link>http://arxiv.org/abs/2605.03795v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nourin Jahan, Madhurima Panja, Muhammed Navas T, Tanujit Chakraborty&lt;/p&gt;&lt;p&gt;Urban air quality forecasting is challenging because pollutant concentrations are nonlinear, nonstationary, spatiotemporally dependent, and often affected by anomalous observations caused by traffic congestion, industrial emissions, and seasonal meteorological variability. This study proposes a Graph Convolutional Support Vector Regression (GCSVR) framework for robust spatiotemporal forecasting of urban air pollution. The model combines graph convolutional learning to capture inter-station spatial dependence with support vector regression to model nonlinear temporal dynamics while reducing sen&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.03795v1</guid>
-      <pubDate>Tue, 05 May 2026 14:24:49 +0000</pubDate>
+      <title>Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series</title>
+      <link>http://arxiv.org/abs/2605.04957v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruichao Guo, Xingyao Han, Luo Wenshui, Zhe Liu, Chen Gong, Hesheng Wang&lt;/p&gt;&lt;p&gt;Point forecasting for graph-structured multivariate time series is a fundamental problem, but rigorous uncertainty quantification for such predictions is still underexplored. Conformal prediction (CP) offers uncertainty estimation with a solid coverage guarantee under the exchangeability assumption, which requires the joint data distribution to be unchanged under permutation. However, in graph-structured time series, inherent cross-node coupling can violate the exchangeability condition, making direct application of CP unreliable&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.04957v1</guid>
+      <pubDate>Wed, 06 May 2026 14:19:16 +0000</pubDate>
     </item>
     <item>
-      <title>Towards accurate extreme event likelihoods from diffusion model climate emulators</title>
-      <link>http://arxiv.org/abs/2605.03802v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Peter Manshausen, Noah Brenowitz, Julius Berner, Karthik Kashinath, Mike Pritchard&lt;/p&gt;&lt;p&gt;ML climate model emulators are useful for scenario planning and adaptation, allowing for cost-efficient experimentation. Recently, the diffusion model Climate in a Bottle (cBottle) has been proposed for generation of atmospheric states compatible with boundary conditions of solar position and sea surface temperatures. Crucially, cBottle can be guided to generate extreme events such as Tropical Cyclones (TCs) over locations of interest&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.03802v1</guid>
-      <pubDate>Tue, 05 May 2026 14:28:20 +0000</pubDate>
+      <title>Federated Learning for Early Prediction of EV Charging Demand</title>
+      <link>http://arxiv.org/abs/2605.04993v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vasilis Perifanis, Foteini Nikolaidou, Nikolaos Pavlidis, Panagiotis Thomakos, Andreas Sendros&lt;/p&gt;&lt;p&gt;Accurate forecasting of electric vehicle (EV) charging demand is critical for grid stability, infrastructure planning, and real-time charging optimization. In this work, we study the problem of early prediction of charging demand, where the total energy of a session is estimated using only information available at plug-in time and during the first minutes of charging. This enables actionable decisions while the session is still in progress, which is of direct importance for EV network operators&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.04993v1</guid>
+      <pubDate>Wed, 06 May 2026 14:53:23 +0000</pubDate>
     </item>
     <item>
-      <title>RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models</title>
-      <link>http://arxiv.org/abs/2605.03821v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hao Wu, Yuqi Li, Yuan Gao, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang&lt;/p&gt;&lt;p&gt;Existing robot video world models are typically trained with low-level objectives such as reconstruction and perceptual similarity, which are poorly aligned with the capabilities that matter most for robot decision making, including instruction following, manipulation success, and physical plausibility. They also suffer from error accumulation in long-horizon autoregressive prediction. We present RoboAlign-R1, a framework that combines reward-aligned post-training with stabilized long-horizon inference for robot video world models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.03821v1</guid>
-      <pubDate>Tue, 05 May 2026 14:49:00 +0000</pubDate>
+      <title>DualTCN: A Physics-Constrained Temporal Convolutional Network for 2 Time-Domain Marine CSEM Inversion</title>
+      <link>http://arxiv.org/abs/2605.04997v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Khaled Ahmed, Ghada Omar&lt;/p&gt;&lt;p&gt;DualTCN is the first deep-learning framework for inverting time-domain marine controlled-source electromagnetic (MCSEM) transient data. Moving away from traditional subsurface discretization, the framework regresses four earth-model parameters -- $σ_1$, $σ_2$, $d_1$, $d_2$ -- and reconstructs conductivity-depth profiles using a differentiable soft-step decoder. The optimized architecture (379K parameters) features a Temporal Convolutional Network (TCN) encoder paired with a late-time branch and an auxiliary seafloor-depth head&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.04997v1</guid>
+      <pubDate>Wed, 06 May 2026 14:58:17 +0000</pubDate>
     </item>
     <item>
-      <title>A Domain Incremental Continual Learning Benchmark for ICU Time Series Model Transportability</title>
-      <link>http://arxiv.org/abs/2605.03832v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ryan King, Conrad Krueger, Ethan Veselka, Tianbao Yang, Bobak J. Mortazavi&lt;/p&gt;&lt;p&gt;In recent years, machine learning has made significant progress in clinical outcome prediction, demonstrating increasingly accurate results. However, the substantial resources required for hospitals to train these models, such as data collection, labeling, and computational power, limit the feasibility for smaller hospitals to develop their own models. An alternative approach involves transferring a machine learning model trained by a large hospital to smaller hospitals, allowing them to fine-tune the model on their specific patient data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.03832v1</guid>
-      <pubDate>Tue, 05 May 2026 15:02:07 +0000</pubDate>
+      <title>The Predictive-Causal Gap: An Impossibility Theorem and Large-Scale Neural Evidence</title>
+      <link>http://arxiv.org/abs/2605.05029v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kejun Liu&lt;/p&gt;&lt;p&gt;We report a systematic failure mode in predictive representation learning. Across 2695 neural network configurations trained to predict linear-Gaussian dynamics, the optimal encoder tracks the environment rather than the system it is meant to model. The mean causal fidelity -- the fraction of encoder sensitivity allocated to system degrees of freedom -- is 0.49, and only 2.5% of configurations exceed 0.70&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.05029v1</guid>
+      <pubDate>Wed, 06 May 2026 15:25:37 +0000</pubDate>
     </item>
     <item>
-      <title>Graph Neural Networks in the Wilson Loop Representation of Abelian Lattice Gauge Theories</title>
-      <link>http://arxiv.org/abs/2605.03901v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ali Rayat, Gia-Wei Chern&lt;/p&gt;&lt;p&gt;Local gauge structures play a central role in a wide range of condensed matter systems and synthetic quantum platforms, where they emerge as effective descriptions of strongly correlated phases and engineered dynamics. We introduce a gauge-invariant graph neural network (GNN) architecture for Abelian lattice gauge models, in which symmetry is enforced explicitly through local gauge-invariant inputs, such as Wilson loops, and preserved throughout message passing, eliminating redundant gauge degrees of freedom while retaining expressive power. We benchmark the approach on both $\mathbb{Z}_2$ and&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.03901v1</guid>
-      <pubDate>Tue, 05 May 2026 15:55:21 +0000</pubDate>
+      <title>Interpretable Neural Networks to Predict Momentum Fluxes of Orographic Gravity Waves</title>
+      <link>http://arxiv.org/abs/2605.05052v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Elias Haslauer, Mierk Schwabe, Andreas Dörnbrack, Edwin P. Gerber, Markus Rapp, Nedjeljka Žagar, Veronika Eyring&lt;/p&gt;&lt;p&gt;State-of-the-art Earth system models (ESMs) cannot explicitly resolve many small-scale atmospheric processes such as atmospheric gravity waves, and thus must represent, or parameterise, their effects on the resolved state. Machine learning (ML) has the potential to improve these parameterisations. In our study, we train neural networks (NNs) on ERA5 reanalysis data to predict momentum fluxes of orographic gravity waves as a function of the state variables at the resolution of a coarse ESM&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.05052v1</guid>
+      <pubDate>Wed, 06 May 2026 15:49:01 +0000</pubDate>
     </item>
     <item>
-      <title>A frictional control mechanism of circumpolar transport in barotropic reentrant channel models</title>
-      <link>http://arxiv.org/abs/2605.03915v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Takuro Matsuta, Atsushi Kubokawa, Humio Mitsudera, Tomomichi Ogata&lt;/p&gt;&lt;p&gt;Recent studies have reported that an increase in the bottom drag coefficient can enhance the volume transport of the Antarctic Circumpolar Current. Several mechanisms have been proposed to explain this frictional control, including the regulation of the geostrophic velocity by baroclinic instability and the influence of the form stress associated with standing meanders and wind-driven gyres. In this study, the role of momentum transport associated with Rossby wave radiations from disturbances is investigated as a potential frictional control mechanism&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.03915v1</guid>
-      <pubDate>Tue, 05 May 2026 16:11:10 +0000</pubDate>
+      <title>Full-chip CMP modelling based on Fully Convolutional Network leveraging White Light Interferometry</title>
+      <link>http://arxiv.org/abs/2605.05062v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jules Exbrayat, Renan Bouis, Elie Sezestre, Viorel Balan, Arnaud Cornelis, Damien Hebras, Catherine Euvrard&lt;/p&gt;&lt;p&gt;As time-to-market is crucial in the Integrated Circuit (IC) industry, speeding up layout manufacturability verifi-cation is essential. Chemical-Mechanical Polishing (CMP) plays a vital role in IC fabrication but is significantly influenced by Layout-Dependent Effects (LDE). An accurate and efficient CMP model enables design teams to correct surface unevenness before fabrication, reducing costs and accelerating the design phase&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.05062v1</guid>
+      <pubDate>Wed, 06 May 2026 15:55:59 +0000</pubDate>
     </item>
     <item>
-      <title>A Benchmark for Interactive World Models with a Unified Action Generation Framework</title>
-      <link>http://arxiv.org/abs/2605.03941v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jianjie Fang, Yingshan Lei, Qin Wan, Ziyou Wang, Yuchao Huang, Yongyan Xu, Baining Zhao, Weichen Zhang&lt;/p&gt;&lt;p&gt;Achieving Artificial General Intelligence (AGI) requires agents that learn and interact adaptively, with interactive world models providing scalable environments for perception, reasoning, and action. Yet current research still lacks large-scale datasets and unified benchmarks to evaluate their physical interaction capabilities. To address this, we propose iWorld-Bench, a comprehensive benchmark for training and testing world models on interaction-related abilities such as distance perception and memory&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.03941v1</guid>
-      <pubDate>Tue, 05 May 2026 16:30:03 +0000</pubDate>
+      <title>Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis</title>
+      <link>http://arxiv.org/abs/2605.05088v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yunfei Bai, Aaron Tesfa Tsion, Raul Rosales, Barbara Shollock, Wei He&lt;/p&gt;&lt;p&gt;Achieving resilient and sustainable cities requires scalable approaches to decarbonising residential buildings, which account for about 20% of UK greenhouse gas emissions and 25% of energy-related emissions in the European Union. Energy Performance Certificates (EPCs) support regulation and retrofit planning, but their reliance on on-site inspections limits timely city-scale assessment. This study introduces a gated multimodal model to predict Standard Assessment Procedure (SAP) energy efficiency and Environmental Impact (EI) scores by integrating EPC tabular variables, assessor-written free t&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.05088v1</guid>
+      <pubDate>Wed, 06 May 2026 16:23:11 +0000</pubDate>
     </item>
     <item>
-      <title>TabSurv: Adapting Modern Tabular Neural Networks to Survival Analysis</title>
-      <link>http://arxiv.org/abs/2605.03944v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Stanislav Kirpichenko, Andrei Konstantinov, Lev Utkin&lt;/p&gt;&lt;p&gt;Survival analysis on tabular data is a well-studied problem. However, existing deep learning methods are often highly task-specific, which can limit the transfer of new approaches from other domains and introduce constraints that may affect performance. We propose TabSurv, an approach that adapts modern tabular architectures to survival analysis using either the Weibull distribution or non-parametric survival prediction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.03944v1</guid>
-      <pubDate>Tue, 05 May 2026 16:32:10 +0000</pubDate>
+      <title>Transformed Latent Variable Multi-Output Gaussian Processes</title>
+      <link>http://arxiv.org/abs/2605.05133v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaoyu Jiang, Xinxing Shi, Sokratia Georgaka, Magnus Rattray, Mauricio A Álvarez&lt;/p&gt;&lt;p&gt;Multi-Output Gaussian Processes (MOGPs) provide a principled probabilistic framework for modelling correlated outputs but face scalability bottlenecks when applied to datasets with high-dimensional output spaces. To maintain tractability, existing methods typically resort to restrictive assumptions, such as employing low-rank or sum-of-separable kernels, which can limit expressiveness. We propose the Transformed Latent Variable MOGP (T-LVMOGP), a novel framework that scales MOGPs to a massive number of outputs while preserving the capacity to capture meaningful inter-output dependencies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.05133v1</guid>
+      <pubDate>Wed, 06 May 2026 17:05:50 +0000</pubDate>
     </item>
     <item>
-      <title>Uncertainty Quantification in Forecast Comparisons</title>
-      <link>http://arxiv.org/abs/2605.03997v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marc-Oliver Pohle, Tanja Zahn, Sebastian Lerch&lt;/p&gt;&lt;p&gt;Skill scores, which measure the relative improvement of a forecasting method over a benchmark via consistent scoring functions and proper scoring rules, are a standard tool in forecast evaluation, yet their sampling uncertainty is rarely rigorously quantified. With modern forecasting applications being increasingly multivariate and involving evaluations across multiple horizons, variables, spatial locations, and forecasting methods, standard tools like the pairwise Diebold-Mariano forecast accuracy test or pointwise confidence intervals fail to account for the multiple comparison problem, lead&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.03997v1</guid>
-      <pubDate>Tue, 05 May 2026 17:20:48 +0000</pubDate>
+      <title>Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting</title>
+      <link>http://arxiv.org/abs/2605.05144v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Freyaa Chawla, Ahan Chawla, Rishi Singh, Joe Germino, Grigorii Khvatskii&lt;/p&gt;&lt;p&gt;This paper reflects on a AI research project carried out by a team of high-school and early-undergraduate students under the mentorship of graduate researchers and ably assisted by AI tools. We share our experience in not only on the learning experience for the high school students, but also on how AI tools accelerated the process that enabled the high school students to focus on higher order problem formulation and solution. Although the participants entered the project with limited background in both AI and finance, they showed strong enthusiasm for technical market analysis and ETF price pr&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.05144v1</guid>
+      <pubDate>Wed, 06 May 2026 17:16:29 +0000</pubDate>
     </item>
     <item>
-      <title>A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification</title>
-      <link>http://arxiv.org/abs/2605.04046v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sushovan Majhi, Atish Mitra, Žiga Virk, Pramita Bagchi&lt;/p&gt;&lt;p&gt;We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth; $\leq 5$ choices each). A cover-theoretic core (Lebesgue-number criterion on the landmark cover) yields four closed-form guarantees. (i) A structural lower distortion bound $λ(τ;ν)$ on $\mathcal{D}_n$ under cross-diagram non-interference, with a $(D/L)^2$ budget reduction over the uniform grid when diagrams concentrate&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.04046v1</guid>
-      <pubDate>Tue, 05 May 2026 17:59:18 +0000</pubDate>
+      <title>Superposition Is Not Necessary: A Mechanistic Interpretability Analysis of Transformer Representations for Time Series Forecasting</title>
+      <link>http://arxiv.org/abs/2605.05151v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alper Yıldırım&lt;/p&gt;&lt;p&gt;Transformer architectures have been widely adopted for time series forecasting, yet whether the representational mechanisms that make them powerful in NLP actually engage on time series data remains unexplored. The persistent competitiveness of simple linear models such as DLinear has fueled ongoing debate, but no mechanistic explanation for this phenomenon has been offered. We address this gap by applying sparse autoencoders (SAEs), a tool from mechanistic interpretability, to probe the internal representations of PatchTST&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.05151v1</guid>
+      <pubDate>Wed, 06 May 2026 17:23:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
