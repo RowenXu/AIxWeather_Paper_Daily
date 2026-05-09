@@ -7,97 +7,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 07 May 2026 05:33:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 05:22:34 +0000</lastBuildDate>
     <item>
-      <title>Cross-Model Consistency of Feature Importance in Electrospinning: Separating Robust from Model-Dependent Features</title>
-      <link>http://arxiv.org/abs/2605.04905v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mehrab Mahdian, Ferenc Ender, Tamas Pardy&lt;/p&gt;&lt;p&gt;Electrospinning is a highly sensitive fabrication process in which small variations in operating parameters can significantly influence fiber morphology and material performance. Machine learning (ML) methods are increasingly employed to model these process-structure relationships and to identify the relative importance of processing variables. However, most existing studies rely on a single ML model, implicitly assuming that the resulting feature importance is robust and reproducible&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.04905v1</guid>
-      <pubDate>Wed, 06 May 2026 13:35:04 +0000</pubDate>
+      <title>Weight-Decay Turns Transformer Loss Landscapes Villani: Functional-Analytic Foundations for Optimization and Generalization</title>
+      <link>http://arxiv.org/abs/2605.06599v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abhijit Das, Sayantan Dutta&lt;/p&gt;&lt;p&gt;Weight decay is widely used as a regularizer in large language models, yet its precise role in shaping Transformer loss landscapes remains theoretically underexplored. This paper provides the first rigorous functional-analytic characterization of the standard Transformer objective--cross-entropy loss with $L^2$ regularization--by proving it satisfies Villani's criteria for coercive energy functions. Specifically, we show that the regularized loss $\mathcal{F}$ is infinitely differentiable, grows at least quadratically, has Gaussian-integrable tails, and satisfies the differential growth condit&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.06599v1</guid>
+      <pubDate>Thu, 07 May 2026 17:22:19 +0000</pubDate>
     </item>
     <item>
-      <title>A Foundation Model for Zero-Shot Logical Rule Induction</title>
-      <link>http://arxiv.org/abs/2605.04916v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yin Jun Phua&lt;/p&gt;&lt;p&gt;Inductive Logic Programming (ILP) learns interpretable logical rules from data. Existing methods are transductive: their learned parameters are bound to specific predicates and require retraining for each new task. We introduce Neural Rule Inducer (NRI), a pretrained model for zero-shot rule induction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.04916v1</guid>
-      <pubDate>Wed, 06 May 2026 13:45:31 +0000</pubDate>
+      <title>How Many Iterations to Jailbreak? Dynamic Budget Allocation for Multi-Turn LLM Evaluation</title>
+      <link>http://arxiv.org/abs/2605.06605v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shai Feldman, Yaniv Romano&lt;/p&gt;&lt;p&gt;Evaluating and predicting the performance of large language models (LLMs) in multi-turn conversational settings is critical yet computationally expensive; key events -- e.g., jailbreaks or successful task completion by an agent -- often emerge only after repeated interactions. These events might be rare, and under any feasible computational budget, remain unobserved.   Recent conformal survival frameworks construct reliable lower predictive bounds (LPBs) on the number of iterations to trigger the event of interest, but rely on static budget allocation that is inefficient in multi-turn setups&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.06605v1</guid>
+      <pubDate>Thu, 07 May 2026 17:25:15 +0000</pubDate>
     </item>
     <item>
-      <title>DART: A Vision-Language Foundation Model for Comprehensive Rope Condition Monitoring</title>
-      <link>http://arxiv.org/abs/2605.04943v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anju Rani, Daniel Ortiz-Arroyo, Petar Durdevic&lt;/p&gt;&lt;p&gt;The condition monitoring (CM) of synthetic fibre ropes (SFRs) used in offshore, maritime, and industrial settings demands more than a classifier: inspectors need continuous severity estimates, maintenance recommendations, anomaly flags, deterioration timelines, and automated reports, all from a single inspection image. We present DART (Damage Assessment via Rope Transformer), a vision-language foundation model that addresses the full rope inspection workflow through a unified multi-task architecture. DART extends the Joint-Embedding Predictive Architecture (JEPA) to the cross-modal domain by c&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.04943v1</guid>
-      <pubDate>Wed, 06 May 2026 14:12:02 +0000</pubDate>
+      <title>Transformers Efficiently Perform In-Context Logistic Regression via Normalized Gradient Descent</title>
+      <link>http://arxiv.org/abs/2605.06609v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chenyang Zhang, Yuan Cao&lt;/p&gt;&lt;p&gt;Transformers have demonstrated remarkable in-context learning (ICL) capabilities. The strong ICL performance of transformers is commonly believed to arise from their ability to implicitly execute certain algorithms on the context, thereby enhancing prediction and generation. In this work, we investigate how transformers with softmax attention perform in-context learning on linear classification data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.06609v1</guid>
+      <pubDate>Thu, 07 May 2026 17:27:55 +0000</pubDate>
     </item>
     <item>
-      <title>Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series</title>
-      <link>http://arxiv.org/abs/2605.04957v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruichao Guo, Xingyao Han, Luo Wenshui, Zhe Liu, Chen Gong, Hesheng Wang&lt;/p&gt;&lt;p&gt;Point forecasting for graph-structured multivariate time series is a fundamental problem, but rigorous uncertainty quantification for such predictions is still underexplored. Conformal prediction (CP) offers uncertainty estimation with a solid coverage guarantee under the exchangeability assumption, which requires the joint data distribution to be unchanged under permutation. However, in graph-structured time series, inherent cross-node coupling can violate the exchangeability condition, making direct application of CP unreliable&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.04957v1</guid>
-      <pubDate>Wed, 06 May 2026 14:19:16 +0000</pubDate>
+      <title>Online Bayesian Calibration under Gradual and Abrupt System Changes</title>
+      <link>http://arxiv.org/abs/2605.06612v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yang Xu, Chiwoo Park&lt;/p&gt;&lt;p&gt;Bayesian model calibration is central to digital twins and computer experiments, as it aligns model outputs with field observations by estimating calibration parameters and correcting systematic model bias. Classical Bayesian calibration introduces latent parameters and a discrepancy function to model bias, but suffers from parameter--discrepancy confounding and is typically formulated as an offline procedure under a stationary data-generating assumption. These limitations are restrictive in modern digital twin applications, where systems evolve over time and may exhibit gradual drift and abru&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.06612v1</guid>
+      <pubDate>Thu, 07 May 2026 17:29:18 +0000</pubDate>
     </item>
     <item>
-      <title>Federated Learning for Early Prediction of EV Charging Demand</title>
-      <link>http://arxiv.org/abs/2605.04993v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vasilis Perifanis, Foteini Nikolaidou, Nikolaos Pavlidis, Panagiotis Thomakos, Andreas Sendros&lt;/p&gt;&lt;p&gt;Accurate forecasting of electric vehicle (EV) charging demand is critical for grid stability, infrastructure planning, and real-time charging optimization. In this work, we study the problem of early prediction of charging demand, where the total energy of a session is estimated using only information available at plug-in time and during the first minutes of charging. This enables actionable decisions while the session is still in progress, which is of direct importance for EV network operators&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.04993v1</guid>
-      <pubDate>Wed, 06 May 2026 14:53:23 +0000</pubDate>
+      <title>GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation</title>
+      <link>http://arxiv.org/abs/2605.06641v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziyu Zhai, Siyou Li, Juexi Shao, Juntao Yu&lt;/p&gt;&lt;p&gt;Developing ceramic glazes is a costly, time-consuming process of trial and error due to complex chemistry, placing a significant burden on independent artists. While recent advances in multimodal AI offer a modern solution, the field lacks the large-scale datasets required to train these models. We propose GlazyBench, the first dataset for AI-assisted glaze design&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.06641v1</guid>
+      <pubDate>Thu, 07 May 2026 17:51:13 +0000</pubDate>
     </item>
     <item>
-      <title>DualTCN: A Physics-Constrained Temporal Convolutional Network for 2 Time-Domain Marine CSEM Inversion</title>
-      <link>http://arxiv.org/abs/2605.04997v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Khaled Ahmed, Ghada Omar&lt;/p&gt;&lt;p&gt;DualTCN is the first deep-learning framework for inverting time-domain marine controlled-source electromagnetic (MCSEM) transient data. Moving away from traditional subsurface discretization, the framework regresses four earth-model parameters -- $σ_1$, $σ_2$, $d_1$, $d_2$ -- and reconstructs conductivity-depth profiles using a differentiable soft-step decoder. The optimized architecture (379K parameters) features a Temporal Convolutional Network (TCN) encoder paired with a late-time branch and an auxiliary seafloor-depth head&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.04997v1</guid>
-      <pubDate>Wed, 06 May 2026 14:58:17 +0000</pubDate>
+      <title>Concept-Based Abductive and Contrastive Explanations for Behaviors of Vision Models</title>
+      <link>http://arxiv.org/abs/2605.06640v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ronaldo Canizales, Divya Gopinath, Corina Păsăreanu, Ravi Mangal&lt;/p&gt;&lt;p&gt;*Concept-based explanations* offer a promising approach for explaining the predictions of deep neural networks in terms of high-level, human-understandable concepts. However, existing methods either do not establish a causal connection between the concepts and model predictions or are limited in expressivity and only able to infer causal explanations involving single concepts. At the same time, the parallel line of work on *formal abductive and contrastive explanations* computes the minimal set of input features causally relevant for model outcomes but only considers low-level features such as&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.06640v1</guid>
+      <pubDate>Thu, 07 May 2026 17:51:13 +0000</pubDate>
     </item>
     <item>
-      <title>The Predictive-Causal Gap: An Impossibility Theorem and Large-Scale Neural Evidence</title>
-      <link>http://arxiv.org/abs/2605.05029v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kejun Liu&lt;/p&gt;&lt;p&gt;We report a systematic failure mode in predictive representation learning. Across 2695 neural network configurations trained to predict linear-Gaussian dynamics, the optimal encoder tracks the environment rather than the system it is meant to model. The mean causal fidelity -- the fraction of encoder sensitivity allocated to system degrees of freedom -- is 0.49, and only 2.5% of configurations exceed 0.70&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.05029v1</guid>
-      <pubDate>Wed, 06 May 2026 15:25:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interpretable Neural Networks to Predict Momentum Fluxes of Orographic Gravity Waves</title>
-      <link>http://arxiv.org/abs/2605.05052v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Elias Haslauer, Mierk Schwabe, Andreas Dörnbrack, Edwin P. Gerber, Markus Rapp, Nedjeljka Žagar, Veronika Eyring&lt;/p&gt;&lt;p&gt;State-of-the-art Earth system models (ESMs) cannot explicitly resolve many small-scale atmospheric processes such as atmospheric gravity waves, and thus must represent, or parameterise, their effects on the resolved state. Machine learning (ML) has the potential to improve these parameterisations. In our study, we train neural networks (NNs) on ERA5 reanalysis data to predict momentum fluxes of orographic gravity waves as a function of the state variables at the resolution of a coarse ESM&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.05052v1</guid>
-      <pubDate>Wed, 06 May 2026 15:49:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Full-chip CMP modelling based on Fully Convolutional Network leveraging White Light Interferometry</title>
-      <link>http://arxiv.org/abs/2605.05062v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jules Exbrayat, Renan Bouis, Elie Sezestre, Viorel Balan, Arnaud Cornelis, Damien Hebras, Catherine Euvrard&lt;/p&gt;&lt;p&gt;As time-to-market is crucial in the Integrated Circuit (IC) industry, speeding up layout manufacturability verifi-cation is essential. Chemical-Mechanical Polishing (CMP) plays a vital role in IC fabrication but is significantly influenced by Layout-Dependent Effects (LDE). An accurate and efficient CMP model enables design teams to correct surface unevenness before fabrication, reducing costs and accelerating the design phase&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.05062v1</guid>
-      <pubDate>Wed, 06 May 2026 15:55:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis</title>
-      <link>http://arxiv.org/abs/2605.05088v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yunfei Bai, Aaron Tesfa Tsion, Raul Rosales, Barbara Shollock, Wei He&lt;/p&gt;&lt;p&gt;Achieving resilient and sustainable cities requires scalable approaches to decarbonising residential buildings, which account for about 20% of UK greenhouse gas emissions and 25% of energy-related emissions in the European Union. Energy Performance Certificates (EPCs) support regulation and retrofit planning, but their reliance on on-site inspections limits timely city-scale assessment. This study introduces a gated multimodal model to predict Standard Assessment Procedure (SAP) energy efficiency and Environmental Impact (EI) scores by integrating EPC tabular variables, assessor-written free t&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.05088v1</guid>
-      <pubDate>Wed, 06 May 2026 16:23:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transformed Latent Variable Multi-Output Gaussian Processes</title>
-      <link>http://arxiv.org/abs/2605.05133v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaoyu Jiang, Xinxing Shi, Sokratia Georgaka, Magnus Rattray, Mauricio A Álvarez&lt;/p&gt;&lt;p&gt;Multi-Output Gaussian Processes (MOGPs) provide a principled probabilistic framework for modelling correlated outputs but face scalability bottlenecks when applied to datasets with high-dimensional output spaces. To maintain tractability, existing methods typically resort to restrictive assumptions, such as employing low-rank or sum-of-separable kernels, which can limit expressiveness. We propose the Transformed Latent Variable MOGP (T-LVMOGP), a novel framework that scales MOGPs to a massive number of outputs while preserving the capacity to capture meaningful inter-output dependencies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.05133v1</guid>
-      <pubDate>Wed, 06 May 2026 17:05:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting</title>
-      <link>http://arxiv.org/abs/2605.05144v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Freyaa Chawla, Ahan Chawla, Rishi Singh, Joe Germino, Grigorii Khvatskii&lt;/p&gt;&lt;p&gt;This paper reflects on a AI research project carried out by a team of high-school and early-undergraduate students under the mentorship of graduate researchers and ably assisted by AI tools. We share our experience in not only on the learning experience for the high school students, but also on how AI tools accelerated the process that enabled the high school students to focus on higher order problem formulation and solution. Although the participants entered the project with limited background in both AI and finance, they showed strong enthusiasm for technical market analysis and ETF price pr&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.05144v1</guid>
-      <pubDate>Wed, 06 May 2026 17:16:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Superposition Is Not Necessary: A Mechanistic Interpretability Analysis of Transformer Representations for Time Series Forecasting</title>
-      <link>http://arxiv.org/abs/2605.05151v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alper Yıldırım&lt;/p&gt;&lt;p&gt;Transformer architectures have been widely adopted for time series forecasting, yet whether the representational mechanisms that make them powerful in NLP actually engage on time series data remains unexplored. The persistent competitiveness of simple linear models such as DLinear has fueled ongoing debate, but no mechanistic explanation for this phenomenon has been offered. We address this gap by applying sparse autoencoders (SAEs), a tool from mechanistic interpretability, to probe the internal representations of PatchTST&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.05151v1</guid>
-      <pubDate>Wed, 06 May 2026 17:23:27 +0000</pubDate>
+      <title>Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML</title>
+      <link>http://arxiv.org/abs/2605.06656v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jai Moondra, Ayela Chughtai, Bhargavi Lanka, Swati Gupta&lt;/p&gt;&lt;p&gt;Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs from Arena, and show that the best-fit global Bradley-Terry (BT) ranking is misleading. Nearly 2/3 of the decisive votes cancel out, and even the top 50 models according to the global BT ranking are statistically indistinguishable (pairwise win probabilities are at most 0.53 within the top 50 models)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.06656v1</guid>
+      <pubDate>Thu, 07 May 2026 17:57:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
