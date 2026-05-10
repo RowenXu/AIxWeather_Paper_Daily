@@ -7,55 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 09 May 2026 05:22:34 +0000</lastBuildDate>
-    <item>
-      <title>Weight-Decay Turns Transformer Loss Landscapes Villani: Functional-Analytic Foundations for Optimization and Generalization</title>
-      <link>http://arxiv.org/abs/2605.06599v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abhijit Das, Sayantan Dutta&lt;/p&gt;&lt;p&gt;Weight decay is widely used as a regularizer in large language models, yet its precise role in shaping Transformer loss landscapes remains theoretically underexplored. This paper provides the first rigorous functional-analytic characterization of the standard Transformer objective--cross-entropy loss with $L^2$ regularization--by proving it satisfies Villani's criteria for coercive energy functions. Specifically, we show that the regularized loss $\mathcal{F}$ is infinitely differentiable, grows at least quadratically, has Gaussian-integrable tails, and satisfies the differential growth condit&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.06599v1</guid>
-      <pubDate>Thu, 07 May 2026 17:22:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Many Iterations to Jailbreak? Dynamic Budget Allocation for Multi-Turn LLM Evaluation</title>
-      <link>http://arxiv.org/abs/2605.06605v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shai Feldman, Yaniv Romano&lt;/p&gt;&lt;p&gt;Evaluating and predicting the performance of large language models (LLMs) in multi-turn conversational settings is critical yet computationally expensive; key events -- e.g., jailbreaks or successful task completion by an agent -- often emerge only after repeated interactions. These events might be rare, and under any feasible computational budget, remain unobserved.   Recent conformal survival frameworks construct reliable lower predictive bounds (LPBs) on the number of iterations to trigger the event of interest, but rely on static budget allocation that is inefficient in multi-turn setups&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.06605v1</guid>
-      <pubDate>Thu, 07 May 2026 17:25:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transformers Efficiently Perform In-Context Logistic Regression via Normalized Gradient Descent</title>
-      <link>http://arxiv.org/abs/2605.06609v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chenyang Zhang, Yuan Cao&lt;/p&gt;&lt;p&gt;Transformers have demonstrated remarkable in-context learning (ICL) capabilities. The strong ICL performance of transformers is commonly believed to arise from their ability to implicitly execute certain algorithms on the context, thereby enhancing prediction and generation. In this work, we investigate how transformers with softmax attention perform in-context learning on linear classification data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.06609v1</guid>
-      <pubDate>Thu, 07 May 2026 17:27:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Online Bayesian Calibration under Gradual and Abrupt System Changes</title>
-      <link>http://arxiv.org/abs/2605.06612v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yang Xu, Chiwoo Park&lt;/p&gt;&lt;p&gt;Bayesian model calibration is central to digital twins and computer experiments, as it aligns model outputs with field observations by estimating calibration parameters and correcting systematic model bias. Classical Bayesian calibration introduces latent parameters and a discrepancy function to model bias, but suffers from parameter--discrepancy confounding and is typically formulated as an offline procedure under a stationary data-generating assumption. These limitations are restrictive in modern digital twin applications, where systems evolve over time and may exhibit gradual drift and abru&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.06612v1</guid>
-      <pubDate>Thu, 07 May 2026 17:29:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation</title>
-      <link>http://arxiv.org/abs/2605.06641v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziyu Zhai, Siyou Li, Juexi Shao, Juntao Yu&lt;/p&gt;&lt;p&gt;Developing ceramic glazes is a costly, time-consuming process of trial and error due to complex chemistry, placing a significant burden on independent artists. While recent advances in multimodal AI offer a modern solution, the field lacks the large-scale datasets required to train these models. We propose GlazyBench, the first dataset for AI-assisted glaze design&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.06641v1</guid>
-      <pubDate>Thu, 07 May 2026 17:51:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Concept-Based Abductive and Contrastive Explanations for Behaviors of Vision Models</title>
-      <link>http://arxiv.org/abs/2605.06640v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ronaldo Canizales, Divya Gopinath, Corina Păsăreanu, Ravi Mangal&lt;/p&gt;&lt;p&gt;*Concept-based explanations* offer a promising approach for explaining the predictions of deep neural networks in terms of high-level, human-understandable concepts. However, existing methods either do not establish a causal connection between the concepts and model predictions or are limited in expressivity and only able to infer causal explanations involving single concepts. At the same time, the parallel line of work on *formal abductive and contrastive explanations* computes the minimal set of input features causally relevant for model outcomes but only considers low-level features such as&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.06640v1</guid>
-      <pubDate>Thu, 07 May 2026 17:51:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML</title>
-      <link>http://arxiv.org/abs/2605.06656v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jai Moondra, Ayela Chughtai, Bhargavi Lanka, Swati Gupta&lt;/p&gt;&lt;p&gt;Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs from Arena, and show that the best-fit global Bradley-Terry (BT) ranking is misleading. Nearly 2/3 of the decisive votes cancel out, and even the top 50 models according to the global BT ranking are statistically indistinguishable (pairwise win probabilities are at most 0.53 within the top 50 models)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.06656v1</guid>
-      <pubDate>Thu, 07 May 2026 17:57:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 May 2026 05:38:14 +0000</lastBuildDate>
   </channel>
 </rss>
