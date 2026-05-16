@@ -7,97 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 13 May 2026 05:49:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 05:27:49 +0000</lastBuildDate>
     <item>
-      <title>Self-Supervised Laplace Approximation for Bayesian Uncertainty Quantification</title>
-      <link>http://arxiv.org/abs/2605.12208v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Julian Rodemann, Alexander Marquard, Thomas Augustin, Michele Caprio&lt;/p&gt;&lt;p&gt;Approximate Bayesian inference typically revolves around computing the posterior parameter distribution. In practice, however, the main object of interest is often a model's predictions rather than its parameters. In this work, we propose to bypass the parameter posterior and focus directly on approximating the posterior predictive distribution&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.12208v1</guid>
-      <pubDate>Tue, 12 May 2026 14:46:08 +0000</pubDate>
+      <title>Causal Foundation Models with Continuous Treatments</title>
+      <link>http://arxiv.org/abs/2605.15133v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Christopher Stith, Medha Barath, Vahid Balazadeh, Jesse C. Cresswell, Rahul G. Krishnan&lt;/p&gt;&lt;p&gt;Causal inference, estimating causal effects from observational data, is a fundamental tool in many disciplines. Of particular importance across a variety of domains is the continuous treatment setting, where the variable of intervention has a continuous range. This setting is far less explored and represents a substantial shift from the binary treatment setting, with models needing to represent effects across a continuum of treatment values&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.15133v1</guid>
+      <pubDate>Thu, 14 May 2026 17:40:28 +0000</pubDate>
     </item>
     <item>
-      <title>TriBand-BEV: Real-Time LiDAR-Only 3D Pedestrian Detection via Height-Aware BEV and High-Resolution Feature Fusion</title>
-      <link>http://arxiv.org/abs/2605.12220v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohammad Khoshkdahan, Alexey Vinel&lt;/p&gt;&lt;p&gt;Safe autonomous agents and mobile robots need fast real time 3D perception, especially for vulnerable road users (VRUs) such as pedestrians. We introduce a new bird's eye view (BEV) encoding, which maps the full 3D LiDAR point cloud into a light-weight 2D BEV tensor with three height bands. We explicitly reformulate 3D detection as a 2D detection problem and then reconstruct 3D boxes from the BEV outputs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.12220v1</guid>
-      <pubDate>Tue, 12 May 2026 14:58:16 +0000</pubDate>
+      <title>Training ML Models with Predictable Failures</title>
+      <link>http://arxiv.org/abs/2605.15134v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Will Schwarzer, Scott Niekum&lt;/p&gt;&lt;p&gt;Estimating how often an ML model will fail at deployment scale is central to pre-deployment safety assessment, but a feasible evaluation set is rarely large enough to observe the failures that matter. Jones et al. (2025) address this by extrapolating from the largest k failure scores in an evaluation set to predict deployment-scale failure rates&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.15134v1</guid>
+      <pubDate>Thu, 14 May 2026 17:41:52 +0000</pubDate>
     </item>
     <item>
-      <title>Pretraining Strategies and Scaling for ECG Foundation Models: A Systematic Study</title>
-      <link>http://arxiv.org/abs/2605.12241v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; M A Al-Masud, Nils Strodthoff&lt;/p&gt;&lt;p&gt;Specialized foundation models are beginning to emerge in various medical subdomains, but pretraining methodologies and parametric scaling with the size of the pretraining dataset are rarely assessed systematically and in a like-for-like manner. This work focuses on foundation models for electrocardiography (ECG) data, one of the most widely captured physiological time series world-wide. We present a comprehensive assessment of pretraining methodologies, covering five different contrastive and non-contrastive self-supervised learning objectives for ECG foundation models, and investigate their s&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.12241v1</guid>
-      <pubDate>Tue, 12 May 2026 15:10:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>NARA: Anchor-Conditioned Relation-Aware Contextualization of Heterogeneous Geoentities</title>
-      <link>http://arxiv.org/abs/2605.12276v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jina Kim, Gengchen Mai, Lingyi Zhao, Khurram Shafique, Yao-Yi Chiang&lt;/p&gt;&lt;p&gt;Geospatial foundation models have primarily focused on raster data such as satellite imagery, where self-supervised learning has been widely studied. Vector geospatial data instead represent the world as discrete geoentities with explicit geometry, semantics, and structured spatial relations, including metric proximity and topological relationships. These relations jointly determine how entities interact within space, yet existing representation learning methods remain fragmented, often restricted to specific geometry types or partial spatial relations, limiting their ability to capture unifie&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.12276v1</guid>
-      <pubDate>Tue, 12 May 2026 15:37:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>STRABLE: Benchmarking Tabular Machine Learning with Strings</title>
-      <link>http://arxiv.org/abs/2605.12292v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gioia Blayer, Myung Jun Kim, Félix Lefebvre, Lennart Purucker, Alan Arazi, Eilam Shapira, Roi Reichart, Frank Hutter&lt;/p&gt;&lt;p&gt;Benchmarking tabular learning has revealed the benefit of dedicated architectures, pushing the state of the art. But real-world tables often contain string entries, beyond numbers, and these settings have been understudied due to a lack of a solid benchmarking suite. They lead to new research questions: Are dedicated learners needed, with end-to-end modeling of strings and numbers? Or does it suffice to encode strings as numbers, as with a categorical encoding? And if so, do the resulting tables resemble numerical tabular data, calling for the same learners? To enable these studies, we contrib&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.12292v1</guid>
-      <pubDate>Tue, 12 May 2026 15:47:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Model Uncertainty to Human Attention: Localization-Aware Visual Cues for Scalable Annotation Review</title>
-      <link>http://arxiv.org/abs/2605.12303v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Moussa Kassem Sbeyti, Joshua Holstein, Philipp Spitzer, Nadja Klein, Gerhard Satzger&lt;/p&gt;&lt;p&gt;High-quality labeled data is essential for training robust machine learning models, yet obtaining annotations at scale remains expensive. AI-assisted annotation has therefore become standard in large-scale labeling workflows. However, in tasks where model predictions carry two independent components, a class label and spatial boundaries, a model may classify an object with high confidence while mislocalizing it&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.12303v1</guid>
-      <pubDate>Tue, 12 May 2026 15:54:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Towards Automated Air Traffic Safety Assessment Around Non-Towered Airports Using Large Language Models</title>
-      <link>http://arxiv.org/abs/2605.12332v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Torsten Darrell, Mahyar Ghazanfari, Jordan Kam, Alexandre Bayen, Amin Tabrizian, Peng Wei&lt;/p&gt;&lt;p&gt;We investigate frameworks for post-flight safety analysis at non-towered airports using large language models (LLMs). Non-towered airports rely on the Common Traffic Advisory Frequency (CTAF) for air traffic coordination and experience frequent near mid-air collisions due to the pilot self-announcement communication protocol. We propose a general vision-language model (VLM) approach to analyze the transcribed CTAF radio communications in natural language, METeorological Aerodrome Report (METAR) weather data, Automatic Dependent Surveillance-Broadcast (ADS-B) flight trajectories, and Visual Fli&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.12332v1</guid>
-      <pubDate>Tue, 12 May 2026 16:15:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>EHR-RAGp: Retrieval-Augmented Prototype-Guided Foundation Model for Electronic Health Records</title>
-      <link>http://arxiv.org/abs/2605.12335v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Saeed Shurrab, Mariam Al-Omari, Dana El Samad, Farah E. Shamout&lt;/p&gt;&lt;p&gt;Electronic Health Records (EHR) contain rich longitudinal patient information and are widely used in predictive modeling applications. However, effectively leveraging historical data remains challenging due to long trajectories, heterogeneous events, temporal irregularity, and the varying relevance of past clinical context. Existing approaches often rely on fixed windows or uniform aggregation, which can obscure clinically important signals&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.12335v1</guid>
-      <pubDate>Tue, 12 May 2026 16:17:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agent-Based Post-Hoc Correction of Agricultural Yield Forecasts</title>
-      <link>http://arxiv.org/abs/2605.12375v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Matthew Beddows, Aiden Durrant, Georgios Leontidis&lt;/p&gt;&lt;p&gt;Accurate crop yield forecasting in commercial soft fruit production is constrained by the data available in typical commercial farm records, which lack the sensor networks, satellite imagery, and high-resolution meteorological inputs that most state-of-the-art approaches assume. We propose a structured LLM agent framework that performs post-hoc correction of existing model predictions, encoding agricultural domain knowledge across tools for phase detection, bias learning, and range validation. Evaluated on a proprietary strawberry yield dataset and a public USDA corn harvest dataset, agent ref&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.12375v1</guid>
-      <pubDate>Tue, 12 May 2026 16:41:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation</title>
-      <link>http://arxiv.org/abs/2605.12389v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Luke James Miller, Yugyung Lee&lt;/p&gt;&lt;p&gt;Segmenting small and sparse structures in large-scale images is fundamentally constrained by voxel-level, lattice-bound computation and extreme class imbalance -- dense, full-resolution inference scales poorly and forces most pipelines to rely on fixed regionization or downsampling, coupling computational cost to image resolution and attenuating boundary evidence precisely where minority structures are most informative. We introduce SEMIR (Semantic Minor-Induced Representation Learning), a representation framework that decouples inference from the native grid by learning a task-adapted, topolo&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.12389v1</guid>
-      <pubDate>Tue, 12 May 2026 16:52:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Predicting Decisions of AI Agents from Limited Interaction through Text-Tabular Modeling</title>
-      <link>http://arxiv.org/abs/2605.12411v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Eilam Shapira, Moshe Tennenholtz, Roi Reichart&lt;/p&gt;&lt;p&gt;AI agents negotiate and transact in natural language with unfamiliar counterparts: a buyer bot facing an unknown seller, or a procurement assistant negotiating with a supplier. In such interactions, the counterpart's LLM, prompts, control logic, and rule-based fallbacks are hidden, while each decision can have monetary consequences. We ask whether an agent can predict an unfamiliar counterpart's next decision from a few interactions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.12411v1</guid>
-      <pubDate>Tue, 12 May 2026 17:09:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>ORCE: Order-Aware Alignment of Verbalized Confidence in Large Language Models</title>
-      <link>http://arxiv.org/abs/2605.12446v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chen Li, Xiaoling Hu, Songzhu Zheng, Jiawei Zhou, Chao Chen&lt;/p&gt;&lt;p&gt;Large language models (LLMs) often produce answers with high certainty even when they are incorrect, making reliable confidence estimation essential for deployment in real-world scenarios. Verbalized confidence, where models explicitly state their confidence in natural language, provides a flexible and user-facing uncertainty signal that can be applied even when token logits are unavailable. However, existing verbalized-confidence methods often optimize answer generation and confidence generation jointly, which can cause confidence-alignment objectives to interfere with answer accuracy&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.12446v1</guid>
-      <pubDate>Tue, 12 May 2026 17:39:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Towards Affordable Energy: A Gymnasium Environment for Electric Utility Demand-Response Programs</title>
-      <link>http://arxiv.org/abs/2605.12462v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jose E. Aguilar Escamilla, Lingdong Zhou, Xiangqi Zhu, Huazheng Wang&lt;/p&gt;&lt;p&gt;Extreme weather and volatile wholesale electricity markets expose residential consumers to catastrophic financial risks, yet demand response at the distribution level remains an underutilized tool for grid flexibility and energy affordability. While a demand-response program can shield consumers by issuing financial credits during high-price periods, optimizing this sequential decision-making process presents a unique challenge for reinforcement learning despite the plentiful offline historical smart meter and wholesale pricing data available publicly. Offline historical data fails to capture &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.12462v1</guid>
-      <pubDate>Tue, 12 May 2026 17:48:45 +0000</pubDate>
+      <title>FutureSim: Replaying World Events to Evaluate Adaptive Agents</title>
+      <link>http://arxiv.org/abs/2605.15188v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shashwat Goel, Nikhil Chandak, Arvindh Arun, Ameya Prabhu, Steffen Staab, Moritz Hardt, Maksym Andriushchenko, Jonas Geiping&lt;/p&gt;&lt;p&gt;AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently measure this capability for realistic use-cases, we propose building grounded simulations that replay real-world events in the order they occurred. We build FutureSim, where agents forecast world events beyond their knowledge cutoff while interacting with a chronological replay of the world: real news articles arriving and questions resolving over the simulated period&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.15188v1</guid>
+      <pubDate>Thu, 14 May 2026 17:59:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
