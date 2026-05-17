@@ -7,27 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 16 May 2026 05:27:49 +0000</lastBuildDate>
-    <item>
-      <title>Causal Foundation Models with Continuous Treatments</title>
-      <link>http://arxiv.org/abs/2605.15133v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Christopher Stith, Medha Barath, Vahid Balazadeh, Jesse C. Cresswell, Rahul G. Krishnan&lt;/p&gt;&lt;p&gt;Causal inference, estimating causal effects from observational data, is a fundamental tool in many disciplines. Of particular importance across a variety of domains is the continuous treatment setting, where the variable of intervention has a continuous range. This setting is far less explored and represents a substantial shift from the binary treatment setting, with models needing to represent effects across a continuum of treatment values&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.15133v1</guid>
-      <pubDate>Thu, 14 May 2026 17:40:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Training ML Models with Predictable Failures</title>
-      <link>http://arxiv.org/abs/2605.15134v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Will Schwarzer, Scott Niekum&lt;/p&gt;&lt;p&gt;Estimating how often an ML model will fail at deployment scale is central to pre-deployment safety assessment, but a feasible evaluation set is rarely large enough to observe the failures that matter. Jones et al. (2025) address this by extrapolating from the largest k failure scores in an evaluation set to predict deployment-scale failure rates&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.15134v1</guid>
-      <pubDate>Thu, 14 May 2026 17:41:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>FutureSim: Replaying World Events to Evaluate Adaptive Agents</title>
-      <link>http://arxiv.org/abs/2605.15188v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shashwat Goel, Nikhil Chandak, Arvindh Arun, Ameya Prabhu, Steffen Staab, Moritz Hardt, Maksym Andriushchenko, Jonas Geiping&lt;/p&gt;&lt;p&gt;AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently measure this capability for realistic use-cases, we propose building grounded simulations that replay real-world events in the order they occurred. We build FutureSim, where agents forecast world events beyond their knowledge cutoff while interacting with a chronological replay of the world: real news articles arriving and questions resolving over the simulated period&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.15188v1</guid>
-      <pubDate>Thu, 14 May 2026 17:59:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 May 2026 05:49:58 +0000</lastBuildDate>
   </channel>
 </rss>
