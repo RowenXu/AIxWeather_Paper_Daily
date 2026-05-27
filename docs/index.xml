@@ -7,6 +7,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 17 May 2026 05:49:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 06:24:05 +0000</lastBuildDate>
+    <item>
+      <title>Periodic Topological Deep Learning for Polymer Design and Discovery</title>
+      <link>http://arxiv.org/abs/2605.26833v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yasharth Yadav, Tze Kwang Gerald Er, Atsushi Goto, Kelin Xia&lt;/p&gt;&lt;p&gt;Polymers underpin applications across energy, healthcare, and materials science, yet their vast chemical space makes systematic discovery challenging. Most machine learning approaches represent polymers as molecular graphs of a single repeating unit, thereby missing both the periodicity of polymer chains and many-body interactions beyond pairwise bonds. We introduce Periodic-TDL, a deep learning framework built on periodic Vietoris-Rips complexes that capture many-body interactions across multiple spatial scales, followed by a hierarchical simplicial message-passing (HSMP) encoder that propaga&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.26833v1</guid>
+      <pubDate>Tue, 26 May 2026 10:51:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nonlinear and Heavy-Tailed Predictability in Transition-Energy Financial Markets</title>
+      <link>http://arxiv.org/abs/2605.26890v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kpante Emmanuel Gnandi, Fredy Pokou, Jules Sadefo Kamdem&lt;/p&gt;&lt;p&gt;Transition-related financial markets are increasingly exposed to abrupt repricing episodes, elevated volatility, and heterogeneous macro-financial shocks. Under such conditions, conventional Gaussian-linear forecasting frameworks may provide an incomplete representation of the dependence structure linking fossil-energy, renewable-energy, technology, and utility-sector assets. This paper investigates whether transition-related financial returns exhibit residual non-linear predictability after controlling for heavy-tailed multivariate linear dynamics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.26890v1</guid>
+      <pubDate>Tue, 26 May 2026 11:52:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unveiling magma plumbing systems for volcanic eruptions and crustal accretion via active-seismic matrix imaging</title>
+      <link>http://arxiv.org/abs/2605.26988v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Baptiste Hériard-Dubreuil, Milena Marjanović, Arnaud Burtin, Alexandre Aubry&lt;/p&gt;&lt;p&gt;Submarine eruptions, accounting for over 80% of Earth's volcanic activity, primarily occur along mid-ocean ridges, where shallow magmatic systems are accessible to high-resolution imaging. Yet, their remoteness often leaves them undetected. Recent seismic studies at the East Pacific Rise (EPR) 9°50'N-one of the most dynamic ridge segments, imaged the detailed architecture of the shallowest magma lens, but no data-constrained model yet explains how magma accumulates, migrates, or triggers eruptions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.26988v1</guid>
+      <pubDate>Tue, 26 May 2026 13:12:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sampling Data with Chains of Forward-Backward Diffusion Steps</title>
+      <link>http://arxiv.org/abs/2605.27006v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hyunmo Kang, Noam Itzhak Levi, Corinna Elena Wegner, Daniel J. Korchinski, Matthieu Wyart&lt;/p&gt;&lt;p&gt;Sampling from learned high-dimensional distributions is a foundational computational problem. We introduce U-turn chains: Markov chains obtained by iterating short forward-backward steps of a diffusion model, in which each step proposes a move that remains on the learned data manifold and, paired with a Metropolis-Hastings correction, samples from energy-modified targets. For synthetic languages, we show that minimal U-turn dynamics undergoes an ergodicity-breaking phase transition driven by fragmentation of the data manifold; ergodicity is restored at larger U-turn magnitude&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.27006v1</guid>
+      <pubDate>Tue, 26 May 2026 13:26:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tracing Computation Density in LLMs</title>
+      <link>http://arxiv.org/abs/2605.27033v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Corentin Kervadec, Iuliia Lysova, Iuri Macocco, Marco Baroni, Gemma Boleda&lt;/p&gt;&lt;p&gt;Transformer-based large language models (LLMs) are comprised of billions of parameters arranged in deep and wide computational graphs, but it is not clear that they exploit their full capacity for all inputs. We introduce the s-Trace method to efficiently estimate the subgraph of size s that best approximates a full model output. With this method, we find the computation in a variety of LLMs to be organized in two distinct phases&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.27033v1</guid>
+      <pubDate>Tue, 26 May 2026 13:55:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting</title>
+      <link>http://arxiv.org/abs/2605.27044v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruifeng Tan, Jintao Dong, Weixiang Hong, Jia Li, Jiaqiang Huang, Tong-Yi Zhang&lt;/p&gt;&lt;p&gt;Early battery degradation trajectory forecasting (BDTF), which predicts the full-life state-of-health trajectory from early operational data, is critical for battery optimization, manufacturing, and deployment. Battery degradation data exhibit two key characteristics. First, degradation data present a multi-level structure, including regularities shared within aging conditions and trajectory patterns shared across batteries&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.27044v1</guid>
+      <pubDate>Tue, 26 May 2026 13:59:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gaussian Process-based learning with new MCMC-based implementation of Wishart prior on correlation matrix</title>
+      <link>http://arxiv.org/abs/2605.27093v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kane Warrior, Dalia Chakrabarty&lt;/p&gt;&lt;p&gt;In probabilstic supervised learning of an input-output relationship - as a sample function of a Gaussian Process (GP) - priors are typically specified for the hyperparameters of the kernel that parametrises the covariance function of the GP, where the induced covariance matrix of the (resulting multivariate Normal) likelihood, governs the learning and prediction. When the sought function is highly multivariate, multiple lengthscale parameters must be learnt simultaneously, making inference difficult. We develop a ``self-assembled'' Wishart prior for the covariance matrix, while undertaking Bay&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.27093v1</guid>
+      <pubDate>Tue, 26 May 2026 14:37:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>JLT: Clean-Latent Prediction in Latent Diffusion Transformers</title>
+      <link>http://arxiv.org/abs/2605.27102v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Funing Fu, Tenghui Wang, Junyong Cen, Qichao Zhu, Guanyu Zhou&lt;/p&gt;&lt;p&gt;Flow matching with clean-data prediction has shown that regressing the clean point can exploit low-dimensional structure more effectively than predicting an ambient noised quantity. We ask whether this principle remains useful after images are mapped into a learned latent space, where compression has already removed much of the raw pixel variability. We introduce JLT, a 130M latent diffusion Transformer over frozen FLUX.2 VAE codes, and compare clean-latent prediction with a matched velocity-prediction DiT under the same representation, backbone, and training settings&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.27102v1</guid>
+      <pubDate>Tue, 26 May 2026 14:41:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Symbolic Regression via Latent Iterative Refinement</title>
+      <link>http://arxiv.org/abs/2605.27245v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xieting Chu, Sriram Vishwanath, Vijay Ganesh&lt;/p&gt;&lt;p&gt;Symbolic regression (SR) seeks closed-form mathematical expressions that fit observed data. Neural SR methods amortize the search by training an encoder to map observations directly to expressions in a single pass, but this amortized inference leaves a residual amortization gap between its one-shot prediction and the true posterior. We propose Latent Equation Embedding (LEE), a framework that closes this gap through iterative amortized inference in a functionally grounded latent space&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.27245v1</guid>
+      <pubDate>Tue, 26 May 2026 16:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kan Extension Transformers: A Categorical Unification of Attention, Diffusion, and Predict-Detach Self-Conditioning</title>
+      <link>http://arxiv.org/abs/2605.27259v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sridhar Mahadevan&lt;/p&gt;&lt;p&gt;We propose Kan Extension Transformers (KETs) as a unifying categorical framework for a diverse group of Transformer implementations. The core claim is that a Transformer layer can be viewed as a weighted structured extension operator: standard attention is the singleton-neighborhood case, Geometric Transformer style incidence mixing is a sparse edge-restricted case, and KET is the higher-order simplicial case. This lens also clarifies a bridge to diffusion-style completion&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.27259v1</guid>
+      <pubDate>Tue, 26 May 2026 16:36:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transfer Learning using 66 Diseases for Disease Forecasting Applications</title>
+      <link>http://arxiv.org/abs/2605.27269v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lauren J Beesley, Alexander C Murph, Dave Osthus, Lauren A Castro&lt;/p&gt;&lt;p&gt;Disease forecasting models typically rely on a single data stream, making models brittle when histories are short or noisy. Recent top-performing models have shown that synthesizing multiple reporting systems for the same disease improves performance. Other recent work takes this idea a step further, using transfer learning to train a forecasting model for one disease using data from a different disease&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.27269v1</guid>
+      <pubDate>Tue, 26 May 2026 16:45:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Falcon-X: A Time Series Foundation Model for Heterogeneous Multivariate Modeling</title>
+      <link>http://arxiv.org/abs/2605.27286v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yiding Liu, Yifan Hu, Hongjie Xia, Peiyuan Liu, Hongzhou Chen, Xilin Dai, Zewei Dong, Jiang-Ming Yang&lt;/p&gt;&lt;p&gt;Time series foundation models (TSFMs) are transforming the forecasting paradigm through large-scale cross-domain pretraining. However, most existing TSFMs remain univariate, and recent efforts to enable cross-variate modeling still operate directly within the raw variate space. This design introduces fundamental limitations in semantic alignment and relational expressivity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.27286v1</guid>
+      <pubDate>Tue, 26 May 2026 17:03:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Normal Guidance is what Attention Needs</title>
+      <link>http://arxiv.org/abs/2605.27306v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ethan Harvey, Dennis Johan Loevlie, Michael C. Hughes&lt;/p&gt;&lt;p&gt;We consider training classifiers for 3D medical images using only one binary label for the entire volume rather than a label for each 2D slice. In such weakly supervised settings, can we learn accurate classifiers for slice-level predictions? Attention-based multiple instance learning (MIL) can produce an attention score for every slice. Yet recent work demonstrates that a simple center-focused baseline that ignores image content can outperform attention-based and transformer-based MIL at slice-level classification of 3D brain scans&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2605.27306v1</guid>
+      <pubDate>Tue, 26 May 2026 17:17:58 +0000</pubDate>
+    </item>
   </channel>
 </rss>
