@@ -7,13 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 30 May 2026 05:49:03 +0000</lastBuildDate>
-    <item>
-      <title>VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion</title>
-      <link>http://arxiv.org/abs/2605.30351v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hidir Yesiltepe, Jiazhen Hu, Tuna Han Salih Meral, Adil Kaan Akan, Kaan Oktay, Hoda Eldardiry, Pinar Yanardag&lt;/p&gt;&lt;p&gt;Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by changing which tokens occupy the window or how their positions are encoded. The per-head KV layout itself, a dominant contributor to streaming memory and latency, has been mostly left unchanged. In this paper, we present the first study of Multi-Head Latent Attention (MLA) in video diffusion&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2605.30351v1</guid>
-      <pubDate>Thu, 28 May 2026 17:59:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 May 2026 06:20:03 +0000</lastBuildDate>
   </channel>
 </rss>
