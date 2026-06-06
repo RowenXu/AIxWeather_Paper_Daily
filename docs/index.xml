@@ -7,125 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 02 Jun 2026 06:42:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 05:54:53 +0000</lastBuildDate>
     <item>
-      <title>VLBM: Variational Latent Basis Modeling for OOD Robust Multivariate Time Series Forecasting</title>
-      <link>http://arxiv.org/abs/2606.02138v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xudong Zhang, Jierui Lei, Jiacheng Li, Lingdong Shen, Jian Cui, Haina Tang&lt;/p&gt;&lt;p&gt;Out of distribution (OOD) events in multivariate time series forecasting are rare but often dominate real world risk, making average case forecasting insufficient for reliable deployment. Under standard average risk training on mixed ID/OOD distributions, optimization signals from rare OOD events can be overwhelmed by frequent in distribution (ID) patterns, so strong benchmark accuracy may not translate into reliability under high impact shifts. To address this issue, we propose VLBM (Variational Latent Basis Model), a theory guided latent forecasting framework that separates stable dynamics f&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02138v1</guid>
-      <pubDate>Mon, 01 Jun 2026 12:05:57 +0000</pubDate>
+      <title>Self-Augmenting Retrieval for Diffusion Language Models</title>
+      <link>http://arxiv.org/abs/2606.06474v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Paul Jünger, Justin Lovelace, Linxi Zhao, Dongyoung Go, Kilian Q. Weinberger&lt;/p&gt;&lt;p&gt;Discrete diffusion language models generate text by iteratively denoising an entire response in parallel. At each step, they predict tentative tokens for every masked position, committing the confident predictions to the output and discarding the unconfident ones. We show that the discarded tokens are in fact a useful lookahead signal for retrieval-augmented generation: even low-confidence tokens often surface salient entities early in the denoising trajectory, enabling retrieval of stronger evidence before the output is finalized&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.06474v1</guid>
+      <pubDate>Thu, 04 Jun 2026 17:56:27 +0000</pubDate>
     </item>
     <item>
-      <title>Hybrid Neural Ordinary Differential Equations for Data-Efficient Polymerization Modeling with Incomplete Kinetics</title>
-      <link>http://arxiv.org/abs/2606.02145v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marah Almanasreh, Alexander Mitsos, Eike Cramer&lt;/p&gt;&lt;p&gt;Accurate prediction of polymerization dynamics is essential for process design, control, and optimization. Yet, purely mechanistic models require labor-intensive parameterization of partially characterized kinetics, while purely data-driven models demand large, diverse datasets that are costly to obtain, particularly in early-design stages. We propose a hybrid Neural Ordinary Differential Equation (NODE) framework for data-efficient modeling of free-radical polymerization&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02145v1</guid>
-      <pubDate>Mon, 01 Jun 2026 12:10:48 +0000</pubDate>
+      <title>Pretraining Recurrent Networks without Recurrence</title>
+      <link>http://arxiv.org/abs/2606.06479v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Akarsh Kumar, Phillip Isola&lt;/p&gt;&lt;p&gt;Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential in time, limiting parallelism, and suffers from vanishing or exploding gradients, making long-range associations difficult to learn. We propose Supervised Memory Training (SMT), a method for training nonlinear RNNs that sidesteps recurrent credit propagation entirely by reducing RNN training to supervised learning on one-step memory transition labels $(m_t, x_{t+1}) \rightarrow m_{t+1}$&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.06479v1</guid>
+      <pubDate>Thu, 04 Jun 2026 17:57:33 +0000</pubDate>
     </item>
     <item>
-      <title>EEG-FuseFormer: A Transformer-Driven Feature Fusion Framework for Seizure Onset Prediction</title>
-      <link>http://arxiv.org/abs/2606.02166v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vigneshwar Hariharan, Chithra Reghuvaran, Arlene John, Nhat Pham, Omer Rana, Deepu John, Ganesh Neelakanta Iyer&lt;/p&gt;&lt;p&gt;Epilepsy is one of the most common neurological disorders globally, characterized by recurring seizures and significantly impacting the quality of life. Despite advancements in diagnostic techniques, the mitigation of risks faced by epilepsy patients remains challenging due to the unpredictability of seizure events. An accurate forecast of seizure onset helps to reduce risks in epilepsy patients&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02166v1</guid>
-      <pubDate>Mon, 01 Jun 2026 12:27:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>On the Generalization in Topology Optimization via Sensitivity-Conditioned Bernoulli Flow Matching</title>
-      <link>http://arxiv.org/abs/2606.02179v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohammad Rashed, Duarte F. Valoroso Madeira, Babak Gholami, Caglar Guerbuez, Yunjia Yang, Nils Thuerey&lt;/p&gt;&lt;p&gt;Surrogate models for topology optimization (TO) exhibit highly variable out-of-distribution (OOD) generalization under distribution shifts such as changing loads or boundary conditions, yet the source of this variability remains unclear. We hypothesize that OOD performance is governed by how much information the conditioning signal preserves about the adjoint sensitivity (reduced gradient) that drives classical TO. Modeling the TO pipeline as a causal Markov chain, the Data Processing Inequality establishes that, under this abstraction, the sensitivity field is an information-theoretically opt&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02179v1</guid>
-      <pubDate>Mon, 01 Jun 2026 12:36:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Model Multiplicity and Predictive Arbitrariness in Recidivism Risk Assessment</title>
-      <link>http://arxiv.org/abs/2606.02198v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ashwin Singh, Carlos Castillo&lt;/p&gt;&lt;p&gt;Prediction tasks over individual futures, which are inherently noisy, often admit multiple similarly accurate models. When these models produce different predictions for the same individual, they raise concerns of arbitrariness in decision-making. How severe can this arbitrariness be, in theory and in practice? How can it be resolved to support high-stakes risk assessment?   We address these questions through a study of a machine learning-based decision support system for recidivism risk assessment that has been in use for over 15 years&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02198v1</guid>
-      <pubDate>Mon, 01 Jun 2026 12:53:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Identifiable Markov Switching Models with Instantaneous Effects and Exponential Families</title>
-      <link>http://arxiv.org/abs/2606.02231v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Roel Hulsman, Carles Balsells-Rodas, Sara Magliacane&lt;/p&gt;&lt;p&gt;Temporal systems often exhibit non-stationary behaviour, such as seasonal climate variation or glucose fluctuations in patients with type-1 diabetes. One way to model non-stationarity is through discrete latent regimes, i.e., stationary segments of time. Such systems induce a Markov Switching Model (MSM), a class of Hidden Markov Models with autoregressive dependencies among latent regimes and observed variables&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02231v1</guid>
-      <pubDate>Mon, 01 Jun 2026 13:25:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>BlockGen: Flexible Blockwise Sequence Modeling with Hybrid Samplers</title>
-      <link>http://arxiv.org/abs/2606.02241v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Justin Deschenaux, Caglar Gulcehre&lt;/p&gt;&lt;p&gt;Is the uniform-state diffusion framework a more powerful paradigm for discrete diffusion? Recent studies indicate that this may be the case. In combination with predictor-corrector samplers, uniform-state diffusion models (USDMs) produce samples of higher-quality than masked diffusion models (MDMs), and USDMs equal or outperform MDMs in downstream tasks, even though they exhibit greater perplexity. Two issues remain unresolved&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02241v1</guid>
-      <pubDate>Mon, 01 Jun 2026 13:36:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Physics-Guided Recurrent State-Space Neural Networks for Multi-Step Prediction</title>
-      <link>http://arxiv.org/abs/2606.02278v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruiyuan Li, Ajay Seth, Manon Kok&lt;/p&gt;&lt;p&gt;State-space models are traditionally based on physical knowledge, but multi-step predictions from these physical models can be poor due to model inaccuracy. Black-box deep learning has shown promise as an alternative. However, these methods rely on the availability of large datasets and potentially available physical knowledge is neglected&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02278v1</guid>
-      <pubDate>Mon, 01 Jun 2026 14:03:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deep Learning for Remote Sensing to Improve Flood Inundation Mapping</title>
-      <link>http://arxiv.org/abs/2606.02310v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yogesh Bhattarai, Vijay Chaudhary, Wai Lim Kim, Sanjib Sharma&lt;/p&gt;&lt;p&gt;Flooding is the most pervasive natural disaster worldwide. Timely and accurate flood inundation mapping are essential for informing disaster risk management. Optical satellite missions provide high-resolution, multispectral observations critical for flood detection and inundation mapping&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02310v1</guid>
-      <pubDate>Mon, 01 Jun 2026 14:28:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parameter-efficient Dual-encoder Architecture with Differentiable Choquet Integral Fusion for Underwater Acoustic Classification</title>
-      <link>http://arxiv.org/abs/2606.02341v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Amirmohammad Mohammadi, Joshua Peeples, Alexandra Van Dine&lt;/p&gt;&lt;p&gt;Underwater acoustic classification has a wide array of oceanic applications, but faces challenges due to an increasingly complex acoustic environment. Waveform and spectrogram representations have been primarily used as acoustic data features for classification tasks in this domain. Spectrograms model harmonic dependencies, but these reduced representations can filter out acoustic features relevant for discrimination&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02341v1</guid>
-      <pubDate>Mon, 01 Jun 2026 14:49:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>TabPrep: Closing the Feature Engineering Gap in Tabular Benchmarks</title>
-      <link>http://arxiv.org/abs/2606.02384v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andrej Tschalzev, Nick Erickson, Yuyang Wang, Huzefa Rangwala, Stefan Lüdtke, Heiner Stuckenschmidt, Christian Bartelt&lt;/p&gt;&lt;p&gt;Progress in tabular machine learning has largely focused on increasingly sophisticated model architectures. At the same time, feature engineering remains a critical yet underexplored component of real-world modeling pipelines that is entirely absent from modern benchmarks, which creates an unquantified evaluation gap. In this work, we introduce TabPrep, a lightweight preprocessing pipeline composed of feature generators that are carefully designed to target three specific structural data patterns&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02384v1</guid>
-      <pubDate>Mon, 01 Jun 2026 15:33:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectral Audit of In-Context Operator Networks</title>
-      <link>http://arxiv.org/abs/2606.02427v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhiwei Gao, Liu Yang, George Em Karniadakis&lt;/p&gt;&lt;p&gt;Existing evaluations of neural operators and in-context operator learning rely primarily on prediction error, but accurate output prediction does not guarantee the correct local dynamical structure. A model may match solutions while exhibiting incorrect sensitivities, distorted frequency response, spurious mode coupling, or unstable tangent behavior. We introduce a Jacobian-based spectral audit for in-context operator learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02427v1</guid>
-      <pubDate>Mon, 01 Jun 2026 16:04:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>ODTQA-FoRe: An Open-Domain Tabular Question Answering Dataset for Future Data Forecasting and Reasoning</title>
-      <link>http://arxiv.org/abs/2606.02433v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhensheng Wang, Xiaole Liu, Wenmian Yang, Kun Zhou, Yiquan Zhang, Weijia Jia&lt;/p&gt;&lt;p&gt;The rapid development of LLMs has significantly advanced tabular question answering, but most systems cannot perform future-oriented numerical prediction. To address this gap, we introduce a novel task, Open-Domain Tabular Question Answering for Future Data Forecasting and Reasoning, and propose the first dataset to cover time-series forecasting and forecast-based reasoning scenarios using real estate data. This task poses challenges in retrieving precise historical data, overcoming the forecasting limitations of LLMs, and standardizing responses for diverse queries&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02433v1</guid>
-      <pubDate>Mon, 01 Jun 2026 16:06:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bridging the Last Mile of Time Series Forecasting with LLM Agents</title>
-      <link>http://arxiv.org/abs/2606.02497v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuhua Liao, Zetian Wang, Qiangqiang Nie, Zhenhua Zhang&lt;/p&gt;&lt;p&gt;Time series forecasting has advanced rapidly, especially with the emergence of foundation models that show strong zero-shot performance on numerical extrapolation. However, in real-world forecasting settings, a statistically plausible baseline is rarely the final forecast used in practice. Before a forecast becomes decision-ready, it often needs to be revised using weakly structured business context such as holiday effects, campaign plans, external events, historical analogs, and expert feedback&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02497v1</guid>
-      <pubDate>Mon, 01 Jun 2026 17:03:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design</title>
-      <link>http://arxiv.org/abs/2606.02507v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anand Babu, Rogério Almeida Gouvêa, Gian-Marco Rignanese&lt;/p&gt;&lt;p&gt;Inverse materials design is shifting materials discovery from forward prediction to targeted proposal of candidates that satisfy objectives under physical constraints. Here, we review recent advances in generative crystal structure modeling, multimodal learning, and closed-loop design pipelines for crystalline solids. We survey how modern generators learn chemical-structural priors from large databases to enable controllable sampling of periodic structures, and compare leading model classes including variational autoencoders, normalizing flows, autoregressive formulations, and diffusion models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02507v1</guid>
-      <pubDate>Mon, 01 Jun 2026 17:20:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>SimSD: Simple Speculative Decoding in Diffusion Language Models</title>
-      <link>http://arxiv.org/abs/2606.02544v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junxia Cui, Haotian Ye, Runchu Tian, Hongcan Guo, Jinya Jiang, Haoru Li, Chaojie Ren, Yiming Huang&lt;/p&gt;&lt;p&gt;Diffusion large language models (dLLMs) have recently emerged as a promising alternative to autoregressive (AR) LLMs, offering faster inference through parallel or blockwise decoding. However, their masked language modeling formulation remains incompatible with standard token-level speculative decoding, one of the most effective acceleration techniques for AR models. In AR decoding, the causal mask preserves temporally valid token-level contexts, enabling a target model to verify multiple drafted tokens in a single forward pass&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02544v1</guid>
-      <pubDate>Mon, 01 Jun 2026 17:46:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Probabilistic storyline attribution using machine learning</title>
-      <link>http://arxiv.org/abs/2606.02550v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Frieder Loer, Maybritt Schillinger, Sebastian Sippel&lt;/p&gt;&lt;p&gt;A fundamental goal in climate attribution is to estimate how forced climate change contributes to observed extreme weather events. The storyline attribution method compares an observed weather event, conditional on its atmospheric dynamic state (i.e., atmospheric circulation), in the current, 'factual' climate to an event with very similar circulation conditions in a hypothetical, 'counterfactual' climate. However, physical climate models cannot directly transfer these storyline counterfactuals across different climate forcing states&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.02550v1</guid>
-      <pubDate>Mon, 01 Jun 2026 17:49:59 +0000</pubDate>
+      <title>DNQ: Deep Nash Q-Network for Partially Observable n-Player Games</title>
+      <link>http://arxiv.org/abs/2606.06480v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Qintong Xie, Edward Koh, Xavier Cadet, Peter Chin&lt;/p&gt;&lt;p&gt;Many real-world competitive systems require multiple decision-makers to act simultaneously under shared constraints, limited information, and repeated interaction, as in auctions, resource allocation, and security competition. We study multi-turn simultaneous bidding as a controlled testbed for such problems and propose DNQ, a solver-in-the-loop equilibrium supervision framework for training bidding agents. DNQ alternates between trajectory collection, critic-based payoff estimation, equilibrium computation, and policy imitation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.06480v1</guid>
+      <pubDate>Thu, 04 Jun 2026 17:58:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
