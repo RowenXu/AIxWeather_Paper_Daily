@@ -7,27 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 06 Jun 2026 05:54:53 +0000</lastBuildDate>
-    <item>
-      <title>Self-Augmenting Retrieval for Diffusion Language Models</title>
-      <link>http://arxiv.org/abs/2606.06474v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Paul Jünger, Justin Lovelace, Linxi Zhao, Dongyoung Go, Kilian Q. Weinberger&lt;/p&gt;&lt;p&gt;Discrete diffusion language models generate text by iteratively denoising an entire response in parallel. At each step, they predict tentative tokens for every masked position, committing the confident predictions to the output and discarding the unconfident ones. We show that the discarded tokens are in fact a useful lookahead signal for retrieval-augmented generation: even low-confidence tokens often surface salient entities early in the denoising trajectory, enabling retrieval of stronger evidence before the output is finalized&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.06474v1</guid>
-      <pubDate>Thu, 04 Jun 2026 17:56:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pretraining Recurrent Networks without Recurrence</title>
-      <link>http://arxiv.org/abs/2606.06479v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Akarsh Kumar, Phillip Isola&lt;/p&gt;&lt;p&gt;Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential in time, limiting parallelism, and suffers from vanishing or exploding gradients, making long-range associations difficult to learn. We propose Supervised Memory Training (SMT), a method for training nonlinear RNNs that sidesteps recurrent credit propagation entirely by reducing RNN training to supervised learning on one-step memory transition labels $(m_t, x_{t+1}) \rightarrow m_{t+1}$&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.06479v1</guid>
-      <pubDate>Thu, 04 Jun 2026 17:57:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>DNQ: Deep Nash Q-Network for Partially Observable n-Player Games</title>
-      <link>http://arxiv.org/abs/2606.06480v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Qintong Xie, Edward Koh, Xavier Cadet, Peter Chin&lt;/p&gt;&lt;p&gt;Many real-world competitive systems require multiple decision-makers to act simultaneously under shared constraints, limited information, and repeated interaction, as in auctions, resource allocation, and security competition. We study multi-turn simultaneous bidding as a controlled testbed for such problems and propose DNQ, a solver-in-the-loop equilibrium supervision framework for training bidding agents. DNQ alternates between trajectory collection, critic-based payoff estimation, equilibrium computation, and policy imitation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.06480v1</guid>
-      <pubDate>Thu, 04 Jun 2026 17:58:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Jun 2026 06:25:26 +0000</lastBuildDate>
   </channel>
 </rss>
