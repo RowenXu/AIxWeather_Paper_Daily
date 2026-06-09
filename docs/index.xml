@@ -7,6 +7,118 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 08 Jun 2026 06:44:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 06:10:35 +0000</lastBuildDate>
+    <item>
+      <title>From Coarse to Fine: Managing Temporal Granularity in Spatio-Temporal Data for Fine-Grained Traffic Prediction</title>
+      <link>http://arxiv.org/abs/2606.09392v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shuhao Li, Weidong Yang, Yue Cui, Zizhuo Xu, Lipeng Ma, Fan Zhang, Xiaofang Zhou&lt;/p&gt;&lt;p&gt;Efficient acquisition, storage, and utilization of traffic data are critical challenges in spatio-temporal data management. Most traffic data systems collect and store observations at fixed, coarse-grained temporal intervals to reduce storage and computation costs. However, such coarse-grained data severely limits downstream applications that require predictions at a finer temporal granularity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09392v1</guid>
+      <pubDate>Mon, 08 Jun 2026 12:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAILS: Surrogate-based Analysis of Interactions via Local Effect Smooths</title>
+      <link>http://arxiv.org/abs/2606.09404v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Timo Heiß, Julia Herbinger, Bernd Bischl, Giuseppe Casalicchio&lt;/p&gt;&lt;p&gt;Feature interactions drive much of the predictive power of machine learning models, yet existing explanation methods only detect and quantify interactions without revealing their functional form, or visualize only restricted interaction types. We propose Surrogate-based Analysis of Interactions via Local effect Smooths (SAILS), a model-agnostic framework that analyzes pairwise interactions through interpretable generalized additive model (GAM) surrogates fitted to the local effects of a black-box model. For each interval of a feature of interest, the surrogate smooth terms isolate the interact&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09404v1</guid>
+      <pubDate>Mon, 08 Jun 2026 12:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems</title>
+      <link>http://arxiv.org/abs/2606.09432v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Karn Tiwari, Niladri Dutta, N M Anoop Krishnan, Prathosh A P&lt;/p&gt;&lt;p&gt;Modeling interacting dynamical systems requires capturing spatial interactions alongside long-range temporal dependencies. Graph neural networks (GNNs) provide a natural representation but typically rely on autoregressive rollouts and treat spatial and temporal dynamics separately, leading to error accumulation over long horizons. Existing approaches also focus on local interactions and short temporal contexts, limiting their ability to capture multi-hop dependencies and global structure&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09432v1</guid>
+      <pubDate>Mon, 08 Jun 2026 12:42:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>SIFT: Selective-Index For Fast Compute of RAG Prefill by Exploiting Attention Invariance</title>
+      <link>http://arxiv.org/abs/2606.09441v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rya Sanovar, Srikant Bharadwaj, Hritvik Taneja, Moinuddin Qureshi&lt;/p&gt;&lt;p&gt;Retrieval-Augmented Generation (RAG) injects LLM queries with relevant documents to improve response quality. This injection increases prompt length and slows time to first token (TTFT). Unlike standard queries, RAG queries have a unique property of context reuse where the same documents recur across user queries&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09441v1</guid>
+      <pubDate>Mon, 08 Jun 2026 12:50:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dense Force Estimation with an Event-based Optical Tactile Sensor</title>
+      <link>http://arxiv.org/abs/2606.09451v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Agis Politis, René Zurbrügg, Valentina Cavinato&lt;/p&gt;&lt;p&gt;Humans rely on spatially dense, geometry and force-aware tactile feedback at high temporal resolution for dexterous manipulation. While vision-based tactile sensors enable dense force estimation, they are limited by camera frame rates, motion blur, and data bandwidth. Event-based optical tactile sensors offer an attractive alternative with microsecond temporal resolution and low motion blur, but existing methods are restricted to predicting only net forces&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09451v1</guid>
+      <pubDate>Mon, 08 Jun 2026 12:57:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Finetuned SpeechLLM for Joint Multi-Granular L2 Assessment and Natural-Language Rationales</title>
+      <link>http://arxiv.org/abs/2606.09470v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aditya Kamlesh Parikh, Cristian Tejedor-Garcia, Catia Cucchiarini, Helmer Strik&lt;/p&gt;&lt;p&gt;Automated L2 speech assessment can assign proficiency labels, but often lacks interpretability. We propose a rubric-guided SpeechLLM for multi-aspect, multi-granular assessment, trained with a hybrid objective combining supervised fine-tuning and Bounded Direct Preference Optimization. The model jointly predicts ordinal labels at the sentence-level (accuracy, fluency, prosody), word/phoneme-level accuracy, and generates a natural-language rationale in the same response&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09470v1</guid>
+      <pubDate>Mon, 08 Jun 2026 13:27:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report the Floor: A Training-Free Conformal Interval Is a Mandatory Baseline for Probabilistic Time-Series Forecasting</title>
+      <link>http://arxiv.org/abs/2606.09473v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Valery Manokhin&lt;/p&gt;&lt;p&gt;Probabilistic forecasters are increasingly learned, yet the baselines they are compared against are often weak or omitted. We show that the simplest possible conformal interval - a last-value point forecast wrapped in a finite-sample split-conformal residual quantile, with no parameters and no training - is a far stronger baseline than its near-total absence from recent learned-forecasting and conformal-time-series comparisons would suggest. In one-step-ahead online forecasting across 2,217 real series from nine public sources (Monash, LOTSA, the LTSF traffic/electricity/weather suites, METR-L&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09473v1</guid>
+      <pubDate>Mon, 08 Jun 2026 13:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficient Traffic Prediction at Scale: A Systematic Study of STGCN Architectural Depth</title>
+      <link>http://arxiv.org/abs/2606.09539v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Soban Nasir Lone, Mohamed Abouelela, Taeyoung Yu, Jiwon Kim, Constantinos Antoniou&lt;/p&gt;&lt;p&gt;Spatio-temporal graph neural networks (STGNNs) have become the dominant approach for traffic prediction, yet their computational requirements pose challenges for practical deployment in intelligent transportation systems (ITS). While recent work has proposed efficient alternatives to STGNNs, a fundamental question remains unexplored: are these architectures themselves over-parameterised? We examine this question using the Spatio-Temporal Graph Convolutional Network (STGCN), one of the most widely adopted models in this domain. Through systematic experiments across four diverse traffic datasets&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09539v1</guid>
+      <pubDate>Mon, 08 Jun 2026 14:23:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>CT-VAM: A Cerebello-Thalamic-Inspired Vision-Action Model for Efficient Visuomotor Control</title>
+      <link>http://arxiv.org/abs/2606.09572v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiacheng Li, Yize Guo, Jiabin Guo, Qingchen Liu, Jiahu Qin&lt;/p&gt;&lt;p&gt;Vision-language-action models have shown strong promise for robot manipulation, yet raw language is primarily needed to specify task intent rather than to be repeatedly processed during high-frequency low-level execution. Motivated by this separation, we propose a cerebello-thalamic-inspired vision-action model (CT-VAM) for efficient task-conditioned visuomotor control. CT-VAM acts as a compact local execution policy that predicts action chunks from dualview visual observations, proprioception, and a lightweight task condition, potentially enabling a practical cloud-edge paradigm in which high&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09572v1</guid>
+      <pubDate>Mon, 08 Jun 2026 14:46:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Next-Token Prediction Learns Generalisable Representations of Sleep Physiology</title>
+      <link>http://arxiv.org/abs/2606.09605v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jonathan F. Carter, Lionel Tarassenko&lt;/p&gt;&lt;p&gt;Foundation models offer a promising route to compress multi-modal physiological signals into compact representations of human health, with broad applications across sleep medicine, cardiology, neurology and other healthcare domains. Existing models have typically been trained with masked-reconstruction or contrastive objectives. However, masked reconstruction may be poorly suited to the stochastic nature of these signals, while contrastive approaches rely on positive-pair definitions despite the semantic invariances of physiological signals being poorly understood&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09605v1</guid>
+      <pubDate>Mon, 08 Jun 2026 15:13:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>ATN3D: Density-Aware LiDAR-Radar Early 3D Object Detection Under Extreme Sparsity</title>
+      <link>http://arxiv.org/abs/2606.09634v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Debojyoti Biswas, Xianbiao Hu&lt;/p&gt;&lt;p&gt;3D object detection is the backbone of perception for automated vehicles (AV) and broader intelligent transportation systems applications. Long-range detection is challenging because sensing evidence is sparse; yet this ``long-range'' scenario is routine in traffic. Although &gt;30m is often labeled long-range in computer vision, on roadways it affords only approx&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09634v1</guid>
+      <pubDate>Mon, 08 Jun 2026 15:32:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do Video Foundation Models Understand Intuitive Physics? A Layerwise Probing Analysis</title>
+      <link>http://arxiv.org/abs/2606.09646v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Samuele Punzo, Niccolò Caselli, Ippokratis Pantelidis, Francesco Massafra, Salvatore Lo Sardo, Mohammadreza Salehi&lt;/p&gt;&lt;p&gt;We study whether pretrained video foundation models encode intuitive-physics information in their frozen representations, and how this information varies across model families, layers, and probe types. Using frozen-feature probing on IntPhys2 and Minimal Video Pairs (MVP), we compare predictive joint-embedding models (V-JEPA), masked reconstruction models (VideoMAE), and a diffusion-based video generator (LTX-Video). V-JEPA achieves the strongest overall results across benchmarks, especially with probes that model temporal dynamics, while VideoMAE remains competitive and LTX-Video recovers wea&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09646v1</guid>
+      <pubDate>Mon, 08 Jun 2026 15:40:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transition-Based Digital Twin Modelling for Alzheimer's Disease under Sparse Longitudinal Data</title>
+      <link>http://arxiv.org/abs/2606.09671v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yinyu Huang, Yilin Zhang, Sofia Michopoulou, Christopher Kipps, Rahman Attar&lt;/p&gt;&lt;p&gt;Alzheimer's disease (AD) progression is highly heterogeneous and is typically observed through sparse and irregular longitudinal data, posing challenges for prediction and personalised monitoring. Existing machine learning approaches have improved AD prediction using multimodal data, yet often focus on static classification or cohort-level risk estimation, providing limited support for subject-specific modelling and uncertainty-aware reasoning. To address these limitations, we present a personalised digital twin framework for AD prediction and scenario-based analysis using multimodal longitudi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09671v1</guid>
+      <pubDate>Mon, 08 Jun 2026 15:54:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero Touch Predictive Orchestration: Automating Time-Series Models for the Cloud-Edge Continuum</title>
+      <link>http://arxiv.org/abs/2606.09787v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abd Elghani Meliani, Arora Sagar, Adlen Ksentini, Raymond Knopp&lt;/p&gt;&lt;p&gt;The Cloud-Edge Continuum (CEC) enables latency-critical applications by distributing resources to the far edge, but its extreme volatility makes proactive Zero Touch Management via time-series forecasting essential. However, orchestrators face a severe "cold start" problem: newly discovered nodes lack the historical data required to train localized predictive models, while generalized models fail to capture unique hardware and microservice behaviors. To solve this, we propose a fully automated time-series prediction architecture driven by a novel data-mixing methodology&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09787v1</guid>
+      <pubDate>Mon, 08 Jun 2026 17:43:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing</title>
+      <link>http://arxiv.org/abs/2606.09811v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jisong Cai, Long Ling, Shiwei Chu, Zhongshan Liu, Jiayue Kang, Zhixuan Liang, Wenjie Xu, Yinan Mao&lt;/p&gt;&lt;p&gt;World-action models have emerged as a promising paradigm for robot manipulation, jointly modeling visual scene dynamics and actions to inject physical priors into policy learning. However, existing world-action models couple world prediction and action execution at the same temporal resolution, forcing the world branch to model near-term frame variations that are redundant and weakly informative. We posit that strictly binding world prediction and action execution to the same temporal rhythm may underutilize the potential of the video branch for embodied control&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09811v1</guid>
+      <pubDate>Mon, 08 Jun 2026 17:55:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws</title>
+      <link>http://arxiv.org/abs/2606.09816v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Danqi Zhuang, Jisui Huang, Xiaoyue Xi, Andrew Kiggins, Xiaojie Wang, Ke Chen, Yue Wu&lt;/p&gt;&lt;p&gt;Standard diffusion models typically use a single time-homogeneous Gaussian terminal distribution as the reference law for generation. While this choice is analytically convenient and empirically powerful, it provides little explicit structure for data concentrated near low-dimensional manifolds, where different regions of the data distribution may correspond to distinct local geometric or semantic factors. As a result, the reverse model must recover manifold-level structure almost entirely from an unstructured terminal reference distribution&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.09816v1</guid>
+      <pubDate>Mon, 08 Jun 2026 17:56:16 +0000</pubDate>
+    </item>
   </channel>
 </rss>
