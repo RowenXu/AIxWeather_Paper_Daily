@@ -7,83 +7,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 10 Jun 2026 06:25:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 03:12:13 +0000</lastBuildDate>
     <item>
-      <title>Accelerating NeurASP with vectorization and caching</title>
-      <link>http://arxiv.org/abs/2606.10787v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexander Philipp Rader, Alessandra Russo&lt;/p&gt;&lt;p&gt;Neurosymbolic AI combines neural networks with symbolic programs to create robust and explainable predictions. One such framework is NeurASP, which trains a neural network to predict concepts and reasons over them using rules written in answer set programming (ASP) to solve downstream tasks. Crucially, labels are only provided for the downstream prediction produced by the symbolic rules, not for the latent concepts themselves.Backpropagation through the non-differentiable ASP component requires expensive probability and gradient calculations, which has hindered scalability to more sophisticate&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.10787v1</guid>
-      <pubDate>Tue, 09 Jun 2026 12:37:43 +0000</pubDate>
+      <title>From Persistence to Survival: Hypothesis Testing, Effect Sizes and Vectorisation for Topological Features</title>
+      <link>http://arxiv.org/abs/2606.11911v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Juliette Murris, Bernadette Stolz, Karsten Borgwardt&lt;/p&gt;&lt;p&gt;Persistence diagrams are common representations in topological data analysis, but they do not naturally live in a vector space, and the statistical tools developed for comparing them have largely evolved separately from those used for downstream prediction. We introduce STRAND (Survival Topological Representation ANalysis of Diagrams), which treats (collections of) PDs as survival data: each topological feature with persistence value $p = d - b$ is a fully observed time-to-event, and the persistence survival function $S(t) = \mathbb{P}(p &gt; t)$ is the central object for comparing diagrams. From&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.11911v1</guid>
+      <pubDate>Wed, 10 Jun 2026 10:41:44 +0000</pubDate>
     </item>
     <item>
-      <title>CITRAS-FM: Tiny Time Series Foundation Model for Covariate-Informed Zero-Shot Forecasting</title>
-      <link>http://arxiv.org/abs/2606.10798v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yosuke Yamaguchi, Issei Suemitsu, Yuki Kajihara, Wenpeng Wei&lt;/p&gt;&lt;p&gt;Pretrained time series foundation models (TSFMs) have enabled zero-shot forecasting on unseen target series. However, existing TSFMs often incur high computational cost and provide limited support for diverse variable types, often failing to account for covariates that exogenously influence target variability. To address these challenges, we propose CITRAS-FM, a tiny 7M-parameter TSFM that supports univariate, multivariate, and covariate-informed zero-shot forecasting with real-time CPU inference&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.10798v1</guid>
-      <pubDate>Tue, 09 Jun 2026 12:46:15 +0000</pubDate>
+      <title>Online Shift Detection and Conformal Adaptation for Deployed Safety Classifiers</title>
+      <link>http://arxiv.org/abs/2606.11949v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jun Wen Leong&lt;/p&gt;&lt;p&gt;We present an online monitoring system for distributional shift in deployed safety classifiers, using calibrated sequential statistics to detect when a classifier has moved out of distribution. Upon detection, a conformal abstention layer adapts decision thresholds to recover a target error rate epsilon=0.1. In a pre-registered factorial evaluation (4 classifiers x 5 shift conditions x 20 seeds x 2 window sizes, 800 cells), the system achieves 86.6% valid detection (693/800, 95% CI [84.1%, 88.8%]) with mean latency of 39.5 steps&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.11949v1</guid>
+      <pubDate>Wed, 10 Jun 2026 11:24:25 +0000</pubDate>
     </item>
     <item>
-      <title>K-Forcing: Joint Next-K-Token Decoding via Push-Forward Language Modeling</title>
-      <link>http://arxiv.org/abs/2606.10820v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhiwei Tang, Yuanyu He, Yizheng Han, Wangbo Zhao, Jiasheng Tang, Fan Wang, Bohan Zhuang&lt;/p&gt;&lt;p&gt;Autoregressive (AR) language modeling is the dominant paradigm for text generation, yet its sequential token-by-token decoding makes inference memory-bound and inefficient. Existing acceleration approaches, such as speculative decoding and diffusion language models, can yield speedups under certain conditions but do not directly address high-load batch serving--the scenario most critical for industrial-scale deployment. We introduce K-Forcing, a push-forward language modeling paradigm for joint next-k-token decoding&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.10820v1</guid>
-      <pubDate>Tue, 09 Jun 2026 13:02:00 +0000</pubDate>
+      <title>Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation</title>
+      <link>http://arxiv.org/abs/2606.11990v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Amir El-Ghoussani, Michele De Vita, Ronald Naumann, Valiseios Belagiannis&lt;/p&gt;&lt;p&gt;Remaining Useful Life (RUL) prediction is essential for industrial predictive maintenance, yet many learning-based approaches rely on extensive feature engineering or large labeled datasets to train task-specific sequence models. In this work, we introduce a lightweight learning approach, in which we leverage a frozen pretrained time-series foundation model (TSFM) and combine it with a small regression head for RUL estimation from multivariate sensor streams. More specifically, we use Chronos-2 as a frozen backbone to extract context window features and train a lightweight regression neural ne&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.11990v1</guid>
+      <pubDate>Wed, 10 Jun 2026 12:14:16 +0000</pubDate>
     </item>
     <item>
-      <title>Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models</title>
-      <link>http://arxiv.org/abs/2606.10829v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yusuf Sahin, Ahmed Rockey Saikia, Volkan Cevher, Paolo Favaro&lt;/p&gt;&lt;p&gt;Masked diffusion language models can reduce inference steps by revealing multiple tokens per denoising iteration, but this parallelism is fragile: positions that are individually confident may be unsafe to commit together when their predictions are coupled. Existing training-free samplers such as Top-\(k\), Fast-dLLM, and EB-Sampler mainly control how many tokens to reveal, while often ranking candidates by token-wise scores that ignore interactions within the selected set. We propose ADAS, a training-free reranking rule for parallel masked diffusion decoding&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.10829v1</guid>
-      <pubDate>Tue, 09 Jun 2026 13:17:27 +0000</pubDate>
+      <title>Tabular Foundation Models for Clinical Survival Analysis via Survival-Aware Adaptation</title>
+      <link>http://arxiv.org/abs/2606.12006v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Minh-Khoi Pham, Luca Cotugno, Alina Sirbu, Tai Tan Mai, Martin Crane, Marija Bezbradica&lt;/p&gt;&lt;p&gt;Predicting time-to-event outcomes such as mortality is a fundamental task in clinical decision-making, commonly addressed through survival analysis. While classical statistical and deep learning approaches have been widely studied, they typically require task-specific training and sufficient labeled data. Recent advances in tabular foundation models offer a new paradigm by learning general-purpose representations for structured data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.12006v1</guid>
+      <pubDate>Wed, 10 Jun 2026 12:28:40 +0000</pubDate>
     </item>
     <item>
-      <title>When Do Autoregressive Sequence Models Forecast Physical Wavefields? A Controlled Study on Synthetic Seismograms</title>
-      <link>http://arxiv.org/abs/2606.10868v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Waleed Esmail, Stuart Russell, Jana Klinge, Alexander Kappes, Christine Thomas&lt;/p&gt;&lt;p&gt;Long-horizon autoregressive forecasting of oscillatory physical signals, such as seismograms, gravitational-wave strain, and similar wavefields is limited by error accumulation: as a causal model is fed its own outputs over hundreds of steps, small per-step errors compound into phase drift that pointwise metrics fail to detect. We ask when such rollout stays stable, using synthetic three-component seismograms as a physically structured testbed and the \textsc{SeismoGPT} autoregressive forecaster as the model under study. Through controlled, intra-architecture ablations evaluated on free-runnin&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.10868v1</guid>
-      <pubDate>Tue, 09 Jun 2026 13:46:14 +0000</pubDate>
+      <title>Metadata-Aware Multi-Prompt Reasoning for Zero-Shot Accident Understanding</title>
+      <link>http://arxiv.org/abs/2606.12047v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tarandeep Singh, Soumyanetra Pal, Soham Biswas, Nishanth Chandran&lt;/p&gt;&lt;p&gt;In this paper, we address the problem of zero-shot understanding of accidents from surveillance videos by identifying when an impact event occurs, what type of impact it is, and where in the frame it occurs using natural language. We propose a three-stage pipeline that decomposes the accident understanding into when, what, and where. The first stage extracts a short temporal window around the impact using vision-language similarity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.12047v1</guid>
+      <pubDate>Wed, 10 Jun 2026 13:12:40 +0000</pubDate>
     </item>
     <item>
-      <title>Data-Driven Runway and Taxiway Exits Prediction of Landing Aircraft: A Case Study at Hartsfield-Jackson Atlanta International Airport</title>
-      <link>http://arxiv.org/abs/2606.11017v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alex Porcayo, Yutian Pang, Maria Thomas, John-Paul Clarke&lt;/p&gt;&lt;p&gt;Airport surface operations increasingly constrain performance at high-throughput hubs. This study examines arrival taxi-in decisions at Hartsfield-Jackson Atlanta International Airport (KATL) and proposes a two-stage, data-driven decision aid that mirrors controller workflow. Stage I predicts the runway exit selected by an arriving aircraft&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.11017v1</guid>
-      <pubDate>Tue, 09 Jun 2026 15:55:55 +0000</pubDate>
+      <title>Reliable Error Estimation for PINNs: Lower and Upper A Posteriori Bounds</title>
+      <link>http://arxiv.org/abs/2606.12050v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ismail Huseynov, Arzu Ahmadova, Agamirza Bashirov&lt;/p&gt;&lt;p&gt;Physics-informed neural networks (PINNs) combine machine learning with physical laws to solve differential equations. While existing results provide rigorous \emph{a posteriori} upper bounds for PINN prediction errors, complete certification also requires complementary lower information in order to obtain computable two-sided error enclosures. In this paper, we derive computable \emph{a posteriori} lower bounds for PINN errors in ordinary differential equations on suitable certified state-space domains under a localized strong monotonicity condition&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.12050v1</guid>
+      <pubDate>Wed, 10 Jun 2026 13:15:32 +0000</pubDate>
     </item>
     <item>
-      <title>Flexible Kernels for Protein Property Prediction</title>
-      <link>http://arxiv.org/abs/2606.11057v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Martin Jankowiak, Yerdos Ordabayev, Rudraksh Tuwani, Henry N. Ward, Hunter Nisonoff, James M. McFarland, Gevorg Grigoryan&lt;/p&gt;&lt;p&gt;Despite its importance to applications in protein design, predicting protein properties like binding affinity and thermostability from sparse experimental data remains a significant challenge. Accordingly, we introduce a class of sequence kernels that exploit evolutionary substitution matrices as well as local linearity and demonstrate that the resulting Gaussian processes provide data-efficient models of protein property landscapes, frequently outperforming alternatives that rely on foundation model embeddings. Furthermore--by learning what are in effect structure-aware substitution matrices-&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.11057v1</guid>
-      <pubDate>Tue, 09 Jun 2026 16:20:36 +0000</pubDate>
+      <title>Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders</title>
+      <link>http://arxiv.org/abs/2606.12138v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gleb Gerasimov, Timofei Rusalev, Nikita Balagansky, Daniil Laptev, Vadim Kurochkin, Daniil Gavrilov&lt;/p&gt;&lt;p&gt;Sparse autoencoders (SAEs) are widely used to interpret neural network representations, but their utility depends on whether the learned features are reproducible across training runs. We study this question through \emph{feature stability}: for each SAE feature, we estimate the probability that a similar feature reappears in an independently trained SAE. This yields a scalable per-feature signal that separates stable from unstable features&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.12138v1</guid>
+      <pubDate>Wed, 10 Jun 2026 14:32:57 +0000</pubDate>
     </item>
     <item>
-      <title>First-Order Trajectory Matching: Fast Ensemble Predictions of Chaotic, Turbulent, Stochastic Systems</title>
-      <link>http://arxiv.org/abs/2606.11138v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shreya Jha, Timo Schorlepp, Nicholas Geissler, Jules Berman, Benjamin Peherstorfer&lt;/p&gt;&lt;p&gt;We introduce First-Order Trajectory Matching (FTM), a surrogate-modeling method that learns the first-order local transport of probability mass from trajectories of stochastic systems. By matching the symmetric first-order motion of trajectories, FTM learns the probability current velocity, whose flow preserves time marginals to match ensemble averages, while also capturing current-like trajectory quantities such as fluxes, circulations, and barrier-crossing currents. FTM learns the current velocity directly from trajectories, avoiding drift, diffusion, and score estimation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.11138v1</guid>
-      <pubDate>Tue, 09 Jun 2026 17:29:05 +0000</pubDate>
+      <title>PCA-Enhanced Adaptive NVAR Framework for High-Resolution Sea Surface Temperature Forecasting in the East Sea</title>
+      <link>http://arxiv.org/abs/2606.12141v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sherkhon Azimov, Susana López-Moreno, Eric Dolores-Cuenca, JinYong Choi, Sangil Kim&lt;/p&gt;&lt;p&gt;Accurate forecasting of sea surface temperature (SST) in regional seas such as the East Sea is crucial for monitoring marine ecosystems, assessing climate risks, managing fisheries, and conducting naval operations. Traditional numerical ocean models provide reliable predictions but are computationally expensive and often unsuitable for real-time forecasting. Many deep learning methods also struggle with high-dimensional spatiotemporal ocean data and experience error accumulation over longer forecasting periods&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.12141v1</guid>
+      <pubDate>Wed, 10 Jun 2026 14:34:13 +0000</pubDate>
     </item>
     <item>
-      <title>Data assimilation for subsurface flow using latent diffusion model parameterization: performance of ensemble-Kalman and Monte Carlo techniques</title>
-      <link>http://arxiv.org/abs/2606.11140v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guido Di Federico, Wenchao Teng, Louis J. Durlofsky&lt;/p&gt;&lt;p&gt;Data assimilation (DA) in subsurface flow entails calibrating model parameters to match observed data, typically at wells, while preserving geological realism. Latent diffusion models (LDMs) provide efficient mappings from high-dimensional geological model space to a low-dimensional latent variable, reducing the dimensionality of the inverse problem while maintaining plausibility in posterior geomodels. However, the high nonlinearity in the LDM mapping may degrade the performance of Kalman-gain-based ensemble updates&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.11140v1</guid>
-      <pubDate>Tue, 09 Jun 2026 17:29:47 +0000</pubDate>
+      <title>The TEAMx Observational Campaign</title>
+      <link>http://arxiv.org/abs/2606.12152v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Manuela Lehner, Claudia Acquistapace, Marco Arpagaus, Timothy P. Banyard, Francesco Barbano, Kathrin Baumann-Stanzer, Christophe Brun, Warren R. L. Cairns&lt;/p&gt;&lt;p&gt;As part of the international research programme TEAMx (multi-scale transport and exchange processes in the atmosphere over mountains - programme and experiment) a one-year long measurement campaign, the TEAMx Observational Campaign (TOC), was conducted between 2024 and 2025 in a north-south transect through the Alps. Building on the dense operational measurement network in the Alps, the TOC was designed to collect long-term atmospheric observations over the highly complex Alpine terrain. During two six-week long Extended Observational Periods, more than 40 research institutions came together t&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.12152v1</guid>
+      <pubDate>Wed, 10 Jun 2026 14:40:52 +0000</pubDate>
     </item>
     <item>
-      <title>OncoTraj: a public benchmark for longitudinal resistance prediction in EGFR-mutant non-small-cell lung cancer on osimertinib</title>
-      <link>http://arxiv.org/abs/2606.11144v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abhijoy Sarkar, Aarchi Singh Thakur&lt;/p&gt;&lt;p&gt;Resistance to first-line osimertinib in EGFR-mutant non-small-cell lung cancer (NSCLC) is the canonical example of predictable clonal evolution under therapeutic pressure, yet no public benchmark exists for training or evaluating computational models on the corresponding longitudinal patient trajectories. We introduce OncoTraj, a public benchmark of 813 EGFR-mutant NSCLC patients receiving first-line osimertinib, harmonized from three real-world clinical-genomic sources: MSK-CHORD (672 patients), AACR Project GENIE BPC NSCLC (34 patients), and the FLAURA molecular-resistance supplement (107 pa&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.11144v1</guid>
-      <pubDate>Tue, 09 Jun 2026 17:33:24 +0000</pubDate>
+      <title>Beyond Dark Knowledge: Mixup-Based Distillation for Reliable Predictions</title>
+      <link>http://arxiv.org/abs/2606.12171v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; José Medina, Paul Honeine, Abdelaziz Bensrhair, Amnir Hadachi&lt;/p&gt;&lt;p&gt;Knowledge Distillation (KD) and mixup have proven effective at inducing smoothness in class boundaries; KD captures inherent class relationships in probability distributions, and mixup enforces them through convex combinations of inputs. Their interaction, however, remains poorly understood, particularly when mixup is applied only during student training. In this setting, the teacher is queried on inputs drawn from a vicinal distribution it never saw during training, a controlled mismatch whose effect on knowledge transfer has not been characterised&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.12171v1</guid>
+      <pubDate>Wed, 10 Jun 2026 14:59:26 +0000</pubDate>
     </item>
     <item>
-      <title>COGENT: Continuous Graph Emulators with Neural Ordinary Differential Equations for Long-Term Physical Forecasting</title>
-      <link>http://arxiv.org/abs/2606.11162v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zesheng Liu, Maryam Rahnemoonfar&lt;/p&gt;&lt;p&gt;In this work, we present COGENT, a continuous graph emulator with Neural Ordinary Differential Equations for long-term physical forecasting on irregular geospatial meshes. COGENT encodes a finite history of system states and associated forcing fields and external forcings with a graph-based history encoder, producing node-wise context vectors that capture both local spatial interactions and temporal evolution. These context vectors initialize and condition a latent Neural Ordinary Differential Equation whose dynamics are driven by interpolated future forcings and explicit relative rollout time&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.11162v1</guid>
-      <pubDate>Tue, 09 Jun 2026 17:43:30 +0000</pubDate>
+      <title>Multi-Rate Mixture of Experts for Accelerating Liquid Neural Network Training</title>
+      <link>http://arxiv.org/abs/2606.12240v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shilong Zong, Almuatazbellah Boker, Hoda Eldardiry&lt;/p&gt;&lt;p&gt;Multivariate time-series data often exhibit complex temporal dependencies, irregular sampling, and heterogeneous dynamics across multiple time scales, making accurate sequence modeling particularly challenging. Traditional recurrent neural networks (RNNs), such as Long Short-Term Memory (LSTM) networks, operate in discrete time and may struggle to effectively capture continuous and irregular temporal behaviors. Liquid Neural Networks (LNNs) address some of these limitations through continuous-time dynamics, but standard LNN architectures typically rely on a single dynamical system, limiting th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.12240v1</guid>
+      <pubDate>Wed, 10 Jun 2026 15:43:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using Explainability as a Training-Time Reliability Signal for Efficient ECG Classification</title>
+      <link>http://arxiv.org/abs/2606.12252v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Veerendhra Kumar Dangeti, Xiao Gu, Ying Weng, Shreyank N Gowda&lt;/p&gt;&lt;p&gt;Training deep neural networks for clinical time-series analysis is computationally demanding, yet many healthcare settings lack the resources required for repeated model development and deployment. This challenge is particularly evident in electrocardiogram classification, where large datasets and long training schedules make efficiency practically important. Progressive Data Dropout reduces training cost by excluding samples from gradient updates once they are learned, but it relies on model confidence and may retain samples that are difficult due to noise or ambiguity rather than useful sign&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.12252v1</guid>
+      <pubDate>Wed, 10 Jun 2026 15:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atlas H&amp;E-TME: Scalable AI-Based Tissue Profiling at Expert Pathologist-Level Accuracy</title>
+      <link>http://arxiv.org/abs/2606.12346v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kai Standvoss, Miriam Hägele, Rosemarie Krupar, Julika Ribbat-Idel, Jennifer Altschüler, Gerrit Erdmann, Hans Pinckaers, Evelyn Ramberger&lt;/p&gt;&lt;p&gt;Hematoxylin and eosin (H&amp;E) staining is the cornerstone of histopathology, yet scalable, quantitative analysis of H&amp;E whole-slide images (WSIs) remains a central challenge in computational pathology. We present Atlas H&amp;E-TME, an AI-based system built on the Atlas family of pathology foundation models that predicts tissue quality, tissue region, and cell type labels across multiple cancer types, yielding over 4,500 quantitative readouts per slide at cell-level resolution. A key challenge to validating such systems is overcoming morphological ambiguity inherent to H&amp;E-only ground truth and the l&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.12346v1</guid>
+      <pubDate>Wed, 10 Jun 2026 17:17:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
