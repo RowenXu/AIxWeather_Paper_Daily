@@ -7,97 +7,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 11 Jun 2026 03:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 03:16:03 +0000</lastBuildDate>
     <item>
-      <title>From Persistence to Survival: Hypothesis Testing, Effect Sizes and Vectorisation for Topological Features</title>
-      <link>http://arxiv.org/abs/2606.11911v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Juliette Murris, Bernadette Stolz, Karsten Borgwardt&lt;/p&gt;&lt;p&gt;Persistence diagrams are common representations in topological data analysis, but they do not naturally live in a vector space, and the statistical tools developed for comparing them have largely evolved separately from those used for downstream prediction. We introduce STRAND (Survival Topological Representation ANalysis of Diagrams), which treats (collections of) PDs as survival data: each topological feature with persistence value $p = d - b$ is a fully observed time-to-event, and the persistence survival function $S(t) = \mathbb{P}(p &gt; t)$ is the central object for comparing diagrams. From&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.11911v1</guid>
-      <pubDate>Wed, 10 Jun 2026 10:41:44 +0000</pubDate>
+      <title>ReSET: Accurate Latency-Critical NVFP4 Reasoning via Step-Aware Temperature Scaling</title>
+      <link>http://arxiv.org/abs/2606.13233v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sihwa Lee, Janghwan Lee, Donghoon Yoo, Jae Gon Kim, Hanyul Ryu, Soojung Ryu, Jungwook Choi&lt;/p&gt;&lt;p&gt;Large reasoning models (LRMs) improve complex problem-solving by generating long intermediate reasoning traces, but this substantially increases inference costs. NVFP4 inference offers a promising approach to reduce both computational and memory costs through hardware-supported low-precision execution. However, directly applying NVFP4 to LRMs introduces two practical limitations: reasoning accuracy degrades under quantization, and existing NVFP4 kernels do not fully realize latency benefits in small-batch autoregressive decoding&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.13233v1</guid>
+      <pubDate>Thu, 11 Jun 2026 11:47:40 +0000</pubDate>
     </item>
     <item>
-      <title>Online Shift Detection and Conformal Adaptation for Deployed Safety Classifiers</title>
-      <link>http://arxiv.org/abs/2606.11949v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jun Wen Leong&lt;/p&gt;&lt;p&gt;We present an online monitoring system for distributional shift in deployed safety classifiers, using calibrated sequential statistics to detect when a classifier has moved out of distribution. Upon detection, a conformal abstention layer adapts decision thresholds to recover a target error rate epsilon=0.1. In a pre-registered factorial evaluation (4 classifiers x 5 shift conditions x 20 seeds x 2 window sizes, 800 cells), the system achieves 86.6% valid detection (693/800, 95% CI [84.1%, 88.8%]) with mean latency of 39.5 steps&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.11949v1</guid>
-      <pubDate>Wed, 10 Jun 2026 11:24:25 +0000</pubDate>
+      <title>Towards imaging Earth's large-scale structures by directional geoneutrino detection with Ocean Bottom Detector</title>
+      <link>http://arxiv.org/abs/2606.13273v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhihao Xu, Takumi Araki, Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya&lt;/p&gt;&lt;p&gt;Geoneutrinos, electron antineutrinos produced by radioactive decays of heat-producing elements (HPEs) within the Earth, provide unique insights into Earth's interior and heat budget since their first detection in 2005 by KamLAND. Conventional geoneutrino detectors currently provide integrated global information and lack the capability to spatially resolve structures deep within the Earth. Here, we evaluate the ability of angular-sensitive geoneutrino detectors to distinguish between homogeneous and heterogeneous mantle models, focusing on Large Low Shear Velocity Provinces (LLSVPs)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.13273v1</guid>
+      <pubDate>Thu, 11 Jun 2026 12:25:48 +0000</pubDate>
     </item>
     <item>
-      <title>Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation</title>
-      <link>http://arxiv.org/abs/2606.11990v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Amir El-Ghoussani, Michele De Vita, Ronald Naumann, Valiseios Belagiannis&lt;/p&gt;&lt;p&gt;Remaining Useful Life (RUL) prediction is essential for industrial predictive maintenance, yet many learning-based approaches rely on extensive feature engineering or large labeled datasets to train task-specific sequence models. In this work, we introduce a lightweight learning approach, in which we leverage a frozen pretrained time-series foundation model (TSFM) and combine it with a small regression head for RUL estimation from multivariate sensor streams. More specifically, we use Chronos-2 as a frozen backbone to extract context window features and train a lightweight regression neural ne&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.11990v1</guid>
-      <pubDate>Wed, 10 Jun 2026 12:14:16 +0000</pubDate>
+      <title>Once-for-All: Scalable Simultaneous Forecasting via Equilibrium State Estimation</title>
+      <link>http://arxiv.org/abs/2606.13285v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Beinan Xu, Andy Song, Jiti Gao, Feng Liu&lt;/p&gt;&lt;p&gt;We introduce Equilibrium State Estimation (ESE), a novel paradigm for simultaneous prediction, where multiple interacting systems require separate yet coordinated forecasts. Such scenarios often arise in real-world settings such as economics and healthcare modeling. Unlike existing approaches that predict one system at a time, ESE forecasts all systems in a single pass&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.13285v1</guid>
+      <pubDate>Thu, 11 Jun 2026 12:42:39 +0000</pubDate>
     </item>
     <item>
-      <title>Tabular Foundation Models for Clinical Survival Analysis via Survival-Aware Adaptation</title>
-      <link>http://arxiv.org/abs/2606.12006v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Minh-Khoi Pham, Luca Cotugno, Alina Sirbu, Tai Tan Mai, Martin Crane, Marija Bezbradica&lt;/p&gt;&lt;p&gt;Predicting time-to-event outcomes such as mortality is a fundamental task in clinical decision-making, commonly addressed through survival analysis. While classical statistical and deep learning approaches have been widely studied, they typically require task-specific training and sufficient labeled data. Recent advances in tabular foundation models offer a new paradigm by learning general-purpose representations for structured data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.12006v1</guid>
-      <pubDate>Wed, 10 Jun 2026 12:28:40 +0000</pubDate>
+      <title>Physics-Guided Spatiotemporal Learning for Coastal Wave Peak Period Estimation from Video</title>
+      <link>http://arxiv.org/abs/2606.13302v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abubakar Hamisu Kamagata, Dharm Singh Jat, Attlee Munyaradzi Gamundani, Abhishek Srivastava, Paramasivam Saravanakumar&lt;/p&gt;&lt;p&gt;Wave parameters in the nearshore are crucial for coastal engineering, shoreline protection, marine hazard assessment, and coastal management for climate resilience. Traditional monitoring systems like buoys and radar platforms offer accurate monitoring but can have high installation and maintenance expenses and limited spatial coverage. Passive ocean monitoring using video has been achieved by leveraging deep learning, however, many methods are not physically interpretable, feasible, and validated for oceanography&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.13302v1</guid>
+      <pubDate>Thu, 11 Jun 2026 12:54:35 +0000</pubDate>
     </item>
     <item>
-      <title>Metadata-Aware Multi-Prompt Reasoning for Zero-Shot Accident Understanding</title>
-      <link>http://arxiv.org/abs/2606.12047v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tarandeep Singh, Soumyanetra Pal, Soham Biswas, Nishanth Chandran&lt;/p&gt;&lt;p&gt;In this paper, we address the problem of zero-shot understanding of accidents from surveillance videos by identifying when an impact event occurs, what type of impact it is, and where in the frame it occurs using natural language. We propose a three-stage pipeline that decomposes the accident understanding into when, what, and where. The first stage extracts a short temporal window around the impact using vision-language similarity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.12047v1</guid>
-      <pubDate>Wed, 10 Jun 2026 13:12:40 +0000</pubDate>
+      <title>VideoMDM: Towards 3D Human Motion Generation From 2D Supervision</title>
+      <link>http://arxiv.org/abs/2606.13364v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Amir Mann, Gal Michael Harari, Merav Keidar, Or Litany&lt;/p&gt;&lt;p&gt;We introduce VideoMDM, a diffusion-based framework that trains 3D human motion priors directly from accurate 2D poses extracted from monocular videos, without any 3D ground truth. A pretrained 2D-to-3D lifter provides approximate 3D pose sequences that serve as a noisy teacher: these are diffused, denoised by the model in 3D, and supervised in 2D by reprojecting the prediction and comparing against accurate keypoints. We show that, under mild assumptions, a depth-weighted 2D reprojection loss is equivalent in expectation to direct 3D supervision, and we adapt standard 3D motion regularizers - &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.13364v1</guid>
+      <pubDate>Thu, 11 Jun 2026 13:49:23 +0000</pubDate>
     </item>
     <item>
-      <title>Reliable Error Estimation for PINNs: Lower and Upper A Posteriori Bounds</title>
-      <link>http://arxiv.org/abs/2606.12050v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ismail Huseynov, Arzu Ahmadova, Agamirza Bashirov&lt;/p&gt;&lt;p&gt;Physics-informed neural networks (PINNs) combine machine learning with physical laws to solve differential equations. While existing results provide rigorous \emph{a posteriori} upper bounds for PINN prediction errors, complete certification also requires complementary lower information in order to obtain computable two-sided error enclosures. In this paper, we derive computable \emph{a posteriori} lower bounds for PINN errors in ordinary differential equations on suitable certified state-space domains under a localized strong monotonicity condition&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.12050v1</guid>
-      <pubDate>Wed, 10 Jun 2026 13:15:32 +0000</pubDate>
+      <title>Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos</title>
+      <link>http://arxiv.org/abs/2606.13422v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Maida Wang, Xiao Xue, Minh Chung, Peter V. Coveney&lt;/p&gt;&lt;p&gt;We develop theoretical foundations for a practical quantum-advantage mechanism in quantum-informed machine learning for chaotic dynamical systems. A family of k-indexed higher-order quantum statistical priors (Q-Priors) hosts the k-point marginal of the invariant measure on n_q = kq qubits, extending the single-site construction of prior work. We prove a two-stage advantage&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.13422v1</guid>
+      <pubDate>Thu, 11 Jun 2026 14:52:38 +0000</pubDate>
     </item>
     <item>
-      <title>Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders</title>
-      <link>http://arxiv.org/abs/2606.12138v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gleb Gerasimov, Timofei Rusalev, Nikita Balagansky, Daniil Laptev, Vadim Kurochkin, Daniil Gavrilov&lt;/p&gt;&lt;p&gt;Sparse autoencoders (SAEs) are widely used to interpret neural network representations, but their utility depends on whether the learned features are reproducible across training runs. We study this question through \emph{feature stability}: for each SAE feature, we estimate the probability that a similar feature reappears in an independently trained SAE. This yields a scalable per-feature signal that separates stable from unstable features&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.12138v1</guid>
-      <pubDate>Wed, 10 Jun 2026 14:32:57 +0000</pubDate>
+      <title>Uncertainty Estimation for Molecular Diffusion Models</title>
+      <link>http://arxiv.org/abs/2606.13451v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Paul Seij, Christian A. Naesseth, Stephan Mandt, Metod Jazbec&lt;/p&gt;&lt;p&gt;Diffusion models have seen wide adoption for 3D molecular generation, yet they offer no principled signal of when a generated molecule is likely to be of low quality. We propose a post-hoc method for estimating per-sample uncertainty in pretrained molecular diffusion models. Building on a Laplace approximation of the denoising network, we measure the variability of the noise prediction across the generation trajectory&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.13451v1</guid>
+      <pubDate>Thu, 11 Jun 2026 15:11:12 +0000</pubDate>
     </item>
     <item>
-      <title>PCA-Enhanced Adaptive NVAR Framework for High-Resolution Sea Surface Temperature Forecasting in the East Sea</title>
-      <link>http://arxiv.org/abs/2606.12141v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sherkhon Azimov, Susana López-Moreno, Eric Dolores-Cuenca, JinYong Choi, Sangil Kim&lt;/p&gt;&lt;p&gt;Accurate forecasting of sea surface temperature (SST) in regional seas such as the East Sea is crucial for monitoring marine ecosystems, assessing climate risks, managing fisheries, and conducting naval operations. Traditional numerical ocean models provide reliable predictions but are computationally expensive and often unsuitable for real-time forecasting. Many deep learning methods also struggle with high-dimensional spatiotemporal ocean data and experience error accumulation over longer forecasting periods&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.12141v1</guid>
-      <pubDate>Wed, 10 Jun 2026 14:34:13 +0000</pubDate>
+      <title>Rapid mixing for Gibbs measures in Riemannian manifolds</title>
+      <link>http://arxiv.org/abs/2606.13453v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ángela Capel, Marco Castrillón-López, Sofyan Iblisdir, Angelo Lucia, Pablo Páez-Velasco, David Pérez-García&lt;/p&gt;&lt;p&gt;Langevin dynamics on Riemannian manifolds is analyzed. Conditions ensuring the existence of a suitable logarithmic Sobolev inequality (rapid mixing to the Gibbs measure) are identified. These conditions involve the curvature of the manifold, the inverse temperature, escaping directions from saddle points, and exclude barren plateaus and spurious local minima&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.13453v1</guid>
+      <pubDate>Thu, 11 Jun 2026 15:11:54 +0000</pubDate>
     </item>
     <item>
-      <title>The TEAMx Observational Campaign</title>
-      <link>http://arxiv.org/abs/2606.12152v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Manuela Lehner, Claudia Acquistapace, Marco Arpagaus, Timothy P. Banyard, Francesco Barbano, Kathrin Baumann-Stanzer, Christophe Brun, Warren R. L. Cairns&lt;/p&gt;&lt;p&gt;As part of the international research programme TEAMx (multi-scale transport and exchange processes in the atmosphere over mountains - programme and experiment) a one-year long measurement campaign, the TEAMx Observational Campaign (TOC), was conducted between 2024 and 2025 in a north-south transect through the Alps. Building on the dense operational measurement network in the Alps, the TOC was designed to collect long-term atmospheric observations over the highly complex Alpine terrain. During two six-week long Extended Observational Periods, more than 40 research institutions came together t&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.12152v1</guid>
-      <pubDate>Wed, 10 Jun 2026 14:40:52 +0000</pubDate>
+      <title>CloudCons: A Comprehensive End-to-End Benchmark for Cloud Resource Consolidation</title>
+      <link>http://arxiv.org/abs/2606.13513v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaobin Zhang, Lefei Shen, Mouxiang Chen, Zhuo Li, Hongkai Li, Han Fu, Jianling Sun, Xiaoxue Ren&lt;/p&gt;&lt;p&gt;Driven by conservative over-provisioning to guarantee service reliability, resource utilization in cloud data centers remains at low levels. To mitigate this, the forecast-then-optimize paradigm has emerged to optimize consolidation by anticipating future demands. While emerging time series foundation models promise to enhance this paradigm through zero-shot generalization, existing benchmarks focus solely on prediction error metrics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.13513v1</guid>
+      <pubDate>Thu, 11 Jun 2026 16:00:51 +0000</pubDate>
     </item>
     <item>
-      <title>Beyond Dark Knowledge: Mixup-Based Distillation for Reliable Predictions</title>
-      <link>http://arxiv.org/abs/2606.12171v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; José Medina, Paul Honeine, Abdelaziz Bensrhair, Amnir Hadachi&lt;/p&gt;&lt;p&gt;Knowledge Distillation (KD) and mixup have proven effective at inducing smoothness in class boundaries; KD captures inherent class relationships in probability distributions, and mixup enforces them through convex combinations of inputs. Their interaction, however, remains poorly understood, particularly when mixup is applied only during student training. In this setting, the teacher is queried on inputs drawn from a vicinal distribution it never saw during training, a controlled mismatch whose effect on knowledge transfer has not been characterised&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.12171v1</guid>
-      <pubDate>Wed, 10 Jun 2026 14:59:26 +0000</pubDate>
+      <title>MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models</title>
+      <link>http://arxiv.org/abs/2606.13515v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hanyang Yu, Haitao Lin, Jingbo Zhang, Wenyao Zhang, Chenghao Gu, Heng Li, Ping Tan&lt;/p&gt;&lt;p&gt;World Action Models (WAMs) present a promising paradigm for robotic control via video prediction. However, current WAMs suffer from fundamental spatial bottlenecks: standard text inputs introduce referential ambiguity in cluttered scenes, while unstructured RGB predictions lack semantic grounding and remain biased by task-irrelevant backgrounds. To overcome these limitations, we introduce MaskWAM, an object-centric world-action model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.13515v1</guid>
+      <pubDate>Thu, 11 Jun 2026 16:02:42 +0000</pubDate>
     </item>
     <item>
-      <title>Multi-Rate Mixture of Experts for Accelerating Liquid Neural Network Training</title>
-      <link>http://arxiv.org/abs/2606.12240v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shilong Zong, Almuatazbellah Boker, Hoda Eldardiry&lt;/p&gt;&lt;p&gt;Multivariate time-series data often exhibit complex temporal dependencies, irregular sampling, and heterogeneous dynamics across multiple time scales, making accurate sequence modeling particularly challenging. Traditional recurrent neural networks (RNNs), such as Long Short-Term Memory (LSTM) networks, operate in discrete time and may struggle to effectively capture continuous and irregular temporal behaviors. Liquid Neural Networks (LNNs) address some of these limitations through continuous-time dynamics, but standard LNN architectures typically rely on a single dynamical system, limiting th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.12240v1</guid>
-      <pubDate>Wed, 10 Jun 2026 15:43:20 +0000</pubDate>
+      <title>Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting</title>
+      <link>http://arxiv.org/abs/2606.13571v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yifan Hu, Hongzhou Chen, Peiyuan Liu, Yiding Liu, Zewei Dong, Jiang-Ming Yang&lt;/p&gt;&lt;p&gt;Real-world time series are often highly incomplete and irregular due to sensor dormancy, transmission delays, and event-driven sampling, making reliable forecasting fundamentally challenging. Existing methods have evolved from impute-then-forecast pipelines to continuous-time models such as Neural ODEs and continuous-time graph networks. While these approaches improve the modeling of historical irregularity, they still rely on an implicit oracle assumption at inference time: the timestamps of future valid observations are presumed to be known in advance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.13571v1</guid>
+      <pubDate>Thu, 11 Jun 2026 16:59:42 +0000</pubDate>
     </item>
     <item>
-      <title>Using Explainability as a Training-Time Reliability Signal for Efficient ECG Classification</title>
-      <link>http://arxiv.org/abs/2606.12252v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Veerendhra Kumar Dangeti, Xiao Gu, Ying Weng, Shreyank N Gowda&lt;/p&gt;&lt;p&gt;Training deep neural networks for clinical time-series analysis is computationally demanding, yet many healthcare settings lack the resources required for repeated model development and deployment. This challenge is particularly evident in electrocardiogram classification, where large datasets and long training schedules make efficiency practically important. Progressive Data Dropout reduces training cost by excluding samples from gradient updates once they are learned, but it relies on model confidence and may retain samples that are difficult due to noise or ambiguity rather than useful sign&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.12252v1</guid>
-      <pubDate>Wed, 10 Jun 2026 15:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atlas H&amp;E-TME: Scalable AI-Based Tissue Profiling at Expert Pathologist-Level Accuracy</title>
-      <link>http://arxiv.org/abs/2606.12346v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kai Standvoss, Miriam Hägele, Rosemarie Krupar, Julika Ribbat-Idel, Jennifer Altschüler, Gerrit Erdmann, Hans Pinckaers, Evelyn Ramberger&lt;/p&gt;&lt;p&gt;Hematoxylin and eosin (H&amp;E) staining is the cornerstone of histopathology, yet scalable, quantitative analysis of H&amp;E whole-slide images (WSIs) remains a central challenge in computational pathology. We present Atlas H&amp;E-TME, an AI-based system built on the Atlas family of pathology foundation models that predicts tissue quality, tissue region, and cell type labels across multiple cancer types, yielding over 4,500 quantitative readouts per slide at cell-level resolution. A key challenge to validating such systems is overcoming morphological ambiguity inherent to H&amp;E-only ground truth and the l&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.12346v1</guid>
-      <pubDate>Wed, 10 Jun 2026 17:17:52 +0000</pubDate>
+      <title>Aerial Wildfire Suppression Planning with a Hybrid CNN-Cellular Automata Fire Model</title>
+      <link>http://arxiv.org/abs/2606.13633v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ion Matei, Maksym Zhenirovskyy, Takuya Kurihana, Rohit Vupala, Anthony Wong&lt;/p&gt;&lt;p&gt;Aerial wildfire suppression requires not only predicting fire spread, but also designing effective intervention strategies under operational and environmental uncertainty. We present a modeling and optimization framework for aerial wildfire suppression that combines a hybrid neural-cellular automaton wildfire model with gradient-based design of targeted aerial drops. The wildfire model predicts spatially varying spread behavior from terrain, fuel, and wind data, while the intervention module determines binary drop actions with continuous-valued location and orientation parameters mapped to the&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.13633v1</guid>
+      <pubDate>Thu, 11 Jun 2026 17:42:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
