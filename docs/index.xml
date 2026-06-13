@@ -7,63 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 12 Jun 2026 03:16:03 +0000</lastBuildDate>
-    <item>
-      <title>ReSET: Accurate Latency-Critical NVFP4 Reasoning via Step-Aware Temperature Scaling</title>
-      <link>http://arxiv.org/abs/2606.13233v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sihwa Lee, Janghwan Lee, Donghoon Yoo, Jae Gon Kim, Hanyul Ryu, Soojung Ryu, Jungwook Choi&lt;/p&gt;&lt;p&gt;Large reasoning models (LRMs) improve complex problem-solving by generating long intermediate reasoning traces, but this substantially increases inference costs. NVFP4 inference offers a promising approach to reduce both computational and memory costs through hardware-supported low-precision execution. However, directly applying NVFP4 to LRMs introduces two practical limitations: reasoning accuracy degrades under quantization, and existing NVFP4 kernels do not fully realize latency benefits in small-batch autoregressive decoding&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.13233v1</guid>
-      <pubDate>Thu, 11 Jun 2026 11:47:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Towards imaging Earth's large-scale structures by directional geoneutrino detection with Ocean Bottom Detector</title>
-      <link>http://arxiv.org/abs/2606.13273v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhihao Xu, Takumi Araki, Simran Chauhan, Brian C. Crow, Max A. A. Dornfest, Stephen T. Dye, John Graham, Misaki Hosoya&lt;/p&gt;&lt;p&gt;Geoneutrinos, electron antineutrinos produced by radioactive decays of heat-producing elements (HPEs) within the Earth, provide unique insights into Earth's interior and heat budget since their first detection in 2005 by KamLAND. Conventional geoneutrino detectors currently provide integrated global information and lack the capability to spatially resolve structures deep within the Earth. Here, we evaluate the ability of angular-sensitive geoneutrino detectors to distinguish between homogeneous and heterogeneous mantle models, focusing on Large Low Shear Velocity Provinces (LLSVPs)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.13273v1</guid>
-      <pubDate>Thu, 11 Jun 2026 12:25:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Once-for-All: Scalable Simultaneous Forecasting via Equilibrium State Estimation</title>
-      <link>http://arxiv.org/abs/2606.13285v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Beinan Xu, Andy Song, Jiti Gao, Feng Liu&lt;/p&gt;&lt;p&gt;We introduce Equilibrium State Estimation (ESE), a novel paradigm for simultaneous prediction, where multiple interacting systems require separate yet coordinated forecasts. Such scenarios often arise in real-world settings such as economics and healthcare modeling. Unlike existing approaches that predict one system at a time, ESE forecasts all systems in a single pass&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.13285v1</guid>
-      <pubDate>Thu, 11 Jun 2026 12:42:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Physics-Guided Spatiotemporal Learning for Coastal Wave Peak Period Estimation from Video</title>
-      <link>http://arxiv.org/abs/2606.13302v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abubakar Hamisu Kamagata, Dharm Singh Jat, Attlee Munyaradzi Gamundani, Abhishek Srivastava, Paramasivam Saravanakumar&lt;/p&gt;&lt;p&gt;Wave parameters in the nearshore are crucial for coastal engineering, shoreline protection, marine hazard assessment, and coastal management for climate resilience. Traditional monitoring systems like buoys and radar platforms offer accurate monitoring but can have high installation and maintenance expenses and limited spatial coverage. Passive ocean monitoring using video has been achieved by leveraging deep learning, however, many methods are not physically interpretable, feasible, and validated for oceanography&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.13302v1</guid>
-      <pubDate>Thu, 11 Jun 2026 12:54:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>VideoMDM: Towards 3D Human Motion Generation From 2D Supervision</title>
-      <link>http://arxiv.org/abs/2606.13364v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Amir Mann, Gal Michael Harari, Merav Keidar, Or Litany&lt;/p&gt;&lt;p&gt;We introduce VideoMDM, a diffusion-based framework that trains 3D human motion priors directly from accurate 2D poses extracted from monocular videos, without any 3D ground truth. A pretrained 2D-to-3D lifter provides approximate 3D pose sequences that serve as a noisy teacher: these are diffused, denoised by the model in 3D, and supervised in 2D by reprojecting the prediction and comparing against accurate keypoints. We show that, under mild assumptions, a depth-weighted 2D reprojection loss is equivalent in expectation to direct 3D supervision, and we adapt standard 3D motion regularizers - &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.13364v1</guid>
-      <pubDate>Thu, 11 Jun 2026 13:49:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos</title>
-      <link>http://arxiv.org/abs/2606.13422v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Maida Wang, Xiao Xue, Minh Chung, Peter V. Coveney&lt;/p&gt;&lt;p&gt;We develop theoretical foundations for a practical quantum-advantage mechanism in quantum-informed machine learning for chaotic dynamical systems. A family of k-indexed higher-order quantum statistical priors (Q-Priors) hosts the k-point marginal of the invariant measure on n_q = kq qubits, extending the single-site construction of prior work. We prove a two-stage advantage&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.13422v1</guid>
-      <pubDate>Thu, 11 Jun 2026 14:52:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uncertainty Estimation for Molecular Diffusion Models</title>
-      <link>http://arxiv.org/abs/2606.13451v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Paul Seij, Christian A. Naesseth, Stephan Mandt, Metod Jazbec&lt;/p&gt;&lt;p&gt;Diffusion models have seen wide adoption for 3D molecular generation, yet they offer no principled signal of when a generated molecule is likely to be of low quality. We propose a post-hoc method for estimating per-sample uncertainty in pretrained molecular diffusion models. Building on a Laplace approximation of the denoising network, we measure the variability of the noise prediction across the generation trajectory&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.13451v1</guid>
-      <pubDate>Thu, 11 Jun 2026 15:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rapid mixing for Gibbs measures in Riemannian manifolds</title>
-      <link>http://arxiv.org/abs/2606.13453v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ángela Capel, Marco Castrillón-López, Sofyan Iblisdir, Angelo Lucia, Pablo Páez-Velasco, David Pérez-García&lt;/p&gt;&lt;p&gt;Langevin dynamics on Riemannian manifolds is analyzed. Conditions ensuring the existence of a suitable logarithmic Sobolev inequality (rapid mixing to the Gibbs measure) are identified. These conditions involve the curvature of the manifold, the inverse temperature, escaping directions from saddle points, and exclude barren plateaus and spurious local minima&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.13453v1</guid>
-      <pubDate>Thu, 11 Jun 2026 15:11:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Jun 2026 03:13:18 +0000</lastBuildDate>
     <item>
       <title>CloudCons: A Comprehensive End-to-End Benchmark for Cloud Resource Consolidation</title>
       <link>http://arxiv.org/abs/2606.13513v1</link>
