@@ -7,34 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 13 Jun 2026 03:13:18 +0000</lastBuildDate>
-    <item>
-      <title>CloudCons: A Comprehensive End-to-End Benchmark for Cloud Resource Consolidation</title>
-      <link>http://arxiv.org/abs/2606.13513v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaobin Zhang, Lefei Shen, Mouxiang Chen, Zhuo Li, Hongkai Li, Han Fu, Jianling Sun, Xiaoxue Ren&lt;/p&gt;&lt;p&gt;Driven by conservative over-provisioning to guarantee service reliability, resource utilization in cloud data centers remains at low levels. To mitigate this, the forecast-then-optimize paradigm has emerged to optimize consolidation by anticipating future demands. While emerging time series foundation models promise to enhance this paradigm through zero-shot generalization, existing benchmarks focus solely on prediction error metrics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.13513v1</guid>
-      <pubDate>Thu, 11 Jun 2026 16:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models</title>
-      <link>http://arxiv.org/abs/2606.13515v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hanyang Yu, Haitao Lin, Jingbo Zhang, Wenyao Zhang, Chenghao Gu, Heng Li, Ping Tan&lt;/p&gt;&lt;p&gt;World Action Models (WAMs) present a promising paradigm for robotic control via video prediction. However, current WAMs suffer from fundamental spatial bottlenecks: standard text inputs introduce referential ambiguity in cluttered scenes, while unstructured RGB predictions lack semantic grounding and remain biased by task-irrelevant backgrounds. To overcome these limitations, we introduce MaskWAM, an object-centric world-action model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.13515v1</guid>
-      <pubDate>Thu, 11 Jun 2026 16:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting</title>
-      <link>http://arxiv.org/abs/2606.13571v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yifan Hu, Hongzhou Chen, Peiyuan Liu, Yiding Liu, Zewei Dong, Jiang-Ming Yang&lt;/p&gt;&lt;p&gt;Real-world time series are often highly incomplete and irregular due to sensor dormancy, transmission delays, and event-driven sampling, making reliable forecasting fundamentally challenging. Existing methods have evolved from impute-then-forecast pipelines to continuous-time models such as Neural ODEs and continuous-time graph networks. While these approaches improve the modeling of historical irregularity, they still rely on an implicit oracle assumption at inference time: the timestamps of future valid observations are presumed to be known in advance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.13571v1</guid>
-      <pubDate>Thu, 11 Jun 2026 16:59:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aerial Wildfire Suppression Planning with a Hybrid CNN-Cellular Automata Fire Model</title>
-      <link>http://arxiv.org/abs/2606.13633v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ion Matei, Maksym Zhenirovskyy, Takuya Kurihana, Rohit Vupala, Anthony Wong&lt;/p&gt;&lt;p&gt;Aerial wildfire suppression requires not only predicting fire spread, but also designing effective intervention strategies under operational and environmental uncertainty. We present a modeling and optimization framework for aerial wildfire suppression that combines a hybrid neural-cellular automaton wildfire model with gradient-based design of targeted aerial drops. The wildfire model predicts spatially varying spread behavior from terrain, fuel, and wind data, while the intervention module determines binary drop actions with continuous-valued location and orientation parameters mapped to the&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2606.13633v1</guid>
-      <pubDate>Thu, 11 Jun 2026 17:42:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Jun 2026 03:15:45 +0000</lastBuildDate>
   </channel>
 </rss>
