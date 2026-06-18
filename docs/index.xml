@@ -7,6 +7,139 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Jun 2026 03:16:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 03:14:17 +0000</lastBuildDate>
+    <item>
+      <title>Domain-Shift Aware Neural Networks for Unbalance Characterization in Rotating Systems</title>
+      <link>http://arxiv.org/abs/2606.18882v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bernardo Feijó Junqueira, Claudio Kiyoshi Umezu, Bruno Bilhar Karaziack, Tomaz Junior, Daniel Alves Castello&lt;/p&gt;&lt;p&gt;This work investigates the application of a domain-shift aware neural network for regression tasks aimed at estimating unbalance masses in rotating shafts under varying operating conditions. Experimental data were collected from a test rig in which a primary shaft, equipped with a flange carrying unbalanced masses, was driven at different rotational speeds, while a secondary shaft could be optionally activated to introduce domain discrepancy. The unbalance masses were positioned at a fixed radial distance, and the dynamic response of the system was recorded using triaxial accelerometers&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.18882v1</guid>
+      <pubDate>Wed, 17 Jun 2026 10:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generative-Model Predictive Planning for Navigation in Partially Observable Environments</title>
+      <link>http://arxiv.org/abs/2606.18888v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Thomas Quilter, Yifan Zhu, Guorui Quan, Mingfei Sun, Samuel Kaski&lt;/p&gt;&lt;p&gt;Navigation in partially observable environments presents a significant challenge for autonomous agents, requiring effective decision-making with limited sensory information in unknown environments. Belief-based methods, particularly those using neural networks to approximate the belief space, often fail to capture the inherent multimodality of belief spaces, especially in high-dimensional cases with perceptual aliasing. While generative models present a compelling alternative, they typically require substantial data or expert demonstrations and lack explicit mechanisms for long-term planning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.18888v1</guid>
+      <pubDate>Wed, 17 Jun 2026 10:06:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multifractal Dynamics of Tropical Atlantic SST Indices: Nonlinear Scaling Structure and Episodic Statistical Association with ENSO Variability</title>
+      <link>http://arxiv.org/abs/2606.18901v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sebastián Jaroszewicz, Nahuel Mendez, Maria P. Beccar-Varela, Maria Cristina Mariani&lt;/p&gt;&lt;p&gt;The Tropical Atlantic exhibits complex sea surface temperature (SST) variability driven by internal ocean-atmosphere interactions and remote climate forcing. We perform a comparative multifractal analysis of three SST indices, South Atlantic Tropical (SAT), Tropical Southern Atlantic (TSA), and the Tropical Atlantic SST Gradient Index (TASI), using weekly data from 1981 to 2025.   Multifractal Detrended Fluctuation Analysis (MFDFA) reveals robust scale-dependent behavior in all indices&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.18901v1</guid>
+      <pubDate>Wed, 17 Jun 2026 10:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Be Your Own Teacher: Steering Protein Language Models via Unsupervised Reward Optimization</title>
+      <link>http://arxiv.org/abs/2606.18961v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lanqing Li, Shentong Mo, Yang Yu, Pheng-Ann Heng&lt;/p&gt;&lt;p&gt;Protein language models (PLMs) have emerged as powerful tools for controllable biomolecular design, yet their post-training adaptation typically relies on costly wet-lab validation or curated preference datasets. To overcome this supervision bottleneck, we introduce unsupervised reward optimization of PLMs, a comprehensive framework for steerable protein generation without ground-truth labels. Our key insight is that task-agnostic rewards, which combine intrinsic model uncertainty with extrinsic semantic consistency informed by protein representation models, exhibit strong correlation with con&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.18961v1</guid>
+      <pubDate>Wed, 17 Jun 2026 11:42:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts</title>
+      <link>http://arxiv.org/abs/2606.18967v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Minseo Kim, Minjae Lee, Seunghyuk Oh, Kevin Galim, Donghoon Kim, Coleman Hooper, Harman Singh, Amir Gholami&lt;/p&gt;&lt;p&gt;Reinforcement learning (RL) has become a representative post-training paradigm for LLMs, enabling strong reasoning and agentic capabilities. However, rollout generation remains a dominant latency bottleneck because autoregressive sampling decodes responses sequentially and a small number of long-tailed generations often determine completion time. Speculative decoding (SD) offers a natural way to address this bottleneck, as it is a well-established technique for serving fixed LLMs that reduces latency by rapidly drafting tokens and accepting them through parallel verification while preserving t&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.18967v1</guid>
+      <pubDate>Wed, 17 Jun 2026 11:51:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Hybrid LSTM--Vision Transformer Architecture for Predicting HRRR Forecast Errors</title>
+      <link>http://arxiv.org/abs/2606.19026v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; David Aaron Evans, Jay C. Rothenberger, Kara J. Sulia, Nick P. Bassill, Chris D. Thorncroft&lt;/p&gt;&lt;p&gt;Forecast errors in high-resolution numerical weather prediction (NWP) systems are often linked to unresolved planetary boundary layer (PBL) processes, convection, terrain-induced circulations, and other vertically structured atmospheric phenomena. Previous work demonstrated that Long Short-Term Memory (LSTM) networks can successfully predict forecast errors in the High-Resolution Rapid Refresh (HRRR) model using mesonet observations, but we believe performance degradation is linked to periods of complex vertical atmospheric evolution. To address this limitation, we develop a hybrid LSTM-Vision&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.19026v1</guid>
+      <pubDate>Wed, 17 Jun 2026 12:51:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIFS-DOP: End-to-End Medium-Range Weather Prediction from Observations Alone with Machine Learning</title>
+      <link>http://arxiv.org/abs/2606.19093v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ewan Pinnington, Peter Lean, Mihai Alexe, Eulalie Boucher, Simon Lang, Patrick Laloyaux, Gert Mertes, Tomas Kral&lt;/p&gt;&lt;p&gt;We introduce the Artificial Intelligence Forecasting System for Direct Observation Prediction (AIFS-DOP). AIFS-DOP is trained on a 40-year harmonized dataset of gridded observations, without using numerical weather prediction (NWP) reanalysis or model data. The resulting model is competitive with ECMWF's Integrated Forecasting System (IFS) when scored on a one year period of forecasts across 2021/2022&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.19093v1</guid>
+      <pubDate>Wed, 17 Jun 2026 14:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysing drivers and interdependencies in European electricity markets using XAI</title>
+      <link>http://arxiv.org/abs/2606.19118v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Antoine Pesenti, Aidan O'Sullivan&lt;/p&gt;&lt;p&gt;Electricity markets are inherently complex systems characterised by strong nonlinearities, high-dimensional interactions, and increasing interdependence across regions. While deep neural networks (DNNs) have demonstrated strong predictive capabilities for electricity prices, their lack of interpretability limits their usefulness for understanding the underlying drivers of price formation. This paper addresses this gap by combining DNN models with explainable artificial intelligence (XAI) techniques to analyse the determinants of electricity prices across 39 European bidding zones&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.19118v1</guid>
+      <pubDate>Wed, 17 Jun 2026 14:32:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Equivariant Graph Neural Networks Improve Optical Spectra Prediction for Materials Screening</title>
+      <link>http://arxiv.org/abs/2606.19133v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kasper Helverskov Petersen, François R J Cornet, Martin Ovesen, Mikkel Jordahn, Kristian S. Thygesen, Mikkel N. Schmidt&lt;/p&gt;&lt;p&gt;Scalable prediction of optical spectra is a critical component of high-throughput materials screening for optoelectronic applications such as solar cells. Existing surrogate models are trained on spectra computed from lower levels of theory or rely on rotation-invariant scalar features, limiting their geometric expressiveness. We explore the use of equivariant graph neural networks for optical spectra prediction, adapting GotenNet to this task and evaluating it on multiple datasets including a recently published collection of 10,533 structures with spectra computed at the level of the random p&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.19133v1</guid>
+      <pubDate>Wed, 17 Jun 2026 14:44:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>INDEQS: Informed Neural controlled Differential EQuationS</title>
+      <link>http://arxiv.org/abs/2606.19138v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Michael Detzel, Gabriel Nobis, Kristiyan Blagov, Juri Schubert, Jackie Ma, Wojciech Samek&lt;/p&gt;&lt;p&gt;Neural Controlled Differential Equations (NCDE) provide a powerful continuous-time framework for forecasting time series, but standard graph-based extensions typically learn spatial structure purely from data, even in settings where a directed graph structure is known a priori. We introduce Informed Neural controlled Differential EQuationS (INDEQS), a graph-based NCDE forecasting method that incorporates prior knowledge of a directed graph at distinct architectural positions. INDEQS separates inner mixing of hidden states across graph nodes from outer mixing between vector field and control, a&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.19138v1</guid>
+      <pubDate>Wed, 17 Jun 2026 14:46:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Complementary Attention Head Pruning for Efficient Transformers</title>
+      <link>http://arxiv.org/abs/2606.19150v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yaniv Livertovsky, Shahar Somin, Gonen Singer&lt;/p&gt;&lt;p&gt;The remarkable success of Transformer-based models in natural language processing stems from architectural scaling, which leads to a large number of parameters and hinders deployment in resource-constrained environments. While structured pruning offers a pathway to compression, existing state-of-the-art methods often rely on gradient-based importance ranking or stochastic gating, which suffer from instability, structural degeneration, and the need for extensive manual hyperparameter tuning. In this paper, we introduce CAHP (Complementary Attention Head Pruning), a novel post-hoc framework that&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.19150v1</guid>
+      <pubDate>Wed, 17 Jun 2026 14:56:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hardware- and Vision-in-the-Loop Validation of Deep Monocular Pose Estimation for Autonomous Maritime UAV Flight</title>
+      <link>http://arxiv.org/abs/2606.19176v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Maneesha Wickramasuriya, Beomyeol Yu, Jaden Shin, Mason Huslig, Taeyoung Lee, Murray Snyder&lt;/p&gt;&lt;p&gt;Autonomous UAV operations on ships require reliable vision-based relative pose estimation, yet at-sea validation is costly, weather-dependent, and risky. This paper presents a hardware-validated vision-in-the-loop framework that enables fully autonomous indoor flight while emulating photorealistic maritime environments. Rendered maritime views are processed onboard by a deep transformer-based monocular pose estimator&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.19176v1</guid>
+      <pubDate>Wed, 17 Jun 2026 15:18:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compute Efficiency and Serial Runtime Tradeoffs for Stochastic Momentum Methods</title>
+      <link>http://arxiv.org/abs/2606.19179v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Depen Morwani, Alexandru Meterez, Pranav Nair, Sham Kakade&lt;/p&gt;&lt;p&gt;Stochastic momentum methods such as heavy ball (HB), Nesterov momentum, and variants of Accelerated SGD (ASGD) [Kidambi et al., 2018] are widely used in modern training, but their stochastic benefits depend on two distinct quantities: serial runtime, the number of iterations needed to reach a target accuracy, and compute efficiency (CE), the inverse total gradient-query or FLOP cost. Larger batches reduce serial runtime without hurting CE only when the contraction gap grows linearly with batch size.   We study stochastic HB and ASGD for consistent linear regression with Gaussian covariates and&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.19179v1</guid>
+      <pubDate>Wed, 17 Jun 2026 15:19:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>When AUC Misleads: Polarization-Aware Evaluation of Deepfake Detectors under Domain Shift</title>
+      <link>http://arxiv.org/abs/2606.19184v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dat Nguyen, Cosmin Radoi, Romain Hermary, Marcella Astrid, Nesryne Mejri, Enjie Ghorbel, Djamila Aouada&lt;/p&gt;&lt;p&gt;Recent advances in generative AI, such as diffusion models and face-swapping tools, have enabled the creation of highly realistic deepfakes, leading to real-world harms including financial fraud and non-consensual explicit content. In response, deepfake detection has become an active research area, with recent methods increasingly focusing on improving generalization to unseen manipulations. This is typically evaluated using the Area Under the ROC Curve (AUC) measured separately across multiple datasets&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.19184v1</guid>
+      <pubDate>Wed, 17 Jun 2026 15:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acceleration of an algebraic multigrid pressure solver using graph neural networks</title>
+      <link>http://arxiv.org/abs/2606.19251v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Eric Chillón, Artur K. Lidtke, Nguyen Anh Khoa Doan, Bernat Font&lt;/p&gt;&lt;p&gt;Solving the pressure-Poisson equation remains the primary computational bottleneck in incompressible unstructured flow solvers primarily due to the inherent sensitivity of traditional linear solvers to mesh irregularities. This work introduces a data-driven algebraic multigrid (AMG) smoother that uses a modified graph convolutional isomorphism network (GCIN). The graph neural network predicts optimal polynomial coefficients to construct a sparse pseudo-inverse operator across diverse grid topologies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.19251v1</guid>
+      <pubDate>Wed, 17 Jun 2026 16:27:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Risk Stratification for ICU Delirium using Pervasive Ambient Sensing Information</title>
+      <link>http://arxiv.org/abs/2606.19292v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiaqing Zhang, Sabyasachi Bandyopadhyay, Miguel Contreras, Jessica Sena, Yuanfang Ren, Andrea Davidson, Ziyuan Guan, Tezcan Ozrazgat-Baslanti&lt;/p&gt;&lt;p&gt;Delirium is a common and serious complication in the Intensive Care Unit (ICU), associated with increased morbidity, prolonged hospital stays, and higher healthcare costs. Despite its prevalence, early prediction and prevention remain challenging. Environmental factors such as ambient sound and light may influence the onset of delirium, yet they are often overlooked in risk assessments&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.19292v1</guid>
+      <pubDate>Wed, 17 Jun 2026 17:13:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optimal scenario design for climate emulation</title>
+      <link>http://arxiv.org/abs/2606.19302v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Christopher B. Womack, Shahine Bouabid, Andrei Sokolov, Popat Salunke, Glenn Flierl, Sebastian D. Eastham, Noelle E. Selin&lt;/p&gt;&lt;p&gt;As deep learning for physical systems continues to grow in popularity, efforts to improve generalizability have primarily focused on designing architectures that embed physical constraints. However, for machine-learning surrogate climate models (emulators), we show that the low structural diversity in existing scenarios commonly used to generate training data places a ceiling on predictive skill. Here, we examine whether training datasets themselves can be optimized to improve generalization&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.19302v1</guid>
+      <pubDate>Wed, 17 Jun 2026 17:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation</title>
+      <link>http://arxiv.org/abs/2606.19315v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruida Wang, Rui Pan, Pengcheng Wang, Shizhe Diao, Tong Zhang&lt;/p&gt;&lt;p&gt;Enhancing the formal math reasoning capabilities of Large Language Models (LLMs) has become a key focus in both mathematical and computer science communities in recent years. While significant progress has been made in using state-of-the-art Auto-Regressive (AR) LLMs for formal theorem proving, these models suffer from inherent limitations. Their next-token prediction generation methods may yield suboptimal performance due to the challenges of long-range coherence and the compounding of errors over long sequences&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.19315v1</guid>
+      <pubDate>Wed, 17 Jun 2026 17:38:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Explaining Attention with Program Synthesis</title>
+      <link>http://arxiv.org/abs/2606.19317v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Amiri Hayes, Belinda Li, Jacob Andreas&lt;/p&gt;&lt;p&gt;A longstanding goal of research on interpretable deep learning is to replace opaque neural computations with human-meaningful symbolic descriptions. In this paper, we propose an approach for approximating the behavior of components of deep networks with executable programs. We focus on attention heads in transformer language models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.19317v1</guid>
+      <pubDate>Wed, 17 Jun 2026 17:40:55 +0000</pubDate>
+    </item>
   </channel>
 </rss>
