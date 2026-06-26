@@ -7,6 +7,111 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 22 Jun 2026 03:16:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 03:13:52 +0000</lastBuildDate>
+    <item>
+      <title>Uncertainty quantification via conformal prediction in data assimilation</title>
+      <link>http://arxiv.org/abs/2606.27001v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Catherine George, Alireza Javanmardi, Tijana Janjić, Eyke Hüllermeier&lt;/p&gt;&lt;p&gt;Quantifying the evolution of uncertainty is critical to both probabilistic forecasting and data assimilation in numerical weather prediction. In this study, we investigate the applicability of conformal prediction (CP), a recent machine learning (ML) method, to quantify uncertainty in a controlled, idealized setting. We use the one dimensional modified shallow water model, designed to mimic the convective process&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27001v1</guid>
+      <pubDate>Thu, 25 Jun 2026 13:18:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adaptive Utility driven Resource Orchestration for Resilient AI (AURORA-AI)</title>
+      <link>http://arxiv.org/abs/2606.27005v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rahul Umesh Mhapsekar, Ilias Cherkaoui, Lizy Abraham, Indrakshi Dey&lt;/p&gt;&lt;p&gt;Modern AI systems are increasingly deployed under non-stationary computational, demographic, and operational conditions in which static resource allocation strategies degrade both predictive performance and human-centric properties such as fairness and explainability. This paper presents AURORA-AI, an Adaptive Utility-driven Resource Orchestration framework for Resilient AI that unifies Hamilton-Jacobi-Bellman feedback control, Lyapunov-based stability monitoring, and a fairness-aware composite utility into a single closed-loop policy.The framework continuously redistributes computational budg&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27005v1</guid>
+      <pubDate>Thu, 25 Jun 2026 13:22:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning Climate Variability from Scarce Data with Diffusion Models: A Test Case for ENSO</title>
+      <link>http://arxiv.org/abs/2606.27094v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lluis Palma, Vincent Verjans, Amanda Duarte, Albert Soret, Markus Donat&lt;/p&gt;&lt;p&gt;Diffusion models are increasingly applied to climate emulation, but whether they capture the correct modes of variability remains unclear, a concern amplified by data scarcity at longer timescales. We investigate this using synthetic tropical Pacific SST fields from Linear Inverse Models (LIMs), whose known low-order structure bypasses the overlapping and confounding modes of real observations. With sufficient training data, our model recovers the correct structure of both Gaussian and non-Gaussian LIMs, including ENSO's Eastern/Central Pacific asymmetry&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27094v1</guid>
+      <pubDate>Thu, 25 Jun 2026 14:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kolmogorov Arnold networks (KAN) for aerodynamic prediction: a comparison with MLPs and GNNs</title>
+      <link>http://arxiv.org/abs/2606.27126v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Miguel Jaraiz, Fermin Gutierrez, Pablo Yeste, Miguel Sánchez-Domínguez, Eusebio Valero, Gonzalo Rubio, Lucas Lacasa&lt;/p&gt;&lt;p&gt;Kolmogorov Arnold networks (KAN) have recently been introduced as a (deep) neural network architecture whose trainable parameters adapt the activation functions, instead of the coefficients of the affine transformations at the core of traditional architectures such as deep multilayer perceptrons (MLPs). This architecture builds on the Kolmogorov-Arnold theorem, which endows it with universal approximation properties. While the advent of KANs has been received with excitement, there is a current debate about the possible KAN supremacy over deep multilayer perceptrons (MLPs) for classic fields s&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27126v1</guid>
+      <pubDate>Thu, 25 Jun 2026 15:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stochastic Gradient Optimization with Model-Assisted Sampling</title>
+      <link>http://arxiv.org/abs/2606.27171v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jonne Pohjankukka, Jukka Heikkonen&lt;/p&gt;&lt;p&gt;This work addresses the problem of variance in stochastic gradient estimation for machine learning optimization. Deep learning relies on mini-batch methods such as stochastic gradient descent, which approximate full gradients but introduce noise, creating trade-offs between convergence stability, speed, and generalization. Existing methods, including variance reduction techniques (e.g., SVRG and SAG) and adaptive optimizers, aim to mitigate gradient noise but may introduce additional computational overhead&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27171v1</guid>
+      <pubDate>Thu, 25 Jun 2026 15:39:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Explaining Temporal Graph Neural Networks via Feature-induced Information Flow</title>
+      <link>http://arxiv.org/abs/2606.27201v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ping Xiong, Thomas Schnake, Klaus-Robert Müller, Shinichi Nakajima&lt;/p&gt;&lt;p&gt;Event-based Temporal Graph Neural Networks (ETGNNs) have demonstrated strong performance across a wide range of applications, including social network analysis, epidemic tracing, recommender systems, and political event forecasting. However, their increasing complexity poses significant challenges for explainability. Existing explanation methods focus only on a subset of the information flow within ETGNNs, typically tracing contributions from the event-related embeddings to the output&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27201v1</guid>
+      <pubDate>Thu, 25 Jun 2026 16:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Graph Neural Networks Applications Across Domains: All Insights You Need</title>
+      <link>http://arxiv.org/abs/2606.27202v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abderaouf Bahi&lt;/p&gt;&lt;p&gt;Graph neural networks have moved from a niche representation-learning technique to the default model class wherever data carry relational structure. The interesting question is no longer whether message passing helps on a given dataset, but where graph structure earns its computational cost and where it does not. This survey organises the field around a single design space, derives the spectral and spatial formulations from shared first principles, and connects expressive power to the Weisfeiler-Leman hierarchy with explicit statements of what current architectures can and cannot separate&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27202v1</guid>
+      <pubDate>Thu, 25 Jun 2026 16:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>RSPC: A Benchmark for Modeling Stress and Psychiatric Conditions in Digitally Mediated Relationships using Psychiatrist Annotations</title>
+      <link>http://arxiv.org/abs/2606.27247v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Parmitha Vangapandu, Sai Ganesh Mokkapati, Sathwik Narkedimilli, MSVPJ Sathvik, Timothy Liu, Simon See, Johannes C. Eichstaedt&lt;/p&gt;&lt;p&gt;In NLP, mental health conditions are often modeled as isolated phenomena, without interpersonal context. We use Reddit posts about long-distance relationships to capture both mental health distress and associated relational triggers. We introduce the Relational Stress and Psychiatry Corpus (RSPC) containing 1,799 Reddit posts annotated by psychiatrists for diagnostic categories, including the most prevalent mood disorders (anxiety and depression), relational stressor triggers, and indications of relationship phase&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27247v1</guid>
+      <pubDate>Thu, 25 Jun 2026 16:33:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sparse Sensor Placement for Reducing Forecast Errors in Ensemble Kalman Filtering</title>
+      <link>http://arxiv.org/abs/2606.27267v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Takumi Saito, Shunji Kotsuki&lt;/p&gt;&lt;p&gt;Designing efficient observation networks for reducing forecast errors is a fundamental challenge in numerical weather prediction. Data-driven sparse sensor placement (SSP) and ensemble-based data assimilation via the Ensemble Kalman Filter (EnKF) have each addressed this challenge independently, yet their mathematical connections have not been systematically formalized. This study presents a unified theoretical framework integrating SSP and EnKF through optimal experimental design, providing new theoretical and algorithmic results&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27267v1</guid>
+      <pubDate>Thu, 25 Jun 2026 16:50:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting</title>
+      <link>http://arxiv.org/abs/2606.27277v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junwei Luo, Shuai Yuan, Zhenya Yang, Yansheng Li, Zhe Liu, Hengshuang Zhao&lt;/p&gt;&lt;p&gt;Earth Observation (EO) forecasting aims to predict future Earth surface dynamics from satellite observations under changing meteorological conditions. In this paper, we view this task as a partially observed, weather-driven world modeling problem, in which weather acts as a conditioning signal, while forecasting remains uncertain due to sparse observations and unobserved land-surface states. However, existing methods do not fully capture this setting: deterministic models collapse uncertainty into a single future prediction, while diffusion-based methods typically treat weather variables as un&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27277v1</guid>
+      <pubDate>Thu, 25 Jun 2026 16:53:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Good Can Linear Models Be for Time-Series Forecasting?</title>
+      <link>http://arxiv.org/abs/2606.27282v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lang Huang, Jinglue Xu, Luke Darlow&lt;/p&gt;&lt;p&gt;Time-series forecasting research has been moving steadily toward larger architectures, from specialized transformers to general-purpose foundation models, on the assumption that capacity is what unlocks accuracy. We take the opposite position: most of the gap can be closed at far lower cost by tuning preprocessing rather than scaling models. We use Ridge regression as the testbed, since it has a closed-form solution and interpretable weights, which let the optimal hyperparameters be read off the search directly&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27282v1</guid>
+      <pubDate>Thu, 25 Jun 2026 16:57:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Simulation-based inference for rapid Bayesian parameter estimation in epidemiological models: a comparison with MCMC</title>
+      <link>http://arxiv.org/abs/2606.27286v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alina Bazarova, Johann Fredrik Jadebeck, Henrik Zunker, Carolina J. Klett-Tammen, Torben Heinsohn, Wolfgang Wiechert, Katharina Noeh, Stefan Kesselheim&lt;/p&gt;&lt;p&gt;Mechanistic epidemiological models are widely used to support infectious disease forecasting and public-health decision making. Bayesian calibration of such models is commonly performed using Markov chain Monte Carlo (MCMC), which can become computationally expensive for high-dimensional nonlinear systems and repeated near-real-time analyses. Here, we investigate simulation-based inference (SBI) using neural posterior estimation as a scalable alternative for Bayesian calibration of a mechanistic SECIR epidemiological model using COVID-19 intensive care unit (ICU) occupancy data from Germany du&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27286v1</guid>
+      <pubDate>Thu, 25 Jun 2026 17:03:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Multi-Fidelity Convolutional Autoencoder-Transfer Learning Framework for Guided-Wave-Based Damage Diagnosis Using Large Simulated and Limited Experimental Datasets</title>
+      <link>http://arxiv.org/abs/2606.27304v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Santosh Kapuria, Abhishek&lt;/p&gt;&lt;p&gt;Guided wave-based structural health monitoring (GWSHM) with onboard transducers offers significant potential for the early diagnosis of damage in engineering structures. However, the practical deployment of deep learning models is often hindered by the limited availability of labelled experimental data and the high computational cost of generating large-scale high-fidelity simulation datasets. This study presents a multifidelity transfer learning framework that integrates lightweight physics-based simulations, convolutional autoencoder (CAE)-based deep feature learning, a feed-forward neural n&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27304v1</guid>
+      <pubDate>Thu, 25 Jun 2026 17:25:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unpinning of trapped oil droplets via non-resonant acoustic streaming in capillary tubes</title>
+      <link>http://arxiv.org/abs/2606.27331v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; D. Tsiklauri&lt;/p&gt;&lt;p&gt;We establish a self-consistent analytical model demonstrating that trapped non-wetting liquid phases in narrow capillary channels can be successfully unpinned via non-resonant, second-order acoustic streaming (acoustic wind) coupled with background static drive gradients. Moving away from boundary-guided or resonant mechanisms, our approach exploits the bulk acoustic-wind force density generated by the steady-state momentum flux of attenuated first-order linear wave interactions. By expanding the hydrodynamic equations up to second order, we determine the critical assisted acoustic wave amplit&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27331v1</guid>
+      <pubDate>Thu, 25 Jun 2026 17:45:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Error-Conditioned Neural Solvers</title>
+      <link>http://arxiv.org/abs/2606.27354v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haina Jiang, Liam Wang, Peng-Chen Chen, Min Seop Kwak, Seungryong Kim, Brian Bell, Jeong Joon Park&lt;/p&gt;&lt;p&gt;Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their own constraint violations and extrapolate beyond the training distribution. Recent hybrid methods promote physical correctness by targeting the PDE residual via gradient descent or Gauss--Newton steps, but inherit the compute cost and instability of the underlying classical optimizers. We show, theoretically and empirically, that numerically minimizing the PDE residual can be an unreliable proxy for&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2606.27354v1</guid>
+      <pubDate>Thu, 25 Jun 2026 17:56:27 +0000</pubDate>
+    </item>
   </channel>
 </rss>
