@@ -7,6 +7,111 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 29 Jun 2026 03:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 05:54:15 +0000</lastBuildDate>
+    <item>
+      <title>Sequential Structure-Sensitive Residual Diagnostics for PDE Inverse Problems</title>
+      <link>http://arxiv.org/abs/2607.02101v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ieva Kazlauskaite&lt;/p&gt;&lt;p&gt;Computational models in science and engineering are often assessed by checking whether the residual norm is consistent with the assumed noise level. This can be misleading in smoothing inverse problems: structured model errors may be attenuated in observation space, leaving residual magnitudes below practitioner discrepancy thresholds while coherent residual patterns remain. As a result, residual-norm diagnostics can accept fitted models that still give biased parameters, predictions, or quantities of interest&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02101v1</guid>
+      <pubDate>Thu, 02 Jul 2026 12:36:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Predicting Early Stages Of Alzheimer's Disease And Identifying Key Biomarkers Using Deep Artificial Neural Network And Ensemble Of Machine Learning Methodologies</title>
+      <link>http://arxiv.org/abs/2607.02142v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Debopriya Ghosh&lt;/p&gt;&lt;p&gt;Alzheimers disease (AD) is a brain disorder that develops slowly and mainly affects memory, thinking, language, and daily activities. It is one of the most common causes of dementia and creates many difficulties for patients as well as their families. In the early stage, the symptoms are often mild and may look like normal ageing&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02142v1</guid>
+      <pubDate>Thu, 02 Jul 2026 13:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mathematical Exploration of Earth Gravitational Field Impact on Seasonal Wind Flux in a Tropical Region</title>
+      <link>http://arxiv.org/abs/2607.02161v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; M. S. Adiaha, V. O. Chude, E. E. Oku, G. I. Nwaka, O. J. Abimbola, I. K. Rajendra, P. O. Abam&lt;/p&gt;&lt;p&gt;The Earth's gravitational field exerts a significant influence on atmospheric dynamics, including the behavior of seasonal wind flux, defined by periodic variations in wind speed and direction. While temperature gradients and Earth's rotation are established drivers of wind patterns, the role of gravitational forces in modulating these processes remains poorly understood. This study investigates the mathematical relationship between gravitational variations and seasonal wind flux in Nigeria, a region of pronounced climatic variability and varied wind patterns&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02161v1</guid>
+      <pubDate>Thu, 02 Jul 2026 13:34:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conformal Bayes for Two-Sided Censored Gaussian Regression under Label Shift</title>
+      <link>http://arxiv.org/abs/2607.02173v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Seungjin Choi&lt;/p&gt;&lt;p&gt;Prediction under label shift becomes nonstandard when responses are censored. In a two-sided censored Gaussian model, latent values below $L$ and above $U$ are recorded at the boundary values, so the observed predictive distribution is mixed, with atoms at $L$ and $U$ and a continuous density on $(L,U)$. In this paper we develop conformal Bayes for this mixed-space setting by combining posterior predictive tilting with weighted conformal calibration&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02173v1</guid>
+      <pubDate>Thu, 02 Jul 2026 13:45:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>RadiomicNet: A Hybrid Radiomics-Guided Lightweight Architecture for Interpretable Medical Image Segmentation</title>
+      <link>http://arxiv.org/abs/2607.02185v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohammad Amanour Rahman&lt;/p&gt;&lt;p&gt;Deep learning has achieved remarkable performance in medical image segmentation, yet it suffers from critical limitations: mathematical intractability, substantial parameter requirements, and lack of clinical interpretability. We propose RadiomicNet, a novel two-stream hybrid architecture that enhances standard deep learning by integrating handcrafted radiomics features directly into the segmentation learning process. The key contribution is the Radiomics Attention Gate (RAG), which leverages Gray-Level Co-occurrence Matrix (GLCM) and Local Binary Pattern (LBP) features to modulate skip-connec&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02185v1</guid>
+      <pubDate>Thu, 02 Jul 2026 13:54:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-explainable Operator Learning for Discovering Spatial Patterns in Functional Data</title>
+      <link>http://arxiv.org/abs/2607.02203v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mojgan Alishiri, Amirhossein Arzani&lt;/p&gt;&lt;p&gt;Operator learning has emerged as a powerful tool for modeling complex physical systems in functional spaces. However, their neural network-based architectures make them opaque models, obscuring the reasoning behind their predictions. In this work, we introduce a self-explainable operator learning framework that overcomes this challenge by reformulating operator learning as a linear combination of generalized functional linear models expressed through integral equations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02203v1</guid>
+      <pubDate>Thu, 02 Jul 2026 14:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Additive MLP-GNN Framework for Characterizing Chemical and Structural Contributions to Aqueous Solubility</title>
+      <link>http://arxiv.org/abs/2607.02212v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sampreeti Bhattacharya, Arkaprava Roy&lt;/p&gt;&lt;p&gt;Aqueous solubility is a key property in early-stage drug discovery, but most predictive models merge physicochemical descriptors and molecular graph information into a single representation, obscuring whether a prediction is driven by global chemistry, molecular structure, or both. We present an additive deep-learning framework that keeps these two sources of information separate throughout training: physicochemical descriptors are encoded by a multilayer perceptron (the chemical branch) and molecular graph topology by a graph neural network (the structural branch), with the two outputs combin&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02212v1</guid>
+      <pubDate>Thu, 02 Jul 2026 14:21:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Storm Track Self-Reinforcement Through Cloud Radiative Effects</title>
+      <link>http://arxiv.org/abs/2607.02213v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Or Hadas&lt;/p&gt;&lt;p&gt;Traditionally, midlatitude storm tracks are viewed as being driven by meridional temperature gradients maintained by differential solar heating. Yet in the Southern Hemisphere, storm activity remains strong even when the summertime insolation gradient nearly vanishes. Here, we show that storm-track cloud radiative effects play a major role in maintaining the Southern Hemisphere storm activity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02213v1</guid>
+      <pubDate>Thu, 02 Jul 2026 14:21:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aggregation with Exponential Weights is Optimal in Expectation</title>
+      <link>http://arxiv.org/abs/2607.02247v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mikael Møller Høgsgaard, Patrick Rebeschini, Tobias Wegel&lt;/p&gt;&lt;p&gt;The aggregation with exponential weights (AEW) estimator is not fully understood in the basic setting of model selection aggregation with squared loss. In particular, whether it is minimax-rate optimal in expectation for large enough fixed temperatures and under random design has been an open problem since its introduction, which was explicitly posed by Lecué and Mendelson (2013). In this paper, we settle this problem by showing that \emph{without} requiring a Bernstein-type assumption, the AEW indeed achieves the excess risk $T \log (M) / (n+1)$ in expectation, whenever the temperature $T$ sa&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02247v1</guid>
+      <pubDate>Thu, 02 Jul 2026 14:40:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Hippocampus for Linear Attention: An Exact Memory for What the Recurrent State Forgets</title>
+      <link>http://arxiv.org/abs/2607.02303v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wanyun Cui&lt;/p&gt;&lt;p&gt;Linear-attention and state-space language models compress the prefix into a fixed-size recurrent state, yielding O(1) memory at the cost of a lossy exact memory: when many key--value associations compete, earlier facts are overwritten and needle recall degrades. Inspired by Complementary Learning Systems, we give linear attention a hippocampal complement. HOLA (Hippocampal Linear Attention) keeps the usual delta-rule state as a compressive memory and adds a bounded exact KV cache, forming a semiparametric test-time memory: the state models linearly compressible structure, while the cache store&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02303v1</guid>
+      <pubDate>Thu, 02 Jul 2026 15:19:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Gating Attention for Efficient Time Series Forecasting</title>
+      <link>http://arxiv.org/abs/2607.02344v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dezheng Wang, Tong Chen, Wei Yuan, Congyan Chen, Shihua Li, Hongzhi Yin&lt;/p&gt;&lt;p&gt;Transformer architectures have shown strong potential in time series forecasting, where multi-head self-attention is widely used to capture temporal dependencies across historical timestamps. However, standard self-attention has quadratic time and memory complexity with respect to the look-back length. This cost may limit its use in resource-constrained or high-throughput forecasting systems, where fast and memory-efficient inference is important&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02344v1</guid>
+      <pubDate>Thu, 02 Jul 2026 15:49:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyses on Christoph Clavius' Reports of Total Solar Eclipses in 1560 and 1567: Key References for the Centennial Variations of the Earth's Rotation Speed and the Solar Radius</title>
+      <link>http://arxiv.org/abs/2607.02347v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hisashi Hayakawa, Mitsuru Sôma, Jean-Pierre Rozelot, Koji Murata, Alexei A. Pevtsov, Stanislav Gunár, Lucie M. Green&lt;/p&gt;&lt;p&gt;Variations in solar radius (hereafter R_Sun) is a key reference for solar magnetic activity in time. The sunlight amount may have varied with R_Sun and had an effect on the Earth's climate in the past. Eclipse observations offer a unique opportunity to measure the absolute R_Sun value before modern direct observations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02347v1</guid>
+      <pubDate>Thu, 02 Jul 2026 15:51:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stable Self-Modulating Quantum Fast-Weight Programmers with Bounded Memory Gates</title>
+      <link>http://arxiv.org/abs/2607.02363v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kuo-Chung Peng, Jiun-Cheng Jiang, Chun-Hua Lin, Yifeng Peng, Junghoon Justin Park, Huan-Hsin Tseng, Hsin-Yi Lin, Kuan-Cheng Chen&lt;/p&gt;&lt;p&gt;Quantum Fast-Weight Programmers (QFWPs) store temporal information in dynamically programmed variational-circuit parameters rather than in nonlinear recurrent hidden states, offering a practical route to quantum sequence modeling. Self-Modulating QFWP improves this framework by using input-dependent gates for both new fast-weight updates and the accumulated fast-weight state, but its unbounded old-state multiplier can diverge in long-sequence regimes. We propose a bounded old-state modulation rule that applies a sign-preserving tanh gate only to the recurrent memory branch while leaving the ad&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02363v1</guid>
+      <pubDate>Thu, 02 Jul 2026 16:06:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extreme Adaptive Transformer for Time Series Forecasting</title>
+      <link>http://arxiv.org/abs/2607.02437v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sanjeev Shrestha, Hui Liu, Yifan Zhang&lt;/p&gt;&lt;p&gt;Time series forecasting remains challenging when the underlying data contain rare but critical extreme events. This issue is particularly important in hydrologic forecasting, where streamflow distributions are often highly skewed and extreme peaks can have substantial impacts on flood monitoring, water resource management, and early warning systems. Although Transformer-based forecasting models have achieved strong performance by modeling long-range temporal dependencies, they typically treat all time points uniformly and may therefore underrepresent rare extreme patterns&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02437v1</guid>
+      <pubDate>Thu, 02 Jul 2026 17:09:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Human Capital, Not Model Benchmarks, Predicts Hybrid Intelligence in Forecasting</title>
+      <link>http://arxiv.org/abs/2607.02467v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vivienne Ming&lt;/p&gt;&lt;p&gt;Whether pairing people with AI helps or hurts is usually reported as a single average effect. Using a real-money prediction market (Polymarket) as an objective, externally resolved benchmark, this pilot shows that the value of human-AI collaboration depends on a specific, measurable form of human capital. Analyzed at the level of the individual forecaster, hybrid performance is trimodal: most people either deferred to the model (matching it) or used it to rubber-stamp a prior guess (performing worse than the model alone), while a minority engaged in genuine complementary reasoning and reached &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.02467v1</guid>
+      <pubDate>Thu, 02 Jul 2026 17:34:37 +0000</pubDate>
+    </item>
   </channel>
 </rss>
