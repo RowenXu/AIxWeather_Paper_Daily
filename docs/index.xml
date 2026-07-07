@@ -7,6 +7,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 06 Jul 2026 06:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 06:09:43 +0000</lastBuildDate>
+    <item>
+      <title>ImputeECG: Deep Learning Reconstruction of Complete 12-Lead Electrocardiograms from Incomplete Recordings for Cardiac Assessment</title>
+      <link>http://arxiv.org/abs/2607.05009v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaocheng Fang, Haoyu Wang, Jieyi Cai, Qinghao Zhao, Jun Li, Shanwei Zhang, Guangkun Nie, Yujie Xiao&lt;/p&gt;&lt;p&gt;Complete digital 12-lead electrocardiograms (ECGs) are essential for AI-enabled cardiovascular assessment, yet many clinical ECG records, particularly those digitized from ECG images, remain incomplete because of short display formats, incomplete waveform digitization, lead loss, or signal corruption. We developed ImputeECG, a mask-conditioned one-dimensional Transformer autoencoder that completes 12-lead, 10-s ECGs while retaining all observed samples. The model was trained on PTB-XL and evaluated on PTB-XL and CPSC2018 under simulated incomplete settings, with additional real-world validatio&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.05009v1</guid>
+      <pubDate>Mon, 06 Jul 2026 12:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond Modality Fusion: Deep Ensembles for Multimodal Classification</title>
+      <link>http://arxiv.org/abs/2607.05019v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ilya Burenko, Dmitry Vetrov&lt;/p&gt;&lt;p&gt;In multimodal classification, late-fusion approaches classify concatenated modality-specific features extracted by unimodal neural networks.   When modality imbalance is pronounced, various regularization techniques have been proposed to balance the learning process and overcome the inferior performance of late-fusion networks.   In contrast, this work demonstrates that multimodal data can be effectively classified without any explicit modality fusion, using deep ensembles of unimodal networks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.05019v1</guid>
+      <pubDate>Mon, 06 Jul 2026 12:59:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>On the Genealogy of Machine Learning Weather Prediction</title>
+      <link>http://arxiv.org/abs/2607.05045v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohammad Hassan Erfani&lt;/p&gt;&lt;p&gt;Modern machine-learning weather prediction (MLWP) has largely inherited the initial-value-problem (IVP) framing of numerical weather prediction (NWP). This inheritance leads to a dominant paradigm of learned autoregressive time-stepping and constrains how the learning problem is defined and architectures are favored. In this study we make the inheritance explicit, contrast two philosophical traditions: "scientific surrogate modeling," where machine learning (ML) is embedded within a physical system and must respect its structural constraints, and "free-form data-driven modeling," where atmosph&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.05045v1</guid>
+      <pubDate>Mon, 06 Jul 2026 13:21:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Real-Time Remote-Sensing-Guided Decision-Support Framework for Cloud-Seeding Operations: A Field Demonstration Using Himawari-9 and C-band Phased Array Weather Radar</title>
+      <link>http://arxiv.org/abs/2607.05050v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shunji Kotsuki, Kazuaki Yasunaga, Atsushi Hamada, Kazuhiro Yoshimi, Kenta Shiraishi, Akira Takeshima, Yoshiki Terashima, Kaya Kanemaru&lt;/p&gt;&lt;p&gt;This study proposes a real-time remote-sensing-guided decision-support framework for cloud-seeding operations using high frequency geostationary satellite and ground weather radar observations. The framework integrates cloud assessment, human-in-the-loop decision support, and aircraft operation to translate high-frequency remote-sensing information into actionable guidance for seeding aircraft. We demonstrate the framework using 2.5-min Himawari-9 geostationary satellite observations and 60-s C-band phased-array weather radar (C-PAWR) observations during the preliminary dry-ice cloud-seeding f&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.05050v1</guid>
+      <pubDate>Mon, 06 Jul 2026 13:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>FAST: A Holistic Framework for Optimizing Memory-I/O, Computation, and Sampling in Temporal GNN Training</title>
+      <link>http://arxiv.org/abs/2607.05095v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yushu Cai, Qingrui Zhu, Lei Liu, Kai Sheng, Hao Chen, Xin He&lt;/p&gt;&lt;p&gt;Temporal Graph Neural Networks (TGNNs) are widely used for learning from dynamic graphs in applications such as recommendation, social network analysis, and traffic forecasting. However, scaling TGNN training to large dynamic graphs remains challenging due to three intertwined bottlenecks: memory I/O, irregular computation, and temporal neighbor sampling. Existing systems often optimize these stages in isolation, leaving substantial performance headroom on the table&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.05095v1</guid>
+      <pubDate>Mon, 06 Jul 2026 13:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIFS-SUBS: Extending Data-Driven Forecasting to Sub-Seasonal Timescales</title>
+      <link>http://arxiv.org/abs/2607.05100v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jakob Schloer, Steffen Tietsche, Christopher D. Roberts, Lorenzo Zampieri, Simon Lang, Gert Mertes, Gareth Jones, Matthew Chantry&lt;/p&gt;&lt;p&gt;Data-driven models now rival numerical weather prediction in the medium range, but extending them to sub-seasonal lead times raises challenges absent at shorter horizons. Errors accumulate over long autoregressive rollouts, systematic biases grow with lead time, and several years of data must be held out for independent verification, even though machine-learning models otherwise benefit from longer training records.   To address these challenges, we adapt ECMWF's AIFS-CRPS medium-range model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.05100v1</guid>
+      <pubDate>Mon, 06 Jul 2026 13:56:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counterfactual Methods for Detecting Unfairness in Anti-Money Laundering Algorithms</title>
+      <link>http://arxiv.org/abs/2607.05101v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lea Multerer, Michele Inchingolo, David Kletz, Adrian Cosma, Alessandro Antonucci, Martina Gogova&lt;/p&gt;&lt;p&gt;The application of machine learning-based predictive algorithms to Anti-Money Laundering (AML) has grown rapidly, driven by the vast volume of financial transaction data available to banks. These algorithms are typically trained not only on transactional data but also on sensitive client information, which may raise fairness concerns. Despite this, AML detection systems remain largely underexplored from a fairness perspective, even though deeper analytical methods based on counterfactuals are now available&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.05101v1</guid>
+      <pubDate>Mon, 06 Jul 2026 13:57:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>PDEFlow: Autonomous Agentic PDE Pipelines for Neural Operator Learning and Solver-Free Inference</title>
+      <link>http://arxiv.org/abs/2607.05134v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Akshat Jani, Prathamesh Gadekar, Sakhinana Sagar Srinivas, Venkataramana Runkana&lt;/p&gt;&lt;p&gt;We present PDEFlow, an autonomous agentic framework that turns user-level ODE and PDE descriptions into solver-backed neural-operator pipelines. The workflow links problem specification, data generation, operator training, and checkpoint-based inference. A stateful input graph converts multi-turn natural-language input and user edits into validated problem specifications&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.05134v1</guid>
+      <pubDate>Mon, 06 Jul 2026 14:18:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>SMART: A Machine Learning and Monte Carlo Framework for Rapid Analysis of Stochastic Transistor Aging and Process Variation in Digital Circuits</title>
+      <link>http://arxiv.org/abs/2607.05187v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arash Esshaghi, Siavash Es'haghi, Gholamreza Shahabadi, Alireza Moradi&lt;/p&gt;&lt;p&gt;As CMOS technology scales into the deep nanometer regime, digital circuit reliability is increasingly threatened by the combined stochastic effects of Bias Temperature Instability (BTI) and Process Variation (PV). Traditional reliability analysis methods, which rely on computationally intensive simulations or extensive lookup tables, fail to scale efficiently for large designs, creating a critical bottleneck in design space exploration. To address this, we propose SMART, a novel framework that integrates Machine Learning (ML) with Monte Carlo simulation to enable rapid, high-fidelity reliabili&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.05187v1</guid>
+      <pubDate>Mon, 06 Jul 2026 15:06:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Probing Geospatial SSL Representations with Environmental Signals</title>
+      <link>http://arxiv.org/abs/2607.05207v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rohita Mocharla, Vishal M. Patel&lt;/p&gt;&lt;p&gt;Self-supervised learning (SSL) is designed to learn generic, transferable representations rather than representations optimized for a single task. Most geospatial benchmarks evaluate representations solely through downstream tasks, providing limited insight into the information encoded within the representation itself. We ask a different question: do SSL representations of satellite imagery preserve statistical associations with environmental variables that co-vary with the imaging process? To answer this question, we probe SSL representations using co-located ERA5 reanalysis variables, a glob&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.05207v1</guid>
+      <pubDate>Mon, 06 Jul 2026 15:24:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Air Quality Downscaling with Station-Guided Pseudo-Supervision</title>
+      <link>http://arxiv.org/abs/2607.05292v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guorun Wang, Simone Foti, Andreas D. Demou, Leonidas Kotoulas, Theodoros Christoudias, Alexandros Koliousis, Mihalis Nicolaou, Stefanos Zafeiriou&lt;/p&gt;&lt;p&gt;Super-resolving coarse atmospheric fields to local PM$_{2.5}$ variations is uniquely challenged by a mismatch in spatial support: while pixels represent regional averages, ground-truth observations are discrete, unaligned samples of a continuous spatial signal. To bridge this gap, we present a station-guided framework for high-resolution PM$_{2.5}$ downscaling over Europe. Taking coarse CAMS atmospheric composition fields alongside heterogeneous side information (i.e., human activity, land cover, elevation, satellite aerosol observations, and wind fields) our framework jointly super-resolves (&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.05292v1</guid>
+      <pubDate>Mon, 06 Jul 2026 16:32:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biologically Informed Deep Neural Networks for Multi-Omic Integration, Pathway Activity Inference and Risk Stratification in Cancer</title>
+      <link>http://arxiv.org/abs/2607.05306v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pedro Henrique da Costa Avelar, Le Ou-Yang, Min Wu, Sophia Tsoka&lt;/p&gt;&lt;p&gt;Integrating complex, multi-omics data presents significant challenges. Existing approaches often face a trade-off between model interpretability and representational capacity, with most either relying on post-hoc interpretation or use linear models that may overlook complex interactions. We report Pathway Activity Autoencoders for the multi-omics setting, which embed prior knowledge via pathway-informed architectural constraints, fostering interpretability, while preserving representational power&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.05306v1</guid>
+      <pubDate>Mon, 06 Jul 2026 16:47:18 +0000</pubDate>
+    </item>
   </channel>
 </rss>
