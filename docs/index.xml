@@ -7,90 +7,125 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 09 Jul 2026 06:05:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 06:04:36 +0000</lastBuildDate>
     <item>
-      <title>Structural Adversarial Attacks on Relational Deep Learning under Integrity Constraints</title>
-      <link>http://arxiv.org/abs/2607.07089v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alan Gany, Bogdan Cautis, Silviu Maniu&lt;/p&gt;&lt;p&gt;Relational Deep Learning (RDL) has become a standard methodology for machine learning on relational databases: the database is encoded as a heterogeneous temporal graph in which tuples become nodes and primary-key to foreign-key (PK-FK) dependencies become typed edges, over which a graph neural network is trained for downstream prediction. We study the adversarial robustness of this pipeline. We consider a white-box attacker who knows how the graph is built and the model is trained, reasons about perturbations on the graph, but can only act on the upstream database, by rewiring foreign-key ref&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.07089v1</guid>
-      <pubDate>Wed, 08 Jul 2026 07:23:09 +0000</pubDate>
+      <title>PIT-SUN: A Deployable Empirical Marginal Transform Framework with Expectation-Consistent Recovery for Regression in Recommender Systems</title>
+      <link>http://arxiv.org/abs/2607.08202v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mingyu Zhao, Zhaohan Li, Zhenxiong Miao, Xu Zhang, Dewei Leng, Yanan Niu, Kun Gai&lt;/p&gt;&lt;p&gt;Estimating original-space conditional expectations is central to value-driven recommender systems, including dwell time, GMV, and LTV forecasting. Standard MSE is expectation-consistent in principle, but its gradients become unstable on heavy-tailed, zero-inflated, and multimodal targets, causing mean collapse and tail shrinkage. Target transformation alleviates this scale conflict, yet any useful nonlinear marginal transform loses expectation consistency under direct inversion&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08202v1</guid>
+      <pubDate>Thu, 09 Jul 2026 08:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>Predicting LLM Safety Before Release by Simulating Deployment</title>
-      <link>http://arxiv.org/abs/2607.07184v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marcus Williams, Hannah Sheahan, Cameron Raymond, Tomek Korbak, Deng Pan, Peilin Yang, Leon Maksin, Ningyi Xie&lt;/p&gt;&lt;p&gt;Pre-deployment safety evaluations aim to inform the downstream risks of releasing a new AI model. Yet most evaluations provide limited evidence about how often undesired model behavior will occur in deployment: they generally have insufficient coverage, are unrepresentative, and are generally recognizable as tests. To address these concerns, we study a simple way to simulate a model deployment: starting from de-identified conversations from a previous model deployment, we hold fixed the initial conversation prefix and regenerate the next response using a candidate model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.07184v1</guid>
-      <pubDate>Wed, 08 Jul 2026 09:17:47 +0000</pubDate>
+      <title>RhyMix: A Lightweight Adaptive Multi-Rhythm Network for Long-Term Time Series Forecasting</title>
+      <link>http://arxiv.org/abs/2607.08234v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sumit Satishrao Shevtekar, Chandresh Kumar Maurya&lt;/p&gt;&lt;p&gt;Real-world time series exhibit complex dynamics characterized by multiple simultaneous temporal patterns: short-term fluctuations, periodic seasonal cycles, long-term trends, and irregular abrupt changes. However, many existing forecasting architectures rely on single-path temporal modeling--transformers capture long-range dependencies but smooth local variations, convolutions capture local patterns but have limited receptive fields, and linear models are efficient but cannot capture nonlinear dynamics. To address this, we introduce RhyMix (RHYthm MIXture), a hybrid neural architecture designe&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08234v1</guid>
+      <pubDate>Thu, 09 Jul 2026 08:29:38 +0000</pubDate>
     </item>
     <item>
-      <title>BubbleSH: A Dataset of Rising Bubbles with Deformable Interfaces</title>
-      <link>http://arxiv.org/abs/2607.07275v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rachna Ramesh, Kiet Bennema ten Brinke, Douwe Orij, Ivo Roghair, Vlado Menkovski&lt;/p&gt;&lt;p&gt;Bubbly flows exhibit complex multiscale dynamics, with deformable bubbles interacting through the surrounding liquid and giving rise to strongly coupled kinematic and morphological behavior. We present BubbleSH, a bubbly flows dataset consisting of transient, three-dimensional bubble-swarm dynamics obtained from high-fidelity direct numerical simulations of bubbles rising in a periodic domain. The dataset provides time-resolved bubble trajectories, velocities, and shape evolution, with bubble morphology compactly represented using spherical harmonics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.07275v1</guid>
-      <pubDate>Wed, 08 Jul 2026 11:06:29 +0000</pubDate>
+      <title>Closing the Null Space: Guidance-Aware Quantization for Classifier-Free Diffusion</title>
+      <link>http://arxiv.org/abs/2607.08241v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abdullah Al Shafi, Sumaiya Rahim Suma&lt;/p&gt;&lt;p&gt;Deploying classifier-free guidance (CFG) diffusion models under real-world compute budgets requires quantization, yet existing post-training quantization (PTQ) methods treat CFG models as single-branch networks, ignoring the paired conditional/unconditional structure that CFG inference fundamentally relies on. This structural blind spot has two consequences. At the system level, the two-pass CFG execution pattern imposes a latency overhead that parameter-count and bit-operation metrics conceal entirely, and commodity INT8 inference stacks fail to realize the theoretical efficiency gains that B&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08241v1</guid>
+      <pubDate>Thu, 09 Jul 2026 08:42:07 +0000</pubDate>
     </item>
     <item>
-      <title>Super-Resolution of Radar/Raingauge-Analyzed Precipitation Using Gaussian Process Regression with a Steering Kernel</title>
-      <link>http://arxiv.org/abs/2607.07290v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shoichi Akami, Tsuyoshi T. Sekiyama, Mizuo Kajino&lt;/p&gt;&lt;p&gt;Super-resolution estimates a high-resolution image from a low-resolution image and has been used for downscaling and resolution enhancement of observations in meteorology. Super-resolution Gaussian process regression with a steering kernel (SRGP-SK) generates more accurate high-resolution images than super-resolution Gaussian process regression, but it has not yet been applied in meteorology. In this study, we applied SRGP-SK to radar/raingauge-analyzed precipitation for a convective case and a stratiform case, and evaluated the results using the structural similarity index (SSIM) and the radi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.07290v1</guid>
-      <pubDate>Wed, 08 Jul 2026 11:29:31 +0000</pubDate>
+      <title>Prediction-Powered Active Testing</title>
+      <link>http://arxiv.org/abs/2607.08347v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kianoosh Ashouritaklimi, Valentin Kilian, Daolang Huang, Tom Rainforth, François Caron&lt;/p&gt;&lt;p&gt;Active testing provides a label--efficient approach to risk estimation by adaptively selecting which test points should be labelled. However, existing estimators fail to exploit the informative predictions of powerful black--box models, even though such predictions are increasingly available in settings where labels remain expensive. To address this, we propose \textbf{Prediction--Powered Active Testing (PPAT)}, a novel label--efficient risk estimation framework that combines the unbiased LURE estimator \citep{farquhar2021statistical} with a prediction--powered control variate&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08347v1</guid>
+      <pubDate>Thu, 09 Jul 2026 10:52:24 +0000</pubDate>
     </item>
     <item>
-      <title>Hypergraph Neural Stochastic Diffusion: An SDE Framework for Uncertainty Estimation</title>
-      <link>http://arxiv.org/abs/2607.07330v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhiheng Zhou, Mengyao Zhou, Dengyi Zhao, Xingqin Qi, Guiying Yan&lt;/p&gt;&lt;p&gt;Hypergraph neural networks have shown powerful capability in modeling higher-order relations, yet their predictive uncertainty remains underexplored. Unlike pairwise graphs, uncertainty in hypergraphs arises not only from noisy attributes and ambiguous labels, but also from variations in node-hyperedge incidence structures and complex higher-order dependencies. Existing approaches mainly estimate uncertainty from final predictions or rely on computationally expensive ensembles and Bayesian inference, limiting their ability to capture uncertainty evolution during representation learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.07330v1</guid>
-      <pubDate>Wed, 08 Jul 2026 12:21:22 +0000</pubDate>
+      <title>WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving</title>
+      <link>http://arxiv.org/abs/2607.08375v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xuerun Yan, Zhexi Lian, Nuoheng Zhang, Shiyu Fang, Haoran Wang, Chen Lv, Jia Hu, Binyang Song&lt;/p&gt;&lt;p&gt;Vision-Language-Action (VLA) models have advanced end-to-end autonomous driving. However, existing methods either lack comprehensive world cognition or suffer from fragmented world foresight, inherently confining these models to reactive driving. To address this limitation, we propose WCog-VLA, a novel dual-level World-Cognitive VLA framework that successfully bridges semantic world forecasting with generative world evolution to achieve proactive autonomous driving&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08375v1</guid>
+      <pubDate>Thu, 09 Jul 2026 11:49:57 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum simulation of real-world nonlinear dynamics via Koopman method</title>
-      <link>http://arxiv.org/abs/2607.07338v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Baoyang Zhang, Dong An, Zhaoyuan Meng, Yefei Yu, Xiaoxiao Xiao, Zhen Lu, Yue Yang&lt;/p&gt;&lt;p&gt;Nonlinear dynamics is ubiquitous in nature, ranging from chemical pattern formation to ocean circulation, yet its simulation on quantum computers is fundamentally limited by the unitary nature of quantum evolution. We propose the quantum Koopman method, a data-driven framework that embeds nonlinear dynamics into a learned linear representation and implements the resulting evolution using shallow quantum circuits. This method learns Koopman observables from trajectory data, projects the lifted dynamics onto a finite-dimensional subspace, and decomposes the corresponding non-unitary propagator i&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.07338v1</guid>
-      <pubDate>Wed, 08 Jul 2026 12:27:12 +0000</pubDate>
+      <title>Eigenvalue Calibration for Semantic Embeddings of Large Language Models</title>
+      <link>http://arxiv.org/abs/2607.08377v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sebastian G. Gruber, Nassim Walha, Francis Bach, Florian Buettner&lt;/p&gt;&lt;p&gt;Uncertainty quantification is central to the reliable deployment of large language models (LLMs), and eigenvalues of semantic embeddings have recently emerged as a key tool in state-of-the-art methods. However, conventional calibration results developed for classification probabilities cannot be directly transferred to eigenvalues. We address this gap by proposing a novel framework for calibrating the eigenvalues of semantic embeddings&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08377v1</guid>
+      <pubDate>Thu, 09 Jul 2026 11:54:53 +0000</pubDate>
     </item>
     <item>
-      <title>HumAIN: Human-Aware Implicit Social Robot Navigation</title>
-      <link>http://arxiv.org/abs/2607.07357v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daeun Song, Nhat Le, Jeffrey Chen, Mohammad Nazeri, Amirreza Payandeh, Rohan Chandra, Reuth Mirsky, Ross Mead&lt;/p&gt;&lt;p&gt;Effective social robot navigation requires sensitivity to human behavior, often revealed through subtle skeletal cues like gait and orientation. We present Human-Aware Implicit Social Robot Navigation (HumAIN), a novel framework that fuses implicit social cues directly into the planning loop via knowledge distillation. We first employ a transformer-based teacher model that fuses rich multi-modal inputs, including historic images, skeletal keypoints, robot state, and a robot's target goal, to learn robust, human-aware representations for the robot's future trajectory planning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.07357v1</guid>
-      <pubDate>Wed, 08 Jul 2026 12:52:51 +0000</pubDate>
+      <title>Revisiting One-Zero and Two-Zero Neutrino Mass Textures in Light of Recent Oscillation and Cosmological Data</title>
+      <link>http://arxiv.org/abs/2607.08384v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haruto Kitagawa, Coh Miyao, Satsuki Nishimura, Hajime Otsuka&lt;/p&gt;&lt;p&gt;We revisit one-zero and two-zero textures of the neutrino mass matrix under current experimental and cosmological constraints. We identify the phenomenologically viable texture structures using the latest results on neutrino oscillation parameters, the cosmological bound on the sum of neutrino masses, the kinematic bound on the effective electron-neutrino mass, and limits from neutrinoless double-beta decay. For two-zero textures, several structures are still allowed if only the CMB bound on the neutrino mass sum is imposed&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08384v1</guid>
+      <pubDate>Thu, 09 Jul 2026 12:03:36 +0000</pubDate>
     </item>
     <item>
-      <title>Physics-Audited Agentic Discovery in Scientific Machine Learning</title>
-      <link>http://arxiv.org/abs/2607.07379v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Diab W. Abueidda, Bilal Ahmed, Panos Pantidis, Mostafa E. Mobasher&lt;/p&gt;&lt;p&gt;In agentic scientific machine learning (SciML), large language model (LLM) agents can discover surrogate models and select one by an automated score, typically an error metric. A low error, however, does not establish that the predicted fields satisfy the physics that matter for mechanics, such as boundary conditions, superposition, stiffness scaling, or causality. We introduce Physics-Audited Agentic SciML (PA-SciML), a verification-first workflow for agentic SciML discovery&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.07379v1</guid>
-      <pubDate>Wed, 08 Jul 2026 13:10:35 +0000</pubDate>
+      <title>ADORN: Adaptive Drift handling for Open RAN using Reinforcement Learning</title>
+      <link>http://arxiv.org/abs/2607.08443v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ashit Kumar Subudhi, Bhargav Chirumamilla, Shubham Vaishnav, Mduduzi C. Hlophe, Praveen Kumar Donta, Andrea Fumagalli, Venkateswarlu Gudepu, Koteswararao Kondepu&lt;/p&gt;&lt;p&gt;Dynamic traffic variations in Open Radio Access Networks (O-RAN) lead to drift, which degrades the performance of Artificial Intelligence/Machine Learning (AI/ML) models. Traditional retraining approaches maintain forecasting accuracy but incur high computational cost and may lead to violations of Service Level Agreements (SLAs). This work proposes a Q-learning-based adaptive retraining approach that formulates the retraining decision as a Markov Decision Process (MDP), where a Reinforcement Learning (RL) agent learns a policy that balances forecasting accuracy and retraining cost&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08443v1</guid>
+      <pubDate>Thu, 09 Jul 2026 13:05:42 +0000</pubDate>
     </item>
     <item>
-      <title>TimEE: End-to-end Time Series Classification via In-Context Learning</title>
-      <link>http://arxiv.org/abs/2607.07500v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jaris Küken, Shi Bin Hoo, Martin Mráz, Frank Hutter, Lennart Purucker&lt;/p&gt;&lt;p&gt;Time series classification (TSC) is dominated by a two-stage paradigm: train a feature encoder -- either from scratch on the target dataset or via pretraining on large corpora -- and then fit a task-specific classifier on top. While effective, this decoupling optimizes representation learning independently of the classification objective, requires per-dataset training, and prevents the model from exploiting label information during inference. We introduce TimEE, a 4.5M-parameter foundation model for end-to-end TSC via in-context learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.07500v1</guid>
-      <pubDate>Wed, 08 Jul 2026 14:58:06 +0000</pubDate>
+      <title>Predicting Viticulture Potential through an Ensemble of U-Net and a Geospatial Foundation Model</title>
+      <link>http://arxiv.org/abs/2607.08449v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jorge Ignacio Perez, Hwaai Kang Kee, Lucas Rassbach&lt;/p&gt;&lt;p&gt;Determining agricultural potential is fundamental to sustainable land management and agricultural planning. Remote sensing data is increasingly valuable as an avenue for agricultural potential due to the cost of traditional methods (surveys, in-situ measurements, soil testing, etc). ImageCLEF AI4Agri 2026: Subtask 1 is concerned with the prediction of viticulture potential in Southern France&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08449v1</guid>
+      <pubDate>Thu, 09 Jul 2026 13:12:47 +0000</pubDate>
     </item>
     <item>
-      <title>Asymmetric Focal Loss Improves Graph Neural Network Prediction of Drug-Drug Interactions</title>
-      <link>http://arxiv.org/abs/2607.07611v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Faranak Hatami, Mousa Moradi&lt;/p&gt;&lt;p&gt;Background: Graph neural networks improve computational prediction of polypharmacy side effects, but standard binary cross-entropy training allocates equal capacity to well-classified and difficult examples, potentially missing clinically significant interactions. We evaluated whether an asymmetric focal objective could improve multi-relational drug-drug interaction (DDI) prediction by emphasizing difficult positive interactions. Methods: ClinicalFocal loss was integrated into a relation-aware graph convolutional network using molecular fingerprints, physicochemical descriptors, and learned em&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.07611v1</guid>
-      <pubDate>Wed, 08 Jul 2026 16:28:57 +0000</pubDate>
+      <title>Spatio-Temporal Scheduling Prediction Under Backhaul Delay for Resilient Coordinated Beamforming</title>
+      <link>http://arxiv.org/abs/2607.08454v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Prashant Kumar Singh, Shubham Vaishnav, Ahmet Hasim Gökceoglu, Li Wang&lt;/p&gt;&lt;p&gt;Coordinated beamforming in distributed 5G networks relies on the timely exchange of inter-cell scheduling information, but backhaul latency makes this information stale. Even a single transmission time interval (TTI) of delay can reduce CBF-SLNR performance below the uncoordinated baseline, because the precoder suppresses interference toward users that are no longer active. Coordination on stale information is therefore worse than no coordination at all&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08454v1</guid>
+      <pubDate>Thu, 09 Jul 2026 13:17:22 +0000</pubDate>
     </item>
     <item>
-      <title>Higher-Order Geometric Updates for Levenberg-Marquardt Method via Riemann Normal Coordinates</title>
-      <link>http://arxiv.org/abs/2607.07623v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jianing Liu, Dong H. Zhang&lt;/p&gt;&lt;p&gt;Nonlinear least-squares optimization is central to regression, physics-informed neural networks, and other machine-learning tasks. Such problems have a natural geometric interpretation, model predictions form a manifold in data space, while the chosen parameterization can introduce parameter-effects curvature that becomes a dominant source of nonlinearity. This exposes a limitation of the Levenberg-Marquardt (LM) method, its tangent-space step is applied as a straight update in parameter coordinates&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.07623v1</guid>
-      <pubDate>Wed, 08 Jul 2026 16:39:03 +0000</pubDate>
+      <title>Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints</title>
+      <link>http://arxiv.org/abs/2607.08465v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Javier Izquierdo, Aygul Zagidullina&lt;/p&gt;&lt;p&gt;I-JEPA and V-JEPA learn by matching latent predictions to target encoder outputs rather than regenerating the original input, and this has worked well for images and video. We explore whether the same objective works for compact network fingerprints. We built JA4-JEPA, a Transformer-based model trained on JA4, JA4H, JA4S, and JA4X subfields drawn from JA4DB and CIC-IDS- 2017&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08465v1</guid>
+      <pubDate>Thu, 09 Jul 2026 13:22:58 +0000</pubDate>
     </item>
     <item>
-      <title>Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning</title>
-      <link>http://arxiv.org/abs/2607.07708v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chen Tang, Yizhou Wang, Jianyu Wu, Lintao Wang, Shixiang Tang, Pengze Li, Encheng Su, Jun Yao&lt;/p&gt;&lt;p&gt;Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relationships requires interpreting structural evidence through scientific principles and physical constraints, from stereochemistry and bonding to symmetry, energetics and periodic order. However, applying artificial intelligence to this process presents a joint challenge of representation and reasoning: models must preserve domain-native structural information w&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.07708v1</guid>
-      <pubDate>Wed, 08 Jul 2026 17:59:59 +0000</pubDate>
+      <title>Ensemble Diversity Optimization for Subjective Supervision</title>
+      <link>http://arxiv.org/abs/2607.08493v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xia Cui, Ziyi Huang, N. R. Abeynayake&lt;/p&gt;&lt;p&gt;Subjective NLP tasks often exhibit systematic annotator disagreement, requiring models that represent uncertainty rather than collapse it. We introduce Ensemble Diversity Optimization (EDO), a prediction-space framework that jointly optimizes ensemble weights, effective cardinality, and calibration through a unified differentiable objective. EDO learns ensemble composition and size end-to-end via Gumbel-Softmax relaxation and incorporates a signed diversity regularizer, tuned on validation data, to steer optimization toward either preserving or suppressing disagreement&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08493v1</guid>
+      <pubDate>Thu, 09 Jul 2026 13:53:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Federated Deep Learning for Privacy-Preserving Cardiovascular Disease Risk Prediction</title>
+      <link>http://arxiv.org/abs/2607.08595v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hyunho Mo, Djura Smits, Mahlet A. Birhanu, Maarten J. G. Leening, Daniel Bos, Pim van der Harst, Esther E. Bron&lt;/p&gt;&lt;p&gt;Cardiovascular disease risk prediction models often rely on data from a single institution or centrally pooled datasets. Extending these models across institutions could be limited by privacy regulations and constraints on sharing patient-level data. Federated learning enables collaborative model development without transferring sensitive patient data, but its application in healthcare remains challenging because datasets often differ in size, population characteristics, and outcome definitions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08595v1</guid>
+      <pubDate>Thu, 09 Jul 2026 15:29:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steering Neural Network Training through Interpretable Constraints Based on Partial Dependence</title>
+      <link>http://arxiv.org/abs/2607.08641v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yann Claes, Pierre Geurts, Vân Anh Huynh-Thu&lt;/p&gt;&lt;p&gt;Over the last few years, there has been an increased interest in making machine learning models more interpretable. Although a great deal of effort goes into developing techniques for interpreting the interactions learned by a given model, fewer studies focus on assessing the quality of such explanations. Even fewer focus on how to adjust the model to produce explanations faithful to prior knowledge, a process known as explanation-guided learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08641v1</guid>
+      <pubDate>Thu, 09 Jul 2026 16:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing</title>
+      <link>http://arxiv.org/abs/2607.08646v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xinlong Zhao, Dongsheng Liu, Hengyu Zhao, Zixuan Fu, Zheng Wang, Jie Cai, Jie Zhou, Qiang Ma&lt;/p&gt;&lt;p&gt;As available training data approaches its physical limit, gains from Scaling Laws have begun to diminish. Consequently, improving Large Language Models (LLMs) now depends less on data expansion and more on higher-quality data utilization. However, in the context of large-scale corpora, existing refinement methodologies face significant limitations in quality, efficiency, and reliability: Rule-based approaches are constrained by fixed heuristics and struggle with instance-level variations; LLM-based approaches improve quality but fail to meet the efficiency and reliability requirements of large&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08646v1</guid>
+      <pubDate>Thu, 09 Jul 2026 16:18:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction</title>
+      <link>http://arxiv.org/abs/2607.08725v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ayda Eghbalian, Kevin Desai&lt;/p&gt;&lt;p&gt;Recent progress in 3D human pose estimation has made markerless recovery of skeletal motion increasingly accurate and scalable. However, most pose estimators remain optimized for geometric keypoint accuracy, while many real-world applications in rehabilitation, sports science, ergonomics, and clinical movement analysis require biomechanical quantities that describe how the body moves, loads, and activates. In this work, we propose BioModule, a lightweight plug-in temporal transformer that attaches downstream of any 3D pose estimator and predicts biomechanical attributes from standard 17-joint &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08725v1</guid>
+      <pubDate>Thu, 09 Jul 2026 17:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding</title>
+      <link>http://arxiv.org/abs/2607.08745v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Siddharth Damodharan, Radhika Gupta, Ali Alshami, Ryan Rabinowitz, Jugal Kalita&lt;/p&gt;&lt;p&gt;Recent advances in Vision-Language Models, Large Language Models, and Multimodal Large Language Models have improved autonomous driving tasks such as scene understanding, decision making, trajectory prediction, and visual question answering. However, evaluating whether these models can reliably reason about safety-critical incidents remains challenging. To address this gap, we present AUTOPILOT-VQA, an incident-centric visual question answering benchmark for dashcam video understanding&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.08745v1</guid>
+      <pubDate>Thu, 09 Jul 2026 17:46:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
