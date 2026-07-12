@@ -7,20 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 11 Jul 2026 05:14:16 +0000</lastBuildDate>
-    <item>
-      <title>Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction</title>
-      <link>http://arxiv.org/abs/2607.08725v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ayda Eghbalian, Kevin Desai&lt;/p&gt;&lt;p&gt;Recent progress in 3D human pose estimation has made markerless recovery of skeletal motion increasingly accurate and scalable. However, most pose estimators remain optimized for geometric keypoint accuracy, while many real-world applications in rehabilitation, sports science, ergonomics, and clinical movement analysis require biomechanical quantities that describe how the body moves, loads, and activates. In this work, we propose BioModule, a lightweight plug-in temporal transformer that attaches downstream of any 3D pose estimator and predicts biomechanical attributes from standard 17-joint &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.08725v1</guid>
-      <pubDate>Thu, 09 Jul 2026 17:31:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding</title>
-      <link>http://arxiv.org/abs/2607.08745v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Siddharth Damodharan, Radhika Gupta, Ali Alshami, Ryan Rabinowitz, Jugal Kalita&lt;/p&gt;&lt;p&gt;Recent advances in Vision-Language Models, Large Language Models, and Multimodal Large Language Models have improved autonomous driving tasks such as scene understanding, decision making, trajectory prediction, and visual question answering. However, evaluating whether these models can reliably reason about safety-critical incidents remains challenging. To address this gap, we present AUTOPILOT-VQA, an incident-centric visual question answering benchmark for dashcam video understanding&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.08745v1</guid>
-      <pubDate>Thu, 09 Jul 2026 17:46:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 05:29:21 +0000</lastBuildDate>
   </channel>
 </rss>
