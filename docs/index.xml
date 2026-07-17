@@ -7,83 +7,125 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 16 Jul 2026 05:11:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 05:17:46 +0000</lastBuildDate>
     <item>
-      <title>Temperature Scaling Is Not Enough: Calibration Gaps Under Human Label Distributions</title>
-      <link>http://arxiv.org/abs/2607.13423v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wisdom Dogah&lt;/p&gt;&lt;p&gt;Temperature scaling is the dominant post-hoc calibration method in modern deep learning. Its theoretical justification rests on an assumption that is rarely stated explicitly: that ground-truth labels are one-hot and deterministic. In practice, labels are frequently soft, crowd-sourced, or genuinely distributional, reflecting real disagreement among human annotators rather than annotation noise&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.13423v1</guid>
-      <pubDate>Wed, 15 Jul 2026 03:52:06 +0000</pubDate>
+      <title>Grad2Fair: A Gradient-driven Approach for Graph Fairness without Demographics</title>
+      <link>http://arxiv.org/abs/2607.14705v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuchang Zhu, Zezhong Xie, Huizhe Zhang, Huazhen Zhong, Jintang Li, Liang Chen, Zibin Zheng&lt;/p&gt;&lt;p&gt;Graph neural networks (GNNs) frequently encounter group fairness issues, often yielding biased predictions against specific demographic groups defined by sensitive attributes such as gender or race. While this challenge has motivated extensive research, most existing solutions rely on the strong assumption that demographics are fully available. To bypass this strict requirement, a few recent studies have attempted to use predicted demographics as proxies to enforce fairness constraints&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.14705v1</guid>
+      <pubDate>Thu, 16 Jul 2026 08:06:39 +0000</pubDate>
     </item>
     <item>
-      <title>Learning Physics-Guided Residual Dynamics for Deformable Object Simulation</title>
-      <link>http://arxiv.org/abs/2607.13451v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shivansh Patel, Kaifeng Zhang, Sanjay Pokkali, Svetlana Lazebnik, Yunzhu Li&lt;/p&gt;&lt;p&gt;Simulating deformable objects is essential for a wide range of robotic manipulation applications, yet accurately predicting their dynamics remains challenging. We propose Physics-Guided Residual Dynamics (PGRD), a hybrid simulation framework that combines the advantages of physics-based and learning-based approaches. Specifically, PGRD combines an optimizable spring-mass simulator as a backbone with a learned neural network that predicts residual corrections to the physics-based predictions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.13451v1</guid>
-      <pubDate>Wed, 15 Jul 2026 05:15:43 +0000</pubDate>
+      <title>Multimodality as Supervision: Self-Supervised Specialization to the Test Environment via Multimodality</title>
+      <link>http://arxiv.org/abs/2607.14721v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kunal Pratap Singh, Ali Garjani, Rishubh Singh, Muhammad Uzair Khattak, Efe Tarhan, Jason Toskov, Andrei Atanov, Oğuzhan Fatih Kar&lt;/p&gt;&lt;p&gt;Cross-modal learning, i.e., learning to predict one modality from another, is a fundamental mechanism for self-supervision via leveraging multimodality. Many practical applications, e.g., deploying a household robot, involve devices that are equipped with a rich set of sensors that enable multimodal sensing in their test environment. This presents an opportunity to apply cross-modal learning to the multimodal data sensed by these devices to learn representations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.14721v1</guid>
+      <pubDate>Thu, 16 Jul 2026 08:36:54 +0000</pubDate>
     </item>
     <item>
-      <title>Clustering algorithms for multivariate wind farm SCADA data filtering</title>
-      <link>http://arxiv.org/abs/2607.13544v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nicolò Italiano, Vasilis Pettas, Tuhfe Göçmen, Nicolaos A. Cutululis&lt;/p&gt;&lt;p&gt;During wind farm operation, Supervisory Control and Data Acquisition (SCADA) systems record numerous anomalies, transients, and specific operational modes, leading to large datasets. However, for a wide range of applications, only measurements corresponding to normal operation are required and, therefore, the SCADA data must be filtered. For this purpose, several methods have been proposed to automate and replace manual filtering conducted by experts via visual inspection of the data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.13544v1</guid>
-      <pubDate>Wed, 15 Jul 2026 07:45:27 +0000</pubDate>
+      <title>GAttNHP: Group Attention Neural Hawkes Process for Extrapolation Reasoning in Temporal Knowledge Graphs</title>
+      <link>http://arxiv.org/abs/2607.14733v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiangni Tian, Kaixian Yu, Runpeng Dai, Niansheng Tang, Hongtu Zhu&lt;/p&gt;&lt;p&gt;Temporal Knowledge Graphs (TKGs) record how facts evolve over time, but forecasting future events on a TKG remains difficult for three reasons: (i) long-range temporal dependencies are hard to encode; (ii) events on different chains mutually excite or inhibit one another in ways that snapshot-level models cannot express; and (iii) inter-arrival times are heavy-tailed and statistically sparse, so deterministic time predictors are unreliable. We address these three issues with a single framework, the \textbf{Group Attention Neural Hawkes Process (GAttNHP)}, built around three matched components.&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.14733v1</guid>
+      <pubDate>Thu, 16 Jul 2026 08:58:05 +0000</pubDate>
     </item>
     <item>
-      <title>How the Hessian-Spectrum of Neural Networks Depends on Data</title>
-      <link>http://arxiv.org/abs/2607.13631v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jasraj Singh, Enea Monzio Compagnoni, Antonio Orvieto&lt;/p&gt;&lt;p&gt;The Hessian matrix is an important quantity of interest when it comes to studying the loss landscape and optimization dynamics in deep learning, as well as designing measures of generalization, second-order learning algorithms, etc. Prior works have focused on empirical results or pursued a theoretical treatment under overly simplified settings. In this work, we derive the eigenvalues of the Hessian of linear networks with arbitrary widths and depths, and datasets with an arbitrary number of samples, features, and labels&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.13631v1</guid>
-      <pubDate>Wed, 15 Jul 2026 09:25:49 +0000</pubDate>
+      <title>A Unified Conceptual Framework for Gravitational Instabilities: From Latent System State to Failure</title>
+      <link>http://arxiv.org/abs/2607.14831v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jérome Faillettaz&lt;/p&gt;&lt;p&gt;Gravitational instabilities are among the most widespread natural hazards and are expected to become increasingly significant under ongoing environmental change. Despite substantial advances in process understanding, monitoring, and modeling, predicting the timing of failure remains a fundamental challenge because instability emerges from complex interactions operating across multiple spatial and temporal scales. Existing approaches often focus on specific processes, forcing mechanisms, or observational signatures, resulting in a fragmented view of how systems evolve toward failure&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.14831v1</guid>
+      <pubDate>Thu, 16 Jul 2026 10:50:09 +0000</pubDate>
     </item>
     <item>
-      <title>Microstructure-Conditioned Surrogate Models for Graded Multiscale Optimization of Mycelium Composites</title>
-      <link>http://arxiv.org/abs/2607.13688v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; J. Storm, I. B. C. M. Rocha, S. Schyck, K. Masania, F. P. van der Meer&lt;/p&gt;&lt;p&gt;Emerging sustainable materials increasingly rely on engineered hierarchy and microstructure to achieve control of their properties and mechanical behavior. Optimizing these materials with controllable microstructures requires efficient multiscale simulations. Data-driven surrogate models for the microscale can accelerate multiscale simulations, but require large amounts of data even for a fixed microstructure&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.13688v1</guid>
-      <pubDate>Wed, 15 Jul 2026 10:31:08 +0000</pubDate>
+      <title>Asymmetric Peak-Aware Loss for Peak-Critical Time Series Forecasting</title>
+      <link>http://arxiv.org/abs/2607.14871v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Theivaprakasham Hari, Yanan Xin, Winnie Daamen, Serge Paul Hoogendoorn, Sascha Hoogendoorn-Lanser&lt;/p&gt;&lt;p&gt;In many operational time-series forecasting applications, such as crowd demand forecasting, the risk related to under-prediction is substantially higher than that of over-prediction. Accurate prediction of rare demand spikes plays a critical role in downstream tasks. Yet most time-series forecasters are trained with symmetric objectives (e.g., MSE, MAE) and evaluated primarily on aggregate error, which can mask failures in extreme-values and peak-timing predictions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.14871v1</guid>
+      <pubDate>Thu, 16 Jul 2026 11:44:48 +0000</pubDate>
     </item>
     <item>
-      <title>Implementations of Quantum and Classical Topology-Aligned Architectures for Molecular Property Prediction</title>
-      <link>http://arxiv.org/abs/2607.13737v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; James T. Pegg, Hubert Okadome Valencia, Ronin Wu&lt;/p&gt;&lt;p&gt;For low-data and resource-constrained regimes typical of quantum chemistry, parameter-efficient learning is a key objective. Here, we propose a topology-aligned inductive bias in which the model architecture mirrors the molecular bond graph: atoms map to a fixed register of computational units, and bonds determine which pairs interact through shared learnable parameters. This principle is instantiated in two architectures: a variational quantum circuit (Iso-QGNN), and a parameter-matched classical message-passing model (Iso-CGNN)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.13737v1</guid>
-      <pubDate>Wed, 15 Jul 2026 11:54:02 +0000</pubDate>
+      <title>Reachability-Aware Pretraining for Efficient Target-Oriented Path Exploration in Temporal Knowledge Graph Reasoning</title>
+      <link>http://arxiv.org/abs/2607.14886v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chien-Liang Liu, Tsao-Lun Chen&lt;/p&gt;&lt;p&gt;Temporal Knowledge Graph (TKG) reasoning under the extrapolation setting focuses on forecasting future time-stamped events (facts) from historical data in a temporal knowledge graph. Existing approaches, reinforcement learning (RL)-based multi-hop reasoning methods are prominent for TKG reasoning because they produce human-interpretable predictions via explicit multi-hop path tracing. However, during RL training, rewards are typically sparse, and exploration is highly inefficient due to the vast, time-evolving action space&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.14886v1</guid>
+      <pubDate>Thu, 16 Jul 2026 11:59:01 +0000</pubDate>
     </item>
     <item>
-      <title>Algebraic Representability as the Limiting Regime of Grokking: An Exactly Solvable Model with Holomorphic Activations</title>
-      <link>http://arxiv.org/abs/2607.13749v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chon-Fai Kam, Xavier Cadet, Miloud Bessafi, Frederic Cadet&lt;/p&gt;&lt;p&gt;Neural networks trained on modular arithmetic exhibit grokking, a delayed transition from memorisation to generalisation known to depend on model capacity: too little and the network memorises slowly or not at all, too much and it generalises almost immediately. What happens at the extreme of this spectrum, when the architecture's expressible function class collapses to a finite-dimensional algebraic variety? We study two-layer networks with a holomorphic monomial activation sigma(z)=z^k, trained on modular tasks encoded via roots of unity. Here the network output, regardless of hidden width, &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.13749v1</guid>
-      <pubDate>Wed, 15 Jul 2026 12:04:43 +0000</pubDate>
+      <title>A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems</title>
+      <link>http://arxiv.org/abs/2607.14937v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Christoph Jürgen Hemmer, Florian Plaswig, Daniel Durstewitz&lt;/p&gt;&lt;p&gt;Recent foundation models (FMs) for zero-shot reconstruction of dynamical systems (DS) achieve strong out-of-domain generalization but provide little insight into the mechanisms that underlie their forecasts. Such an understanding could help to strip down overladen FM architectures to their bare essence and expose the minimal requirements for in-context learning in the DS domain. Toward this goal, here we iteratively reduce a recent powerful SOTA model for DS reconstruction, DynaMix (Hemmer &amp; Durstewitz, 2025), to a minimal interpretable two-parameter form, which we call DynaBase&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.14937v1</guid>
+      <pubDate>Thu, 16 Jul 2026 12:49:06 +0000</pubDate>
     </item>
     <item>
-      <title>Heavy-Tailed Flow Matching via Random Clocks</title>
-      <link>http://arxiv.org/abs/2607.13841v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhouhao Yang, Yezhen Wang, Kenji Kawaguchi, Vladimir Braverman, Haoyang Cao&lt;/p&gt;&lt;p&gt;Heavy-tailed data arise in many domains where rare events carry disproportionate importance, such as imbalanced image datasets, financial returns, and weather extremes. Standard diffusion and flow-matching models typically begin from Gaussian noise or Gaussian source distributions, which yield tractable training targets but provide a poor inductive match for heavy-tailed data. We propose Heavy-Tailed Flow Matching via Random Clocks (HTFM), a framework that portrays heavy-tailed sources as mixtures of clock-conditioned Gaussian sources&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.13841v1</guid>
-      <pubDate>Wed, 15 Jul 2026 13:48:05 +0000</pubDate>
+      <title>Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation</title>
+      <link>http://arxiv.org/abs/2607.14970v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Paul Darm, Cem Alpturk, Kenneth Ulrich, William Duncan, Ali Anwar, Annalisa Riccardi&lt;/p&gt;&lt;p&gt;Automated optimisation is increasingly adopted in industrial processes, yet a trust gap persists between engineers who design these algorithms and operators who must act on their recommendations. Explainable AI methods like SHAP (SHapley Additive exPlanations) have transformed interpretability for machine learning predictions; optimisation outputs could benefit from similar techniques. We present an approach that integrates Implicit Function Theorem (IFT) based sensitivity analysis with SHAP attribution and narrative generation via Large Language Models (LLM), producing explanations tailored f&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.14970v1</guid>
+      <pubDate>Thu, 16 Jul 2026 13:25:53 +0000</pubDate>
     </item>
     <item>
-      <title>AI-Augmented Adaptive Digital Twin Modeling for Brain Tumor Evolution Prediction and Treatment Scheduling</title>
-      <link>http://arxiv.org/abs/2607.13877v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wenxi Liu, Michael Trimboli, Xianqi Li&lt;/p&gt;&lt;p&gt;Brain tumor progression exhibits spatially heterogeneous growth, patient-specific treatment response, and complex interactions with surrounding anatomy, making accurate long-term prediction challenging. We propose an AI-augmented adaptive digital twin (DT) framework for brain tumor evolution prediction and treatment scheduling. The framework integrates an interpretable reaction--diffusion (RD) model, a 3D residual learning module for model-form correction, patient-specific DT updating during recursive rollout, and model predictive control (MPC) for constrained chemotherapy and radiotherapy sch&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.13877v1</guid>
-      <pubDate>Wed, 15 Jul 2026 14:26:14 +0000</pubDate>
+      <title>CFM-Bench: A Unified Multi-Domain, Multi-Task Benchmark for Channel Foundation Models</title>
+      <link>http://arxiv.org/abs/2607.14975v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuan Gao, Wenjun Yu, Jun Jiang, Yunfan Li, Xinyu Guo, Shugong Xu&lt;/p&gt;&lt;p&gt;Channel foundation models (CFMs) are developing rapidly, with recent studies reporting benefits from pretraining across downstream wireless tasks. Yet CFMs are commonly evaluated in model-specific pipelines with different data, radio configurations, partitions, adaptation procedures, task definitions, and metrics. Reported comparisons therefore tend to show that pretraining improves over supervised training from scratch within one pipeline, but neither rank CFMs nor compare them fairly with task-specific models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.14975v1</guid>
+      <pubDate>Thu, 16 Jul 2026 13:29:02 +0000</pubDate>
     </item>
     <item>
-      <title>Improving Wind and Solar Power Prediction with Efficient Wrapper-based Feature Selection: An Empirical Study</title>
-      <link>http://arxiv.org/abs/2607.14024v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daniel Grillmeyer, Marius Hadry, Michael Stenger, Vanessa Borst, Veronika Lesch, Samuel Kounev&lt;/p&gt;&lt;p&gt;With rising global energy demand and growing awareness of climate change and its impacts, the share of renewable energies in the global energy mix continues to grow. Unlike conventional power generation, the output of renewable energy sources cannot be controlled as consistently due to their dependence on environmental conditions. Therefore, reliable prediction of current and future energy production is essential&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.14024v1</guid>
-      <pubDate>Wed, 15 Jul 2026 16:55:42 +0000</pubDate>
+      <title>Atmospheric evolution through outgassing and escape on young molten rocky exoplanets</title>
+      <link>http://arxiv.org/abs/2607.15011v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Emma Postolec, Tim Lichtenberg, Harrison Nicholls, Laurent Soucasse, Floris van der Tak&lt;/p&gt;&lt;p&gt;The earliest rocky planet atmospheres are shaped by competition between initial volatile inventories and atmospheric escape. On young magma ocean planets, outgassing competes with atmospheric escape, controlling volatile retention and atmospheric evolution. We investigate how atmospheric escape and replenishment via outgassing during magma ocean crystallization shape rocky planet atmospheres&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.15011v1</guid>
+      <pubDate>Thu, 16 Jul 2026 14:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>Leveraging unlabelled data for generalizable neural population decoding</title>
-      <link>http://arxiv.org/abs/2607.14086v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ximeng Mao, Nanda H. Krishna, Avery Hee-Woon Ryoo, Matthew G. Perich, Guillaume Lajoie&lt;/p&gt;&lt;p&gt;Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike level facilitates multi-session pretraining and delivers state-of-the-art decoding performance. However, current spike-based models are restricted to supervised learning (SL), limiting training to datasets with paired behavioural labels&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.14086v1</guid>
-      <pubDate>Wed, 15 Jul 2026 17:58:00 +0000</pubDate>
+      <title>Towards Hierarchical Structure Understanding of Newspaper Images</title>
+      <link>http://arxiv.org/abs/2607.15082v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; William Mocaër, Solène Tarride, Thomas Constum, Merveilles Agbeti-Messan, Tom Simon, Clément Chatelain, Stéphane Nicolas, Pierrick Tranouez&lt;/p&gt;&lt;p&gt;Understanding newspaper images remains a challenging task due to their complex, nested hierarchical structures and dense, heterogeneous layouts. In this paper, we explore two complementary approaches for newspaper structure understanding. First, we present a modular bottom-up pipeline that combines state-of-the-art open-source models: YOLO for layout detection, LayoutReader for reading order prediction, and a custom algorithm for article segmentation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.15082v1</guid>
+      <pubDate>Thu, 16 Jul 2026 14:52:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning in Infinitesimal Non-Compositional Sketches</title>
+      <link>http://arxiv.org/abs/2607.15107v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sridhar Mahadevan&lt;/p&gt;&lt;p&gt;This paper develops a categorical framework -- Learning in Infinitesimal Non-Compositional Sketches (LINCS) -- as the repair of non-compositionality: failures of diagrams to factor through quotient sketches lifted to the tangent category setting. Machine learning problems are specified as sketches: graphs with commutativity conditions $\mathcal D$, limit cones $\mathcal L$, and colimit cocones $\mathcal K$, generalizing the usual scalarization of loss functions or vector space assumptions. Non-compositionality is defined purely as failure of a universal factorization problem, not as arithmetic&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.15107v1</guid>
+      <pubDate>Thu, 16 Jul 2026 15:18:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>RTS Smoother-Guided Learning of Physics-Based Neural Differential Models</title>
+      <link>http://arxiv.org/abs/2607.15180v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ahmet Demirkaya, Georgios Stratis, Tales Imbiriba, Zachary D. Danziger, Deniz Erdogmus&lt;/p&gt;&lt;p&gt;Ordinary differential equations (ODEs) are widely used to model dynamical systems in physics, biology, neuroscience, and physiology, but in many applications some equations of the dynamics are unknown and only a subset of the state variables are measured. We propose a hybrid neural--physics framework in which the known components of the ODE are kept explicit and the missing components are represented by a neural network. The proposed method consists of two stages where we alternate between state and parameter estimation and iterate until a predetermined criterion is met&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.15180v1</guid>
+      <pubDate>Thu, 16 Jul 2026 16:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mask-Aware Policy Gradients for Diffusion Language Models</title>
+      <link>http://arxiv.org/abs/2607.15200v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haran Raajesh, Kulin Shah, Adam Klivans, Philipp Krähenbühl&lt;/p&gt;&lt;p&gt;Reinforcement learning has proven effective for improving reasoning in large language models, but extending it to Masked Diffusion Language Models (MDLMs) remains challenging due to the intractability of the log-likelihood estimation. Existing approaches approximate this log-likelihood by modeling only the token predictions, ignoring the order in which positions are unmasked during generation. We observe that MDLM generation involves two decisions at each step: what tokens to place at each masked position and which positions to remask&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.15200v1</guid>
+      <pubDate>Thu, 16 Jul 2026 16:57:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sulfur photochemistry observationally traces mantle redox states of rocky planets</title>
+      <link>http://arxiv.org/abs/2607.15204v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ioannis Panagiotou, Tim Lichtenberg, Shang-Min Tsai, Harrison Nicholls&lt;/p&gt;&lt;p&gt;Volatile outgassing from planetary interiors controls the composition of rocky exoplanets' secondary atmospheres. However, observations indicate that disequilibrium processes, such as photochemistry and vertical transport, can strongly alter the chemical structure of Hot Jupiters. Which process dominates under different types of rocky planets, and how outgassing and photochemistry jointly determine the atmospheric composition, remain open questions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.15204v1</guid>
+      <pubDate>Thu, 16 Jul 2026 17:01:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data</title>
+      <link>http://arxiv.org/abs/2607.15254v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Qiwei Li, Jorge Ortiz&lt;/p&gt;&lt;p&gt;Traffic agencies now have access to large volumes of video-derived data for studying safety and congestion. Most of these data are observational and collected without interventions, which makes causal questions such as "How would rain change traffic density?" difficult to answer. We present teLLMe, a system for exploratory causal analysis of urban driving datasets&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.15254v1</guid>
+      <pubDate>Thu, 16 Jul 2026 17:49:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier</title>
+      <link>http://arxiv.org/abs/2607.15258v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arthur G. Bubolz, Abreu Quevedo, Giancarlo Lucca, Rafael A. Berri, Eduardo Borges, Bruno L. Dalmazo&lt;/p&gt;&lt;p&gt;The growing use of Bitcoin as a decentralized digital asset and investment tool has sparked strong interest in understanding its market behavior. This study presents a new approach to analyze Bitcoin market sentiment by combining on-chain and financial data with social media posts. Unlike models that aim to predict prices, this work focuses on explaining market sentiment using blockchain transactions, historical price data of Bitcoin, and daily Twitter sentiment classifications&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.15258v1</guid>
+      <pubDate>Thu, 16 Jul 2026 17:52:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
