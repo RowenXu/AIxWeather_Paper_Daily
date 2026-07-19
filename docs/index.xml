@@ -7,34 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 18 Jul 2026 04:49:21 +0000</lastBuildDate>
-    <item>
-      <title>Mask-Aware Policy Gradients for Diffusion Language Models</title>
-      <link>http://arxiv.org/abs/2607.15200v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haran Raajesh, Kulin Shah, Adam Klivans, Philipp Krähenbühl&lt;/p&gt;&lt;p&gt;Reinforcement learning has proven effective for improving reasoning in large language models, but extending it to Masked Diffusion Language Models (MDLMs) remains challenging due to the intractability of the log-likelihood estimation. Existing approaches approximate this log-likelihood by modeling only the token predictions, ignoring the order in which positions are unmasked during generation. We observe that MDLM generation involves two decisions at each step: what tokens to place at each masked position and which positions to remask&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.15200v1</guid>
-      <pubDate>Thu, 16 Jul 2026 16:57:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sulfur photochemistry observationally traces mantle redox states of rocky planets</title>
-      <link>http://arxiv.org/abs/2607.15204v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ioannis Panagiotou, Tim Lichtenberg, Shang-Min Tsai, Harrison Nicholls&lt;/p&gt;&lt;p&gt;Volatile outgassing from planetary interiors controls the composition of rocky exoplanets' secondary atmospheres. However, observations indicate that disequilibrium processes, such as photochemistry and vertical transport, can strongly alter the chemical structure of Hot Jupiters. Which process dominates under different types of rocky planets, and how outgassing and photochemistry jointly determine the atmospheric composition, remain open questions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.15204v1</guid>
-      <pubDate>Thu, 16 Jul 2026 17:01:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data</title>
-      <link>http://arxiv.org/abs/2607.15254v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Qiwei Li, Jorge Ortiz&lt;/p&gt;&lt;p&gt;Traffic agencies now have access to large volumes of video-derived data for studying safety and congestion. Most of these data are observational and collected without interventions, which makes causal questions such as "How would rain change traffic density?" difficult to answer. We present teLLMe, a system for exploratory causal analysis of urban driving datasets&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.15254v1</guid>
-      <pubDate>Thu, 16 Jul 2026 17:49:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier</title>
-      <link>http://arxiv.org/abs/2607.15258v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arthur G. Bubolz, Abreu Quevedo, Giancarlo Lucca, Rafael A. Berri, Eduardo Borges, Bruno L. Dalmazo&lt;/p&gt;&lt;p&gt;The growing use of Bitcoin as a decentralized digital asset and investment tool has sparked strong interest in understanding its market behavior. This study presents a new approach to analyze Bitcoin market sentiment by combining on-chain and financial data with social media posts. Unlike models that aim to predict prices, this work focuses on explaining market sentiment using blockchain transactions, historical price data of Bitcoin, and daily Twitter sentiment classifications&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.15258v1</guid>
-      <pubDate>Thu, 16 Jul 2026 17:52:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 05:23:02 +0000</lastBuildDate>
   </channel>
 </rss>
