@@ -7,125 +7,111 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 21 Jul 2026 05:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 05:20:26 +0000</lastBuildDate>
     <item>
-      <title>Early Yield Prediction for Sugar Beet Fields using Satellite Data -- Learnings from Specialized Vision Transformers</title>
-      <link>http://arxiv.org/abs/2607.17661v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Philipp Vaeth, Bhumika Laxman Sadbhave, Denise Dejon, Gunther Schorcht, Magda Gregorova&lt;/p&gt;&lt;p&gt;Remote sensing has become an increasingly valuable tool for agricultural monitoring, particularly through the use of publicly available satellite imagery. However, effectively integrating domain knowledge into machine learning methods remains challenging. This study presents a real-world example of early sugar beet harvest yield forecasting from purely optical Sentinel-2 imagery, demonstrating how a tight integration of domain knowledge and machine learning can lead to synergistic gains&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.17661v1</guid>
-      <pubDate>Mon, 20 Jul 2026 08:11:07 +0000</pubDate>
+      <title>Variational meta-learning inference for low dimensional neural system identification</title>
+      <link>http://arxiv.org/abs/2607.18965v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Matteo Rufolo, Dario Piga, Marco Forgione&lt;/p&gt;&lt;p&gt;Deep learning has proven highly effective for nonlinear system identification, but heavily parameterized neural networks are prone to overfitting in low-data regimes and lack reliable uncertainty quantification. The recently developed manifold meta-learning framework addresses the data efficiency problem by restricting the model parameters to a meta-learned low-dimensional manifold. However, that method is purely deterministic&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.18965v1</guid>
+      <pubDate>Tue, 21 Jul 2026 10:55:48 +0000</pubDate>
     </item>
     <item>
-      <title>Artificial Intelligence for Understanding and Managing Transportation Behavior in Sustainable Smart Cities</title>
-      <link>http://arxiv.org/abs/2607.17694v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junbiao Pang, Muhammad Ayub Sabir, Fatima Ashraf&lt;/p&gt;&lt;p&gt;Urban transportation systems generate heterogeneous data, yet these data do not automatically become actionable management intelligence. This chapter adopts a behavior-centered perspective on artificial intelligence (AI), treating mobility records and passenger-generated text as behavioral evidence rather than behavioral truth. It examines four directions: bus arrival prediction for service reliability, taxi mobility pattern discovery for demand analysis and planning, abnormal behavior detection for accountable regulatory support, and passenger-perceived risk mining for service improvement&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.17694v1</guid>
-      <pubDate>Mon, 20 Jul 2026 08:43:09 +0000</pubDate>
+      <title>SWITi: Quantifying and Reducing Tiling Artifacts with Sliding Window Inner Tiling</title>
+      <link>http://arxiv.org/abs/2607.18990v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Federico Carrara, Aman Kukde, Melisande Croft, Joran Deschamps, Florian Jug&lt;/p&gt;&lt;p&gt;SWITi is a test-time method for reducing artifacts in tiled predictions, particularly for neural networks that learn posterior distributions from which solutions are sampled at inference time. Tiled predictions are unavoidable for large image data, and artifacts arise whenever tiles are smaller than a network's receptive field and when tiles are independent posterior samples. SWITi averages overlapping sliding-window predictions, so discrepancies between neighboring samples are spread across shifted tile positions rather than accumulating at fixed seam coordinates&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.18990v1</guid>
+      <pubDate>Tue, 21 Jul 2026 11:20:35 +0000</pubDate>
     </item>
     <item>
-      <title>ProEvent: An Event-centric Benchmark for Proactive Agents</title>
-      <link>http://arxiv.org/abs/2607.17701v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guanzhen Li, Liangming Pan, Leye Wang&lt;/p&gt;&lt;p&gt;Proactive agents are expected to anticipate user needs and provide autonomous assistance by perceiving environmental context without explicit instructions. A fundamental capability of such agents is to identify and track users' upcoming events, enabling continuous and event-specific assistance. For example, by recording the time and location of a planned hike, an agent can deliver weather reminders in advance or provide navigation support before departure&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.17701v1</guid>
-      <pubDate>Mon, 20 Jul 2026 08:48:36 +0000</pubDate>
+      <title>Subject-Conditioned Glucose Forecasting in Type-1 Diabetes</title>
+      <link>http://arxiv.org/abs/2607.19006v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Giorgia Rigamonti, Mirko Paolo Barbato, Davide Marelli, Paolo Napoletano&lt;/p&gt;&lt;p&gt;Accurate forecasting of blood glucose concentration is key in the management of Type 1 Diabetes, facilitating early detection of adverse glycemic events and supporting timely therapeutic interventions. Despite recent advances in glucose prediction, most existing approaches rely on population-level representations or implicit personalization strategies that fail to deliver effective subject-specific forecasts. In this work, we propose Subject-Conditioned Glucose Prediction (SCGP), a novel multimodal deep learning architecture conceived for personalized blood glucose prediction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.19006v1</guid>
+      <pubDate>Tue, 21 Jul 2026 11:42:34 +0000</pubDate>
     </item>
     <item>
-      <title>Planning with Transformers: Chain of Computation and Structured Context Windows</title>
-      <link>http://arxiv.org/abs/2607.17710v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ehsan Futuhi, Nathan R. Sturtevant&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) have had a remarkable impact across many areas of machine learning. However, recent studies have shown that they struggle to reliably solve planning problems. At the same time, theoretical results have shown that transformers, the core architecture underlying modern LLMs, are Turing-complete&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.17710v1</guid>
-      <pubDate>Mon, 20 Jul 2026 09:06:15 +0000</pubDate>
+      <title>Probabilistic Physics-Aware Machine Learning Predictions of Electric Truck Energy Consumption with Field Data</title>
+      <link>http://arxiv.org/abs/2607.19054v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hannes Nilsson, Rafael Basso, Balázs Kulcsár, Morteza Haghir Chehreghani&lt;/p&gt;&lt;p&gt;In this work, we incorporate first principle physics into the construction of data-driven methods by considering a model that accounts for the different sources of energy losses during vehicle operations. Our results show that Bayesian linear regression based on this physics-aware model can improve the reliability of the expected energy consumption, as compared with standard linear regression. Further, it is shown that more complex machine learning models such as neural networks and gradient boosted regression trees, based on the same physical model, can further improve the accuracy in energy &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.19054v1</guid>
+      <pubDate>Tue, 21 Jul 2026 12:43:01 +0000</pubDate>
     </item>
     <item>
-      <title>Towards Reliable Zero-Shot Crowd Forecasting: Evaluating Time Series Foundation Models for Special Event Pedestrian Forecasting</title>
-      <link>http://arxiv.org/abs/2607.17758v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziteng Li, Yanan Xin, Tina Comes, Serge Hoogendoorn&lt;/p&gt;&lt;p&gt;Managing massive crowds during infrequent special events requires reliable real-time pedestrian-flow forecasting to ensure public safety and operational efficiency. However, supervised forecasting methods face limitations in these contexts due to scarce historical data, heterogeneous data distributions, and short in-event observation windows. To effectively support operational decision-making, forecasts should provide not only accurate point estimates but also informative predictive uncertainty&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.17758v1</guid>
-      <pubDate>Mon, 20 Jul 2026 09:49:26 +0000</pubDate>
+      <title>Deep learning-based prediction of time-resolved adhesive forces in viscoelastic Hertzian contacts</title>
+      <link>http://arxiv.org/abs/2607.19060v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ali Maghami, Merten Stender, Michele Ciavarella, Antonio Papangelo&lt;/p&gt;&lt;p&gt;Fast prediction of the response of adhesive soft viscoelastic contacts represents a current challenge in soft robotics and for gripping and manipulation tasks. Determining the complete time-resolved force trajectory requires full numerical simulations, whose computational cost is strongly parameter-dependent, making them impractical for real-time application or design-optimization loops. In this work, we overcome this limitation by training a scalar-conditioned, stateful, sequence-to-sequence deep learning model to predict the full force evolution from a prescribed displacement history for bot&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.19060v1</guid>
+      <pubDate>Tue, 21 Jul 2026 12:48:48 +0000</pubDate>
     </item>
     <item>
-      <title>FIFA World Cup 2026 as a Contamination-Free Benchmark for LLM Forecasting Agents: Four Models, a Bookmaker, and 104 Matches</title>
-      <link>http://arxiv.org/abs/2607.17765v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiacheng Ding, Cong Guo, Jason Xu&lt;/p&gt;&lt;p&gt;We introduce WC2026-Agents, a benchmark and dataset for evaluating large language models (LLMs) as autonomous forecasting agents on real, future events. For every one of the 104 matches of the 2026 FIFA World Cup, four frontier models -- Claude Opus 4.8, ChatGPT (GPT-5.5, high reasoning), Gemini 3.1 Pro, and Grok (Expert Mode) -- ran an identical search-act-reflect loop: gather evidence with a web tool, commit to a 1X2 (team-A win / draw / team-B win) distribution and a virtual 100-USD bet, and, after the match, reflect given only the final score. Because every match kicked off after the model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.17765v1</guid>
-      <pubDate>Mon, 20 Jul 2026 10:00:11 +0000</pubDate>
+      <title>GEqTrain: A Configuration-Driven Framework for Retargeting Equivariant Graph Neural Networks Across 3D Scientific Tasks</title>
+      <link>http://arxiv.org/abs/2607.19083v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daniele Angioletti, Marco Nobile, Vittorio Limongelli&lt;/p&gt;&lt;p&gt;Equivariant graph neural networks provide a powerful modeling language for three-dimensional scientific data, but their reuse is often limited by implementations tied to specific tasks, outputs, and training regimes. We present GEqTrain, a configuration-driven framework that separates dataset semantics, model composition, and training objectives. Raw data are mapped to typed node-, edge-, and graph-level fields, while model stacks, losses, and training workflows are assembled declaratively through Hydra configurations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.19083v1</guid>
+      <pubDate>Tue, 21 Jul 2026 13:18:59 +0000</pubDate>
     </item>
     <item>
-      <title>Feature Attribution-Based Explainability Analysis of Deep Learning Models in Predictive Process Monitoring</title>
-      <link>http://arxiv.org/abs/2607.17783v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kseniya Sahatova, Rafael Seidi Oyamada, Xuefei Lu, Johannes De Smedt&lt;/p&gt;&lt;p&gt;Predictive process monitoring supports the optimization and control of operational business processes by forecasting the future state or outcome of ongoing cases. While deep neural networks have achieved strong performance for these tasks by modeling sequential dependencies in event logs, their black-box nature limits trust and practical adoption. Feature attribution methods are often used to address this, but applying them directly poses a dilemma: event-level attributions impose high computational complexity for long traces, while explanations based on aggregated trace representations often &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.17783v1</guid>
-      <pubDate>Mon, 20 Jul 2026 10:15:47 +0000</pubDate>
+      <title>Predicting Activities in Aqueous Electrolyte Solutions with Hybrid Machine Learning</title>
+      <link>http://arxiv.org/abs/2607.19114v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zeno Romero, Maximilian Kohns, Fabian Jirasek&lt;/p&gt;&lt;p&gt;Activities in aqueous electrolyte solutions, usually described by ionic activity and osmotic coefficients, are important properties for modeling many processes in industry and nature. Established activity models, such as those of Pitzer or Bromley, require fitting to experimental data for each electrolyte of interest and thus cannot predict properties for unstudied systems. While some predictive approaches exist, they are typically limited in scope and rely on additional ion-specific descriptors&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.19114v1</guid>
+      <pubDate>Tue, 21 Jul 2026 13:58:23 +0000</pubDate>
     </item>
     <item>
-      <title>PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model</title>
-      <link>http://arxiv.org/abs/2607.17806v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Li Xian, Mingxi Li, Yizheng Wang, Yiming Shen, Qi Chen, Zhuoling Xiao&lt;/p&gt;&lt;p&gt;Vision-Language Navigation (VLN) requires an embodied agent to interpret a natural-language instruction and predict actions from temporally ordered visual observations. Adapting a multimodal large language model to VLN requires visual-language alignment, compact temporal inputs, action-space grounding, and stable training on the target hardware. This technical report presents PGN (Pangu Navigator), an offline VLN action-prediction system built on OpenPangu-7B&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.17806v1</guid>
-      <pubDate>Mon, 20 Jul 2026 10:48:48 +0000</pubDate>
+      <title>Incomplete Observations Boost Evolutionary Performance in Ocean Modeling</title>
+      <link>http://arxiv.org/abs/2607.19147v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yangyang Kong, Yutong Jiang, Yanhai Gan, Junyu Dong, Feng Gao, Xiaopei Lin&lt;/p&gt;&lt;p&gt;Data-driven methods have revolutionized ocean modeling, yet current approaches rely heavily on complete reanalysis datasets, imposing computational constraints and limiting model performance to that of the training data. Here, we present a generative state-space model and an optimization framework that enable learning directly from sparse and noisy observations. The model is essentially a hidden Markov model with a continuous state space, where oceanic physical quantities are treated as hidden states and measurements as observations, enabling a unified representation of ocean fields and observ&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.19147v1</guid>
+      <pubDate>Tue, 21 Jul 2026 14:39:55 +0000</pubDate>
     </item>
     <item>
-      <title>How Fast Do Signatures Learn? Statistical Theory and Applications for Path Regression</title>
-      <link>http://arxiv.org/abs/2607.17865v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Blanka Horvath, Wen Su, Wu Su, Binnan Wang, Ruixun Zhang&lt;/p&gt;&lt;p&gt;Many prediction and decision-making problems in operations research involve path-valued covariates -- data that evolve over time -- for which path signatures have become a canonical feature representation. Their use is justified by a universal approximation theorem, but this is an existence result: it guarantees that a finite-level signature can approximate any continuous path functional, without quantifying how fast the approximation error decreases as the truncation level grows. This paper develops approximation and statistical theory for signature-based path regression&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.17865v1</guid>
-      <pubDate>Mon, 20 Jul 2026 12:07:37 +0000</pubDate>
+      <title>On the sensitivity of machine-learned probabilistic weather forecast models to scale-aware scoring rules</title>
+      <link>http://arxiv.org/abs/2607.19161v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Simon Lang, Martin Leutbecher, Sam Hatfield&lt;/p&gt;&lt;p&gt;Probabilistic forecast models can be machine-learned from data using loss functions based on scoring rules such as the Continuous Ranked Probability Score (CRPS). This note summarises a preliminary study comparing versions of AIFS-CRPS, a global weather forecast model, trained with different univariate and multivariate scoring rules that aim to explicitly represent scale-awareness in the loss function. In the first part, we compare the (almost) fair CRPS, a fair global energy score, and a graph energy score based on node neighbourhoods&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.19161v1</guid>
+      <pubDate>Tue, 21 Jul 2026 14:59:11 +0000</pubDate>
     </item>
     <item>
-      <title>ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding</title>
-      <link>http://arxiv.org/abs/2607.17884v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Keuntae Kim, Beomseok Lee, Hyunwoo Kim, Yong Suk Choi&lt;/p&gt;&lt;p&gt;Vision Language Models (VLMs) achieve strong reasoning with Chain-of-Thought (CoT) prompting but incur high sequential-generation cost, error accumulation, and limited self-correction. Diffusion Multimodal Large Language Models (dMLLMs) unmask tokens in an order-agnostic process, improving efficiency and enabling iterative refinement, yet their reasoning and how to enhance it remain underexplored. We propose a training-free method, Spatio-Temporal Token Veto (ST-Veto), which leverages the ability to observe all token positions at each diffusion step&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.17884v1</guid>
-      <pubDate>Mon, 20 Jul 2026 12:35:05 +0000</pubDate>
+      <title>Free energy landscape of Dense Associative Memory</title>
+      <link>http://arxiv.org/abs/2607.19195v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sumedha, Abhishek Singh&lt;/p&gt;&lt;p&gt;Using large deviations theory, we solve and obtain a general expression for the free energy functional for a broad class of associative memories, including dense associative memories. We illustrate the method by reproducing classical results for the Hopfield model. For a finite number of patterns, we derive the temperature-dependent free energy functional for dense associative memories featuring polynomial interactions and Log-Sum-Exponential (LSE) activation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.19195v1</guid>
+      <pubDate>Tue, 21 Jul 2026 15:30:53 +0000</pubDate>
     </item>
     <item>
-      <title>Topological Signatures of Context-Level Reliability in TabPFN</title>
-      <link>http://arxiv.org/abs/2607.17962v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; James Hu, Mahdi Ghelichi&lt;/p&gt;&lt;p&gt;TabPFN is a transformer-based foundation model for tabular prediction that performs inference without task-specific training by conditioning on a support set and query inputs. Despite its strong empirical performance, its internal behavior on structurally difficult tabular geometries remains poorly understood. We study this behavior using zigzag persistent homology, treating TabPFN layer representations as evolving point clouds&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.17962v1</guid>
-      <pubDate>Mon, 20 Jul 2026 14:04:01 +0000</pubDate>
+      <title>ATLAS: A Foundation Neural Sampler for Amorphous Materials</title>
+      <link>http://arxiv.org/abs/2607.19198v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mouyang Cheng, Denis Blessing, Botao Yu, Gerhard Neumann, Mingda Li, Carles Domingo-Enrich, Yuanqi Du&lt;/p&gt;&lt;p&gt;Amorphous materials exhibit exceptional mechanical and functional properties, yet their rugged energy landscapes are notoriously difficult to sample. Below the glass-transition temperature, conventional molecular dynamics and Monte Carlo become inefficient because equilibration relies on rare barrier-crossing events, while data-driven generative models are constrained by scarce and biased reference ensembles. Here, we introduce ATLAS, an efficient sampler that learns a diffusion process to generate Boltzmann-distributed amorphous structures directly from a target energy function&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.19198v1</guid>
+      <pubDate>Tue, 21 Jul 2026 15:31:49 +0000</pubDate>
     </item>
     <item>
-      <title>DiFA: Inference-Time Forward-Process Alignment for Diffusion Models</title>
-      <link>http://arxiv.org/abs/2607.17972v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shigui Li, Delu Zeng&lt;/p&gt;&lt;p&gt;The prevailing inference framework for diffusion models formulates generation fundamentally as a problem of numerical integration. This perspective casts the model as an exact estimator, neglecting the inherent statistical uncertainty of the denoising process. In this work, we propose Forward-Process Aligned Diffusion prediction (\textbf{DiFA}), a training-free framework that reframes inference-time data prediction refinement as a sequential state estimation problem&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.17972v1</guid>
-      <pubDate>Mon, 20 Jul 2026 14:10:53 +0000</pubDate>
+      <title>DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models</title>
+      <link>http://arxiv.org/abs/2607.19237v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yiming Qin, Kai Yi, Miruna Cretu, Sjors H. W. Scheres, Pietro Liò, Pascal Frossard&lt;/p&gt;&lt;p&gt;Designing small molecule ligands that bind with high affinity to specific protein pockets is a fundamental goal in drug discovery, as small molecules constitute a major fraction of approved therapeutics. Recent breakthroughs in structure prediction, such as AlphaFold-3 and Boltz-2, enable accurate biomolecular interaction prediction and show promise as foundation models for downstream tasks, including binding affinity prediction. We propose to leverage these models and introduce DBMol, a new structure predictor-guided framework for de novo small molecule design&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.19237v1</guid>
+      <pubDate>Tue, 21 Jul 2026 16:07:07 +0000</pubDate>
     </item>
     <item>
-      <title>WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting</title>
-      <link>http://arxiv.org/abs/2607.18084v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhaokai Wang, Tianlin Gui, Jiayuan Rao, Shangzhe Di, Yihong Tang, Dingli Liang&lt;/p&gt;&lt;p&gt;Predicting a football match before kickoff requires more than knowing past results: a model must use changing information and make a clear prediction before the answer is available. We present WorldCupArena, a dynamic benchmark for language models and deep-research agents. The 2026 FIFA World Cup is its first evaluation, and the same process can be reused for future leagues and cups&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.18084v1</guid>
-      <pubDate>Mon, 20 Jul 2026 15:52:48 +0000</pubDate>
+      <title>Thermodynamics-Informed Input Reparameterization for Neural Prediction of Real-Fluid Thermodynamic Properties in Supercritical Combustion</title>
+      <link>http://arxiv.org/abs/2607.19241v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haoze Zhang, Han Li, Ke Xiao, Yangchen Xu, Runze Mao, Zhi X. Chen&lt;/p&gt;&lt;p&gt;Real-fluid thermodynamic property evaluation is a major computational cost in supercritical combustion simulations. In the enthalpy-based pressure-correction formulation, the closure evaluates temperature T, density $ρ$, and compressibility coefficient $ψ$ from the solver state (h,p,Y) through enthalpy-temperature inversion and repeated real-fluid equation-of-state evaluations. Neural-network surrogates offer fixed-cost inference, but direct mapping from (h,p,Y) to $(T,ρ,ψ)$ must capture the enthalpy-temperature relation and non-ideal equation-of-state response, resulting in a complex regressi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.19241v1</guid>
+      <pubDate>Tue, 21 Jul 2026 16:12:30 +0000</pubDate>
     </item>
     <item>
-      <title>ClouDens: Operational Context-Aware Anomaly Detection for Large-scale Cloud System Monitoring</title>
-      <link>http://arxiv.org/abs/2607.18127v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Thu T. H. Doan, Mohammad Saiful Islam, Andriy Miranskyy, Ngoc-Thanh Nguyen, Rogardt Heldal, Patrizio Pelliccione&lt;/p&gt;&lt;p&gt;With the rapid growth of cloud computing infrastructures in scale and complexity, network monitoring for Large-scale Cloud Systems (LCSs) has become increasingly challenging, requiring automated and reliable anomaly detection to maintain service availability. Modern LCSs continuously generate telemetry logs from distributed cloud services, producing high-dimensional multivariate time series that capture system operations. Detecting anomalies in this context is difficult due to extreme dimensionality, complex dependencies among distributed components, and severe sparsity from intermittently act&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.18127v1</guid>
-      <pubDate>Mon, 20 Jul 2026 16:20:26 +0000</pubDate>
+      <title>GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models</title>
+      <link>http://arxiv.org/abs/2607.19270v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alessandro Scalese, Santhanakrishnan Narayanan, Constantinos Antoniou&lt;/p&gt;&lt;p&gt;The Traffic Assignment Problem is a fundamental but computationally expensive component of transportation planning. While Graph Neural Networks have emerged as fast, data-driven surrogates, their practical deployment is severely constrained by a spatial generalization gap. Standard models rely on transductive feature initializations that tie travel demand to fixed network topologies, preventing seamless transfer to new urban environments&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.19270v1</guid>
+      <pubDate>Tue, 21 Jul 2026 16:41:59 +0000</pubDate>
     </item>
     <item>
-      <title>LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications</title>
-      <link>http://arxiv.org/abs/2607.18147v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daniela Rojas, Abdulwahab Albassam, Aidan G. Leung, Jett Ngo, Ryan Luo, Peter R. Quawas, Junpyung Kim, Kangkai Liang&lt;/p&gt;&lt;p&gt;Large language models (LLMs) and agentic AI systems have evolved from natural language tasks to using external tools to plan, retrieve, and act in technical domains. In smart grids, recent work applies agentic schemes to forecasting, optimization, and control, wrapping trusted solvers behind language interfaces and orchestrating multi-step workflows. The literature lacks a unified approach to designing and evaluating such systems&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.18147v1</guid>
-      <pubDate>Mon, 20 Jul 2026 16:45:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Calibration Channel Determines the Bayes-Error Proxy: An Exact Law for Temperature-Induced Distortion</title>
-      <link>http://arxiv.org/abs/2607.18162v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shreyas Pradeepkumar Khandale&lt;/p&gt;&lt;p&gt;The soft-label Bayes-error estimator beta(z) = E[min(z, 1-z)] of Ishida et al. estimates the irreducible error of a binary task directly from probability-valued labels. Recent work by Ushio et al&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.18162v1</guid>
-      <pubDate>Mon, 20 Jul 2026 17:07:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis</title>
-      <link>http://arxiv.org/abs/2607.18218v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Naoto Usuyama, Jeya Maria Jose Valanarasu, Sicong Yao, Hanwen Xu, Jaspreet Bagga, Guanghui Qin, Robert E. Kramer, Cliff Wong&lt;/p&gt;&lt;p&gt;Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representations from large-scale histopathology data. A growing landscape of pathology foundation models now spans diverse data sources, architectures, and downstream applications. However, most pretrained models operate only at the image-tile level, use restrictive licenses, and remain computationally expensive, limiting large-scale slide-level clinical and research use&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.18218v1</guid>
-      <pubDate>Mon, 20 Jul 2026 17:52:33 +0000</pubDate>
+      <title>Real-time optimal control with shallow recurrent decoder networks</title>
+      <link>http://arxiv.org/abs/2607.19302v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Matteo Tomasetto, Francesco Braghin, J. Nathan Kutz, Andrea Manzoni&lt;/p&gt;&lt;p&gt;Controlling dynamical systems in real-time across multiple scenarios is critical to enabling adaptive control strategies, ensuring stability and efficiency. However, to tailor control actions in response to varying scenarios, traditional optimal control problems typically require several system simulations, which are often computationally demanding due to the high-dimensionality of the underlying spatio-temporal dynamics. In this work, we exploit SHallow REcurrent Decoder networks-based Reduced Order Modeling (SHRED-ROM) to synthesize a real-time closed-loop controller for high-dimensional and&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.19302v1</guid>
+      <pubDate>Tue, 21 Jul 2026 17:13:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
