@@ -7,97 +7,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 23 Jul 2026 05:26:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 05:21:04 +0000</lastBuildDate>
     <item>
-      <title>OSVE: One Step Video Editing with One Step Diffusion Models</title>
-      <link>http://arxiv.org/abs/2607.19895v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Habin Lim, Gyeong-Moon Park&lt;/p&gt;&lt;p&gt;Text-guided video editing with diffusion models is impractically slow, hindered by costly multi-step sampling and inversion. We present OSVE, the first framework to successfully adapt one-step Text-to-Image (T2I) models for high-quality video editing, addressing the core challenges of inversion, editability, and temporal consistency. To bypass slow iterative inversion, we train a learnable encoder that predicts the initial noise for each frame in a single forward pass&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.19895v1</guid>
-      <pubDate>Wed, 22 Jul 2026 08:29:30 +0000</pubDate>
+      <title>Safeguards for Speech2Speech LLM-Assistants: A Case Study in Automotive Applications</title>
+      <link>http://arxiv.org/abs/2607.21180v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gregor Endler, Sebastian Kraus, Lukas Stappen&lt;/p&gt;&lt;p&gt;Recent advances have introduced speech-to-speech (S2S) conversational assistants capable of producing natural-sounding interactions, including non-verbal cues like tonality and mood. In the automotive domain, this enables intuitive and humanlike in-car dialogue experiences. However, integrating these end-to-end assistants limits architectural options for programmable domain-specific safeguards&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.21180v1</guid>
+      <pubDate>Thu, 23 Jul 2026 11:09:56 +0000</pubDate>
     </item>
     <item>
-      <title>Diffusion ReRoll: Revisable Denoising for Robotic Sequential Prediction</title>
-      <link>http://arxiv.org/abs/2607.19919v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Seonsoo Kim, Seongil Hong, Jun-Gill Kang&lt;/p&gt;&lt;p&gt;We propose Diffusion ReRoll, a diffusion-based framework for robotic sequential prediction that enables revisable denoising over horizons. Existing diffusion-based sequence predictors typically perform a single monotonic denoising process. In contrast, Diffusion ReRoll selectively re-noises regions that have become locally stable while the remaining regions continue denoising, so the re-noised regions can be refined again using context from the rest of the horizon&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.19919v1</guid>
-      <pubDate>Wed, 22 Jul 2026 08:50:40 +0000</pubDate>
+      <title>Explaining Weather Bulletins via ILP</title>
+      <link>http://arxiv.org/abs/2607.21184v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Enrico Santi, Alessandro Dal Palù, Agostino Dovier, Talissa Dreossi, Andrea Formisano&lt;/p&gt;&lt;p&gt;Inductive Logic Programming (ILP) originated within the Logic Programming community in the Nineties as a framework for combining symbolic learning with declarative knowledge representation. Nowadays, mature ILP frameworks exist and they are capable of learning complex, non-monotonic hypotheses, thus broadening both the modeling capabilities and the scope of real-world applications of ILP. This work is primarily based on the FastLAS2 framework and aims to generate simple, interpretable hypotheses to help clarify the weather bulletins issued by OSMER FVG, the Regional Meteorological Observatory &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.21184v1</guid>
+      <pubDate>Thu, 23 Jul 2026 11:15:02 +0000</pubDate>
     </item>
     <item>
-      <title>SenWorld: A Digital-Twin Simulation for Generating Context-Rich Evaluation Data</title>
-      <link>http://arxiv.org/abs/2607.19949v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zenghui Zhou, Xiaoyang Li, Xiaoxuan Qiao, Zhilang Wei, Tianming Lei&lt;/p&gt;&lt;p&gt;Smartphone personal assistants reason over longitudinal personal data, yet evaluating them requires context-rich evaluation data whose correct answers are known, and real device traces are too privacy-sensitive to share. To address this challenge, we present SenWorld, a physically grounded, deterministic, event-sourced digital-twin simulation that generates such data with ground truth fixed by construction. In SenWorld, personas live through a full day in a world built from real map, weather, holiday, and network data; every observable signal is archived in full-system snapshots; and each eval&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.19949v1</guid>
-      <pubDate>Wed, 22 Jul 2026 09:25:47 +0000</pubDate>
+      <title>Identifying Good Rules for Efficient SAT Encodings of Single-Constant Multiplication Using Machine Learning</title>
+      <link>http://arxiv.org/abs/2607.21188v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chufeng Jiang, Neng-Fa Zhou&lt;/p&gt;&lt;p&gt;The Single Constant Multiplication problem is a fundamental NP-hard optimization task in hardware design, which seeks to decompose a fixed constant using only additions, subtractions, and bit-shifts. Although dynamic programming methods can produce near-optimal SAT encodings for SCM, their encoding cost remains high for large constants. We propose a neuro-symbolic framework that accelerates SCM SAT encoding by identifying good rules for guiding operator selection during decomposition&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.21188v1</guid>
+      <pubDate>Thu, 23 Jul 2026 11:15:55 +0000</pubDate>
     </item>
     <item>
-      <title>Time Series Network Utilization KPI Forecasting Using Advanced AI/ML Models</title>
-      <link>http://arxiv.org/abs/2607.19974v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Niraj Gadhe, Kirti Bhardwaj, Moulik Jain, Shubhi Sharma, Vinay Saini&lt;/p&gt;&lt;p&gt;The rapid proliferation of data-intensive applications, cloud infrastructure, and IoT ecosystems has made proactive resource provisioning critical for maintaining optimal network performance. However, network administrators face a constant battle against capacity constraints, where traditional reactive approaches fail to accurately anticipate traffic fluctuations. This inability to foresee demand leads to costly over-provisioning, unexpected downtime, and degraded quality of service directly impacting operational budgets and business continuity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.19974v1</guid>
-      <pubDate>Wed, 22 Jul 2026 09:57:47 +0000</pubDate>
+      <title>Transformer-based Diffusion models for Hydrological Time Series Probabilistic Imputation and Forecasting</title>
+      <link>http://arxiv.org/abs/2607.21200v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ferdinand Bhavsar, Lionel Benoit, Maxime Savatier, Edith Gabriel&lt;/p&gt;&lt;p&gt;The modeling of hydrometeorological time series with limited observations is a key challenge in the monitoring of hydro-systems and water resources, as well as for flood or drought risk assessment. Due to the high variability of the underlying processes and the sparsity of available measurements, traditional statistical approaches often struggle to accurately represent their dynamics. In this context, recent advances in deep learning offer a promising direction for improving the representation and generation of complex temporal processes sampled at several observation sites&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.21200v1</guid>
+      <pubDate>Thu, 23 Jul 2026 11:19:27 +0000</pubDate>
     </item>
     <item>
-      <title>Post-Training in Time Series Foundation Models: A Unifying Framework</title>
-      <link>http://arxiv.org/abs/2607.20002v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shifeng Xie, Ambroise Odonnat, Zehao Xiao, Lei Zan, Malik Tiomoko, Lujia Pan, Themis Palpanas, Boris N. Oreshkin&lt;/p&gt;&lt;p&gt;Time series foundation models (TSFMs) have emerged as general-purpose models for time series analysis, but pretraining alone is often insufficient for reliable downstream deployment. Bridging this gap requires further intervention to handle domain shift, task heterogeneity, limited supervision, and computational constraints, which motivates post-training as a broad class of methods to adapt, augment, compose, calibrate, or specialize pretrained TSFMs for downstream tasks. In this work, we analyze TSFM post-training methods based on their locus of intervention in the prediction pipeline, yieldi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.20002v1</guid>
-      <pubDate>Wed, 22 Jul 2026 10:37:10 +0000</pubDate>
+      <title>An LLM-Driven Workflow for Automated Process Control Strategy Generation and Tuning from Dynamic Process Models</title>
+      <link>http://arxiv.org/abs/2607.21292v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ari Luna Rueda, Eike Cramer, Klaus Hellgardt, Mehmet Mercangöz&lt;/p&gt;&lt;p&gt;We present a structured large-language-model-driven workflow for automated multi-variable control design from dynamic process models. The workflow decomposes the design task into constrained code-generation steps: plant-interface construction, normalization, manipulated-variable controlled-variable (MV-CV) pairing, controller specification, closed loop simulation, scenario generation, performance evaluation and Bayesian-optimization (BO) based tuning. Generated artifacts are executed and validated before downstream tasks proceed, and failed artifacts are repaired using validation feedback&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.21292v1</guid>
+      <pubDate>Thu, 23 Jul 2026 13:13:29 +0000</pubDate>
     </item>
     <item>
-      <title>Zero-Shot Heart Rate Variability Forecasting from Consumer Wearables Using Time Series Foundation Models</title>
-      <link>http://arxiv.org/abs/2607.20027v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Luukas Peräkylä, Fahad Sohrab, Ville Hautamäki, Merja Heinäniemi, Sui Huang, Pekka Abrahamsson&lt;/p&gt;&lt;p&gt;Short-term Heart Rate Variability (HRV) forecasting could provide clinicians with actionable lead time for detecting autonomic dysfunction and adverse cardiac events. Consumer wearable devices generate fragmented, artifact-rich HRV signals that challenge conventional forecasting approaches. In this study, we evaluated the forecasting ability of three Time Series Foundation Models (TSFMs), TimesFM, Chronos, and MOIRAI, against traditional baselines (Mean, Exponential Smoothing, and Exponentially Weighted Moving Average) on real-world wearable data collected from 49 healthy individuals&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.20027v1</guid>
-      <pubDate>Wed, 22 Jul 2026 11:12:07 +0000</pubDate>
+      <title>Towards Faithful Graph Explanations with Synergistic Edge Effects via Granular Balls</title>
+      <link>http://arxiv.org/abs/2607.21381v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiancu Chen, Shuyin Xia, Guan Wang, Degang Chen, Fan Chen&lt;/p&gt;&lt;p&gt;Instance-level explanations aim to reveal the rationale behind a model's decisions for a specific graph. Previous methods explain graph neural networks (GNNs) by selecting important edges to induce subgraphs, where edge importance is assessed by perturbing each edge and observing changes in the model predictions. However, they often neglect the synergistic effects among edges, which are crucial for accurately characterizing edge importance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.21381v1</guid>
+      <pubDate>Thu, 23 Jul 2026 14:44:51 +0000</pubDate>
     </item>
     <item>
-      <title>Test Case Prioritization for DNNs via Neural Collapse Instability</title>
-      <link>http://arxiv.org/abs/2607.20046v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chunyu Liu, Mingyuan Li, Yang Li, Wenmin Li, Fei Gao, Tengfei Tu, Su-Juan Qin&lt;/p&gt;&lt;p&gt;With the widespread deployment of deep neural networks (DNNs) in safety-critical domains, reducing the cost of model validation under limited testing budgets has become increasingly important. Existing test case prioritization techniques often rely on single-checkpoint confidence signals derived from output probabilities. However, DNNs can be confidently wrong, and the confidence margin between the predicted and competing classes is frequently small, which weakens early fault discovery&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.20046v1</guid>
-      <pubDate>Wed, 22 Jul 2026 11:41:04 +0000</pubDate>
+      <title>Flexible generation of daily Earth system model projections across radiative forcing scenarios</title>
+      <link>http://arxiv.org/abs/2607.21382v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yu Huang, Sebastian Bathiany, Shangshang Yang, Philipp Hess, Michael Aich, Niklas Boers&lt;/p&gt;&lt;p&gt;Earth system model (ESM) projections of the climate system's response to anthropogenic forcing are central to assess the impacts of climate change and inform adaptation and mitigation policies. However, given their high computational cost, projections are only made for a limited set of standardized forcing scenarios with limited temporal extent, such as the Shared Socioeconomic Pathways (SSPs), the spatiotemporal resolution remains too low for direct impact assessments, and uncertainties cannot be comprehensively quantified. Recent data-driven models offer efficient and accurate high-resolutio&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.21382v1</guid>
+      <pubDate>Thu, 23 Jul 2026 14:45:07 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum Kernels and the Cross-Section of Stock Returns: Anatomy of a Vanishing Advantage</title>
-      <link>http://arxiv.org/abs/2607.20168v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junchi Shen&lt;/p&gt;&lt;p&gt;Do quantum kernels improve cross-sectional stock return prediction? We run a controlled horse race on the Chinese A-share market in which a quantum fidelity kernel, a projected quantum kernel, and a classical RBF control share identical training subsamples, solver, and tuning budgets, so that only the kernel is exchanged. On the main evaluation -- a point-in-time universe and 170 walk-forward windows (2012-2025) -- no quantum advantage exists: the fidelity kernel is indistinguishable from its RBF control ($Δ$IC $=+0.005$, $p=0.42$), and a $2\times2$ design crossing kernel type with training bu&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.20168v1</guid>
-      <pubDate>Wed, 22 Jul 2026 14:04:12 +0000</pubDate>
+      <title>Cycle-Consistent and Uncertainty-Aware Neural Surrogates for Tokamak Edge Plasmas</title>
+      <link>http://arxiv.org/abs/2607.21407v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abdourahmane Diaw, Sebastian De Pascuale, Jae-Sun Park, Ivan Paradela Perez, Jeremy D. Lore, Stefan Dasbach&lt;/p&gt;&lt;p&gt;The boundary and divertor plasma govern how a tokamak exhausts power and particles, setting heat fluxes, target conditions, and the onset of detachment. Predicting these quantities is essential for operating current and future devices, but edge simulations that resolve them are too slow for parameter scans, optimization, or real-time control. Machine-learning surrogates offer a fast alternative, yet most are forward-only: they cannot recover input parameters from observations or assess the reliability of their predictions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.21407v1</guid>
+      <pubDate>Thu, 23 Jul 2026 15:06:57 +0000</pubDate>
     </item>
     <item>
-      <title>User-Centric Modeling of Transactional Sequences with Explainable State Space Models</title>
-      <link>http://arxiv.org/abs/2607.20228v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ivan Palagin&lt;/p&gt;&lt;p&gt;We propose a hybrid approach for user-centric modeling of transactional event sequences that combines contrastive representation learning (CoLES) with State Space Models (SSMs). While contrastive methods yield high-quality compressed user representations, existing encoders -- RNNs and Transformers -- suffer from vanishing gradients or quadratic complexity, respectively. Mamba, a selective SSM, efficiently handles long-range dependencies but remains underexplored for personalized user analysis&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.20228v1</guid>
-      <pubDate>Wed, 22 Jul 2026 14:47:25 +0000</pubDate>
+      <title>Climate-resilient electric vehicle charging infrastructure for sustainable cities: An interpretable causal-ensemble framework for preventive maintenance and low-carbon mobility</title>
+      <link>http://arxiv.org/abs/2607.21444v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Cande Lian, Wentao Zeng, Jiabin Wu, Yiming Bie, Wei Zhou&lt;/p&gt;&lt;p&gt;Reliable electric vehicle (EV) charging infrastructure is a cornerstone of sustainable, low-carbon cities, yet urban climate stress such as extreme heat, heavy precipitation, and humidity increasingly raises equipment fault risk and undermines the resilience of urban energy and mobility services. Shifting operation from reactive repair to preventive maintenance depends on accurate, forward-looking fault-risk prediction, a task complicated by the heterogeneous time scales of physical, behavioral, contextual, and historical signals and by forecasting over a multi-week horizon. We develop FGDSE, &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.21444v1</guid>
+      <pubDate>Thu, 23 Jul 2026 15:51:08 +0000</pubDate>
     </item>
     <item>
-      <title>PIER: Physics-Informed Environmental Retrieval for Time-Series Modeling</title>
-      <link>http://arxiv.org/abs/2607.20230v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shiyuan Luo, Runlong Yu, Chonghao Qiu, Yue Qin, Rahul Ghosh, Robert Ladwig, Paul C. Hanson, Yiqun Xie&lt;/p&gt;&lt;p&gt;Accurate modeling of environmental systems is fundamental to scientific understanding and decision-making, yet remains challenging because observations are limited and physical dynamics vary across systems. Retrieval-augmented approaches offer a natural path to transfer knowledge across systems, but standard embedding-based retrieval does not guarantee consistency of underlying physical processes, since scenarios with similar embeddings may arise from different underlying mechanisms. We propose Physics-Informed Environmental Retrieval (PIER), a model-agnostic framework that augments embedding-&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.20230v1</guid>
-      <pubDate>Wed, 22 Jul 2026 14:49:10 +0000</pubDate>
+      <title>Diffusion posterior sampling enables zero shot kilometre scale wind forecasting over complex terrain</title>
+      <link>http://arxiv.org/abs/2607.21460v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yujiang Cai, Ya Wang, Shuanglei Feng, Bo Wang, Yiming Liu, Hui Yuan, Xinyi Sun, Haijie Li&lt;/p&gt;&lt;p&gt;Reliable prediction of near surface wind over complex terrain is limited by the mismatch between the spatial resolution of operational forecasts and terrain controlled local wind variability. Here, we develop KiloGen, a diffusion posterior sampling framework for kilometre scale wind forecast enhancement. KiloGen learns a high resolution vector wind prior from Weather Research and Forecasting (WRF) model simulations and constrains posterior sampling with 25 km forecasts from the European Centre for Medium Range Weather Forecasts (ECMWF) at inference time&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.21460v1</guid>
+      <pubDate>Thu, 23 Jul 2026 16:04:17 +0000</pubDate>
     </item>
     <item>
-      <title>Label-Free Finite-Volume-Residual Training of Attention Graph Neural Networks for Coupled Thermo-Fluid Fields</title>
-      <link>http://arxiv.org/abs/2607.20321v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tianyu Li, Zhiwei Cao, Qingang Zhang, Ruihang Wang, Binyang Song, Yonggang Wen&lt;/p&gt;&lt;p&gt;Neural surrogates are widely used in scientific machine learning for fast prediction of three-dimensional (3D) thermo-fluid fields. However, generating training data using conventional numerical solvers often incurs substantial computational and storage costs. We propose to train an attention graph neural network by minimizing the finite-volume method (FVM) residuals of the governing equations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.20321v1</guid>
-      <pubDate>Wed, 22 Jul 2026 16:07:09 +0000</pubDate>
+      <title>Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context</title>
+      <link>http://arxiv.org/abs/2607.21535v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alagappan Valliappan&lt;/p&gt;&lt;p&gt;Speculative decoding accelerates autoregressive generation by having a cheap draft propose tokens that a target verifies in parallel. Frontier models increasingly ship a built-in Multi-Token-Prediction (MTP/NEXTN) draft head under the assumption that the draft is negligibly cheap. At million-token context this breaks: an MTP draft head typically runs full attention over the entire KV cache at every draft step, so its read grows linearly with context and comes to dominate the draft cost -- precisely where speculation is most valuable&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.21535v1</guid>
+      <pubDate>Thu, 23 Jul 2026 17:21:44 +0000</pubDate>
     </item>
     <item>
-      <title>Interval and fuzzy physics-augmented neural networks (iPANN and fPANN) for uncertainty quantification and propagation in constitutive modeling</title>
-      <link>http://arxiv.org/abs/2607.20339v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Somesh Pratap Singh, Govinda Anantha Padmanabha, Jingye Tan, Steven Yang, Reese E. Jones, D. Thomas Seidl, Nikolaos Bouklas&lt;/p&gt;&lt;p&gt;Constitutive modeling under uncertainty remains a central challenge for reliable mechanics simulations, particularly when the available stress-deformation data are sparse, noisy, or heterogeneous. We propose interval and fuzzy physics-augmented neural networks (iPANNs and fPANNs) for uncertainty-aware hyperelastic constitutive modeling. iPANNs learn sparse lower, mean, and upper free energy density branches whose stresses, obtained by automatic differentiation, ultimately enclose noisy stress observations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.20339v1</guid>
-      <pubDate>Wed, 22 Jul 2026 16:26:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Statevector-Referenced Geometry Survival of a Four-Qubit ZZ Quantum Kernel on IBM Quantum Hardware: A Fixed-Subset Diagnostic Across Three Execution Configurations</title>
-      <link>http://arxiv.org/abs/2607.20377v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rostyslav Sipakov&lt;/p&gt;&lt;p&gt;Quantum-kernel methods encode a dataset's geometry in a Gram matrix, so learning claims on hardware kernels assume the intended geometry survives execution. We measure that survival for one frozen four-qubit ZZ feature-map kernel on $N=24$ real indoor air-quality windows, reconstructed on ibm_fez (1024 shots per circuit) under baseline, dynamical decoupling alone, and gate twirling alone, each a single non-interleaved job. Every configuration returned a complete, finite, positive-semidefinite Gram matrix and preserved the centered statevector geometry to a substantial but incomplete descriptiv&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.20377v1</guid>
-      <pubDate>Wed, 22 Jul 2026 17:05:42 +0000</pubDate>
+      <title>Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling</title>
+      <link>http://arxiv.org/abs/2607.21561v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aaron Feller, Kris Deibler, Maxim Secor&lt;/p&gt;&lt;p&gt;Molecular property prediction from structure often uses a single representative conformation, even though many molecules exist as conformational ensembles in solution. We introduce EnsembleEGNN, a molecular ensemble foundation model that encodes an ensemble by first encoding each conformer with shared Equivariant Graph Neural Network (EGNN) layers, then pooling the resulting conformer representations with a Set Attention Block. We pretrain the model on CREMP, a cyclic peptide ensemble dataset, using a multi-task self-supervised objective combining masked token recovery, noisy-coordinate recons&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.21561v1</guid>
+      <pubDate>Thu, 23 Jul 2026 17:42:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
