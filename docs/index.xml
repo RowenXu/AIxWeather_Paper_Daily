@@ -7,77 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 24 Jul 2026 05:21:04 +0000</lastBuildDate>
-    <item>
-      <title>Safeguards for Speech2Speech LLM-Assistants: A Case Study in Automotive Applications</title>
-      <link>http://arxiv.org/abs/2607.21180v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gregor Endler, Sebastian Kraus, Lukas Stappen&lt;/p&gt;&lt;p&gt;Recent advances have introduced speech-to-speech (S2S) conversational assistants capable of producing natural-sounding interactions, including non-verbal cues like tonality and mood. In the automotive domain, this enables intuitive and humanlike in-car dialogue experiences. However, integrating these end-to-end assistants limits architectural options for programmable domain-specific safeguards&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.21180v1</guid>
-      <pubDate>Thu, 23 Jul 2026 11:09:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Explaining Weather Bulletins via ILP</title>
-      <link>http://arxiv.org/abs/2607.21184v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Enrico Santi, Alessandro Dal Palù, Agostino Dovier, Talissa Dreossi, Andrea Formisano&lt;/p&gt;&lt;p&gt;Inductive Logic Programming (ILP) originated within the Logic Programming community in the Nineties as a framework for combining symbolic learning with declarative knowledge representation. Nowadays, mature ILP frameworks exist and they are capable of learning complex, non-monotonic hypotheses, thus broadening both the modeling capabilities and the scope of real-world applications of ILP. This work is primarily based on the FastLAS2 framework and aims to generate simple, interpretable hypotheses to help clarify the weather bulletins issued by OSMER FVG, the Regional Meteorological Observatory &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.21184v1</guid>
-      <pubDate>Thu, 23 Jul 2026 11:15:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Identifying Good Rules for Efficient SAT Encodings of Single-Constant Multiplication Using Machine Learning</title>
-      <link>http://arxiv.org/abs/2607.21188v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chufeng Jiang, Neng-Fa Zhou&lt;/p&gt;&lt;p&gt;The Single Constant Multiplication problem is a fundamental NP-hard optimization task in hardware design, which seeks to decompose a fixed constant using only additions, subtractions, and bit-shifts. Although dynamic programming methods can produce near-optimal SAT encodings for SCM, their encoding cost remains high for large constants. We propose a neuro-symbolic framework that accelerates SCM SAT encoding by identifying good rules for guiding operator selection during decomposition&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.21188v1</guid>
-      <pubDate>Thu, 23 Jul 2026 11:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transformer-based Diffusion models for Hydrological Time Series Probabilistic Imputation and Forecasting</title>
-      <link>http://arxiv.org/abs/2607.21200v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ferdinand Bhavsar, Lionel Benoit, Maxime Savatier, Edith Gabriel&lt;/p&gt;&lt;p&gt;The modeling of hydrometeorological time series with limited observations is a key challenge in the monitoring of hydro-systems and water resources, as well as for flood or drought risk assessment. Due to the high variability of the underlying processes and the sparsity of available measurements, traditional statistical approaches often struggle to accurately represent their dynamics. In this context, recent advances in deep learning offer a promising direction for improving the representation and generation of complex temporal processes sampled at several observation sites&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.21200v1</guid>
-      <pubDate>Thu, 23 Jul 2026 11:19:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>An LLM-Driven Workflow for Automated Process Control Strategy Generation and Tuning from Dynamic Process Models</title>
-      <link>http://arxiv.org/abs/2607.21292v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ari Luna Rueda, Eike Cramer, Klaus Hellgardt, Mehmet Mercangöz&lt;/p&gt;&lt;p&gt;We present a structured large-language-model-driven workflow for automated multi-variable control design from dynamic process models. The workflow decomposes the design task into constrained code-generation steps: plant-interface construction, normalization, manipulated-variable controlled-variable (MV-CV) pairing, controller specification, closed loop simulation, scenario generation, performance evaluation and Bayesian-optimization (BO) based tuning. Generated artifacts are executed and validated before downstream tasks proceed, and failed artifacts are repaired using validation feedback&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.21292v1</guid>
-      <pubDate>Thu, 23 Jul 2026 13:13:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Towards Faithful Graph Explanations with Synergistic Edge Effects via Granular Balls</title>
-      <link>http://arxiv.org/abs/2607.21381v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiancu Chen, Shuyin Xia, Guan Wang, Degang Chen, Fan Chen&lt;/p&gt;&lt;p&gt;Instance-level explanations aim to reveal the rationale behind a model's decisions for a specific graph. Previous methods explain graph neural networks (GNNs) by selecting important edges to induce subgraphs, where edge importance is assessed by perturbing each edge and observing changes in the model predictions. However, they often neglect the synergistic effects among edges, which are crucial for accurately characterizing edge importance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.21381v1</guid>
-      <pubDate>Thu, 23 Jul 2026 14:44:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flexible generation of daily Earth system model projections across radiative forcing scenarios</title>
-      <link>http://arxiv.org/abs/2607.21382v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yu Huang, Sebastian Bathiany, Shangshang Yang, Philipp Hess, Michael Aich, Niklas Boers&lt;/p&gt;&lt;p&gt;Earth system model (ESM) projections of the climate system's response to anthropogenic forcing are central to assess the impacts of climate change and inform adaptation and mitigation policies. However, given their high computational cost, projections are only made for a limited set of standardized forcing scenarios with limited temporal extent, such as the Shared Socioeconomic Pathways (SSPs), the spatiotemporal resolution remains too low for direct impact assessments, and uncertainties cannot be comprehensively quantified. Recent data-driven models offer efficient and accurate high-resolutio&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.21382v1</guid>
-      <pubDate>Thu, 23 Jul 2026 14:45:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cycle-Consistent and Uncertainty-Aware Neural Surrogates for Tokamak Edge Plasmas</title>
-      <link>http://arxiv.org/abs/2607.21407v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abdourahmane Diaw, Sebastian De Pascuale, Jae-Sun Park, Ivan Paradela Perez, Jeremy D. Lore, Stefan Dasbach&lt;/p&gt;&lt;p&gt;The boundary and divertor plasma govern how a tokamak exhausts power and particles, setting heat fluxes, target conditions, and the onset of detachment. Predicting these quantities is essential for operating current and future devices, but edge simulations that resolve them are too slow for parameter scans, optimization, or real-time control. Machine-learning surrogates offer a fast alternative, yet most are forward-only: they cannot recover input parameters from observations or assess the reliability of their predictions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.21407v1</guid>
-      <pubDate>Thu, 23 Jul 2026 15:06:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Climate-resilient electric vehicle charging infrastructure for sustainable cities: An interpretable causal-ensemble framework for preventive maintenance and low-carbon mobility</title>
-      <link>http://arxiv.org/abs/2607.21444v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Cande Lian, Wentao Zeng, Jiabin Wu, Yiming Bie, Wei Zhou&lt;/p&gt;&lt;p&gt;Reliable electric vehicle (EV) charging infrastructure is a cornerstone of sustainable, low-carbon cities, yet urban climate stress such as extreme heat, heavy precipitation, and humidity increasingly raises equipment fault risk and undermines the resilience of urban energy and mobility services. Shifting operation from reactive repair to preventive maintenance depends on accurate, forward-looking fault-risk prediction, a task complicated by the heterogeneous time scales of physical, behavioral, contextual, and historical signals and by forecasting over a multi-week horizon. We develop FGDSE, &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.21444v1</guid>
-      <pubDate>Thu, 23 Jul 2026 15:51:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diffusion posterior sampling enables zero shot kilometre scale wind forecasting over complex terrain</title>
-      <link>http://arxiv.org/abs/2607.21460v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yujiang Cai, Ya Wang, Shuanglei Feng, Bo Wang, Yiming Liu, Hui Yuan, Xinyi Sun, Haijie Li&lt;/p&gt;&lt;p&gt;Reliable prediction of near surface wind over complex terrain is limited by the mismatch between the spatial resolution of operational forecasts and terrain controlled local wind variability. Here, we develop KiloGen, a diffusion posterior sampling framework for kilometre scale wind forecast enhancement. KiloGen learns a high resolution vector wind prior from Weather Research and Forecasting (WRF) model simulations and constrains posterior sampling with 25 km forecasts from the European Centre for Medium Range Weather Forecasts (ECMWF) at inference time&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.21460v1</guid>
-      <pubDate>Thu, 23 Jul 2026 16:04:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Jul 2026 05:17:06 +0000</lastBuildDate>
     <item>
       <title>Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context</title>
       <link>http://arxiv.org/abs/2607.21535v1</link>
