@@ -7,20 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 25 Jul 2026 05:17:06 +0000</lastBuildDate>
-    <item>
-      <title>Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context</title>
-      <link>http://arxiv.org/abs/2607.21535v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alagappan Valliappan&lt;/p&gt;&lt;p&gt;Speculative decoding accelerates autoregressive generation by having a cheap draft propose tokens that a target verifies in parallel. Frontier models increasingly ship a built-in Multi-Token-Prediction (MTP/NEXTN) draft head under the assumption that the draft is negligibly cheap. At million-token context this breaks: an MTP draft head typically runs full attention over the entire KV cache at every draft step, so its read grows linearly with context and comes to dominate the draft cost -- precisely where speculation is most valuable&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.21535v1</guid>
-      <pubDate>Thu, 23 Jul 2026 17:21:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling</title>
-      <link>http://arxiv.org/abs/2607.21561v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aaron Feller, Kris Deibler, Maxim Secor&lt;/p&gt;&lt;p&gt;Molecular property prediction from structure often uses a single representative conformation, even though many molecules exist as conformational ensembles in solution. We introduce EnsembleEGNN, a molecular ensemble foundation model that encodes an ensemble by first encoding each conformer with shared Equivariant Graph Neural Network (EGNN) layers, then pooling the resulting conformer representations with a Set Attention Block. We pretrain the model on CREMP, a cyclic peptide ensemble dataset, using a multi-task self-supervised objective combining masked token recovery, noisy-coordinate recons&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.21561v1</guid>
-      <pubDate>Thu, 23 Jul 2026 17:42:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Jul 2026 05:32:57 +0000</lastBuildDate>
   </channel>
 </rss>
