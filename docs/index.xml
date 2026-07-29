@@ -7,118 +7,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 28 Jul 2026 05:15:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 05:22:25 +0000</lastBuildDate>
     <item>
-      <title>Forecasting the Emergence and Evolution of Crash Hotspots: A Unified Deep Learning Framework for Proactive Traffic Safety</title>
-      <link>http://arxiv.org/abs/2607.24168v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jingwen Zhu, Keshu Wu, Pei Li, Steven T. Parker, Bin Ran, David A. Noyce&lt;/p&gt;&lt;p&gt;Road crashes remain among the gravest threats to public safety, and preventing them is a defining task of transportation systems worldwide. Much of that harm concentrates at hotspots, yet a hotspot is less a place than an episode; it emerges quietly at an intersection or along an arterial, intensifies for weeks, then subsides, only to reappear elsewhere. Enforcement guided by maps of past crashes inevitably trails this cycle, patrolling yesterday's hotspots while tomorrow's form unwatched&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24168v1</guid>
-      <pubDate>Mon, 27 Jul 2026 08:51:41 +0000</pubDate>
+      <title>Image Quality Dependent Degradation for AI Systems</title>
+      <link>http://arxiv.org/abs/2607.25736v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yannick Kees, Elena Hoemann, Frank Köster, Sven Hallerbach&lt;/p&gt;&lt;p&gt;Perception is one of the primary applications where neural networks outperform conventional algorithms. One example is AI systems for automated driving, which can detect pedestrians based on image data and avoid them accordingly. A substantial challenge with these AI systems is that their output depends heavily on the quality of the input images&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.25736v1</guid>
+      <pubDate>Tue, 28 Jul 2026 14:00:38 +0000</pubDate>
     </item>
     <item>
-      <title>Myopia Prevention and Control 3.0: Artificial Intelligence--Driven Risk Stratification, Proactive Monitoring, and Personalized Intervention</title>
-      <link>http://arxiv.org/abs/2607.24187v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tieniu Wang, Cangzhu Huang, Qianhui Li&lt;/p&gt;&lt;p&gt;The convergence of artificial intelligence (AI), digital sensing, and ubiquitous computing has created an unprecedented opportunity to transform myopia prevention from a reactive, population-based model into a proactive, precision-driven one. Despite evidence that half the world's population will be myopic by 2050, conventional approaches---school-based vision screening (Phase 1.0) and evidence-based risk factor management (Phase 2.0)---have proven insufficient. We review the emergence of Myopia Prevention and Control 3.0, defined by AI integration across three interconnected domains forming a&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24187v1</guid>
-      <pubDate>Mon, 27 Jul 2026 09:07:07 +0000</pubDate>
+      <title>Loss Invariance Determines What Concept Layers Encode: Volume Grounding in Echocardiography</title>
+      <link>http://arxiv.org/abs/2607.25748v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hyunkyung Han, Min Jung Kim&lt;/p&gt;&lt;p&gt;Objective: Concept bottleneck models route prediction through interpretable intermediate variables, and their validity is normally judged by how accurately those variables are predicted. We ask whether that judgement is sufficient, using left ventricular volumes as the concepts underlying ejection fraction estimation from echocardiographic video.   Methods: A video transformer encoder was trained on a publicly available echocardiography dataset&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.25748v1</guid>
+      <pubDate>Tue, 28 Jul 2026 14:11:10 +0000</pubDate>
     </item>
     <item>
-      <title>ML-based Predictive Models for Power Consumption in Virtualised O-RANs</title>
-      <link>http://arxiv.org/abs/2607.24256v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rishu Raj, Genevieve Akude, Urooj Tariq, Daniel Kilper&lt;/p&gt;&lt;p&gt;As communication networks adopt virtualized and disaggregated architectures, achieving energy efficiency has become increasingly important for both economic and environmental reasons. Traditional methods for power modeling are inadequate in these dynamic software-defined environments due to their inability to model complex and nonlinear factors affecting energy use. We investigate the use of feature extraction and regressor-based machine learning methods for predicting power consumption in virtualized open radio access networks (O-RANs), utilizing datasets from a hardware-instrumented testbed&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24256v1</guid>
-      <pubDate>Mon, 27 Jul 2026 10:46:29 +0000</pubDate>
+      <title>WALoMA: A Multitask Wireless Foundation Model via Adaptive Low-Rank Masked Autoencoders</title>
+      <link>http://arxiv.org/abs/2607.25763v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Madi Makin, Asmaa Abdallah, Abdulkadir Celik, Ahmed M. Eltawil&lt;/p&gt;&lt;p&gt;This paper proposes a multitask wireless foundation model via adaptive low-rank masked autoencoders (WALoMA), a unified multi-task foundation model for sixth-generation (6G) wireless physical layer architectures, to address the limitations of specialized, task-specific deep learning models and the practical challenge of scarce labeled wireless datasets. By leveraging concepts inspired by foundation models, the proposed framework adopts a masked autoencoder (MAE) paradigm to learn from unlabeled channel data, to significantly reduce reliance on extensive annotations. The model treats wireless c&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.25763v1</guid>
+      <pubDate>Tue, 28 Jul 2026 14:18:22 +0000</pubDate>
     </item>
     <item>
-      <title>MEGA-CL: A Molecular Foundation Model for Generalizable ADMET Prediction through Graph External Attention and Contrastive Learning</title>
-      <link>http://arxiv.org/abs/2607.24314v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tinghui Jin, Kedu Jin, Ying Li, Guanghui Ren, Jingzhi Xue, Shiyu Zhou, Xiaoli Dai, Li-bin Wei&lt;/p&gt;&lt;p&gt;Predicting the absorption, distribution, metabolism, excretion and toxicity (ADMET) properties of small molecules remains a major challenge in drug discovery. Here, we present MEGA-CL, a foundation graph neural network framework for universal molecular ADMET prediction. MEGA-CL integrates self-supervised contrastive learning with a multi-head external attention mechanism and an enhanced message-passing architecture, enabling simultaneous modeling of local chemical substructures and global inter-graph relationships while mitigating over-smoothing effects commonly observed in deep graph networks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24314v1</guid>
-      <pubDate>Mon, 27 Jul 2026 11:58:56 +0000</pubDate>
+      <title>SpectONet: A Physics-Guided Spectral Deep Operator Network for Euler-Bernoulli Beam Dynamics</title>
+      <link>http://arxiv.org/abs/2607.25790v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shivani Saini, Ramesh Kumar Vats, Arup Kumar Sahoo&lt;/p&gt;&lt;p&gt;This paper proposes a novel physics-guided spectral deep operator network, termed SpectONet, for solving Euler-Bernoulli beam (EBB) vibration problems. The proposed framework integrates the operator-learning capability of DeepONet with physics-informed constraints and Chebyshev-Gauss-Lobatto (CGL) sensor placement. Unlike conventional DeepONet frameworks, which commonly employ uniformly distributed sensors, SpectONet uses nonuniform spectral sensor locations with a higher concentration of points near the domain boundaries&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.25790v1</guid>
+      <pubDate>Tue, 28 Jul 2026 14:42:04 +0000</pubDate>
     </item>
     <item>
-      <title>Multivariate Time Series Forecasting with Adaptive Non-Local Observables</title>
-      <link>http://arxiv.org/abs/2607.24399v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yu-Ting Lee, Huan-Hsin Tseng, Samuel Yen-Chi Chen&lt;/p&gt;&lt;p&gt;Multivariate time series forecasting (MTSF) predicts future values of multiple variables from historical data. While quantum neural networks have been increasingly applied to this task, they typically rely on fixed local measurements, which restrict their expressivity. We propose MTSF-ANO, a simple hybrid model for MTSF that integrates variational quantum circuits with adaptive non-local observables (ANO)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24399v1</guid>
-      <pubDate>Mon, 27 Jul 2026 13:14:45 +0000</pubDate>
+      <title>Rician Distribution as a Physically Interpretable Model for Wind-Speed Statistics</title>
+      <link>http://arxiv.org/abs/2607.25840v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; S. Mitra, S. E. Lakhal, C. P. Connaughton, J. E. Sardonia, M. M. Bandi&lt;/p&gt;&lt;p&gt;The statistics of atmospheric wind variations are commonly modeled using Gaussian or Weibull forms, which often trade physical interpretability against statistical accuracy, especially in the distribution tails. Here we derive a Rician distribution for wind speed from a simple physical model based on two orthogonal Gaussian velocity components with a non-zero mean in the preferred direction. Using wind-speed records from four geographically distinct wind farms, we show that the Rician model consistently outperforms the Gaussian model and remains competitive with the Weibull model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.25840v1</guid>
+      <pubDate>Tue, 28 Jul 2026 15:17:48 +0000</pubDate>
     </item>
     <item>
-      <title>proxymate: Diagnosis and Adjustment of Proxy Estimates for Reliable Inference</title>
-      <link>http://arxiv.org/abs/2607.24401v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexandra N. M. Darmon, Deeksha Sinha, Steve Wilkins-Reeves, Caner Gocmen&lt;/p&gt;&lt;p&gt;Proxy outcomes (such as short-term behavioral signals, model predictions, or surrogate endpoints) are frequently used in place of primary outcomes that are too slow to mature, rare, or challenging to measure directly. But valid inference on a proxy does not guarantee valid inference on the primary estimate as proxy-based estimates can be systematically biased in ways that are difficult to predict, leading to improperly calibrated confidence intervals.   We present proxymate, a framework and open-source Python package for proxy validation and adjustment&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24401v1</guid>
-      <pubDate>Mon, 27 Jul 2026 13:19:03 +0000</pubDate>
+      <title>From Heat Stress to Perception: Interpretable Data-Driven Models of Human Thermal Sensation</title>
+      <link>http://arxiv.org/abs/2607.25850v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abed Hammoud, Xinjie Huang, Qinqin Kong, Marialena Nikolopoulou, Elie Bou-Zeid&lt;/p&gt;&lt;p&gt;Heat stress indices are designed to quantify physiological thermal stress, but their relevance for inferring the thermal perception of individuals remains unclear. In this study, we show that thermal stress and thermal sensation often diverge, as evidenced by distinct global sensitivity patterns with respect to environmental drivers. Using thermal sensation vote survey data, we demonstrate that the dominant sensitivities of stress-based metrics do not align with those governing reported human thermal sensation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.25850v1</guid>
+      <pubDate>Tue, 28 Jul 2026 15:24:08 +0000</pubDate>
     </item>
     <item>
-      <title>Frequency-Based Reservoir computing</title>
-      <link>http://arxiv.org/abs/2607.24420v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arthur S Powanwe&lt;/p&gt;&lt;p&gt;Reservoir computing has emerged as an efficient machine learning framework for predicting time series generated by dynamical systems. In contrast to other machine and deep learning approaches, a reservoir computing trains only the output layer via linear regression, leaving the reservoir (recurrent layer) untrained. This simplification makes reservoir computers easier to train and more amenable to experimentation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24420v1</guid>
-      <pubDate>Mon, 27 Jul 2026 13:33:13 +0000</pubDate>
+      <title>A Two-Regime Statistical Framework for Wind-Power Distributions: From Wind-Speed Fluctuations to Turbine Control</title>
+      <link>http://arxiv.org/abs/2607.25863v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; S. Mitra, S. E. Lakhal, C. P. Connaughton, J. E. Sardonia, M. M. Bandi&lt;/p&gt;&lt;p&gt;Wind-power variability is a major challenge for the reliable integration of utility-scale wind energy into modern power systems. Although wind-speed statistics are often described by simple parametric distributions, translating these statistics into turbine-level power fluctuations is nontrivial because the relationship between wind speed and power is highly nonlinear and changes across different turbine operating regimes. Here, we develop a two-regime statistical framework for wind-power distributions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.25863v1</guid>
+      <pubDate>Tue, 28 Jul 2026 15:30:45 +0000</pubDate>
     </item>
     <item>
-      <title>UNIFUSION: Adapting Autoregressive Language Models into Discrete Diffusion under a Unified Reverse-Rate Objective</title>
-      <link>http://arxiv.org/abs/2607.24507v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaoyi Jiang, Jingyuan Li, Yixuan Jiang, Wei Liu, Yi Zhu, Zuoqiang Shi, Pipi Hu&lt;/p&gt;&lt;p&gt;Existing methods mainly adapt pretrained autoregressive (AR) language models to masked diffusion, whereas we directly adapt them to uniform-noise diffusion, where every token remains editable during sampling. However, adapting AR checkpoints across corruption kernels remains challenging because existing DLMs use different objectives and prediction parameterizations. We establish connections among SEDD, MDLM/GIDD, M2S, and Neural CTMC by expressing their conditional losses as a single generalized Kullback--Leibler objective over model reverse rates&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24507v1</guid>
-      <pubDate>Mon, 27 Jul 2026 14:40:26 +0000</pubDate>
+      <title>DRIFT: Direct-Recursive Intervention-Conditioned Forecasting of ICU Physiological Trajectories</title>
+      <link>http://arxiv.org/abs/2607.25864v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Weixin Liu, Juming Xiong, Congning Ni, Yanfan Zhu, Xingtao Lin, Bradley A. Malin, Zhijun Yin&lt;/p&gt;&lt;p&gt;Many time-series forecasts depend not only on prior observations but also on actions specified during the forecast period. In intensive care units (ICUs), future vital signs and laboratory values are influenced by treatments such as vasopressors. However, models that predict the full future sequence all at once make little use of these treatments, whereas autoregressive models can accumulate errors&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.25864v1</guid>
+      <pubDate>Tue, 28 Jul 2026 15:31:22 +0000</pubDate>
     </item>
     <item>
-      <title>Physics Transformer: Tailoring Transformer for General PDE Prediction</title>
-      <link>http://arxiv.org/abs/2607.24513v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guoze Sun, Rui Zhang, Jiankai Tang, Mengtao Yan, Runze Mao, Zhi X. Chen, Hao Sun&lt;/p&gt;&lt;p&gt;Transformer architectures have attracted increasing attention for solving partial differential equations (PDEs), owing to their flexibility in handling irregular discretizations and their ability to capture long-range physical dependencies. However, unlike discrete language tokens or fixed-resolution image patches, observed physical fields are finite samples of underlying infinite-dimensional functions. Consequently, effectively applying Transformers to PDEs requires a tokenizer that respects the functional nature of physical fields and constructs physically expressive tokens from arbitrary di&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24513v1</guid>
-      <pubDate>Mon, 27 Jul 2026 14:53:42 +0000</pubDate>
+      <title>A2TTA: Anchored-and-Agile Test-Time Adaptation for Evolving Traffic Sensor Networks</title>
+      <link>http://arxiv.org/abs/2607.25875v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Du Yin, Xiachong Lin, Yue Tan, Jinliang Deng, Estrid He, Hao Xue, Flora D. Salim&lt;/p&gt;&lt;p&gt;Traffic forecasting is important for efficient traffic management and route planning in smart cities. Existing traffic forecasting studies typically assume fixed sensor graphs, overlooking the continuous evolution of real-world traffic networks, e.g., ongoing road network construction and evolving human mobility patterns. These dynamic changes can substantially degrade conventional forecasting models, motivating test-time adaptation (TTA) to efficiently adapt pretrained models during deployment&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.25875v1</guid>
+      <pubDate>Tue, 28 Jul 2026 15:38:27 +0000</pubDate>
     </item>
     <item>
-      <title>Bit-Accurate FPGA Evaluation of Learned Feature Gating in a Fixed-Point Fourier-Feature Automatic Modulation Classifier</title>
-      <link>http://arxiv.org/abs/2607.24568v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gawthaman Senthilvelan, Luthira Abeykoon&lt;/p&gt;&lt;p&gt;Learned feature reweighting can improve automatic modulation classification (AMC) in software, but the same operation introduces additional arithmetic and latency when implemented on an FPGA. This work measures that trade-off in a compact fixed-point classifier using 24 sparse DFT-energy features, 8 phase/statistical features, and a 32-to-128-to-11 multilayer perceptron. A second architecture inserts a learned 32-element, 8-bit, input-dependent gate before the classifier&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24568v1</guid>
-      <pubDate>Mon, 27 Jul 2026 15:36:06 +0000</pubDate>
+      <title>Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?</title>
+      <link>http://arxiv.org/abs/2607.25929v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daniel Kua, Yan Song&lt;/p&gt;&lt;p&gt;Deep generative models (DGMs) are widely used for complex high-dimensional data and increasingly applied to spatial and spatio-temporal modeling. Their generated samples implicitly represent the learned data distribution and associated uncertainty. However, for real-world data, assessing whether DGMs have learned the underlying process is difficult because the ground truth is unknown and evaluation often relies on observations alone&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.25929v1</guid>
+      <pubDate>Tue, 28 Jul 2026 16:15:39 +0000</pubDate>
     </item>
     <item>
-      <title>The balance between compactness and forecast accuracy of data-driven latent-space reduced-order models in controlled wake flows</title>
-      <link>http://arxiv.org/abs/2607.24569v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alberto Solera-Rico, Patricia García-Caspueñas, Carlos Sanmiguel Vila, Stefano Discetti&lt;/p&gt;&lt;p&gt;Model-based active flow control requires predictive models that are accurate, stable, and fast enough for real-time optimisation. In controlled wake flows, this is often achieved through Reduced-Order Models (ROMs) that first compress high-dimensional velocity snapshots into a latent space and then learn a time- stepping predictor for the dynamics in the latent space. Here, we study how the choice of the spatial encoder affects the predictability of the resulting latent coordinates for wake flows under control inputs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24569v1</guid>
-      <pubDate>Mon, 27 Jul 2026 15:36:18 +0000</pubDate>
+      <title>Knowledge-Guided Multimodal Reasoning over Interacting Streams for Video-Level Ambivalence and Hesitancy Recognition</title>
+      <link>http://arxiv.org/abs/2607.25961v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Podakanti Satyajith Chary, Barath Parthiban, Pranesh Velmurugan, Adeeba Khan, Nagarajan Ganapathy&lt;/p&gt;&lt;p&gt;Ambivalence and hesitancy (A/H) are conflicting affective states that precede the delay or abandonment of health behaviour change. Recognition of A/H at the video level is difficult, since the signal arises from disagreement across and within facial, vocal, linguistic, and bodily modalities, and manifests differently across individuals. The proposed PRISM-AH (Predictive Reasoning over Interacting Streams for Multimodal Ambivalence/Hesitancy Recognition), is a framework that treats A/H as a multimodal conflict that unfolds over time&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.25961v1</guid>
+      <pubDate>Tue, 28 Jul 2026 16:44:38 +0000</pubDate>
     </item>
     <item>
-      <title>LLM-SoccerArena: Benchmarking LLMs on Real-World Predictions in Sports</title>
-      <link>http://arxiv.org/abs/2607.24573v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jonas Schröder, Jonas Schweisthal, Oliver Müller, Markus Weinmann, Stefan Feuerriegel&lt;/p&gt;&lt;p&gt;Large language models (LLMs) increasingly support decisions about uncertain future events, yet evaluating their ability to forecast real-world outcomes remains difficult. In particular, existing benchmarks are typically static and retrospective, and therefore cannot test how information is synthesized by LLMs to predict future events under uncertainty. We introduce LLM-SoccerArena (https://llm-soccerarena.com), a prospective live benchmark that evaluates how well LLMs forecast real-world sports events before the outcomes are known&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24573v1</guid>
-      <pubDate>Mon, 27 Jul 2026 15:38:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>SIREN: Towards End-to-End Extreme-Weather Early Warning with Experience-Grounded LLM Agents</title>
-      <link>http://arxiv.org/abs/2607.24588v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hang Ni, Weijia Zhang, Fan Liu, Mengqian Lu, Hao Liu&lt;/p&gt;&lt;p&gt;Early warning of extreme weather is essential for mitigating the societal, economic, and environmental risks posed by hazardous weather events. However, expert-centered warning workflows are costly, labor-intensive, and difficult to scale throughout the warning-to-action process. Although recent advances in Large Language Model (LLM) agents have enabled the automation of weather-related tasks, existing studies remain centered on isolated scientific tasks and overlook the chain of interdependent processes required for operational extreme-weather early warning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24588v1</guid>
-      <pubDate>Mon, 27 Jul 2026 15:53:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attribution and Uncertainty Behavior of Learned Residual Gyro Correction for Gyro-Stellar Estimation</title>
-      <link>http://arxiv.org/abs/2607.24608v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mariela De Lucas Álvarez, Melvin Laux, Arthur de Freitas Precht, Maurice Martin, Edoardo Caroselli, Frank Kirchner, Alexander Fabisch&lt;/p&gt;&lt;p&gt;This work investigates uncertainty decomposition and explainability in a deep learning-based framework for gyroscope bias correction. A 1-D Convolutional Neural Network is trained to predict residual angular rate corrections from multi-sensor inputs, including gyroscope and star tracker measurements. The bias corrections are sent to a flight-representative Gyro-Stellar Estimator&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24608v1</guid>
-      <pubDate>Mon, 27 Jul 2026 16:10:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification</title>
-      <link>http://arxiv.org/abs/2607.24683v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Francisco Mena, Dino Ienco, Roberto Interdonato, Cassio F. Dantas, Simon Besnard&lt;/p&gt;&lt;p&gt;Multi-modal classification leverages complementary information across diverse data sources to enhance predictive performance. However, real-world scenarios subject to operational constraints, such as sensor failures or privacy restrictions, lead to inconsistent modality availability between training and inference times. To handle missing modalities, prior studies have mainly covered bimodal data setups and focused on designing robust fusion processes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24683v1</guid>
-      <pubDate>Mon, 27 Jul 2026 17:23:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation</title>
-      <link>http://arxiv.org/abs/2607.24731v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bingnan Li, Haozhe Wang, Haozhong Xiong, Fangtai Wu, Jinpeng Yu, Yang Shi, Jiaming Liu, Ruihua Huang&lt;/p&gt;&lt;p&gt;On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods naturally extend velocity matching to the CFG-composed prediction, directly matching teacher and student guided velocities. We show that this objective is under-identified at the branch level: positive- and negative-branch errors can compensate in the guided prediction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.24731v1</guid>
-      <pubDate>Mon, 27 Jul 2026 17:57:02 +0000</pubDate>
+      <title>$π\mathbf{R}^2$: Reactive Real-time Flow Policies</title>
+      <link>http://arxiv.org/abs/2607.26055v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sungjae Park, Shubham Tulsiani&lt;/p&gt;&lt;p&gt;Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing \emph{reactivity}. Replanning more often would restore it, but the perception-to-action pipeline (a large backbone plus multiple denoising steps) is too slow: this \emph{latency} forbids frequent replanning and leaves committed actions stale, making such policies ill-suited for dynamic, closed-loop control&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.26055v1</guid>
+      <pubDate>Tue, 28 Jul 2026 17:59:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
