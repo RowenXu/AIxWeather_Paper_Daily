@@ -7,90 +7,104 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 29 Jul 2026 05:22:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 05:09:45 +0000</lastBuildDate>
     <item>
-      <title>Image Quality Dependent Degradation for AI Systems</title>
-      <link>http://arxiv.org/abs/2607.25736v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yannick Kees, Elena Hoemann, Frank Köster, Sven Hallerbach&lt;/p&gt;&lt;p&gt;Perception is one of the primary applications where neural networks outperform conventional algorithms. One example is AI systems for automated driving, which can detect pedestrians based on image data and avoid them accordingly. A substantial challenge with these AI systems is that their output depends heavily on the quality of the input images&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.25736v1</guid>
-      <pubDate>Tue, 28 Jul 2026 14:00:38 +0000</pubDate>
+      <title>An Informativeness-based Clustered Federated Learning Method for Reliable Traffic Prediction in Managed Wi-Fi Networks</title>
+      <link>http://arxiv.org/abs/2607.26682v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Luca Barbieri, Gianluca Fontanesi, Lorenzo Galati Giordano, Alfonso Fernandez Duran, Thorsten Wild&lt;/p&gt;&lt;p&gt;Centrally-managed Wi-Fi solutions are increasingly leveraging Distributed Artificial Intelligence (AI) to predict key operational statistics of Access Points (APs) and proactively optimize network performance. In this context, Clustered Federated Learning (CFL) represents a fitting methodology, enabling the generation of multiple AI models that account for diverse statistical properties of the APs data distribution. However, identifying informative clusters for grouping APs models remains a significant challenge&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.26682v1</guid>
+      <pubDate>Wed, 29 Jul 2026 09:32:42 +0000</pubDate>
     </item>
     <item>
-      <title>Loss Invariance Determines What Concept Layers Encode: Volume Grounding in Echocardiography</title>
-      <link>http://arxiv.org/abs/2607.25748v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hyunkyung Han, Min Jung Kim&lt;/p&gt;&lt;p&gt;Objective: Concept bottleneck models route prediction through interpretable intermediate variables, and their validity is normally judged by how accurately those variables are predicted. We ask whether that judgement is sufficient, using left ventricular volumes as the concepts underlying ejection fraction estimation from echocardiographic video.   Methods: A video transformer encoder was trained on a publicly available echocardiography dataset&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.25748v1</guid>
-      <pubDate>Tue, 28 Jul 2026 14:11:10 +0000</pubDate>
+      <title>Multimodal fusion of visual and morphometric features for avian bone classification</title>
+      <link>http://arxiv.org/abs/2607.26743v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nevio Dubbini, Lisa Yeomans, Marco Pavia, Ramazan Parmaksiz, Ayse Atas Hooglugt, Gabriele Gattiglia, Beatrice Demarchi&lt;/p&gt;&lt;p&gt;Artificial intelligence has shown considerable potential for archaeological applications, yet its use in zooarchaeology remains limited, particularly for the identification of avian skeletal remains. This study presents a proof-of-concept multimodal framework that integrates convolutional neural network-based image analysis with osteometric measurements for the classification of bird bones. Using a dataset of more than 10,000 images from multiple museum and research collections, two classification tasks were investigated: skeletal element identification and family-level taxonomic classificatio&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.26743v1</guid>
+      <pubDate>Wed, 29 Jul 2026 10:34:26 +0000</pubDate>
     </item>
     <item>
-      <title>WALoMA: A Multitask Wireless Foundation Model via Adaptive Low-Rank Masked Autoencoders</title>
-      <link>http://arxiv.org/abs/2607.25763v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Madi Makin, Asmaa Abdallah, Abdulkadir Celik, Ahmed M. Eltawil&lt;/p&gt;&lt;p&gt;This paper proposes a multitask wireless foundation model via adaptive low-rank masked autoencoders (WALoMA), a unified multi-task foundation model for sixth-generation (6G) wireless physical layer architectures, to address the limitations of specialized, task-specific deep learning models and the practical challenge of scarce labeled wireless datasets. By leveraging concepts inspired by foundation models, the proposed framework adopts a masked autoencoder (MAE) paradigm to learn from unlabeled channel data, to significantly reduce reliance on extensive annotations. The model treats wireless c&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.25763v1</guid>
-      <pubDate>Tue, 28 Jul 2026 14:18:22 +0000</pubDate>
+      <title>Crossing-Free Probabilistic K-Line Forecasts Without Retraining</title>
+      <link>http://arxiv.org/abs/2607.26792v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Runyao Yu, Yuchen Tao, Yujie Chen, Wentao Wang, Derek W. Bunn&lt;/p&gt;&lt;p&gt;Probabilistic K-line forecasting describes uncertainty in four complementary prices, namely open--high--low--close (OHLC). However, it introduces two consistency problems: quantile crossing and K-line crossing. Quantile crossing occurs when a higher-quantile forecast falls below a lower-quantile forecast, while K-line crossing occurs when the forecast low exceeds the open or close, or the forecast high falls below the open or close&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.26792v1</guid>
+      <pubDate>Wed, 29 Jul 2026 11:33:23 +0000</pubDate>
     </item>
     <item>
-      <title>SpectONet: A Physics-Guided Spectral Deep Operator Network for Euler-Bernoulli Beam Dynamics</title>
-      <link>http://arxiv.org/abs/2607.25790v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shivani Saini, Ramesh Kumar Vats, Arup Kumar Sahoo&lt;/p&gt;&lt;p&gt;This paper proposes a novel physics-guided spectral deep operator network, termed SpectONet, for solving Euler-Bernoulli beam (EBB) vibration problems. The proposed framework integrates the operator-learning capability of DeepONet with physics-informed constraints and Chebyshev-Gauss-Lobatto (CGL) sensor placement. Unlike conventional DeepONet frameworks, which commonly employ uniformly distributed sensors, SpectONet uses nonuniform spectral sensor locations with a higher concentration of points near the domain boundaries&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.25790v1</guid>
-      <pubDate>Tue, 28 Jul 2026 14:42:04 +0000</pubDate>
+      <title>Forecasting Trajectory-Level Safety Risks in Black-Box Multi-Turn Interactions</title>
+      <link>http://arxiv.org/abs/2607.26820v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shi Lin, Peng Qian, Dinghao Liu, Renjie Sun, Sifan Wu, Dezhang Kong, Chenpei Wang, Xun Wang&lt;/p&gt;&lt;p&gt;As large language models (LLMs) evolve from standalone assistants into autonomous agents, ensuring their safety requires shifting beyond pointwise risk assessment to understand how risks emerge and unfold over long-horizon trajectories. In multi-turn interactions, malicious intent can be decomposed across seemingly harmless turns and gradually reconstructed through interaction trajectories, eventually resulting in safety failures. Existing safeguards remain largely reactive, detecting manifested violations while lacking the ability to predict latent risk evolution and enable preemptive prevent&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.26820v1</guid>
+      <pubDate>Wed, 29 Jul 2026 12:14:23 +0000</pubDate>
     </item>
     <item>
-      <title>Rician Distribution as a Physically Interpretable Model for Wind-Speed Statistics</title>
-      <link>http://arxiv.org/abs/2607.25840v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; S. Mitra, S. E. Lakhal, C. P. Connaughton, J. E. Sardonia, M. M. Bandi&lt;/p&gt;&lt;p&gt;The statistics of atmospheric wind variations are commonly modeled using Gaussian or Weibull forms, which often trade physical interpretability against statistical accuracy, especially in the distribution tails. Here we derive a Rician distribution for wind speed from a simple physical model based on two orthogonal Gaussian velocity components with a non-zero mean in the preferred direction. Using wind-speed records from four geographically distinct wind farms, we show that the Rician model consistently outperforms the Gaussian model and remains competitive with the Weibull model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.25840v1</guid>
-      <pubDate>Tue, 28 Jul 2026 15:17:48 +0000</pubDate>
+      <title>Thinking Under Uncertainty: Evidence Use and Information-Seeking in Language Models</title>
+      <link>http://arxiv.org/abs/2607.26845v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hua-Dong Xiong, Xinyuan Yan, Ji-An Li, Jingming Xue, Marcelo G. Mattar, Robert C. Wilson&lt;/p&gt;&lt;p&gt;Inference-time thinking improves the performance of large language models, but aggregate outcomes do not reveal whether models use available evidence more effectively or seek information that could improve future decisions. We distinguish these responses by measuring action preference, thinking length, and reported confidence under matched uncertainty. Ten open-weight models completed matched horizon-style two-armed bandit trials in thinking and non-thinking modes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.26845v1</guid>
+      <pubDate>Wed, 29 Jul 2026 12:33:12 +0000</pubDate>
     </item>
     <item>
-      <title>From Heat Stress to Perception: Interpretable Data-Driven Models of Human Thermal Sensation</title>
-      <link>http://arxiv.org/abs/2607.25850v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abed Hammoud, Xinjie Huang, Qinqin Kong, Marialena Nikolopoulou, Elie Bou-Zeid&lt;/p&gt;&lt;p&gt;Heat stress indices are designed to quantify physiological thermal stress, but their relevance for inferring the thermal perception of individuals remains unclear. In this study, we show that thermal stress and thermal sensation often diverge, as evidenced by distinct global sensitivity patterns with respect to environmental drivers. Using thermal sensation vote survey data, we demonstrate that the dominant sensitivities of stress-based metrics do not align with those governing reported human thermal sensation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.25850v1</guid>
-      <pubDate>Tue, 28 Jul 2026 15:24:08 +0000</pubDate>
+      <title>TREA-Net: A Transferable Residual Epidemiological Adaptation Network for Dengue Incidence Forecasting</title>
+      <link>http://arxiv.org/abs/2607.26854v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Inesh Shukla, Madhurima Panja, Tanujit Chakraborty, Chittaranjan Hens&lt;/p&gt;&lt;p&gt;Accurate multi-week dengue forecasting supports timely vector-control interventions, outbreak preparedness, and healthcare resource allocation. However, newly established surveillance systems often lack the historical data needed to train reliable neural forecasting models. Although pretrained time-series models offer promising zero-shot forecasts, their cross-domain training may not capture local epidemiological dynamics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.26854v1</guid>
+      <pubDate>Wed, 29 Jul 2026 12:37:19 +0000</pubDate>
     </item>
     <item>
-      <title>A Two-Regime Statistical Framework for Wind-Power Distributions: From Wind-Speed Fluctuations to Turbine Control</title>
-      <link>http://arxiv.org/abs/2607.25863v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; S. Mitra, S. E. Lakhal, C. P. Connaughton, J. E. Sardonia, M. M. Bandi&lt;/p&gt;&lt;p&gt;Wind-power variability is a major challenge for the reliable integration of utility-scale wind energy into modern power systems. Although wind-speed statistics are often described by simple parametric distributions, translating these statistics into turbine-level power fluctuations is nontrivial because the relationship between wind speed and power is highly nonlinear and changes across different turbine operating regimes. Here, we develop a two-regime statistical framework for wind-power distributions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.25863v1</guid>
-      <pubDate>Tue, 28 Jul 2026 15:30:45 +0000</pubDate>
+      <title>Human diversity fuels collective creativity that large language models cannot simulate or sustain</title>
+      <link>http://arxiv.org/abs/2607.26899v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mengchen Dong, Hiromu Yakura&lt;/p&gt;&lt;p&gt;Diverse human groups produce diverse ideas, the raw material of innovation. Generative AI challenges this engine twice over: everyday AI assistance may homogenize what diverse people create, and AI-simulated diversity may replace the people altogether. We tested both challenges in a preregistered creative metaphor experiment with native (L1) and non-native (L2) English writers, who wrote without AI, with AI-generated ideas (AI ideation), or with AI refining their own ideas (AI refinement)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.26899v1</guid>
+      <pubDate>Wed, 29 Jul 2026 13:31:37 +0000</pubDate>
     </item>
     <item>
-      <title>DRIFT: Direct-Recursive Intervention-Conditioned Forecasting of ICU Physiological Trajectories</title>
-      <link>http://arxiv.org/abs/2607.25864v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Weixin Liu, Juming Xiong, Congning Ni, Yanfan Zhu, Xingtao Lin, Bradley A. Malin, Zhijun Yin&lt;/p&gt;&lt;p&gt;Many time-series forecasts depend not only on prior observations but also on actions specified during the forecast period. In intensive care units (ICUs), future vital signs and laboratory values are influenced by treatments such as vasopressors. However, models that predict the full future sequence all at once make little use of these treatments, whereas autoregressive models can accumulate errors&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.25864v1</guid>
-      <pubDate>Tue, 28 Jul 2026 15:31:22 +0000</pubDate>
+      <title>How to quantify earthquake predictability? Advances in earthquake forecasting and predictability limits</title>
+      <link>http://arxiv.org/abs/2607.26918v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiancang Zhuang, Didier Sornette&lt;/p&gt;&lt;p&gt;Earthquakes resist deterministic prediction, yet their occurrence is not fully random. This paper develops a unified information-theoretic framework to quantify predictability. By reviewing Shannon entropy and the Kullback-Leibler divergence, we formalize predictability as the entropy gap between complete randomness and the true data-generating process and clarify how this absolute notion relates to the relative skill gains used in prospective model evaluation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.26918v1</guid>
+      <pubDate>Wed, 29 Jul 2026 13:46:32 +0000</pubDate>
     </item>
     <item>
-      <title>A2TTA: Anchored-and-Agile Test-Time Adaptation for Evolving Traffic Sensor Networks</title>
-      <link>http://arxiv.org/abs/2607.25875v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Du Yin, Xiachong Lin, Yue Tan, Jinliang Deng, Estrid He, Hao Xue, Flora D. Salim&lt;/p&gt;&lt;p&gt;Traffic forecasting is important for efficient traffic management and route planning in smart cities. Existing traffic forecasting studies typically assume fixed sensor graphs, overlooking the continuous evolution of real-world traffic networks, e.g., ongoing road network construction and evolving human mobility patterns. These dynamic changes can substantially degrade conventional forecasting models, motivating test-time adaptation (TTA) to efficiently adapt pretrained models during deployment&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.25875v1</guid>
-      <pubDate>Tue, 28 Jul 2026 15:38:27 +0000</pubDate>
+      <title>What Does It Take to Detect an AI Agent? Minimal Feature Sets for Behavioral Detection under Browser Automation</title>
+      <link>http://arxiv.org/abs/2607.26935v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vishisht Choudhary, Lukas Schmidt, Anne Zoë Kenntner, Feras Skhab, Michel Osswald, Jens Ernstberger&lt;/p&gt;&lt;p&gt;Bot detectors deployed at scale treat traffic as binary: human or bot. This assumption breaks when AI agents browse the web through browser automation, a traffic class that is neither and that binary classifiers structurally cannot represent. We present a three-class detection framework distinguishing humans, bots, and AI agents, and show that the binary-vs-agent confusion is architectural: a binary human-vs-bot detector misroutes agent sessions because its label space lacks an agent class&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.26935v1</guid>
+      <pubDate>Wed, 29 Jul 2026 14:05:26 +0000</pubDate>
     </item>
     <item>
-      <title>Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?</title>
-      <link>http://arxiv.org/abs/2607.25929v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daniel Kua, Yan Song&lt;/p&gt;&lt;p&gt;Deep generative models (DGMs) are widely used for complex high-dimensional data and increasingly applied to spatial and spatio-temporal modeling. Their generated samples implicitly represent the learned data distribution and associated uncertainty. However, for real-world data, assessing whether DGMs have learned the underlying process is difficult because the ground truth is unknown and evaluation often relies on observations alone&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.25929v1</guid>
-      <pubDate>Tue, 28 Jul 2026 16:15:39 +0000</pubDate>
+      <title>Surrogate assisted diversity estimation in neural ensemble search</title>
+      <link>http://arxiv.org/abs/2607.26940v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexandr Udeneev, Petr Babkin, Oleg Bakhteev&lt;/p&gt;&lt;p&gt;Ensembles are a standard way to improve the performance and robustness of deep neural networks, but their effectiveness crucially depends on both the quality and the diversity of individual models. Most neural architecture search (NAS) methods are computationally expensive. Extending them to neural ensemble search (NES), which requires joint optimization of individual architectures and their ensemble composition, leads to an exponential growth of the search space and makes the problem computationally intractable&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.26940v1</guid>
+      <pubDate>Wed, 29 Jul 2026 14:09:55 +0000</pubDate>
     </item>
     <item>
-      <title>Knowledge-Guided Multimodal Reasoning over Interacting Streams for Video-Level Ambivalence and Hesitancy Recognition</title>
-      <link>http://arxiv.org/abs/2607.25961v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Podakanti Satyajith Chary, Barath Parthiban, Pranesh Velmurugan, Adeeba Khan, Nagarajan Ganapathy&lt;/p&gt;&lt;p&gt;Ambivalence and hesitancy (A/H) are conflicting affective states that precede the delay or abandonment of health behaviour change. Recognition of A/H at the video level is difficult, since the signal arises from disagreement across and within facial, vocal, linguistic, and bodily modalities, and manifests differently across individuals. The proposed PRISM-AH (Predictive Reasoning over Interacting Streams for Multimodal Ambivalence/Hesitancy Recognition), is a framework that treats A/H as a multimodal conflict that unfolds over time&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.25961v1</guid>
-      <pubDate>Tue, 28 Jul 2026 16:44:38 +0000</pubDate>
+      <title>On the robustness of noisy solutions in non-convex neural networks</title>
+      <link>http://arxiv.org/abs/2607.27000v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Enrico M. Malatesta, Alessandra Passalacqua, Riccardo Zecchina&lt;/p&gt;&lt;p&gt;Optimization in non-convex neural network models is strongly influenced by the geometry of the solution space: sparse, isolated, point-like clusters are typically algorithmically inaccessible, whereas wide and flat regions can be found efficiently despite being relatively rare. At zero temperature this picture has been formalized in binary perceptrons through the overlap gap property (OGP), which limits algorithmic access to configurations with zero training error above a critical constraint density $α_{\rm OGP}$. Here we extend this description to finite temperature, where a positive training&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.27000v1</guid>
+      <pubDate>Wed, 29 Jul 2026 14:57:26 +0000</pubDate>
     </item>
     <item>
-      <title>$π\mathbf{R}^2$: Reactive Real-time Flow Policies</title>
-      <link>http://arxiv.org/abs/2607.26055v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sungjae Park, Shubham Tulsiani&lt;/p&gt;&lt;p&gt;Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing \emph{reactivity}. Replanning more often would restore it, but the perception-to-action pipeline (a large backbone plus multiple denoising steps) is too slow: this \emph{latency} forbids frequent replanning and leaves committed actions stale, making such policies ill-suited for dynamic, closed-loop control&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.26055v1</guid>
-      <pubDate>Tue, 28 Jul 2026 17:59:31 +0000</pubDate>
+      <title>What Can Latent World Models Know? Physical Parameter Identifiability in Multimodal Predictive Representations</title>
+      <link>http://arxiv.org/abs/2607.27017v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kaizhen Tan, Xin Xu, Siru Tao, Hanzhe Hong, Yang Feng, Heqing Du&lt;/p&gt;&lt;p&gt;A central premise of latent world models is that predicting the future forces a representation to internalize the physics of its environment. Which physical quantities does a trained latent actually contain, and what decides this? We answer with controlled interventions in POKEWORLD, an interactive environment whose visually identical objects hide mass, drag, and contact stiffness. A certificate-gated protocol first certifies each parameter as recoverable from raw observations, then measures whether it enters the latent, so a null result can be attributed to the objective rather than to the en&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.27017v1</guid>
+      <pubDate>Wed, 29 Jul 2026 15:15:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hierarchical Spatio-Temporal Transformer for Coherent Emergency Department Forecasting</title>
+      <link>http://arxiv.org/abs/2607.27106v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Filipa Lino, Bárbara Tavares, Carlos Santiago, Cláudia Soares, Manuel Marques&lt;/p&gt;&lt;p&gt;Emergency Departments (EDs) are critical access points in healthcare systems, yet they face persistent pressure from unpredictable patient demand, seasonal surges, and non-urgent visits. Effective ED planning requires forecasts at multiple decision-making levels: hospitals need local demand estimates for staffing and bed management, regions require forecasts to coordinate healthcare units, and national authorities need system-wide projections for capacity planning. However, most existing approaches forecast ED demand independently at a single level, ignoring the hierarchy linking hospitals, re&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.27106v1</guid>
+      <pubDate>Wed, 29 Jul 2026 16:33:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Skillful forecasting of offshore winds from satellite scatterometer constellations</title>
+      <link>http://arxiv.org/abs/2607.27152v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Francesco Pinto, Luca Lanzilao, Paco Lopez Dekker, Angela Meyer&lt;/p&gt;&lt;p&gt;Accurate intraday forecasts of offshore wind are becoming increasingly important for power system operation and the integration of growing shares of offshore wind energy. Operational forecasts rely predominantly on numerical weather prediction (NWP), which is not optimized for lead times of minutes to hours, where initial-condition accuracy dominates forecast skill. Although satellite scatterometer observations are routinely assimilated into NWP, they have not previously been used directly for forecasting&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2607.27152v1</guid>
+      <pubDate>Wed, 29 Jul 2026 17:31:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
