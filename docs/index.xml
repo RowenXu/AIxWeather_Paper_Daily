@@ -7,13 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 01 Aug 2026 05:28:07 +0000</lastBuildDate>
-    <item>
-      <title>Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories</title>
-      <link>http://arxiv.org/abs/2607.28567v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mengfei Ran, Yifeng Shen, Ruijie Guan&lt;/p&gt;&lt;p&gt;Longitudinal causal studies often record histories as irregular functional fragments: laboratory values, physiologic signals, sensor streams, and image-derived summaries measured at unequal and informative times. Standard doubly robust estimators usually require scalar summaries, whereas sequence learners optimize prediction losses that need not stabilize the efficient influence function. We propose Doubly Robust Functional Representation Learning (DR-FRL), a cross-fitted workflow that turns irregular histories into estimand-targeted states for observed-history regimes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2607.28567v1</guid>
-      <pubDate>Thu, 30 Jul 2026 17:33:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Aug 2026 05:40:28 +0000</lastBuildDate>
   </channel>
 </rss>
