@@ -7,6 +7,83 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 03 Aug 2026 05:42:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 05:15:37 +0000</lastBuildDate>
+    <item>
+      <title>An AI-Based Decision-Support Pipeline for Day-Ahead Photovoltaic Forecasting</title>
+      <link>http://arxiv.org/abs/2608.02088v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fariba Dehghan, Sebastian Stein, Vahid Yazdanpanah, Stephanie Gauthier, Masood Nazari&lt;/p&gt;&lt;p&gt;Reliable photovoltaic (PV) forecasts are needed for low-carbon energy systems, but newly deployed sites often have short, imperfect records. This makes standard day-ahead forecasting difficult: persistence and physical baselines can be sensitive to calibration and timestamp alignment, while single machine-learning models may capture only one structure in the data and overstate skill under non-temporal validation. We study this problem at a United Kingdom charging-station site, where PV forecast errors affect charging availability, storage scheduling, and downstream control&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.02088v1</guid>
+      <pubDate>Mon, 03 Aug 2026 11:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>RamanPFN: learning from Raman spectral structure with a tabular foundation model</title>
+      <link>http://arxiv.org/abs/2608.02157v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xingyu Pan, Huan Wang, Jinjia Guo, Zhenlin Zhao, Siming Dong, Jixi Lu&lt;/p&gt;&lt;p&gt;Raman spectroscopy enables non-destructive, label-free molecular characterization across materials science, biomedicine and process monitoring. Predictive Raman datasets often contain few labelled spectra and thousands of ordered wavenumbers, with informative variation within bands and across distant spectral regions. Latent-variable chemometrics accommodates collinear small-sample data but can obscure fine peak morphology, whereas deep spectral networks resolve this structure only after task-specific training&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.02157v1</guid>
+      <pubDate>Mon, 03 Aug 2026 12:37:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arctic bimodality reflects enhanced variability in the clear-cloudy transition rather than bistability</title>
+      <link>http://arxiv.org/abs/2608.02205v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nadja Omanovic, Antoon van Hooft, Valentina Zeni, Franziska Glassmeier&lt;/p&gt;&lt;p&gt;The wintertime Arctic boundary layer is characterized by two distinct states, radiatively clear (cloud-free) and radiatively opaque (cloudy), which is reflected in observations as a bimodal distribution. Previous studies hypothesized that these regimes are related to an underlying bistability of the system's dynamics. We apply a drift-diffusion framework based on the two leading terms of the Kramers-Moyal expansion to observations from 15 winter periods in Ny-Alesund, Norway&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.02205v1</guid>
+      <pubDate>Mon, 03 Aug 2026 13:30:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thermo-Hydro-Mechanical Modeling of a TBM Tunnel in Opalinus Clay: Thermal Coupling Effects on Long-term Lining Pressures and Excavation Damage Zone Development</title>
+      <link>http://arxiv.org/abs/2608.02207v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Saeed Tourchi, Martin Ziegler, Arash Alimardani Lavasan&lt;/p&gt;&lt;p&gt;Tunnels in argillaceous formations such as Opalinus Clay (OPA) develop a coupled thermal, hydraulic, and mechanical response. This study examines the New Belchen Tunnel (STB), excavated by tunnel boring machine through faulted OPA shale. Field measurements show a strong relation between lining temperature and radial pressure&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.02207v1</guid>
+      <pubDate>Mon, 03 Aug 2026 13:32:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Constrained Co-Design for Photonic Bayesian Neural Networks</title>
+      <link>http://arxiv.org/abs/2608.02229v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hendrik Borras, Xiao Wang, Bernhard Klein, Robin Janssen, Frank Brückerhoff-Plückelmann, Wolfram Pernice, Holger Fröning&lt;/p&gt;&lt;p&gt;Classical neural networks frequently produce overconfident predictions on ambiguous or out-of-distribution (OOD) data, a liability that grows with each AI system deployed in safety-critical real-world scenarios. Bayesian neural networks (BNNs) provide a principled framework for uncertainty-aware prediction by replacing deterministic parameters with probability distributions, but repeated sampling increases latency, memory traffic, and energy consumption. Photonic probabilistic computing offers a promising alternative by exploiting intrinsic optical stochasticity for fast and parallel sampling&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.02229v1</guid>
+      <pubDate>Mon, 03 Aug 2026 13:47:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation</title>
+      <link>http://arxiv.org/abs/2608.02345v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Stefan Hut, Lorenzo Masoero&lt;/p&gt;&lt;p&gt;A/B testing remains the standard for rolling out new features in the technology industry. Each experiment, however, consumes real traffic, engineering effort, and weeks of wall-clock time. Can AI agents---conditioned on behavioral profiles and contextual descriptions of the intervention---simulate outcomes accurately enough to vet candidate treatments before committing live traffic? We formalize this question as a \emph{Simulated Randomized Controlled Trial} (S-RCT) and derive a two-layer error decomposition that separates agent approximation error from subsampling error, enabling targeted imp&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.02345v1</guid>
+      <pubDate>Mon, 03 Aug 2026 14:58:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Faster-WAM: Do World Action Models Need Deep Action Modules?</title>
+      <link>http://arxiv.org/abs/2608.02365v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Liheng Ma, Rui Heng Yang, Zhanguang Zhang, Mateo Clemente, Ziwen Hu, Tongtong Cao, Yingxue Zhang&lt;/p&gt;&lt;p&gt;World Action Models (WAMs) couple robot action prediction with video world models. Existing WAMs with shared-backbone and Mixture-of-Transformers designs generally tie the depth of the action module to that of the video backbone, resulting in substantial computational overhead and high inference latency. To address this limitation, we introduce Dock of Transformer (DoT), a video-centric design principle that treats a pretrained video Transformer as a representation hub and connects lightweight output-heads through docking interfaces&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.02365v1</guid>
+      <pubDate>Mon, 03 Aug 2026 15:11:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gecko: Fast Private Inference via Secure Public Encoder Offloading</title>
+      <link>http://arxiv.org/abs/2608.02378v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Cheng'an Wei, Kai Chen, Yue Zhao, Congyi Li, Shenchen Zhu&lt;/p&gt;&lt;p&gt;Private inference protects both user inputs and server models during neural network inference, but existing solutions remain too slow for practical deployment. This motivates recent efforts to run a public encoder, such as a pretrained backbone, outside the protection boundary and evaluate only a small private predictor cryptographically. While appealing for efficiency, this design is not inherently secure: naively offloading a public encoder may create a feature-space shortcut: an extraction adversary may learn the remaining private predictor's feature-to-output mapping more easily than the o&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.02378v1</guid>
+      <pubDate>Mon, 03 Aug 2026 15:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Large Language Models Fail at Tabular Prediction</title>
+      <link>http://arxiv.org/abs/2608.02412v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marta Garnelo, Wojciech M. Czarnecki&lt;/p&gt;&lt;p&gt;Large language models (LLMs) have become the default tool for a remarkable range of tasks, yet they have had conspicuously little success at one of the most common machine learning workloads: predictive analytics over tabular data. This gap is the founding premise of the fast-growing field of tabular foundation models, but the question of why generic LLMs fail has remained open. We study a frontier LLM in its purest inference regime - a single generation pass over a prompt containing the full training and test data, with no tools, no agentic scaffolding, and no fine-tuning - and systematically&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.02412v1</guid>
+      <pubDate>Mon, 03 Aug 2026 15:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality</title>
+      <link>http://arxiv.org/abs/2608.02575v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shengzhi Deng, Chenqi Ye, Yanze Guo&lt;/p&gt;&lt;p&gt;Diffusion models rely on stochastic inputs, yet on finite-precision hardware, the "randomness" they consume is realized as deterministic numerical orbits generated by pseudorandom rules. Accessible orbit structure can become a learnable input and affect both training and generation because the realized loss and its gradient depend on the concrete pseudorandom values consumed at each optimization step. A small multilayer perceptron predicts the next value of an orbit from its recent history, measuring general sequence predictability&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.02575v1</guid>
+      <pubDate>Mon, 03 Aug 2026 17:50:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework</title>
+      <link>http://arxiv.org/abs/2608.02599v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junjie Yin, Buxin She, Xinyu Feng, Fangxing, Li&lt;/p&gt;&lt;p&gt;Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly rely on large language models rather than building their own. This gap points to a need for engineering-grounded AI (EGAI), in which AI workflows follow established engineering and power-system domain rules rather than acting as task-agnostic black boxes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.02599v1</guid>
+      <pubDate>Mon, 03 Aug 2026 17:59:09 +0000</pubDate>
+    </item>
   </channel>
 </rss>
