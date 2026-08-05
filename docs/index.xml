@@ -7,83 +7,118 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 04 Aug 2026 05:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 05:15:34 +0000</lastBuildDate>
     <item>
-      <title>An AI-Based Decision-Support Pipeline for Day-Ahead Photovoltaic Forecasting</title>
-      <link>http://arxiv.org/abs/2608.02088v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fariba Dehghan, Sebastian Stein, Vahid Yazdanpanah, Stephanie Gauthier, Masood Nazari&lt;/p&gt;&lt;p&gt;Reliable photovoltaic (PV) forecasts are needed for low-carbon energy systems, but newly deployed sites often have short, imperfect records. This makes standard day-ahead forecasting difficult: persistence and physical baselines can be sensitive to calibration and timestamp alignment, while single machine-learning models may capture only one structure in the data and overstate skill under non-temporal validation. We study this problem at a United Kingdom charging-station site, where PV forecast errors affect charging availability, storage scheduling, and downstream control&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.02088v1</guid>
-      <pubDate>Mon, 03 Aug 2026 11:48:32 +0000</pubDate>
+      <title>POEM: Phase-Aware $\mathrm{SO}(2)$ Feature Rotation for Time Series Forecasting Under Periodicity Drift</title>
+      <link>http://arxiv.org/abs/2608.03630v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiawen Zhu, Shuhan Liu, Shengxuan Li, Qiming Shi, Di Weng&lt;/p&gt;&lt;p&gt;Deep learning has advanced time series forecasting, but periodicity drift, in which cycle timing and phase vary over time, remains a challenging problem. Existing methods predominantly model these sequences on fixed time grids, suffering from a limited ability to accommodate phase-related variation. To address this limitation, we propose \textbf{POEM}, a phase-aware forecasting framework based on latent feature rotation using the special orthogonal group in two dimensions, denoted by $\mathrm{SO}(2)$&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03630v1</guid>
+      <pubDate>Tue, 04 Aug 2026 13:16:07 +0000</pubDate>
     </item>
     <item>
-      <title>RamanPFN: learning from Raman spectral structure with a tabular foundation model</title>
-      <link>http://arxiv.org/abs/2608.02157v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xingyu Pan, Huan Wang, Jinjia Guo, Zhenlin Zhao, Siming Dong, Jixi Lu&lt;/p&gt;&lt;p&gt;Raman spectroscopy enables non-destructive, label-free molecular characterization across materials science, biomedicine and process monitoring. Predictive Raman datasets often contain few labelled spectra and thousands of ordered wavenumbers, with informative variation within bands and across distant spectral regions. Latent-variable chemometrics accommodates collinear small-sample data but can obscure fine peak morphology, whereas deep spectral networks resolve this structure only after task-specific training&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.02157v1</guid>
-      <pubDate>Mon, 03 Aug 2026 12:37:55 +0000</pubDate>
+      <title>A windy sea surface with Stokes waves</title>
+      <link>http://arxiv.org/abs/2608.03657v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nikhil Yewale, Anil Kumar, Vinod Kadari, Ratul Dasgupta&lt;/p&gt;&lt;p&gt;Predicting the transition of wind-forced, gravito-capillary surface waves from smooth to corrugated states remains a longstanding problem in nonlinear wave mechanics. Solving driven-dissipative, nonlinear potential flow equations we map these waves ($4-13$ cm) onto a Reynolds number -- wave energy phase-space. We identify a transition band separating smooth from corrugated wave states - the wave steepness exhibits a non-monotonic dependence on Reynolds number within this&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03657v1</guid>
+      <pubDate>Tue, 04 Aug 2026 13:38:02 +0000</pubDate>
     </item>
     <item>
-      <title>Arctic bimodality reflects enhanced variability in the clear-cloudy transition rather than bistability</title>
-      <link>http://arxiv.org/abs/2608.02205v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nadja Omanovic, Antoon van Hooft, Valentina Zeni, Franziska Glassmeier&lt;/p&gt;&lt;p&gt;The wintertime Arctic boundary layer is characterized by two distinct states, radiatively clear (cloud-free) and radiatively opaque (cloudy), which is reflected in observations as a bimodal distribution. Previous studies hypothesized that these regimes are related to an underlying bistability of the system's dynamics. We apply a drift-diffusion framework based on the two leading terms of the Kramers-Moyal expansion to observations from 15 winter periods in Ny-Alesund, Norway&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.02205v1</guid>
-      <pubDate>Mon, 03 Aug 2026 13:30:25 +0000</pubDate>
+      <title>Less Traffic, Better Outcomes: Competition-Aware Request Dispatch in Real-Time Ad Exchanges</title>
+      <link>http://arxiv.org/abs/2608.03705v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jonaid Shianifar, Blaz Mramor, Fangda Zou, Matthieu C. Martin, Xingsheng Guo, Zhihua Zhu, Rong Zhou, Bichen Shi&lt;/p&gt;&lt;p&gt;Real-time bidding (RTB) ad exchanges typically forward nearly all incoming requests to demand-side platforms (DSPs), even though only a small fraction receive bids. This over-distribution weakens auction outcomes: DSPs throttle participation under compute and budget constraints, reducing the effective use of limited bidding capacity. We present a competition-aware request dispatch framework that uses distributional bid prediction and probabilistic forwarding to decide whether each request should be sent to each DSP&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03705v1</guid>
+      <pubDate>Tue, 04 Aug 2026 14:11:42 +0000</pubDate>
     </item>
     <item>
-      <title>Thermo-Hydro-Mechanical Modeling of a TBM Tunnel in Opalinus Clay: Thermal Coupling Effects on Long-term Lining Pressures and Excavation Damage Zone Development</title>
-      <link>http://arxiv.org/abs/2608.02207v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Saeed Tourchi, Martin Ziegler, Arash Alimardani Lavasan&lt;/p&gt;&lt;p&gt;Tunnels in argillaceous formations such as Opalinus Clay (OPA) develop a coupled thermal, hydraulic, and mechanical response. This study examines the New Belchen Tunnel (STB), excavated by tunnel boring machine through faulted OPA shale. Field measurements show a strong relation between lining temperature and radial pressure&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.02207v1</guid>
-      <pubDate>Mon, 03 Aug 2026 13:32:53 +0000</pubDate>
+      <title>Amortized Interventional Forecasting for Multivariate CIR Processes</title>
+      <link>http://arxiv.org/abs/2608.03715v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andreas Sauter, Sumit Sourabh, Drona Kandhai, Erman Acar&lt;/p&gt;&lt;p&gt;Mean-reverting dynamics are pervasive in finance, and the Cox--Ingersoll--Ross (CIR) process is a standard model for the time series they produce, from short rates to credit default swap (CDS) spreads. Yet CIR models capture only \emph{correlated} co-movement, not \emph{causal} influence between series, so they cannot answer the system's response when one series is externally shocked, which observational conditionals confound with historical co-movement. We make two contributions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03715v1</guid>
+      <pubDate>Tue, 04 Aug 2026 14:17:35 +0000</pubDate>
     </item>
     <item>
-      <title>Constrained Co-Design for Photonic Bayesian Neural Networks</title>
-      <link>http://arxiv.org/abs/2608.02229v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hendrik Borras, Xiao Wang, Bernhard Klein, Robin Janssen, Frank Brückerhoff-Plückelmann, Wolfram Pernice, Holger Fröning&lt;/p&gt;&lt;p&gt;Classical neural networks frequently produce overconfident predictions on ambiguous or out-of-distribution (OOD) data, a liability that grows with each AI system deployed in safety-critical real-world scenarios. Bayesian neural networks (BNNs) provide a principled framework for uncertainty-aware prediction by replacing deterministic parameters with probability distributions, but repeated sampling increases latency, memory traffic, and energy consumption. Photonic probabilistic computing offers a promising alternative by exploiting intrinsic optical stochasticity for fast and parallel sampling&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.02229v1</guid>
-      <pubDate>Mon, 03 Aug 2026 13:47:48 +0000</pubDate>
+      <title>Computing Actual Causes for Neural Network Predictions under Structured Causal Inputs</title>
+      <link>http://arxiv.org/abs/2608.03772v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jannick Strobel, Muqsit Azeem, Stefan Leue&lt;/p&gt;&lt;p&gt;Explaining the predictions of neural networks is a central challenge in trustworthy AI. Existing explanation methods, such as those based on feature attribution or minimal sufficient sets, typically treat input features as independent, which can yield misleading explanations when inputs exhibit structured dependencies. We address this by formalizing explanations as Halpern-Pearl (HP) actual causes, modeling input dependencies using Boolean Structural Causal Models (SCMs)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03772v1</guid>
+      <pubDate>Tue, 04 Aug 2026 14:57:06 +0000</pubDate>
     </item>
     <item>
-      <title>Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation</title>
-      <link>http://arxiv.org/abs/2608.02345v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Stefan Hut, Lorenzo Masoero&lt;/p&gt;&lt;p&gt;A/B testing remains the standard for rolling out new features in the technology industry. Each experiment, however, consumes real traffic, engineering effort, and weeks of wall-clock time. Can AI agents---conditioned on behavioral profiles and contextual descriptions of the intervention---simulate outcomes accurately enough to vet candidate treatments before committing live traffic? We formalize this question as a \emph{Simulated Randomized Controlled Trial} (S-RCT) and derive a two-layer error decomposition that separates agent approximation error from subsampling error, enabling targeted imp&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.02345v1</guid>
-      <pubDate>Mon, 03 Aug 2026 14:58:06 +0000</pubDate>
+      <title>Unexpected limitation of tropical cyclone genesis by subsurface tropical central-north Pacific during El Niño</title>
+      <link>http://arxiv.org/abs/2608.03799v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Cong Gao, Lei Zhou, Chunzai Wang, I. -I. Lin, Raghu Murtugudde&lt;/p&gt;&lt;p&gt;The vast tropical Pacific is home to the majority of tropical cyclones (TCs) which threaten the rim countries every year. The TC genesis is nourished by warm sea surface temperatures (SSTs). During El Niño, the western Pacific warm pool extends eastward&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03799v1</guid>
+      <pubDate>Tue, 04 Aug 2026 15:14:41 +0000</pubDate>
     </item>
     <item>
-      <title>Faster-WAM: Do World Action Models Need Deep Action Modules?</title>
-      <link>http://arxiv.org/abs/2608.02365v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Liheng Ma, Rui Heng Yang, Zhanguang Zhang, Mateo Clemente, Ziwen Hu, Tongtong Cao, Yingxue Zhang&lt;/p&gt;&lt;p&gt;World Action Models (WAMs) couple robot action prediction with video world models. Existing WAMs with shared-backbone and Mixture-of-Transformers designs generally tie the depth of the action module to that of the video backbone, resulting in substantial computational overhead and high inference latency. To address this limitation, we introduce Dock of Transformer (DoT), a video-centric design principle that treats a pretrained video Transformer as a representation hub and connects lightweight output-heads through docking interfaces&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.02365v1</guid>
-      <pubDate>Mon, 03 Aug 2026 15:11:21 +0000</pubDate>
+      <title>Sensitivity, Causality, and Repair Dissociate: A Layer-Wise Analysis of Perturbation Robustness and Its Scaling</title>
+      <link>http://arxiv.org/abs/2608.03842v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nathan Labiosa, David Buff, Ena Nayak, Erica Donno&lt;/p&gt;&lt;p&gt;When a language model fails on surface-perturbed input (typos, OCR noise, homophones), "which layer is responsible" has three natural operationalizations: where representations diverge most (sensitivity), where restoring clean activations recovers the prediction (causality), and where a small adapter can repair the damage (compensatory capacity) - and we show these three layer maps dissociate. Across a five-model panel we identify two propagation regimes - spike-and-suppress (Phi-3.5, Gemma-2-9B) and late-accumulation (Llama-3, Mistral, Qwen2.5-7B) - and on the two models meeting an 80% identi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03842v1</guid>
+      <pubDate>Tue, 04 Aug 2026 15:48:55 +0000</pubDate>
     </item>
     <item>
-      <title>Gecko: Fast Private Inference via Secure Public Encoder Offloading</title>
-      <link>http://arxiv.org/abs/2608.02378v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Cheng'an Wei, Kai Chen, Yue Zhao, Congyi Li, Shenchen Zhu&lt;/p&gt;&lt;p&gt;Private inference protects both user inputs and server models during neural network inference, but existing solutions remain too slow for practical deployment. This motivates recent efforts to run a public encoder, such as a pretrained backbone, outside the protection boundary and evaluate only a small private predictor cryptographically. While appealing for efficiency, this design is not inherently secure: naively offloading a public encoder may create a feature-space shortcut: an extraction adversary may learn the remaining private predictor's feature-to-output mapping more easily than the o&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.02378v1</guid>
-      <pubDate>Mon, 03 Aug 2026 15:21:45 +0000</pubDate>
+      <title>Quantization Effects on Biomedical LLM Reliability</title>
+      <link>http://arxiv.org/abs/2608.03854v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anton Rasmussen, Hong Qin&lt;/p&gt;&lt;p&gt;When decoder language models are used as classifiers, predicted class probabilities depend on implementation choices, including the prompt template, verbalizer (label-to-token mapping), and scoring rule, that are rarely treated as experimental variables. We present a controlled evaluation of three Mistral-7B variants (Base, BioMistral, and Instruct) on PubMed RCT sentence classification (n=2000) under FP16, INT8, and INT4 precision using four answer-text prompt templates. Our primary finding is that the probability extraction protocol dominates apparent calibration&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03854v1</guid>
+      <pubDate>Tue, 04 Aug 2026 15:57:21 +0000</pubDate>
     </item>
     <item>
-      <title>Why Large Language Models Fail at Tabular Prediction</title>
-      <link>http://arxiv.org/abs/2608.02412v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marta Garnelo, Wojciech M. Czarnecki&lt;/p&gt;&lt;p&gt;Large language models (LLMs) have become the default tool for a remarkable range of tasks, yet they have had conspicuously little success at one of the most common machine learning workloads: predictive analytics over tabular data. This gap is the founding premise of the fast-growing field of tabular foundation models, but the question of why generic LLMs fail has remained open. We study a frontier LLM in its purest inference regime - a single generation pass over a prompt containing the full training and test data, with no tools, no agentic scaffolding, and no fine-tuning - and systematically&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.02412v1</guid>
-      <pubDate>Mon, 03 Aug 2026 15:52:51 +0000</pubDate>
+      <title>Bi-semantic Chemical Embedder for Joint Representation Learning of SMILES and Natural Language</title>
+      <link>http://arxiv.org/abs/2608.03855v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; David Ming Segura, Jeremy Goumaz, Joshua W. Sin, Bojana Ranković, Philippe Schwaller&lt;/p&gt;&lt;p&gt;Transformer models have revolutionized natural language processing (NLP), and text-based molecular representations like SMILES have successfully extended these architectures to chemistry. However, domain-adaptive pre-training often causes models to overfit to chemical syntax, catastrophically forgetting their foundational semantic capabilities. To address this challenge, we introduce CheMatE, a chemistry-oriented embedding model that jointly captures molecular structure and domain-specific natural language within the same representation space&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03855v1</guid>
+      <pubDate>Tue, 04 Aug 2026 15:57:38 +0000</pubDate>
     </item>
     <item>
-      <title>Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality</title>
-      <link>http://arxiv.org/abs/2608.02575v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shengzhi Deng, Chenqi Ye, Yanze Guo&lt;/p&gt;&lt;p&gt;Diffusion models rely on stochastic inputs, yet on finite-precision hardware, the "randomness" they consume is realized as deterministic numerical orbits generated by pseudorandom rules. Accessible orbit structure can become a learnable input and affect both training and generation because the realized loss and its gradient depend on the concrete pseudorandom values consumed at each optimization step. A small multilayer perceptron predicts the next value of an orbit from its recent history, measuring general sequence predictability&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.02575v1</guid>
-      <pubDate>Mon, 03 Aug 2026 17:50:54 +0000</pubDate>
+      <title>CRS-Triage: Confidence- and Reliability-Aware Selective Triage under Incomplete Clinical Evidence</title>
+      <link>http://arxiv.org/abs/2608.03862v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guan Qiang, Yushen Chen, Tianlong Liu, David Rotenberg, Ethan H. Kim, Fang Fang&lt;/p&gt;&lt;p&gt;Emergency triage requires reliable decisions within a short time period. However, the available electronic health record (EHR) data, including structured data and clinical text, are often incomplete, unreliable, and inconsistent. This makes machine learning (ML)-based triage prediction more challenging, as existing ML models typically rely on complete and reliable EHR data to accurately predict patients' acuity levels&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03862v1</guid>
+      <pubDate>Tue, 04 Aug 2026 16:04:15 +0000</pubDate>
     </item>
     <item>
-      <title>Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework</title>
-      <link>http://arxiv.org/abs/2608.02599v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junjie Yin, Buxin She, Xinyu Feng, Fangxing, Li&lt;/p&gt;&lt;p&gt;Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly rely on large language models rather than building their own. This gap points to a need for engineering-grounded AI (EGAI), in which AI workflows follow established engineering and power-system domain rules rather than acting as task-agnostic black boxes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.02599v1</guid>
-      <pubDate>Mon, 03 Aug 2026 17:59:09 +0000</pubDate>
+      <title>Equivariant Music Transformer</title>
+      <link>http://arxiv.org/abs/2608.03920v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zixun Guo, Simon Dixon&lt;/p&gt;&lt;p&gt;Humans recognize a musical passage even when it is shifted in time or transposed in pitch, indicating a notion of equivariance in the representation space. Our analysis, however, shows that standard music transformers map such time-shifted or pitch-transposed inputs onto uncorrelated representations: these models become progressively less equivariant as they scale in size or train longer. This suggests that in standard music transformers, additional model capacity is allocated to memorizing absolute patterns rather than capturing shared musical structures&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03920v1</guid>
+      <pubDate>Tue, 04 Aug 2026 16:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Transformer Revolution, Part 1: Dynamic Processing through Output- Weight Interconnections</title>
+      <link>http://arxiv.org/abs/2608.03921v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marco Giunti, Fabrizia Giulia Garavaglia&lt;/p&gt;&lt;p&gt;This paper offers a new interpretation of the Transformer during inference. Against the "stochastic parrot" view that large language models merely reproduce statistical regularities learned in training, we argue that Transformers construct and apply prompt-dependent transformations whose parameters are generated during inference. We call this form of computation SIDPP: Sequence-level Interactive Dynamic Parallel Processing&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03921v1</guid>
+      <pubDate>Tue, 04 Aug 2026 16:53:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>PRISM: Powerful Time Series to Image (TS2I) Representations for Multivariate Anomaly Detection</title>
+      <link>http://arxiv.org/abs/2608.03926v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mateusz Smendowski, Kamil Faber, Piotr Nawrocki, Nathalie Japkowicz, Roberto Corizzo&lt;/p&gt;&lt;p&gt;Time series anomaly detection (TSAD) underpins applications in predictive maintenance, finance, and cloud computing, however performance remains sensitive to representation choices, especially in multivariate settings. While transforming time series into images has shown success in forecasting and classification, it remains unclear how multivariate, high-dimensional series should be mapped to multi-channel images and whether vision backbones can match time-domain baselines in TSAD. We introduce PRISM, a plug-and-play meta-workflow enabling systematic construction and evaluation of image-based &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03926v1</guid>
+      <pubDate>Tue, 04 Aug 2026 16:59:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>A game theory for foundation models shows new paths to rational cooperation through similarity inference</title>
+      <link>http://arxiv.org/abs/2608.03958v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexander Meulemans, Maciej Wołczyk, Marissa A. Weis, Rajai Nasser, Roberta Rocca, Seijin Kobayashi, Guillaume Lajoie, Angelika Steger&lt;/p&gt;&lt;p&gt;As autonomous agents powered by foundation models are increasingly integrated into social and economic systems, understanding the principles governing their collective behavior is essential for ensuring safety and cooperation. Classical game theory, the dominant framework for modeling rational interaction, is built upon the assumption of `decoupled agency,' where agents treat their own decision-making as independent of the environment and other actors. Modern AI agents, however, jointly predict their own future actions alongside external observations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03958v1</guid>
+      <pubDate>Tue, 04 Aug 2026 17:24:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prithvi-Precip: Integrating Satellite Observations into an Atmospheric AI Foundation Model for Precipitation Forecasting</title>
+      <link>http://arxiv.org/abs/2608.03959v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Simon Pfreundschuh, Christian D. Kummerow, Johannes Schmude, Sujit Roy, Rahul Ramachandran, Tsengdar Lee, Valentine Anantharaj, Katherine H. Breen&lt;/p&gt;&lt;p&gt;Accurate precipitation forecasting remains one of the most challenging problems in weather prediction. While recent AI weather prediction (AIWP) systems have achieved substantial improvements in medium-range forecasting skill, precipitation often remains a secondary target and is commonly learned from reanalysis datasets that contain considerable uncertainty. In this work, we investigate two complementary strategies for improving AI-based precipitation forecasts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03959v1</guid>
+      <pubDate>Tue, 04 Aug 2026 17:25:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Separating quantum circuits from classical LLMs</title>
+      <link>http://arxiv.org/abs/2608.03962v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Srinivasan Arunachalam, Arkopal Dutt, Hari Krovi, Rik Sengupta&lt;/p&gt;&lt;p&gt;Modern large language models - transformers and diffusion language models - are built around two canonical algorithmic tasks: prediction and generation. We prove unconditional separations between low-depth quantum computation and the corresponding bounded-resource classical language-model architectures in both regimes. Concretely, we exhibit the following:   1&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.03962v1</guid>
+      <pubDate>Tue, 04 Aug 2026 17:28:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
