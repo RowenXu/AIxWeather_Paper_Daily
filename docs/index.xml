@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 07 Aug 2026 04:25:52 +0000</lastBuildDate>
-    <item>
-      <title>Hybrid Machine Learning Framework for Herd-Level Cattle Growth Pattern and Weight Gain Forecasting in Grazing-Based Production Systems</title>
-      <link>http://arxiv.org/abs/2608.06001v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Muhammad Riaz Hasib Hossain, Rafiqul Islam, Shawn R. McGrath, Md Zahidul Islam, David W. Lamb&lt;/p&gt;&lt;p&gt;Commercial grazing systems yield irregular livestock observations, which challenge cattle growth forecasting. This study developed a hybrid machine learning framework for herd level cattle weight forecasting using automated sensing observations collected between 2022 and 2024 in southeastern Australia. Weekly live weight observations, demographic variables, and lagged environmental predictors were integrated into structured forecasting datasets&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.06001v1</guid>
-      <pubDate>Thu, 06 Aug 2026 13:09:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Do Tabular Foundation Models Agree with Themselves?</title>
-      <link>http://arxiv.org/abs/2608.06004v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Christian Klötergens, Vijaya Krishna Yalavarthi, Lars Schmidt-Thieme, Tom Hanika&lt;/p&gt;&lt;p&gt;Tabular Foundation Models (TFMs) are currently the best approach to tabular prediction problems. They are constructed as transformers that approximate the Bayesian posterior predictive distribution based on a pre-training prior. These univariate predictors can be converted into multivariate ones autoregressively by sampling one target and adding it to the features&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.06004v1</guid>
-      <pubDate>Thu, 06 Aug 2026 13:09:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hybrid-Adaptive Thread Tuning to Mitigate Simulation Execution Bottlenecks in High-Performance Reinforcement Learning Inference</title>
-      <link>http://arxiv.org/abs/2608.06025v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiming Su, Hantao Hua, Lujia Yin, Yiping Yao, Feng Zhu&lt;/p&gt;&lt;p&gt;In simulation-in-the-loop decision-making systems, reinforcement learning (RL) inference is often constrained by simulator-side execution overhead, where workloads are highly dynamic and sensitive to runtime thread configurations. Existing multithreaded strategies struggle to match thread resources before or during execution, causing resource contention, scheduling overhead, and reduced throughput. Through empirical analysis, we identify the ratio of task execution time to scheduling time as the key factor determining the optimal thread count&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.06025v1</guid>
-      <pubDate>Thu, 06 Aug 2026 13:31:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kastor: An efficient fine-tuning strategy for generative emulation of PDE simulations</title>
-      <link>http://arxiv.org/abs/2608.06107v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guillaume Couairon, Alexis Jacq, Yu-Han Wu, Renu Singh, Yana Hasson, Quentin Berthet, Romuald Elie&lt;/p&gt;&lt;p&gt;Machine learning offers a promising avenue to accelerate physical simulations by replacing computationally expensive traditional Partial Differential Equation (PDE) solvers with fast, differentiable surrogate models. However, standard auto-regressive ML emulators often suffer from error accumulation over long horizons and struggle to capture the stochasticity of complex physical systems. In this paper, we propose Kastor, a comprehensive methodology to adapt a deterministic physics foundation model into a highly efficient and accurate generative surrogate&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.06107v1</guid>
-      <pubDate>Thu, 06 Aug 2026 14:41:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems</title>
-      <link>http://arxiv.org/abs/2608.06112v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Manideep Dhar, Ritwik Singh, Sharat Chandra Kumar Manikonda&lt;/p&gt;&lt;p&gt;Hospitals are rapidly adopting artificial intelligence for triage, imaging, scheduling etc., yet most deployments remain isolated point solutions locked inside departmental silos, resulting in duplicated effort, hidden risks, and unrealized enterprise value. Despite explosive growth of AI in healthcare market and accelerating investment, an estimated 70-80% of healthcare AI pilots fail to scale, largely due to governance gaps, fragmented data, and missing integration blueprints. This research proposes a hospital-specific, compliance-first, Agentic AI architecture with multiple interoperable la&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.06112v1</guid>
-      <pubDate>Thu, 06 Aug 2026 14:44:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>SkillTFM: Gated Skill Evolution for Training-Free Adaptation of Tabular Foundation Models</title>
-      <link>http://arxiv.org/abs/2608.06137v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yi He, Zhengkang Guan, Anpeng Wu, Peng Cui, Fei Wu, Kun Kuang&lt;/p&gt;&lt;p&gt;Tabular data are ubiquitous in real-world applications and are crucial for data-driven prediction and decision-making across science, industry, finance, healthcare, and public services. Tabular foundation models (TFMs) have emerged as a promising paradigm for general-purpose tabular learning, offering reusable predictors across diverse datasets and substantially reducing the need for task-specific training, tuning, and model development. However, their practical deployment remains constrained by distribution shifts, heterogeneous feature semantics, and task-specific patterns that are difficult&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.06137v1</guid>
-      <pubDate>Thu, 06 Aug 2026 15:09:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 03:26:08 +0000</lastBuildDate>
     <item>
       <title>TS-RAG: Retrieval Augmented Generation for Time Series Forecasting</title>
       <link>http://arxiv.org/abs/2608.06223v1</link>
