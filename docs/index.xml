@@ -7,55 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 08 Aug 2026 03:26:08 +0000</lastBuildDate>
-    <item>
-      <title>TS-RAG: Retrieval Augmented Generation for Time Series Forecasting</title>
-      <link>http://arxiv.org/abs/2608.06223v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yixiong Xiao, Congxi Xiao, Jingbo Zhou&lt;/p&gt;&lt;p&gt;While deep learning models, particularly transformer-based architectures, have shown impressive performance in time series forecasting, the application of retrieval-augmented generation (RAG) in this domain remains limited. Since RAG has proven effective in enhancing the capabilities of large language models by incorporating relevant external information, retrieving similar time series sequences as references might also improve accuracy in time series forecasting tasks. However, most time series models are constrained by limited training data, smaller parameter scales, and a lack of the extens&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.06223v1</guid>
-      <pubDate>Thu, 06 Aug 2026 16:12:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Timestep-Conditioned Transformers for Global Weather Forecasting</title>
-      <link>http://arxiv.org/abs/2608.06241v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sam Levang, Fran Bartolic, Ty Dickinson, Chase Dwelle, Paulius Rauba, Viktor Cikojevic&lt;/p&gt;&lt;p&gt;Existing machine-learning weather forecasting models rely on predetermined and fixed autoregressive timesteps. The choice of model timestep involves a fundamental trade-off: shorter timesteps (e.g. 1 to 6 hours) finely resolve atmospheric dynamics within the diurnal cycle but increase error accumulation for a given forecast horizon, while longer timesteps (e.g&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.06241v1</guid>
-      <pubDate>Thu, 06 Aug 2026 16:27:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>RxnCLF: Contrastive Transformation-Aware Reaction Foundation Model for Improved Reactivity Prediction</title>
-      <link>http://arxiv.org/abs/2608.06259v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yiting Zheng, Cheng Fang, Anthony Donofrio, Haote Li&lt;/p&gt;&lt;p&gt;Reaction yield prediction remains challenging because labeled data are scarce and reaction space is both combinatorially large and sparsely populated, limiting the generalization of existing reaction representations. String-, fingerprint-, and graph-based reaction encodings only partially capture chemical transformations, making accurate prediction difficult for reactions with complex substrates. We propose reaction contrastive learning foundation (RxnCLF), a self-supervised contrastive framework for reaction representation learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.06259v1</guid>
-      <pubDate>Thu, 06 Aug 2026 16:51:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Tamed Subgradient Unadjusted Langevin Algorithm beyond Convexity</title>
-      <link>http://arxiv.org/abs/2608.06283v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Iosif Lytras, Nikolaos Makras, Sotirios Sabanis&lt;/p&gt;&lt;p&gt;We study the problem of sampling from target distributions whose potentials are simultaneously non-smooth, subject to superlinear gradient growth, and non-convex. We introduce the Subgradient Tamed Unadjusted Langevin Algorithm (SG-TULA), a discretisation of the Langevin diffusion that operates directly on subgradients, without relying on computationally demanding smoothing procedures. To handle the superlinear regime, taming techniques are employed to produce a stable, explicit scheme&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.06283v1</guid>
-      <pubDate>Thu, 06 Aug 2026 17:09:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learning Latent Memory States from Longitudinal Athlete Monitoring Data</title>
-      <link>http://arxiv.org/abs/2608.06290v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dae-Jin Lee&lt;/p&gt;&lt;p&gt;We propose a new unit of analysis for longitudinal data: the Latent Memory Table. The scientific contribution is not the encoder. It is that table, treated as a reusable statistical object on the same footing as a matrix of principal-component scores, a table of estimated random effects, or a table of predicted probabilities&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.06290v1</guid>
-      <pubDate>Thu, 06 Aug 2026 17:14:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors</title>
-      <link>http://arxiv.org/abs/2608.06300v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arya Labroo, Mengjie Qian, Kate Knill&lt;/p&gt;&lt;p&gt;Automatic speaking assessment systems are increasingly deployed in high-stakes settings to mark second language (L2) learners' speaking tests, making it critical to show that their scores depend on speaking proficiency rather than irrelevant speaker attributes such as first language (L1) or age. Transformer-based foundation models have improved the accuracy of these L2 speaking graders, but their black-box representations make fairness and interpretability analysis more difficult. Building on prior work that used Concept Activation Vectors (CAVs) to detect bias towards unwanted attributes (`co&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.06300v1</guid>
-      <pubDate>Thu, 06 Aug 2026 17:20:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scalable estimation of VARMA models</title>
-      <link>http://arxiv.org/abs/2608.06340v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daniel Paulin, Victor Elvira&lt;/p&gt;&lt;p&gt;Vector autoregressive moving-average (VARMA) models have long been considered impractical beyond moderate dimensions: the likelihood is non-convex, the parametrization is identified only up to equivalence, and every evaluation costs a pass over the entire series. Yet their moving-average term captures with a few parameters what a pure autoregression matches only with many lags. We introduce an estimation framework that removes this computational barrier: each optimization iteration is independent of the series length $T$&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.06340v1</guid>
-      <pubDate>Thu, 06 Aug 2026 17:49:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 03:43:02 +0000</lastBuildDate>
   </channel>
 </rss>
