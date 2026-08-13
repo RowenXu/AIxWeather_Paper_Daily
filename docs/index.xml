@@ -7,104 +7,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 11 Aug 2026 03:44:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 04:13:22 +0000</lastBuildDate>
     <item>
-      <title>FeedbackTrack: Visual-Cortex-Inspired Cross-Frame Feedback for Transformer Tracking</title>
-      <link>http://arxiv.org/abs/2608.09369v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yueyang Cang, Xiaoteng Zhang, Zhiyuan Ning, Yuchen He, Li Shi&lt;/p&gt;&lt;p&gt;Visual object tracking requires effective temporal integration, yet most Transformer trackers still rely on predominantly feed-forward feature extraction. Existing temporal mechanisms typically update templates, prompts, queries, or prediction states, while intermediate representations are rarely reused to modulate corresponding processing stages. We propose \textbf{FeedbackTrack}, a visual-cortex-inspired framework that introduces sparse, group-level layer-aligned cross-frame feedback into pretrained Transformer trackers&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.09369v1</guid>
-      <pubDate>Mon, 10 Aug 2026 09:48:11 +0000</pubDate>
+      <title>Air Quality Station Simulation via LSTM and Attention-Based Modelling</title>
+      <link>http://arxiv.org/abs/2608.11839v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexander Kostadinov, Petar O. Hristov, Dessislava Petrova-Antonova&lt;/p&gt;&lt;p&gt;Poor air quality in urban areas is driven by a complex chain of processes and presents a significant public health concern. To better understand and control the mechanisms that determine air quality, cities deploy networks of measurement stations, and launch initiatives for collecting denser data about the concentration of pollutants in the atmosphere. Extracting insights from the stations relies on their reliable and uninterrupted operation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.11839v1</guid>
+      <pubDate>Wed, 12 Aug 2026 09:26:56 +0000</pubDate>
     </item>
     <item>
-      <title>From Objectives to What Models Learn: A Landau Theory of Invariant Learning</title>
-      <link>http://arxiv.org/abs/2608.09396v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pinli Wang, Yue He, Peng Cui&lt;/p&gt;&lt;p&gt;Invariant learning seeks representations that remain predictive across environments, yet the behavior of its objectives along the regularization path is often opaque. We address this objective-behavior gap by viewing representation learning as multimode magnetization and deriving, from concrete invariant-learning objectives, a Landau-type effective free energy whose low-order coefficients form objective signatures and induce distinct regularization phenotypes. Effective quadratic corrections move the phase boundary and enable finite-strength mode elimination; quartic corrections regulate post-&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.09396v1</guid>
-      <pubDate>Mon, 10 Aug 2026 10:22:10 +0000</pubDate>
+      <title>Distillation of Foundation Models for Time-dependent PDEs</title>
+      <link>http://arxiv.org/abs/2608.11937v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daniel Musekamp, Boshra Ariguib, Andrei Manolache, Mathias Niepert&lt;/p&gt;&lt;p&gt;Foundation models for time-dependent partial differential equations (PDEs) are trained on large and diverse collections of physical systems and can generalize effectively to new downstream tasks. After fine-tuning on only a few trajectories from a target domain, they can achieve strong accuracy in low-data regimes. However, these models are typically large and computationally intensive, limiting their usefulness as fast surrogates for numerical solvers&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.11937v1</guid>
+      <pubDate>Wed, 12 Aug 2026 11:24:08 +0000</pubDate>
     </item>
     <item>
-      <title>Generalized Convexity and Smoothness via Conjugate Duality: Optimization Theory for Deep Neural Networks</title>
-      <link>http://arxiv.org/abs/2608.09523v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Binchuan Qi&lt;/p&gt;&lt;p&gt;Deep neural network (DNN) training with stochastic gradient descent (SGD) and its variants achieves strong empirical performance, yet classical optimization theory does not fully explain this success. This limitation arises because conventional analyses rely on assumptions such as differentiability, convexity, or smoothness, which are often violated by DNN objectives. In this paper, we establish a unified optimization framework for DNN training by generalizing classical convexity and smoothness through Legendre functions and convex conjugation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.09523v1</guid>
-      <pubDate>Mon, 10 Aug 2026 12:24:29 +0000</pubDate>
+      <title>TailBooster: A Dual-Layer Generative Framework for Extreme Value Augmentation with Operational Validity Enforcement</title>
+      <link>http://arxiv.org/abs/2608.11951v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Karim Aly, Alexei Sharpanskykh, Jacco Hoekstra&lt;/p&gt;&lt;p&gt;Extreme events in air transport, such as severe arrival delays and abnormal air times, cause cascading network disruptions with substantial operational, economic, and safety costs. Such events are rare in historical records, leaving insufficient training signal for machine learning models. Synthetic data augmentation offers a principled solution, but conventional generative models under-represent distributional tails and give no guarantee against operationally infeasible instances, such as a short air time paired with a long flight distance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.11951v1</guid>
+      <pubDate>Wed, 12 Aug 2026 11:37:09 +0000</pubDate>
     </item>
     <item>
-      <title>Distributed Optimization with Streaming Data: A Temporal Weighting Perspective</title>
-      <link>http://arxiv.org/abs/2608.09565v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Muhammad Faraz Ul Abrar, Nicolò Michelusi, Erik G. Larsson&lt;/p&gt;&lt;p&gt;Optimization theory is a widely used tool for intelligent decision-making. While classical optimization deals with fixed, time-invariant objective functions, many modern applications operate in dynamic environments where data arrive sequentially, and the learning objective evolves over time, often under decentralized data and communication constraints. Motivated by these trends, we study decentralized optimization from streaming data through a structured time-varying formulation in which the global objective is a temporally weighted average of losses observed across the network&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.09565v1</guid>
-      <pubDate>Mon, 10 Aug 2026 13:02:58 +0000</pubDate>
+      <title>Reducing Symmetry Increase in Equivariant Neural Networks</title>
+      <link>http://arxiv.org/abs/2608.12010v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ning Lin, Jiacheng Cen, Anyi Li, Wenbing Huang, Hao Sun&lt;/p&gt;&lt;p&gt;Equivariant Neural Networks (ENNs) have empowered numerous applications in scientific fields. Despite their remarkable capacity for representing geometric structures, ENNs suffer from degraded expressivity when processing symmetric inputs: the output representations are invariant to transformations that extend beyond the input's symmetries. The mathematical essence of this phenomenon is that a symmetric input, after being processed by an equivariant map, experiences an increase in symmetry&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.12010v1</guid>
+      <pubDate>Wed, 12 Aug 2026 12:46:25 +0000</pubDate>
     </item>
     <item>
-      <title>Adaptive Sequential Test Planning for Multi-Mechanism Reliability Qualification via Bayesian Monte Carlo Tree Search</title>
-      <link>http://arxiv.org/abs/2608.09622v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Youssef A. Elhagrasy, Ian Hill, André Ivanov&lt;/p&gt;&lt;p&gt;Reliability qualification of advanced semiconductor devices requires sequential stress decisions that balance characterization objectives against multiple competing failure mechanisms. Current practice relies on static test plans derived from population-level acceleration models, which cannot adapt to per-unit variability or real-time degradation observations. This paper presents a closed-loop adaptive test planning framework that formulates reliability qualification as a partially observable sequential decision problem and solves it using Monte Carlo tree search for seed-action simulators (MC&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.09622v1</guid>
-      <pubDate>Mon, 10 Aug 2026 14:04:22 +0000</pubDate>
+      <title>Faithful, Sufficient and Understandable: Rethinking Graph Counterfactual Explanations via Discrete Diffusion Inversion</title>
+      <link>http://arxiv.org/abs/2608.12083v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; David Bechtoldt, Sidney Bender&lt;/p&gt;&lt;p&gt;Graph Neural Networks (GNNs) achieve strong predictive performance on graph-structured data across domains such as chemistry, biology, and network analysis, yet they provide no intrinsic explanation of their predictions. This limits their adoption in high-stakes and safety-critical settings. Counterfactual explanations address this by revealing the minimal structural modifications that would change a model's prediction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.12083v1</guid>
+      <pubDate>Wed, 12 Aug 2026 14:04:49 +0000</pubDate>
     </item>
     <item>
-      <title>Deep Learning Imputation of Missing Radius of Maximum Winds (Rmax) Values in Tropical Cyclone Best-Track Data</title>
-      <link>http://arxiv.org/abs/2608.09683v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Swastik Agrawal, Nishkal Hundia, Ziyue Liu, Michelle Bensi&lt;/p&gt;&lt;p&gt;Probabilistic coastal hazard assessments require accurate characterization of tropical cyclone (TC) parameters, yet datasets often contain missing records for the radius of maximum winds (Rmax), a key variable in Joint Probability Method analyses. This study evaluates data-driven approaches for Rmax imputation, including one-dimensional Convolutional Neural Networks (1DCNNs), Long Short-Term Memory (LSTM) networks, and conventional machine learning models. We examine physics-informed input augmentation, temporal modeling, and transfer learning using synthetic RAFT and STORM datasets for pre-tr&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.09683v1</guid>
-      <pubDate>Mon, 10 Aug 2026 14:52:11 +0000</pubDate>
+      <title>Confidence Calibration of Deep Learning Systems</title>
+      <link>http://arxiv.org/abs/2608.12100v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Coby Penso&lt;/p&gt;&lt;p&gt;In high-stakes applications, reliable confidence estimates are as important as the predictions themselves. Confidence calibration ensures that predicted probabilities reflect the likelihood of correctness, making it essential for safe deployment of deep learning models. However, existing methods typically assume access to clean validation data, which is often unrealistic due to label noise and domain shifts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.12100v1</guid>
+      <pubDate>Wed, 12 Aug 2026 14:23:14 +0000</pubDate>
     </item>
     <item>
-      <title>Model Discovery Agent: LLM-assisted Bayesian experiment design for data-efficient discovery of mechanistic world models</title>
-      <link>http://arxiv.org/abs/2608.09696v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kevin Murphy&lt;/p&gt;&lt;p&gt;Predicting the answer to interventional ``what if'' questions --- the outcome of an action never taken --- requires a \emph{mechanistic}, causal model, not a curve fit; and learning such a model requires \emph{experiments}, because passive data leaves its mechanisms unidentified. Experiments are expensive, so the central problem is \emph{data efficiency}. We present the Model Discovery Agent (MDA), which couples a large language model (LLM), used as a \emph{proposer} of candidate structures, with standard Bayesian machinery --- sequential Monte Carlo (SMC) for parameter and structure posterior&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.09696v1</guid>
-      <pubDate>Mon, 10 Aug 2026 14:59:22 +0000</pubDate>
+      <title>How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Prediction Models</title>
+      <link>http://arxiv.org/abs/2608.12192v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aleksandra Kalisz, Jack Simons, Krisztina Sinkovics, Noam Ghenassia, Shikha Surana, Henry Moss, Paul Duckworth&lt;/p&gt;&lt;p&gt;Foundation models for protein structure prediction remain unreliable on certain targets. External oracles can flag and correct these failures, but biological oracles are expensive, making oracle budget a critical constraint. Existing guidance methods, such as FK-steering, DPO, and Best K-of-N sampling, differ in how they spend this budget, yet no systematic comparison exists to guide method selection&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.12192v1</guid>
+      <pubDate>Wed, 12 Aug 2026 15:46:57 +0000</pubDate>
     </item>
     <item>
-      <title>PET/CT Radiogenomic Mutation Prediction in Non-Small Cell Lung Cancer Using Multi-Label Learning</title>
-      <link>http://arxiv.org/abs/2608.09721v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mona Furukawa, Sai Hyne, Daniel R. McGowan, Bartłomiej W. Papież&lt;/p&gt;&lt;p&gt;Lung cancer remains one of the leading causes of cancer- related mortality worldwide. Although targeted therapies have improved outcomes for patients with non-small cell lung cancer (NSCLC), they rely on mutation profiling through tissue biopsy, an invasive procedure with several limitations. This study investigates PET/CT-based radio- genomic prediction of epidermal growth factor receptor (EGFR), tumour protein 53 (TP53), and Kirsten rat sarcoma viral oncogene (KRAS) mutations using deep learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.09721v1</guid>
-      <pubDate>Mon, 10 Aug 2026 15:22:37 +0000</pubDate>
+      <title>ScreenShot: A Foundation Model for Few-Shot Combination Drug Screening</title>
+      <link>http://arxiv.org/abs/2608.12219v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Antoine de Mathelin, Christopher Tosh, Wesley Tansey&lt;/p&gt;&lt;p&gt;Treating patients with combinations of drugs reduces the risk of resistance to any individual drug. Finding effective combinations is difficult because the large search space makes combinatorial screens prohibitively expensive, time consuming, and often technically infeasible. Predictive models can fill this gap, yet existing methods typically require molecular profiling of each sample and per-cohort training, limiting their applicability when time and tissue are scarce&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.12219v1</guid>
+      <pubDate>Wed, 12 Aug 2026 16:13:50 +0000</pubDate>
     </item>
     <item>
-      <title>MoNo: Multiscale Optimal Transport Neural Operator for Solving PDEs on General Geometries</title>
-      <link>http://arxiv.org/abs/2608.09764v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zijiang Yang, Xiaomeng Wu, Dongmei Fu&lt;/p&gt;&lt;p&gt;Transformer-based neural operators have achieved substantial progress in solving Partial Differential Equations (PDEs) by projecting spatial observations into compact latent tokens and learning physical interactions in latent spaces. However, we reveal that existing learnable projection mechanisms cannot ensure stable and balanced assignments from observation points to latent tokens, causing some latent tokens to be over-assigned while others remain underutilized. This limitation further restricts the design of hierarchical architectures, as assignment imbalance is continuously inherited and a&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.09764v1</guid>
-      <pubDate>Mon, 10 Aug 2026 15:55:11 +0000</pubDate>
+      <title>Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification</title>
+      <link>http://arxiv.org/abs/2608.12227v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kazi Nabiul Alam, Pooneh Bagheri Zadeh, Akbar Sheikh-Akbari&lt;/p&gt;&lt;p&gt;Hyperspectral imaging (HSI) offers nondestructive assessment of fish freshness by detecting biochemical alterations across spectral bands. However, conventional deep learning approaches do not fully address the particular characteristics of HSI data, such as spectral dominance over spatial textures, ordinal label structure, and a small number of training samples. We propose SGNet (Spectral-Grouped Network), a lightweight architecture that separates spectral and spatial feature extraction using grouped convolutions and a depthwise spatial pathway&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.12227v1</guid>
+      <pubDate>Wed, 12 Aug 2026 16:25:19 +0000</pubDate>
     </item>
     <item>
-      <title>ReliableNet: A Chance-Constrained Approach to Trustworthy Classification in Deep Learning</title>
-      <link>http://arxiv.org/abs/2608.09768v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ange-Clément Akazan, Ineza Remy Mugenga, Abebe Geletu, Jean Medard Ngnotchouye, Issa Karambal&lt;/p&gt;&lt;p&gt;A prediction that is both confident and wrong is a critical reliability failure because it can bypass abstention and human review precisely when the model is mistaken. Empirical risk minimization (ERM) controls average loss but not this failure directly, while calibration, uncertainty estimation, conformal risk control, and selective prediction methods target related reliability properties rather than bounding the joint failure event during training. We propose ReliableNet, which constrains the Joint Confident-Wrong (JCW) probability, the probability that a prediction is simultaneously confide&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.09768v1</guid>
-      <pubDate>Mon, 10 Aug 2026 15:58:19 +0000</pubDate>
+      <title>Few-Shot Ordinal Learning for Day-Wise Freshness Estimation with Hyperspectral Fish Images</title>
+      <link>http://arxiv.org/abs/2608.12230v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kazi Nabiul Alam, Pooneh Bagheri Zadeh, Akbar Sheikh-Akbari&lt;/p&gt;&lt;p&gt;Non-destructive food quality assessment has increasingly benefited from hyperspectral imaging (HSI), which captures spectral signatures linked to biochemical changes during storage. Estimating day-wise freshness, however, remains challenging owing to strong inter-fillet variability and scarce labelled data per product. All existing deep learning approaches for HSI-based freshness prediction operate under full supervision, requiring densely annotated training sets that are costly to obtain at the individual-product level&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.12230v1</guid>
+      <pubDate>Wed, 12 Aug 2026 16:28:01 +0000</pubDate>
     </item>
     <item>
-      <title>Parameter Exploration for RLVR via Variational Learning</title>
-      <link>http://arxiv.org/abs/2608.09805v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vatsal Venkatkrishna, Nico Daheim, Iryna Gurevych&lt;/p&gt;&lt;p&gt;Exploration has been a focus of reinforcement learning research for a long time. Recently, there has been growing evidence that it is also an important ingredient in LLM reinforcement learning recipes that can significantly impact downstream performance. Many existing methods control exploration in the action-space, for example, using temperature scaling&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.09805v1</guid>
-      <pubDate>Mon, 10 Aug 2026 16:28:07 +0000</pubDate>
+      <title>Regime-Gated Residual Mixture-of-Experts for Cross-Sectional Volatility Forecasting</title>
+      <link>http://arxiv.org/abs/2608.12251v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junyi Ye, Gargi Vijay Borde&lt;/p&gt;&lt;p&gt;Financial volatility is regime dependent, yet incorporating regime information into neural networks can also destabilize training. This paper asks where such information should enter a neural cross-sectional volatility forecasting model. We study five-day realized-volatility forecasts for 1,027 U.S&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.12251v1</guid>
+      <pubDate>Wed, 12 Aug 2026 16:51:51 +0000</pubDate>
     </item>
     <item>
-      <title>Real-Time Climate Risk Assessment for Supply Chain Resilience: A Data-Driven Nowcasting Framework for Colombian Agriculture</title>
-      <link>http://arxiv.org/abs/2608.09846v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hernan J. Silva-Sosa&lt;/p&gt;&lt;p&gt;This paper presents a methodological framework for real-time climate risk assessment using data-driven nowcasting techniques to enhance supply chain resilience in Colombian agricultural contexts. Climate variability in Colombia, characterized by irregular rainfall, temperature fluctuations, and recurrent extreme events, has a direct impact on agricultural production and logistics, particularly for time sensitive crops. The proposed approach integrates short term climate forecasting based on historical meteorological observations with supply chain risk modeling to establish a conceptual early w&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.09846v1</guid>
-      <pubDate>Mon, 10 Aug 2026 17:05:47 +0000</pubDate>
+      <title>Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting</title>
+      <link>http://arxiv.org/abs/2608.12259v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junyi Ye, Ivy Gateri Wanjiku&lt;/p&gt;&lt;p&gt;Financial forecasting models are typically developed in full precision, yet production deployment often requires low-precision inference to reduce memory and computational cost. Post-training quantization (PTQ) enables such deployment without retraining. However, reliable activation quantization requires calibration: activation ranges are estimated from historical data before deployment and then remain fixed during future inference&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.12259v1</guid>
+      <pubDate>Wed, 12 Aug 2026 17:02:06 +0000</pubDate>
     </item>
     <item>
-      <title>RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance</title>
-      <link>http://arxiv.org/abs/2608.09853v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dongchi Huang, Hongyin Zhang, Bohan Hou, Siteng Huang, Zhian Su, Hang Guo, Tong Lu, Zhaofeng Xu&lt;/p&gt;&lt;p&gt;General-purpose reward models are increasingly the bottleneck for scaling robot learning, yet the recipe for learning value-related capabilities from large-scale heterogeneous corpora remains underexplored. Existing approaches tie supervision to task-internal anchors such as preferences or normalized progress, none of which transfer cleanly across embodiments and data sources. We introduce RynnValue, an open-source value foundation model for robotic manipulation that replaces these anchors with temporal distance, the directed cost-to-go from an observation to the language-specified goal&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.09853v1</guid>
-      <pubDate>Mon, 10 Aug 2026 17:09:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Financial Numerical Prediction and Allocation as Token Generation</title>
-      <link>http://arxiv.org/abs/2608.09880v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xu Ouyang, Moontae Lee&lt;/p&gt;&lt;p&gt;Financial prediction typically relies on task-specific regression, ranking, or policy heads, separating the language model from the numerical object ultimately evaluated. We investigate whether a causal language model can instead represent forecasts and decisions directly through constrained token generation. FinATOM introduces a unified, head-free interface for three-step stock-return forecasting and dynamic five-ETF allocation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.09880v1</guid>
-      <pubDate>Mon, 10 Aug 2026 17:33:10 +0000</pubDate>
+      <title>Earth observation embeddings are effective sub-grid descriptors for probabilistic weather downscaling</title>
+      <link>http://arxiv.org/abs/2608.12271v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pedro Sousa, Will Tebbutt, Sadiq Jaffer, Robin Young, Anil Madhavapeddy, Richard E. Turner&lt;/p&gt;&lt;p&gt;Global weather reanalyses and forecasts resolve the evolving atmospheric state on coarse grids, but site-specific applications require predictions at arbitrary locations where near-surface conditions also depend on unresolved terrain and land-surface properties. Existing probabilistic downscalers address this gap using hand-crafted topographic descriptors. We ask instead whether Earth observation foundation models can provide transferable sub-grid surface representations for probabilistic weather downscaling&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.12271v1</guid>
+      <pubDate>Wed, 12 Aug 2026 17:10:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
