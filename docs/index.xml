@@ -7,6 +7,118 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 17 Aug 2026 03:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 02:55:41 +0000</lastBuildDate>
+    <item>
+      <title>Decadal wave reconstruction in the Mediterranean Sea with graph neural networks</title>
+      <link>http://arxiv.org/abs/2608.16449v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Federica Benassi, Lorenzo Mentaschi, Salvatore Causio, Daniel Holmberg, Ivan Federico, Nadia Pinardi&lt;/p&gt;&lt;p&gt;Accurate simulation and prediction of ocean waves are essential for coastal risk management and climate studies. Deep learning has shown promising results for wave modeling, but most approaches still operate on regular grids and on forecasting time scales, and do not generalize to unstructured discretization or to long time horizons. Here we present WaveGraph, a model based on Graph Neural Networks (GNNs) that emulates basin-scale wave dynamics directly on unstructured meshes with high resolution along the coasts (up to 2-3 km)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16449v1</guid>
+      <pubDate>Mon, 17 Aug 2026 11:49:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Contrastive Energy Fields for Inference-Time Procedure Planning in Instructional Videos</title>
+      <link>http://arxiv.org/abs/2608.16457v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohamed Afham, Christoph Reich, Oliver Hahn, Daniel Cremers, Stefan Roth&lt;/p&gt;&lt;p&gt;Procedure planning seeks to estimate a sequence of actions to transition from an observed initial state to a given goal state. Current procedure planning approaches directly predict action sequences from latent representations using feed-forward neural networks or diffusion-based inference. These paradigms treat every action as plausible, lacking the ability to enforce task-specific logical constraints that render certain actions irrelevant or not plausible&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16457v1</guid>
+      <pubDate>Mon, 17 Aug 2026 11:56:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pallas: A Proactive KV Cache Migration Framework for LLM Inference in AI-RAN</title>
+      <link>http://arxiv.org/abs/2608.16477v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tianhang Ding, Jianchun Liu, Hongli Xu&lt;/p&gt;&lt;p&gt;AI-RAN brings large language model (LLM) serving close to mobile users, but cellular handover can separate an active request from its inference state: the user attaches to a target base station (gNB) while the large and growing key-value (KV) cache remains at the source. Retaining inference at the source preserves service continuity but persistently increases inter-token latency (ITL), whereas recovering the state at the target restores serving locality but requires KV-cache transfer, recomputation, or a combination of both only after handover, directly prolonging service interruption time (SI&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16477v1</guid>
+      <pubDate>Mon, 17 Aug 2026 12:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Graph Machine Learning: An Opportunity for Power Systems</title>
+      <link>http://arxiv.org/abs/2608.16494v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Martin Sadric, Sebastian Pütz, Christian Nauck, Veit Hagenmeyer, Frank Hellmann, Dirk Witthaut, Benjamin Schäfer&lt;/p&gt;&lt;p&gt;Modern power systems face growing operational complexity driven by the integration of renewable energy sources, decentralization, and the need for real-time decision-making across a wide range of timescales. Addressing these challenges traditionally relies on model-based methods that, while accurate, can be too slow for operational demands. Machine learning (ML) has therefore emerged as a faster, data-driven alternative&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16494v1</guid>
+      <pubDate>Mon, 17 Aug 2026 12:33:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Large language models as synthetic clinical experts to inform longitudinal rare-disease modeling</title>
+      <link>http://arxiv.org/abs/2608.16507v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Clemens Schächter, Astrid Pechmann, Janbernd Kirschner, Jan Hasenauer, Harald Binder&lt;/p&gt;&lt;p&gt;Due to the limited amount of information, modeling longitudinal rare-disease data can benefit from integrating clinical knowledge. Yet, elicitation of expert knowledge and formalization for model fitting is challenging, in particular due to limited time of clinical experts. To nevertheless make domain knowledge accessible during model fitting, we use large language models (LLMs) as synthetic clinical experts to supervise a variational-autoencoder-based approach that learns low-dimensional latent summaries of visit-level observations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16507v1</guid>
+      <pubDate>Mon, 17 Aug 2026 12:47:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data-Driven Reconstruction of Spatially Resolved Electron and Ion Energy Distributions from Macroscopic Plasma Quantities with Deep Neural Networks</title>
+      <link>http://arxiv.org/abs/2608.16519v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Libin Varghese, Kaushik Prajapati, Bhaskar Chaudhury&lt;/p&gt;&lt;p&gt;Spatially resolved EEDFs/IEDFs provide essential kinetic information about low-temperature plasmas (LTPs) and play a central role in determining transport, chemical reaction rates, and plasma surface interactions. While kinetic simulations directly resolve these distributions, experimental measurements remain challenging and are often invasive, spatially limited, or require assumptions regarding the distribution shape such as a Maxwellian. However, several macroscopic plasma observables can be measured non-invasively using advanced diagnostic techniques, providing spatially resolved informatio&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16519v1</guid>
+      <pubDate>Mon, 17 Aug 2026 13:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction</title>
+      <link>http://arxiv.org/abs/2608.16541v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Isuru Nanayakkara, Thilina Halloluwa&lt;/p&gt;&lt;p&gt;Objective assessment of learning remains a fundamental challenge in education. Electroencephalography (EEG) provides a direct, non-invasive window into the neural correlates of knowledge acquisition, including cognitive familiarity. This study benchmarks fifteen machine learning (ML) and deep learning (DL) models for EEG-based familiarity prediction across two cognitive domains: faces (factual knowledge) and mathematical equations (conceptual knowledge)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16541v1</guid>
+      <pubDate>Mon, 17 Aug 2026 13:15:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning Generalizable Reconstruction of High-Dimensional Neural Dynamics</title>
+      <link>http://arxiv.org/abs/2608.16569v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anima Kujur, Zahra Monfared&lt;/p&gt;&lt;p&gt;Accurate reconstruction of long-duration neural recordings is challenging because local field potentials (LFPs) are high-resolution, multichannel, transient, and variable across subjects. We present PCA-DMD, a scalable operator-theoretic framework that segments LFP recordings into overlapping windows, projects them into a compact PCA space, learns linear Koopman evolution in the latent space, and reconstructs continuous signals through inverse projection and overlap-add aggregation. On 200,000-sample hippocampal recordings, PCA-DMD outperformed Classical DMD, SpDMD, MrDMD, and HODMD, achieving&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16569v1</guid>
+      <pubDate>Mon, 17 Aug 2026 13:35:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Physics of Agents: Statistical Mechanics Predicts Collective Behavior of AI Agents</title>
+      <link>http://arxiv.org/abs/2608.16578v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Batu El, Jinhee Paeng, Fatih Dinc, Shiye Su, Mete Erdogan, Aneesh Pappu, Haotian Ye, Wanjia Zhao&lt;/p&gt;&lt;p&gt;AI agents increasingly operate as part of interacting systems rather than in isolation. As agents exchange information and jointly make decisions, their interactions can improve collective reasoning but may also produce herding, polarization, or amplify shared biases. Understanding and predicting these collective dynamics is therefore important for designing effective and aligned multi-agent systems&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16578v1</guid>
+      <pubDate>Mon, 17 Aug 2026 13:41:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>CACSurv: Concordance-Aligned Comparative Learning with Large Language Models for Cancer Survival Prediction</title>
+      <link>http://arxiv.org/abs/2608.16594v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tianqi Xiang, Qixiang Zhang, Xinpeng Ding, Yi Li, Xiaomeng Li&lt;/p&gt;&lt;p&gt;Cancer survival prediction supports treatment planning, risk stratification, and follow-up management. Existing methods use structured clinical variables, whole-slide images, genomic profiles, or multimodal inputs, while patient reports remain underexplored. We study report-centric survival prediction using reports that organize pathological, clinical, and molecular evidence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16594v1</guid>
+      <pubDate>Mon, 17 Aug 2026 13:51:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Working Set of a Coding Agent: Coherence Debt in Repository-Scale Tasks</title>
+      <link>http://arxiv.org/abs/2608.16630v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bardia Mohammadi, Lars Klein, Aman Chadha, Akhil Arora, Laurent Bindschaedler&lt;/p&gt;&lt;p&gt;Repository-scale coding requires an agent to keep tests, imports, configuration, and migration rules consistent within a bounded context window. We model this as reconstructing a coupled-fact graph: at each edit, a required fact comes from recent context or parametric memory, and the facts covered by neither form coherence debt. We supply and withhold each channel and inject faults across seven models and five harnesses&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16630v1</guid>
+      <pubDate>Mon, 17 Aug 2026 14:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Turning spectra into images improves plant trait retrieval with 2D-CNNs</title>
+      <link>http://arxiv.org/abs/2608.16661v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Javier Lopatin, Teja Kattenborn, Eya Cherif, Sebastián Moreno&lt;/p&gt;&lt;p&gt;Hyperspectral reflectance spectroscopy enables non-destructive estimation of plant functional traits, yet current deep learning approaches process spectra as one-dimensional sequences, which limits how they capture long-range inter-band dependencies. We asked whether transforming 1D spectra into 2D image representations improves multi-trait prediction with convolutional neural networks (CNN). We compared nine transformations using EfficientNet-B0 on the GreenHyperSpectra dataset (7,897 labeled spectra, eight traits, 400-2450 nm), benchmarked against published 1D CNN results on the same split&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16661v1</guid>
+      <pubDate>Mon, 17 Aug 2026 14:53:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Time-Aware Validation of Machine Learning Fuel Consumption Models: Evidence from 1\,Hz Operational Data, CCGS \textit{Sir Wilfrid Laurier}</title>
+      <link>http://arxiv.org/abs/2608.16833v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Samarasimha Reddy Chittamuru, Ayhan Akinturk, Allison Kennedy, Joshua Barnes, Matthew Hamilton&lt;/p&gt;&lt;p&gt;Ship fuel consumption (SFC) prediction supports vessel operation optimisation, emissions estimation, and decision support systems (DSS) for sustainable maritime transportation. Numerous data-driven fuel models have been developed over the past two decades, but a critical and often overlooked limitation lies in their validation practices: most studies evaluate performance using random train--test splits, which, applied to high-frequency records, admit temporal leakage and yield optimistic results that do not reflect deployment conditions. This paper examines that gap using time-aware evaluation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16833v1</guid>
+      <pubDate>Mon, 17 Aug 2026 17:18:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Non-Crossing Deep Quantile Regression for Distributional Survival Prediction</title>
+      <link>http://arxiv.org/abs/2608.16864v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shuai Huang, Zhe Qu, Zhaowei Hua, Guohao Shen, Rui Tang, Hongtu Zhu&lt;/p&gt;&lt;p&gt;In survival analysis the way covariates act on the risk of an event often differs between early and late failure times, yet hazard- and mean-based summaries collapse this variation into a single number. Quantile-based modeling instead describes the full conditional distribution on the original time scale, but existing censored-data methods are either inflexible or produce logically inconsistent crossing quantile curves. We propose a Censored Non-crossing Quantile (CNQ) framework for right-censored data that jointly estimates several conditional survival quantiles and guarantees valid ordering &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16864v1</guid>
+      <pubDate>Mon, 17 Aug 2026 17:46:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data-Efficient and Interpretable Classification of Circulating Tumor Cell Phenotypes in Microfluidic Devices via Deep Learning</title>
+      <link>http://arxiv.org/abs/2608.16870v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Serena Su, Yifan Wang, Senwei Liang&lt;/p&gt;&lt;p&gt;Accurate classification of circulating tumor cell (CTC) phenotypes can provide valuable information for assessing metastatic potential. Label free microfluidic devices provide a hydrodynamic obstacle course that transforms subtle biophysical characteristics of CTCs, including size and deformability, into distinct kinematic trajectories. However, the highly nonlinear fluid structure interactions governing these trajectories make the inverse problem of inferring cellular phenotype from trajectory data analytically intractable&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16870v1</guid>
+      <pubDate>Mon, 17 Aug 2026 17:51:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators</title>
+      <link>http://arxiv.org/abs/2608.16873v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiaming Li&lt;/p&gt;&lt;p&gt;High-fidelity finite-element simulations can provide accurate numerical predictions for side-branch resonators, but large simulation datasets are expensive to generate and purely data-driven surrogates may become unreliable when simulation-labelled data are scarce. This study develops an analytical-prior learning framework that reuses a low-cost analytical model to improve data efficiency under limited high-fidelity simulation budgets. Two complementary routes are considered&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.16873v1</guid>
+      <pubDate>Mon, 17 Aug 2026 17:53:14 +0000</pubDate>
+    </item>
   </channel>
 </rss>
