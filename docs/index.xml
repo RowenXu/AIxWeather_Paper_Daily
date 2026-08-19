@@ -7,118 +7,139 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 18 Aug 2026 02:55:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 02:57:23 +0000</lastBuildDate>
     <item>
-      <title>Decadal wave reconstruction in the Mediterranean Sea with graph neural networks</title>
-      <link>http://arxiv.org/abs/2608.16449v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Federica Benassi, Lorenzo Mentaschi, Salvatore Causio, Daniel Holmberg, Ivan Federico, Nadia Pinardi&lt;/p&gt;&lt;p&gt;Accurate simulation and prediction of ocean waves are essential for coastal risk management and climate studies. Deep learning has shown promising results for wave modeling, but most approaches still operate on regular grids and on forecasting time scales, and do not generalize to unstructured discretization or to long time horizons. Here we present WaveGraph, a model based on Graph Neural Networks (GNNs) that emulates basin-scale wave dynamics directly on unstructured meshes with high resolution along the coasts (up to 2-3 km)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16449v1</guid>
-      <pubDate>Mon, 17 Aug 2026 11:49:46 +0000</pubDate>
+      <title>OOD Detection for EEG-based Machine Learning in High-Risk Environments</title>
+      <link>http://arxiv.org/abs/2608.17620v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Philipp Bomatter, Henry Gouk&lt;/p&gt;&lt;p&gt;Machine learning models for electroencephalography (EEG) analysis show great promise across a wide range of applications, but their deployment in high-risk domains is hindered by their vulnerability to distribution shifts. Encountering out-of-distribution (OOD) data can lead to catastrophic, overconfident predictive failures. While OOD detection methods can mitigate these risks, they remain heavily under-explored for EEG&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17620v1</guid>
+      <pubDate>Tue, 18 Aug 2026 10:33:58 +0000</pubDate>
     </item>
     <item>
-      <title>Contrastive Energy Fields for Inference-Time Procedure Planning in Instructional Videos</title>
-      <link>http://arxiv.org/abs/2608.16457v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohamed Afham, Christoph Reich, Oliver Hahn, Daniel Cremers, Stefan Roth&lt;/p&gt;&lt;p&gt;Procedure planning seeks to estimate a sequence of actions to transition from an observed initial state to a given goal state. Current procedure planning approaches directly predict action sequences from latent representations using feed-forward neural networks or diffusion-based inference. These paradigms treat every action as plausible, lacking the ability to enforce task-specific logical constraints that render certain actions irrelevant or not plausible&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16457v1</guid>
-      <pubDate>Mon, 17 Aug 2026 11:56:11 +0000</pubDate>
+      <title>Beyond the Trace: Coupling an Interpretable Reasoning-State Readout to Native MoE Routing</title>
+      <link>http://arxiv.org/abs/2608.17638v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kang Chen, Sihan Zhao, Yixin Cao, Yugang Jiang&lt;/p&gt;&lt;p&gt;What a reasoning model writes is only a partial record of the process that produces it. We introduce a two-level internal readout for mixture-of-experts reasoning. We first distill vocabulary-scale J-space into J64, a 64-axis semantic frame learned from the model's own reasoning states&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17638v1</guid>
+      <pubDate>Tue, 18 Aug 2026 10:56:31 +0000</pubDate>
     </item>
     <item>
-      <title>Pallas: A Proactive KV Cache Migration Framework for LLM Inference in AI-RAN</title>
-      <link>http://arxiv.org/abs/2608.16477v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tianhang Ding, Jianchun Liu, Hongli Xu&lt;/p&gt;&lt;p&gt;AI-RAN brings large language model (LLM) serving close to mobile users, but cellular handover can separate an active request from its inference state: the user attaches to a target base station (gNB) while the large and growing key-value (KV) cache remains at the source. Retaining inference at the source preserves service continuity but persistently increases inter-token latency (ITL), whereas recovering the state at the target restores serving locality but requires KV-cache transfer, recomputation, or a combination of both only after handover, directly prolonging service interruption time (SI&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16477v1</guid>
-      <pubDate>Mon, 17 Aug 2026 12:16:09 +0000</pubDate>
+      <title>Elimination Geometry</title>
+      <link>http://arxiv.org/abs/2608.17646v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mian Huang, Xueqin Wang&lt;/p&gt;&lt;p&gt;This monograph develops elimination geometry (EG), a typed, native-loss, audit-oriented framework for studying when locally optimal objects can be realized by a shared deployment rule. Elimination and compression may erase distinctions required by prediction, inference, control, or representation. EG asks which distinctions are lost, whether the induced defect is visible to the declared task, and whether changing information, architecture, action space, or deployment domain can repair it&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17646v1</guid>
+      <pubDate>Tue, 18 Aug 2026 11:03:57 +0000</pubDate>
     </item>
     <item>
-      <title>Graph Machine Learning: An Opportunity for Power Systems</title>
-      <link>http://arxiv.org/abs/2608.16494v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Martin Sadric, Sebastian Pütz, Christian Nauck, Veit Hagenmeyer, Frank Hellmann, Dirk Witthaut, Benjamin Schäfer&lt;/p&gt;&lt;p&gt;Modern power systems face growing operational complexity driven by the integration of renewable energy sources, decentralization, and the need for real-time decision-making across a wide range of timescales. Addressing these challenges traditionally relies on model-based methods that, while accurate, can be too slow for operational demands. Machine learning (ML) has therefore emerged as a faster, data-driven alternative&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16494v1</guid>
-      <pubDate>Mon, 17 Aug 2026 12:33:46 +0000</pubDate>
+      <title>Conformal Prediction for Molecular Properties under Label Shift</title>
+      <link>http://arxiv.org/abs/2608.17678v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hyeonsu Lee, Juyeon Kim, Erkhembayar Jadamba, Seungjin Choi, Hyunjin Shin&lt;/p&gt;&lt;p&gt;Drug discovery and development underpins healthcare but remains costly and failure-prone. A critical bottleneck lies in predicting molecular properties such as solubility, potency, and toxicity, which directly determine whether a candidate can advance from preclinical to clinical trials. Artificial Intelligence (AI) has accelerated this process, yet its reliability is often undermined by distribution shift, as experimental conditions frequently diverge from training data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17678v1</guid>
+      <pubDate>Tue, 18 Aug 2026 11:50:38 +0000</pubDate>
     </item>
     <item>
-      <title>Large language models as synthetic clinical experts to inform longitudinal rare-disease modeling</title>
-      <link>http://arxiv.org/abs/2608.16507v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Clemens Schächter, Astrid Pechmann, Janbernd Kirschner, Jan Hasenauer, Harald Binder&lt;/p&gt;&lt;p&gt;Due to the limited amount of information, modeling longitudinal rare-disease data can benefit from integrating clinical knowledge. Yet, elicitation of expert knowledge and formalization for model fitting is challenging, in particular due to limited time of clinical experts. To nevertheless make domain knowledge accessible during model fitting, we use large language models (LLMs) as synthetic clinical experts to supervise a variational-autoencoder-based approach that learns low-dimensional latent summaries of visit-level observations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16507v1</guid>
-      <pubDate>Mon, 17 Aug 2026 12:47:18 +0000</pubDate>
+      <title>Accuracy and Robustness of Model Cascades Under Data Perturbations</title>
+      <link>http://arxiv.org/abs/2608.17711v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pallavi Mitra, Jai Kushwaha, Felix Biessmann&lt;/p&gt;&lt;p&gt;Prediction cascades significantly reduce energy consumption of Artificial Intelligence (AI) models while maintaining high predictive performance. The idea is that easy inputs are routed through a lightweight small model, and difficult uncertain cases are deferred to a larger model. While this design can improve computational efficiency on clean data, its effectiveness depends on the reliability of confidence-based routing&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17711v1</guid>
+      <pubDate>Tue, 18 Aug 2026 12:34:09 +0000</pubDate>
     </item>
     <item>
-      <title>Data-Driven Reconstruction of Spatially Resolved Electron and Ion Energy Distributions from Macroscopic Plasma Quantities with Deep Neural Networks</title>
-      <link>http://arxiv.org/abs/2608.16519v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Libin Varghese, Kaushik Prajapati, Bhaskar Chaudhury&lt;/p&gt;&lt;p&gt;Spatially resolved EEDFs/IEDFs provide essential kinetic information about low-temperature plasmas (LTPs) and play a central role in determining transport, chemical reaction rates, and plasma surface interactions. While kinetic simulations directly resolve these distributions, experimental measurements remain challenging and are often invasive, spatially limited, or require assumptions regarding the distribution shape such as a Maxwellian. However, several macroscopic plasma observables can be measured non-invasively using advanced diagnostic techniques, providing spatially resolved informatio&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16519v1</guid>
-      <pubDate>Mon, 17 Aug 2026 13:02:12 +0000</pubDate>
+      <title>Communicating Credit Risk with Large Language Models: Evaluation of Explanations from Standard and Alternative Data-Based Models</title>
+      <link>http://arxiv.org/abs/2608.17715v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sahab Zandi, Noah Kostesku, Christophe Mues, María Óskarsdóttir, Cristián Bravo&lt;/p&gt;&lt;p&gt;Credit decisioning is a high-stakes task in which model outputs must be accurate and explainable to support compliant decisions. Although modern credit risk models such as eXtreme Gradient Boosting (XGBoost) and Graph Neural Networks (GNNs) improve predictive performance, their explanations are often too technical for stakeholders creating communication gaps that can shape approvals, denials, and fairness judgments. We examine whether Large Language Models (LLMs) can serve as explanation layers that translate post-hoc explanation artefacts into stakeholder-appropriate risk narratives&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17715v1</guid>
+      <pubDate>Tue, 18 Aug 2026 12:39:46 +0000</pubDate>
     </item>
     <item>
-      <title>Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction</title>
-      <link>http://arxiv.org/abs/2608.16541v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Isuru Nanayakkara, Thilina Halloluwa&lt;/p&gt;&lt;p&gt;Objective assessment of learning remains a fundamental challenge in education. Electroencephalography (EEG) provides a direct, non-invasive window into the neural correlates of knowledge acquisition, including cognitive familiarity. This study benchmarks fifteen machine learning (ML) and deep learning (DL) models for EEG-based familiarity prediction across two cognitive domains: faces (factual knowledge) and mathematical equations (conceptual knowledge)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16541v1</guid>
-      <pubDate>Mon, 17 Aug 2026 13:15:45 +0000</pubDate>
+      <title>MAGPIE-Net: Predicting short-duration heavy-rainfall events in station neighborhoods from multitemporal FY-4A AGRI observations</title>
+      <link>http://arxiv.org/abs/2608.17753v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiang Lin, Yunying Li, Chengzhi Ye, Zitong Chen, Jing Sun&lt;/p&gt;&lt;p&gt;Short-duration heavy-rainfall warning determines whether 1 h rainfall will exceed a threshold within a target-station neighborhood over the next few hours. Multitemporal infrared and water-vapor observations from the Fengyun-4A Advanced Geostationary Radiation Imager (FY-4A AGRI) capture cloud-top cooling, moisture evolution, and cloud expansion before substantial surface rainfall develops. However, most deep-learning nowcasting methods convert these signals into local warnings by post-processing gridded precipitation predictions, preventing station-neighborhood event targets from directly sup&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17753v1</guid>
+      <pubDate>Tue, 18 Aug 2026 13:17:21 +0000</pubDate>
     </item>
     <item>
-      <title>Learning Generalizable Reconstruction of High-Dimensional Neural Dynamics</title>
-      <link>http://arxiv.org/abs/2608.16569v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anima Kujur, Zahra Monfared&lt;/p&gt;&lt;p&gt;Accurate reconstruction of long-duration neural recordings is challenging because local field potentials (LFPs) are high-resolution, multichannel, transient, and variable across subjects. We present PCA-DMD, a scalable operator-theoretic framework that segments LFP recordings into overlapping windows, projects them into a compact PCA space, learns linear Koopman evolution in the latent space, and reconstructs continuous signals through inverse projection and overlap-add aggregation. On 200,000-sample hippocampal recordings, PCA-DMD outperformed Classical DMD, SpDMD, MrDMD, and HODMD, achieving&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16569v1</guid>
-      <pubDate>Mon, 17 Aug 2026 13:35:38 +0000</pubDate>
+      <title>Anthropogenic Heat in Urban Climate Systems: Forcing, Sensitivity, and Feedback</title>
+      <link>http://arxiv.org/abs/2608.17782v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dan Li, Alvin Christopher Galang Varquez, Ting Sun, Yuya Takane, Jiachuan Yang, Mingze Ding, David Sailor&lt;/p&gt;&lt;p&gt;Anthropogenic heat flux, the heat released to the environment from human activities such as building energy use, transportation, industrial processes, and human metabolism, is a defining feature of the urban climate system. It is an important contributor to the urban heat island (UHI) effect and influences a wide range of urban meteorological processes. Its significance extends beyond urban climatology because of its close connections to energy consumption, greenhouse gas emissions, and climate adaptation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17782v1</guid>
+      <pubDate>Tue, 18 Aug 2026 13:45:41 +0000</pubDate>
     </item>
     <item>
-      <title>Physics of Agents: Statistical Mechanics Predicts Collective Behavior of AI Agents</title>
-      <link>http://arxiv.org/abs/2608.16578v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Batu El, Jinhee Paeng, Fatih Dinc, Shiye Su, Mete Erdogan, Aneesh Pappu, Haotian Ye, Wanjia Zhao&lt;/p&gt;&lt;p&gt;AI agents increasingly operate as part of interacting systems rather than in isolation. As agents exchange information and jointly make decisions, their interactions can improve collective reasoning but may also produce herding, polarization, or amplify shared biases. Understanding and predicting these collective dynamics is therefore important for designing effective and aligned multi-agent systems&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16578v1</guid>
-      <pubDate>Mon, 17 Aug 2026 13:41:24 +0000</pubDate>
+      <title>Spatially explicit feature importance for building height estimation using research-access high-resolution SAR and optical sensors</title>
+      <link>http://arxiv.org/abs/2608.17822v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guilherme Iablonovski, Pierre-Louis Frison, Tatiana Silva da Silva&lt;/p&gt;&lt;p&gt;Accurate building height information at the individual footprint scale is essential for material stock accounting and post-disaster damage assessments yet remains difficult to obtain at city scale in the Global South where airborne LiDAR coverage is rare and commercial very high-resolution imagery is cost-prohibitive or unavailable. While recent works have demonstrated building height estimation using freely available Sentinel imagery, the resolution ceiling of resulting products is still coarse for material stock analysis. This study incorporates products derived from data freely accessible u&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17822v1</guid>
+      <pubDate>Tue, 18 Aug 2026 14:20:53 +0000</pubDate>
     </item>
     <item>
-      <title>CACSurv: Concordance-Aligned Comparative Learning with Large Language Models for Cancer Survival Prediction</title>
-      <link>http://arxiv.org/abs/2608.16594v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tianqi Xiang, Qixiang Zhang, Xinpeng Ding, Yi Li, Xiaomeng Li&lt;/p&gt;&lt;p&gt;Cancer survival prediction supports treatment planning, risk stratification, and follow-up management. Existing methods use structured clinical variables, whole-slide images, genomic profiles, or multimodal inputs, while patient reports remain underexplored. We study report-centric survival prediction using reports that organize pathological, clinical, and molecular evidence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16594v1</guid>
-      <pubDate>Mon, 17 Aug 2026 13:51:29 +0000</pubDate>
+      <title>MotoSafety: Edge-AI with Learned Temporal Importance for Two-Wheeler Collision Risk Assessment Under Time Pressure</title>
+      <link>http://arxiv.org/abs/2608.17823v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sumit S. Shevtekar, Chandresh K. Maurya, Gourab Sil, Subasish Das&lt;/p&gt;&lt;p&gt;Powered two-wheeler riders face critical safety challenges in low- and middle-income countries, yet limited studies exist on how cognitive stressors such as Time Pressure influence collision risk. To address this gap, we introduce a large-scale dataset of over 129,000 labeled multivariate time-series sequences from 153 simulator rides by 51 participants under No, Low, and High TP, capturing 64 features across vehicle dynamics, control inputs, proximity, and behavioral violations. Building on this dataset, we propose MotoSafety, a novel edge-AI architecture grounded in the Learned Temporal Impo&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17823v1</guid>
+      <pubDate>Tue, 18 Aug 2026 14:21:50 +0000</pubDate>
     </item>
     <item>
-      <title>The Working Set of a Coding Agent: Coherence Debt in Repository-Scale Tasks</title>
-      <link>http://arxiv.org/abs/2608.16630v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bardia Mohammadi, Lars Klein, Aman Chadha, Akhil Arora, Laurent Bindschaedler&lt;/p&gt;&lt;p&gt;Repository-scale coding requires an agent to keep tests, imports, configuration, and migration rules consistent within a bounded context window. We model this as reconstructing a coupled-fact graph: at each edit, a required fact comes from recent context or parametric memory, and the facts covered by neither form coherence debt. We supply and withhold each channel and inject faults across seven models and five harnesses&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16630v1</guid>
-      <pubDate>Mon, 17 Aug 2026 14:30:41 +0000</pubDate>
+      <title>MoRAX: Mobility-based Representation Augmentation for Geospatial Foundation Models</title>
+      <link>http://arxiv.org/abs/2608.17848v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ya Wen, Jixuan Cai, Yulun Zhou, Alec Kirkley&lt;/p&gt;&lt;p&gt;Geospatial Foundation Models (GFMs) are emerging as a powerful paradigm for learning semantically rich and geographically consistent visual and physical representations. However, their reliance on Earth-observation (EO) data leaves information about human activity largely underrepresented. Human mobility data reveals the functional and relational structure between regions that is missing from EO data, but is often limited only to the city where it is observed, making it challenging to use for transferable urban representation learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17848v1</guid>
+      <pubDate>Tue, 18 Aug 2026 14:44:41 +0000</pubDate>
     </item>
     <item>
-      <title>Turning spectra into images improves plant trait retrieval with 2D-CNNs</title>
-      <link>http://arxiv.org/abs/2608.16661v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Javier Lopatin, Teja Kattenborn, Eya Cherif, Sebastián Moreno&lt;/p&gt;&lt;p&gt;Hyperspectral reflectance spectroscopy enables non-destructive estimation of plant functional traits, yet current deep learning approaches process spectra as one-dimensional sequences, which limits how they capture long-range inter-band dependencies. We asked whether transforming 1D spectra into 2D image representations improves multi-trait prediction with convolutional neural networks (CNN). We compared nine transformations using EfficientNet-B0 on the GreenHyperSpectra dataset (7,897 labeled spectra, eight traits, 400-2450 nm), benchmarked against published 1D CNN results on the same split&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16661v1</guid>
-      <pubDate>Mon, 17 Aug 2026 14:53:56 +0000</pubDate>
+      <title>ARASH: Adaptive Retrieval And Shot Selection for Tabular Prediction</title>
+      <link>http://arxiv.org/abs/2608.17856v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Samirasadat Jamalidinan, Yue Xu, Kazem Cheshmi&lt;/p&gt;&lt;p&gt;Tabular prediction is a critical task across numerous applications. The recent success of large language models has sparked various approaches for adapting them to the tabular domain. A prevalent strategy involves training or fine-tuning specialized Tabular Foundation Models (TFMs) such as TabPFN&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17856v1</guid>
+      <pubDate>Tue, 18 Aug 2026 14:48:56 +0000</pubDate>
     </item>
     <item>
-      <title>Time-Aware Validation of Machine Learning Fuel Consumption Models: Evidence from 1\,Hz Operational Data, CCGS \textit{Sir Wilfrid Laurier}</title>
-      <link>http://arxiv.org/abs/2608.16833v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Samarasimha Reddy Chittamuru, Ayhan Akinturk, Allison Kennedy, Joshua Barnes, Matthew Hamilton&lt;/p&gt;&lt;p&gt;Ship fuel consumption (SFC) prediction supports vessel operation optimisation, emissions estimation, and decision support systems (DSS) for sustainable maritime transportation. Numerous data-driven fuel models have been developed over the past two decades, but a critical and often overlooked limitation lies in their validation practices: most studies evaluate performance using random train--test splits, which, applied to high-frequency records, admit temporal leakage and yield optimistic results that do not reflect deployment conditions. This paper examines that gap using time-aware evaluation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16833v1</guid>
-      <pubDate>Mon, 17 Aug 2026 17:18:05 +0000</pubDate>
+      <title>A Residual Learning Approach for Unsteady Aerodynamic Load Prediction</title>
+      <link>http://arxiv.org/abs/2608.17894v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Divya Sanghi, Carlos E. S. Cesnik&lt;/p&gt;&lt;p&gt;This paper investigates the feasibility of using residual learning to improve unsteady aerodynamic load prediction for aeroelastic applications. The machine learning technique selected for the study is the long short-term memory (LSTM) neural network, which is used for its suitability for sequential data with aerodynamic memory effects. The approach is investigated for the NLR 7301 airfoil benchmark using high-fidelity CFD lift data for prescribed pitch and plunge motions in the transonic flow regime in the presence of shock motion&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17894v1</guid>
+      <pubDate>Tue, 18 Aug 2026 15:26:55 +0000</pubDate>
     </item>
     <item>
-      <title>Non-Crossing Deep Quantile Regression for Distributional Survival Prediction</title>
-      <link>http://arxiv.org/abs/2608.16864v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shuai Huang, Zhe Qu, Zhaowei Hua, Guohao Shen, Rui Tang, Hongtu Zhu&lt;/p&gt;&lt;p&gt;In survival analysis the way covariates act on the risk of an event often differs between early and late failure times, yet hazard- and mean-based summaries collapse this variation into a single number. Quantile-based modeling instead describes the full conditional distribution on the original time scale, but existing censored-data methods are either inflexible or produce logically inconsistent crossing quantile curves. We propose a Censored Non-crossing Quantile (CNQ) framework for right-censored data that jointly estimates several conditional survival quantiles and guarantees valid ordering &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16864v1</guid>
-      <pubDate>Mon, 17 Aug 2026 17:46:41 +0000</pubDate>
+      <title>AppendiGrade: An XAI-Enhanced Deep Learning Framework for Grading Appendicitis in Ultrasound with Gaussian Blur and Grad-CAM</title>
+      <link>http://arxiv.org/abs/2608.17923v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fahad Ahammed, Omar Faruq Shikdar, Navid Zaman, Md Tahsin, Md. Nawab Yousuf Ali, Golam Sorwar&lt;/p&gt;&lt;p&gt;Appendicitis is one of the most common abdominal emergencies worldwide and requires prompt diagnosis and treatment to prevent life-threatening conditions. However, accurately differentiating complicated cases, such as perforation or abscess formation, from uncomplicated appendicitis remains a significant clinical challenge. Among other methods, ultrasound is a safer and more cost-efficient diagnostic technique because of the lack of radiation exposure&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17923v1</guid>
+      <pubDate>Tue, 18 Aug 2026 15:46:42 +0000</pubDate>
     </item>
     <item>
-      <title>Data-Efficient and Interpretable Classification of Circulating Tumor Cell Phenotypes in Microfluidic Devices via Deep Learning</title>
-      <link>http://arxiv.org/abs/2608.16870v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Serena Su, Yifan Wang, Senwei Liang&lt;/p&gt;&lt;p&gt;Accurate classification of circulating tumor cell (CTC) phenotypes can provide valuable information for assessing metastatic potential. Label free microfluidic devices provide a hydrodynamic obstacle course that transforms subtle biophysical characteristics of CTCs, including size and deformability, into distinct kinematic trajectories. However, the highly nonlinear fluid structure interactions governing these trajectories make the inverse problem of inferring cellular phenotype from trajectory data analytically intractable&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16870v1</guid>
-      <pubDate>Mon, 17 Aug 2026 17:51:49 +0000</pubDate>
+      <title>Understanding the Surprising Generalization Properties of Tabular Foundation Models</title>
+      <link>http://arxiv.org/abs/2608.17957v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nour Shaheen, Junwei Ma, Alex Labach, Frank Hutter, Valentin Thomas, Anthony L. Caterini&lt;/p&gt;&lt;p&gt;Tabular Foundation Models (TFMs) increasingly rely on in-context learning, where a model receives labelled examples at inference time and predicts labels for new inputs without updating its weights. Existing TFMs are typically trained on either massive synthetic corpora or very large collections of real datasets. In contrast, we show that surprisingly strong transfer can emerge from self-supervised pre-training on just a single real table&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17957v1</guid>
+      <pubDate>Tue, 18 Aug 2026 16:11:08 +0000</pubDate>
     </item>
     <item>
-      <title>An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators</title>
-      <link>http://arxiv.org/abs/2608.16873v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiaming Li&lt;/p&gt;&lt;p&gt;High-fidelity finite-element simulations can provide accurate numerical predictions for side-branch resonators, but large simulation datasets are expensive to generate and purely data-driven surrogates may become unreliable when simulation-labelled data are scarce. This study develops an analytical-prior learning framework that reuses a low-cost analytical model to improve data efficiency under limited high-fidelity simulation budgets. Two complementary routes are considered&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.16873v1</guid>
-      <pubDate>Mon, 17 Aug 2026 17:53:14 +0000</pubDate>
+      <title>Evaluating and improving crop-yield forecasting methods during extreme drought</title>
+      <link>http://arxiv.org/abs/2608.17971v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shrey Gupta, Yi Ming, George Mohler&lt;/p&gt;&lt;p&gt;The impact of climate variability on food production has led to the creation of various forecasting models that uses machine learning (ML), numerical weather predictors (NWP) or a hybrid of ML-NWP models to identify structural and physical relationships between meteorological drivers and crop growth, in order to predict crop yield. Droughts, for example the 2012 Midwestern US (Corn Belt) drought, are extreme events that affect crop production and test the limits of these forecasting models. Using 16 meteorological drivers as predictors, we compare ML (non-deep learning) and deep learning forec&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17971v1</guid>
+      <pubDate>Tue, 18 Aug 2026 16:23:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Do AI Climate Models Respond to Warming Across Climate Zones?</title>
+      <link>http://arxiv.org/abs/2608.17986v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Charlotte C. Merchant, Milan Klöwer, Bradley Stanley-Clamp, Maren Höver, Simon L. L. Michel, Edward Groot, Hannah M. Christensen&lt;/p&gt;&lt;p&gt;Regional climate zones are expected to shift under global warming. Whether AI climate models have learned to generalize climate-zone distributions under warming in a physically meaningful way affects their suitability for climate projection. We address this question by applying a Köppen-Geiger climate-zone decomposition to AIMIP Phase 1 models under prescribed +4K SST forcing and comparing their responses to physics-based AMIP models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17986v1</guid>
+      <pubDate>Tue, 18 Aug 2026 16:32:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Against Political Polarization: A Unified Framework for Tracing Evolving Political Ideologies on Social Media</title>
+      <link>http://arxiv.org/abs/2608.17987v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yijie Xu, Chao Wang, Hui Xiong&lt;/p&gt;&lt;p&gt;The rapid growth of social media has greatly influenced political discourse, highlighting the need to understand individual political ideologies and their temporal dynamics. This task faces challenges such as data scarcity, abundant non-political content, costly and bias-prone manual annotation, and difficulty in modeling future ideological inclinations. To address these issues, we propose TSN4PI, a unified framework for tracking the evolution of political ideologies on social media&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.17987v1</guid>
+      <pubDate>Tue, 18 Aug 2026 16:33:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance</title>
+      <link>http://arxiv.org/abs/2608.18056v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiao Wang, Shun Ren Yang, Hui Nien Hung&lt;/p&gt;&lt;p&gt;Urban traffic congestion reduces productivity and increases travel cost and emissions. Network-wide live travel-time shortest-path rerouting can be highly effective in simulation, but assumes that essentially every on-road vehicle is replanned every decision period. We propose HLSR, a selective hybrid live--forecast vehicle rerouting framework that fuses live edge speeds with short-horizon forecasts under limited intervention scope&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.18056v1</guid>
+      <pubDate>Tue, 18 Aug 2026 17:49:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
