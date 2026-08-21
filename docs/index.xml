@@ -7,76 +7,139 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 20 Aug 2026 02:56:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 03:02:58 +0000</lastBuildDate>
     <item>
-      <title>A Unifying Relational Perspective on Expressive Lottery Tickets</title>
-      <link>http://arxiv.org/abs/2608.18819v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lorenz Kummer, Samir Moustafa, Anatol Ehrlich, Franka Bause, Marco Nennstiel, Przemysław Andrzej Wałȩga, Nils Morten Kriege&lt;/p&gt;&lt;p&gt;Graph neural networks (GNNs) are widely used, but how parameter sparsity affects the expressivity of relational (RGNNs) and temporal (TGNNs) variants is poorly understood. The Strong Expressive Lottery Ticket Hypothesis (SELTH) posits the existence of sparse GNNs that preserve Weisfeiler-Leman (WL) expressivity on static graphs. We generalize this existence result to a probabilistic statement for multi-relational and temporal domains via the relational WL (RWL)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.18819v1</guid>
-      <pubDate>Wed, 19 Aug 2026 11:16:14 +0000</pubDate>
+      <title>A Repeated Measurements Approach to $SoH$ Battery Modelling of Cyclic Aged Data in a Laboratory Environment</title>
+      <link>http://arxiv.org/abs/2608.19879v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mark Cary, Charles Bokor&lt;/p&gt;&lt;p&gt;This document describes the application of a first order linearised nonlinear repeated measurements approach to the analysis of battery cell ageing profiles generated under controlled conditions in a laboratory. The primary advantage of the model is it reflects the obvious structure in the data. Consequently, it is a two-component of variance model: variation within ageing profiles (measurement noise) and variation among ageing profiles (test-to-test or cell-to-cell) variation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.19879v1</guid>
+      <pubDate>Thu, 20 Aug 2026 10:40:39 +0000</pubDate>
     </item>
     <item>
-      <title>GEAR: Generative Expansion and Real Anchoring for Two-Stage Distillation of Tabular Foundation Models</title>
-      <link>http://arxiv.org/abs/2608.18849v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Qi Qin, Jiajie Zhu, Dali Chen, Yuzhao Zhang, Jia-Xing Han, Yu Su, Peng Zhang, Ying Yan&lt;/p&gt;&lt;p&gt;Tabular foundation models (TFMs) achieve strong performance through in-context learning, but context-dependent inference imposes substantial latency and memory costs, hindering large-scale deployment. We propose GEAR (\emph{Generative Expansion and Real Anchoring}), a modular two-stage framework that distills TFMs into lightweight MLP or tree-based predictors that can be deployed on commodity CPUs. Stage 1 uses synthetic covariates solely as teacher-query locations and trains the student on soft TFM targets, expanding coverage beyond observed rows&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.18849v1</guid>
-      <pubDate>Wed, 19 Aug 2026 12:21:02 +0000</pubDate>
+      <title>Separating Covariate Shift from Mechanism Change with Two Discriminators: CJSD, a Conditional Discrepancy with an Exact Covariate-Concept Decomposition</title>
+      <link>http://arxiv.org/abs/2608.19885v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kentaro Oda&lt;/p&gt;&lt;p&gt;Streaming systems that maintain a pool of expert models must repeatedly decide whether to reuse an existing expert for arriving data, spawn a new one, or defer. We present a decision layer that makes all three outcomes statistically meaningful. Reuse and spawn are posed as one-sided sequential hypotheses on a conditional (mechanism-level) discrepancy, separated by an indifference zone; defer is exactly the state in which neither betting e-process has accumulated sufficient evidence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.19885v1</guid>
+      <pubDate>Thu, 20 Aug 2026 10:48:08 +0000</pubDate>
     </item>
     <item>
-      <title>Transportable Causal Effect Estimation across Networks under Interference</title>
-      <link>http://arxiv.org/abs/2608.18932v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaojing Du, Jiuyong Li, Lin Liu, Debo Cheng, Jixue Liu, Thuc Duy Le&lt;/p&gt;&lt;p&gt;Estimating causal effects under network interference typically assumes that the network used for training and the network used for deployment coincide. In practice, an intervention is run on one population while the question of interest concerns a different population, and the two generally differ in topology, node-covariate composition, and spillover pathways. Transporting a causal effect across networks is therefore a data-fusion problem that no existing algorithm solves&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.18932v1</guid>
-      <pubDate>Wed, 19 Aug 2026 14:00:18 +0000</pubDate>
+      <title>Evidence Before Expansion: Reuse, Spawn, or Defer in Lifelong Expert Pools</title>
+      <link>http://arxiv.org/abs/2608.19888v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kentaro Oda&lt;/p&gt;&lt;p&gt;Streaming systems that maintain a pool of expert models must repeatedly decide whether to reuse an existing expert for arriving data, spawn a new one, or defer. We present a decision layer that makes all three outcomes statistically meaningful. Reuse and spawn are posed as one-sided sequential hypotheses on a conditional (mechanism-level) discrepancy, separated by an indifference zone; defer is exactly the state in which neither betting e-process has accumulated sufficient evidence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.19888v1</guid>
+      <pubDate>Thu, 20 Aug 2026 10:54:17 +0000</pubDate>
     </item>
     <item>
-      <title>Training Chemical Plausibility-Aware Large Language Models for Single-Step Retrosynthesis</title>
-      <link>http://arxiv.org/abs/2608.18940v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bogdan Zagribelnyy, Ivan Ilin, Nikita Bondarev, Maksim Kuznetsov, Mathieu Reymond, Vladimir Aladinskiy, Alex Aliper, Alex Zhavoronkov&lt;/p&gt;&lt;p&gt;Single-step retrosynthesis is a central component of computer-aided synthesis planning, yet its intrinsically one-to-many nature is poorly captured by single-answer evaluation and benchmarking protocols. To address this, we introduce Top-K prompting as a robust training and inference paradigm to better capture diverse, plausible reaction predictions. We compile CREED-CCV-2+USPTO-XL, an ultra-large-scale dataset of ~45.6 million verified reactions to train the C3LM (Chemistry Constraint-Consistent Language Model)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.18940v1</guid>
-      <pubDate>Wed, 19 Aug 2026 14:08:05 +0000</pubDate>
+      <title>The impact of feature engineering and an optimisation framework for ocean colour machine learning</title>
+      <link>http://arxiv.org/abs/2608.19899v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Edson Silva, Julien Brajard, Simon Cappe, Lasse H. Pettersson, François Counillon&lt;/p&gt;&lt;p&gt;Machine learning (ML) is widely used for the development of ocean colour algorithms, but most studies focus on model parameter training and hyperparameter tuning. The optimisation of the data that feeds the models - i.e., Feature Engineering (FE) - is not fully explored. We assess the impact of FE in ocean colour machine learning models and we propose an optimisation framework that includes seven sequenced levels of data transformation: i&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.19899v1</guid>
+      <pubDate>Thu, 20 Aug 2026 11:07:54 +0000</pubDate>
     </item>
     <item>
-      <title>Fuzzy Accuracy Compensates for Label Subjectivity in Classification of Skin Tone Using Wearable Photoplethysmography Signals</title>
-      <link>http://arxiv.org/abs/2608.18969v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Padmini Krishnadas, Urs Hackstein, Alen Bosnjakovic, Philip J. Aston&lt;/p&gt;&lt;p&gt;We consider the problem of classification of skin tone using photoplethysmography (PPG) signals with labels of the ordinal six-class Fitzpatrick skin tones. A typical accuracy for this task is a poor 40-55 %. However, the labels are subjectively determined by comparing the skin with a colour chart, and hence contain widespread small-scale inaccuracies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.18969v1</guid>
-      <pubDate>Wed, 19 Aug 2026 14:38:10 +0000</pubDate>
+      <title>SoilWaterNow: Soil water nowcasting for mapping plant available water (PAW) across paddocks for improved on-farm decision-making</title>
+      <link>http://arxiv.org/abs/2608.19930v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yi Yu, Mikaela J. Tilse, Patrick Filippi, Thomas F. A. Bishop&lt;/p&gt;&lt;p&gt;Timely, paddock-scale estimates of plant-available water (PAW) can support crop management in water-limited grain systems. We present the Sydney Soil Water-Energy Balance (SWEB) model, a scalable, physically consistent modelling framework that integrates satellite and climate data with soil properties to estimate crop evapotranspiration and root-zone soil moisture (RZSM) at daily, 30 m resolution. SWEB was validated nationally against different SM monitoring networks across Australia, which demonstrated robust performance across diverse grain-growing environments (correlation coefficients gene&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.19930v1</guid>
+      <pubDate>Thu, 20 Aug 2026 11:43:11 +0000</pubDate>
     </item>
     <item>
-      <title>Monroe: A Molecular Foundation Model for In-Context Probabilistic Inference</title>
-      <link>http://arxiv.org/abs/2608.18982v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Blazej Banaszewski, Andrew W. Fitzgibbon&lt;/p&gt;&lt;p&gt;Bioassay activity prediction is often data-limited because drug-discovery datasets rely on time-consuming and expensive wet-lab experiments for data generation and evaluation. This challenge has inspired recent research into molecular foundation models (MFMs), which aim to encode general-purpose chemical knowledge into molecular representations that generalize well in data-constrained scenarios. This paper presents Monroe, a new MFM with several innovations over the existing state of the art: increased scale allowing pre-training on over 81 million molecules from the PM6 quantum chemistry data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.18982v1</guid>
-      <pubDate>Wed, 19 Aug 2026 14:48:19 +0000</pubDate>
+      <title>G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs</title>
+      <link>http://arxiv.org/abs/2608.19964v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bhavya Gupta, Onat Gungor, Tajana Rosing&lt;/p&gt;&lt;p&gt;Autonomous driving systems must operate under partial observability, where safety-critical objects may be occluded or visible only to neighboring connected vehicles. Vehicle-to-vehicle cooperation can reduce this uncertainty, but existing cooperative driving methods often compress multi-agent evidence into latent features or hidden multimodal states. As a result, they obscure which agent observed each object, whether the object is visible to the ego vehicle, and how conflicting evidence affects downstream decisions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.19964v1</guid>
+      <pubDate>Thu, 20 Aug 2026 12:35:12 +0000</pubDate>
     </item>
     <item>
-      <title>Extremes on Rewind: Generating 1,000-Member Ensembles Initialized at a Final Condition</title>
-      <link>http://arxiv.org/abs/2608.19008v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jerry Lin, Mu-Ting Chien, Mansi Sakarvadia, Elizabeth A. Barnes&lt;/p&gt;&lt;p&gt;Scenario planning for rare, high-impact events often requires massive ensembles to stochastically sample relevant trajectories. Although autoregressive weather emulators can efficiently generate such ensembles, isolating trajectories of interest requires sifting through petabytes of data, a challenge that grows exponentially with lead time and rarity. In contrast, a non-autoregressive foundation model like Climate in a Bottle video (cBottle-video) can directly sample trajectories terminating in extremes, avoiding large-ensemble search&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.19008v1</guid>
-      <pubDate>Wed, 19 Aug 2026 15:09:36 +0000</pubDate>
+      <title>Flow Matching Meets 3D Curvilinear Structure Segmentation in Medical Imaging</title>
+      <link>http://arxiv.org/abs/2608.19965v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sidi Mohamed Sid'El Moctar, Nicolas Vitry, Hélène Bouvrais&lt;/p&gt;&lt;p&gt;Segmentation of curvilinear anatomical structures in 3D medical images remains challenging due to complex topology, severe class imbalance, weak contrast, and large variations in structure morphology. While deep learning approaches for 3D curvilinear segmentation have been proposed, they are often tailored to specific anatomies or modalities, limiting generalization across clinical settings and leaving room for improvement. Recent generative models have shown the benefits of iterative prediction for structured segmentation tasks, yet diffusion-based methods suffer from computationally expensiv&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.19965v1</guid>
+      <pubDate>Thu, 20 Aug 2026 12:35:27 +0000</pubDate>
     </item>
     <item>
-      <title>Robust Risk Under Evolving Uncertainty: A Wasserstein Counterpart of the Entropic Value-at-Risk</title>
-      <link>http://arxiv.org/abs/2608.19073v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Deep Kumar Ganguly, Jan Křetínský&lt;/p&gt;&lt;p&gt;An agent still learning its environment should be cautious while ignorant and bold once confident. The entropic value-at-risk captures this through a robust-optimization identity---a confidence level fixes the radius of a relative-entropy ball of alternative models---but that ball cannot reach catastrophes the nominal deems impossible, precisely what a safe agent must hedge. We instead use an optimal-transport ball and study the coherent risk measure it induces, the Wasserstein entropic value-at-risk&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.19073v1</guid>
-      <pubDate>Wed, 19 Aug 2026 16:22:48 +0000</pubDate>
+      <title>ExPhy: A Benchmark for Explicit Physical Property Learning in Multi-Object Trajectory Forecasting</title>
+      <link>http://arxiv.org/abs/2608.20009v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rui Wang, Yeteng Wu, Xianlin Zhang, Mengshi Qi&lt;/p&gt;&lt;p&gt;Understanding object dynamics requires not only predicting future trajectories but also examining whether a model captures the physical properties that govern motion. However, existing benchmarks rarely expose object-level physical properties as explicit evaluation targets alongside trajectory forecasting. To address this gap, we introduce \emph{ExPhy}, a multi-object trajectory forecasting benchmark containing 24,000 simulated physical scenes with explicit object-level labels for mass, friction, and restitution&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.20009v1</guid>
+      <pubDate>Thu, 20 Aug 2026 13:24:13 +0000</pubDate>
     </item>
     <item>
-      <title>Grouping the Stochastic Machine: Precision, Not Capability, as the Frontier Metric for AI Systems</title>
-      <link>http://arxiv.org/abs/2608.19140v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; George Andrikopoulos&lt;/p&gt;&lt;p&gt;Frontier language models are compared, marketed, and benchmarked on capability -- what their best or average output can achieve. I argue this measures the wrong axis. The models have saturated accuracy: their mean output lands on the target&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.19140v1</guid>
-      <pubDate>Wed, 19 Aug 2026 17:29:47 +0000</pubDate>
+      <title>Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking</title>
+      <link>http://arxiv.org/abs/2608.20011v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yansen Han, Shengyi Liao, Yuanxing Zhang, Pengfei Wan, Tao Lin&lt;/p&gt;&lt;p&gt;Preference optimization is a standard alignment method for generative models, yet extending it to continuous-time dynamics remains non-trivial. In flow matching, reward-driven updates modify transport trajectories without an inherent constraint to the pretrained data manifold and can move terminal samples off the pretrained support. We formalize this failure mode as manifold drift&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.20011v1</guid>
+      <pubDate>Thu, 20 Aug 2026 13:25:24 +0000</pubDate>
     </item>
     <item>
-      <title>Interpretable AI predicts a 2026 summer dry anomaly in central China</title>
-      <link>http://arxiv.org/abs/2608.19163v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anran Wang, Wen Shi, Yong Luo, Jianbin Huang, Lijuan Chen, Junhu Zhao, Weixin Jin, Huihui Yuan&lt;/p&gt;&lt;p&gt;Seasonal precipitation anomalies are largely regulated by atmospheric circulation, which dynamical models predict with greater reliability than precipitation itself. Here, we employ a deep learning model that translates dynamical circulation predictions into precipitation estimates. Predictions initialized from March to May consistently indicate a dry anomaly over central China in summer 2026&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.19163v1</guid>
-      <pubDate>Wed, 19 Aug 2026 17:43:49 +0000</pubDate>
+      <title>Systematic Evaluation of TabPFN-TS for Zero-Shot Probabilistic Heat Load Forecasting in District Heating Networks</title>
+      <link>http://arxiv.org/abs/2608.20024v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ben Spoek, Karim K. Ben Hicham, Kai Derzsi, Philipp Althaus, Alexander Mitsos, Dirk Müller&lt;/p&gt;&lt;p&gt;District heating energy hubs require reliable heat load forecasts for efficient operational scheduling. Conventional forecasting workflows train system-specific models on historical data, which can become burdensome when networks change through new consumers, retrofits, or changing operating regimes. Zero-shot time-series foundation models and in-context forecasting offer a promising alternative: they can adapt at inference time from recent observations rather than by repeated retraining&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.20024v1</guid>
+      <pubDate>Thu, 20 Aug 2026 13:33:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>CLaST: Context-aware Contrastive VAE for Probabilistic Time Series Forecasting</title>
+      <link>http://arxiv.org/abs/2608.20025v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexander Marusov, Dmitry Anikin, Petr Sokerin, Vitaliy Pozdnyakov, Ilya Kuleshov, Alexey Zaytsev&lt;/p&gt;&lt;p&gt;Probabilistic forecasting models are widely used for time series forecasting in domains such as energy systems, finance, medicine, and transportation. In recent years, deep generative models have shown strong results on probabilistic forecasting, yet many conventional approaches struggle to capture internal temporal dependencies, leading to latent representations with limited expressive power. To address this limitation, we propose \textit{CLaST}, a VAE framework for probabilistic multivariate time series forecasting&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.20025v1</guid>
+      <pubDate>Thu, 20 Aug 2026 13:34:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>DecoVAE: a Lightweight Interpretable Trend-Seasonal VAE Framework for Efficient Probabilistic Time Series Forecasting</title>
+      <link>http://arxiv.org/abs/2608.20052v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexander Marusov, Dmitry Anikin, Alexey Zaytsev&lt;/p&gt;&lt;p&gt;Probabilistic time series forecasting remains challenging, largely because modeling distinct trend and seasonal dynamics requires specialized approaches. Existing methods often fail to capture the unique inner properties of these components, lack interpretability, or suffer from heavy memory and runtime overhead. To address these limitations, we propose DecoVAE, a lightweight interpretable trend-seasonal VAE framework that explicitly decomposes time series into trend and seasonal components by applying domain-specific inductive biases&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.20052v1</guid>
+      <pubDate>Thu, 20 Aug 2026 13:51:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orthogonal JEPA: Factorized Predictive States for Latent World Models</title>
+      <link>http://arxiv.org/abs/2608.20065v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Taoyong Cui, Pheng Ann Heng, Wanli Ouyang&lt;/p&gt;&lt;p&gt;World models construct latent states that support prediction, planning, and reasoning about an underlying system. Joint-embedding predictive architectures (JEPAs) offer a direct way to learn such states by predicting targets in representation space instead of reconstructing every detail of the observation. Standard JEPAs, however, organize all predictable content through one target embedding and one prediction pathway&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.20065v1</guid>
+      <pubDate>Thu, 20 Aug 2026 13:59:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAE-Xplainers: Rule-Based Feature Interpretation for Extreme Earth Events</title>
+      <link>http://arxiv.org/abs/2608.20117v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hugo Porta, Emanuele Dalsasso, Chang Xu, Theo Gnassounou, Devis Tuia&lt;/p&gt;&lt;p&gt;The emergence of large-scale Weather and Climate (W&amp;C) datasets offers new opportunities for modeling extreme Earth events (ExEE) and their impacts using deep learning. However, their adoption in operational settings remains limited by the lack of models' interpretability. While for conventional text and image modalities, tools such as Sparse Autoencoders (SAEs) have proven effective for extracting human-understandable concepts, their use for the analysis of ExEE remains challenging due to the nature of W&amp;C data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.20117v1</guid>
+      <pubDate>Thu, 20 Aug 2026 14:49:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Standardized Framework for Machine Learning in Power System Protection</title>
+      <link>http://arxiv.org/abs/2608.20181v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Julian Oelhaf, Georg Kordowich, Paula Andrea Pérez-Toro, Christian Bergler, Johann Jäger, Andreas Maier, Siming Bayer&lt;/p&gt;&lt;p&gt;Studies of machine-learning-based power-system protection increasingly report near-perfect scores, yet the meaning of those scores depends strongly on the evaluation setting. Protection task, physical scope, measurements, timing, targets, preprocessing, and validation often vary jointly and remain incompletely specified. This paper proposes a standardization-oriented framework that treats evaluation design as part of the scientific contribution&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.20181v1</guid>
+      <pubDate>Thu, 20 Aug 2026 15:35:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning</title>
+      <link>http://arxiv.org/abs/2608.20271v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jianghai Li, Pavel Kuznetsov, Yury Yanovich, Konstantin Nott-Whaley, Igor Vodolazov&lt;/p&gt;&lt;p&gt;The rapid proliferation of memecoins on blockchain platforms has increased the risk of fraudulent activities, particularly rug pulls. While previous studies have focused on Ethereum-based tokens, this paper shifts the spotlight to Solana, the leading blockchain for memecoins by trading volume and token count. Unlike Ethereum, where rug pulls often exploit smart contract backdoors, Solana memecoin rug pulls are predominantly driven by liquidity manipulation and social dynamics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.20271v1</guid>
+      <pubDate>Thu, 20 Aug 2026 17:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records</title>
+      <link>http://arxiv.org/abs/2608.20315v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jun Ni Du, Lukas Adamek, Maxim Kryukov, Flavio Dormont, Ziv Bar-Joseph, Sven Jager, Brandon Rufino&lt;/p&gt;&lt;p&gt;Predictive models over structured electronic health records (EHRs) remain central to machine learning for healthcare, but few have jointly emphasized quantitative laboratory information and interpretability with respect to input medical events. We present BERT-LER, a BERT-style model for coded EHR timelines pretrained and fine-tuned from a de-identified EHR dataset of 75 million patients, that encodes laboratory test results as discrete tokens while retaining graded information through percentile-based binning, paired with Integrated Gradients for token-level attributions grounded in the input&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.20315v1</guid>
+      <pubDate>Thu, 20 Aug 2026 17:54:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction</title>
+      <link>http://arxiv.org/abs/2608.20320v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Narges Ahmadi, Yubo Jiao, Jônatas Augusto Manzolli, Jiangbo Yu, Luis Miranda-Moreno&lt;/p&gt;&lt;p&gt;Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workflow integrating conversational data collection, structured data processing, and behavioral prediction. A chatbot-administered, image-augmented stated-preference survey collected mode choices from student commuters across five predefined weather scenarios, yielding 454 respondent-scenario observations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.20320v1</guid>
+      <pubDate>Thu, 20 Aug 2026 17:57:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval</title>
+      <link>http://arxiv.org/abs/2608.20326v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Parampreet Singh, Anushka Singh, Sumit Kumar, Vipul Arora&lt;/p&gt;&lt;p&gt;Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-hoc confidence estimation addresses this by training a lightweight auxiliary head over a frozen classifier&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.20326v1</guid>
+      <pubDate>Thu, 20 Aug 2026 17:58:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
