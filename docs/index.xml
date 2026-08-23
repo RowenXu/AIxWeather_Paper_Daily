@@ -7,41 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 22 Aug 2026 02:53:58 +0000</lastBuildDate>
-    <item>
-      <title>A Standardized Framework for Machine Learning in Power System Protection</title>
-      <link>http://arxiv.org/abs/2608.20181v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Julian Oelhaf, Georg Kordowich, Paula Andrea Pérez-Toro, Christian Bergler, Johann Jäger, Andreas Maier, Siming Bayer&lt;/p&gt;&lt;p&gt;Studies of machine-learning-based power-system protection increasingly report near-perfect scores, yet the meaning of those scores depends strongly on the evaluation setting. Protection task, physical scope, measurements, timing, targets, preprocessing, and validation often vary jointly and remain incompletely specified. This paper proposes a standardization-oriented framework that treats evaluation design as part of the scientific contribution&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.20181v1</guid>
-      <pubDate>Thu, 20 Aug 2026 15:35:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning</title>
-      <link>http://arxiv.org/abs/2608.20271v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jianghai Li, Pavel Kuznetsov, Yury Yanovich, Konstantin Nott-Whaley, Igor Vodolazov&lt;/p&gt;&lt;p&gt;The rapid proliferation of memecoins on blockchain platforms has increased the risk of fraudulent activities, particularly rug pulls. While previous studies have focused on Ethereum-based tokens, this paper shifts the spotlight to Solana, the leading blockchain for memecoins by trading volume and token count. Unlike Ethereum, where rug pulls often exploit smart contract backdoors, Solana memecoin rug pulls are predominantly driven by liquidity manipulation and social dynamics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.20271v1</guid>
-      <pubDate>Thu, 20 Aug 2026 17:09:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records</title>
-      <link>http://arxiv.org/abs/2608.20315v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jun Ni Du, Lukas Adamek, Maxim Kryukov, Flavio Dormont, Ziv Bar-Joseph, Sven Jager, Brandon Rufino&lt;/p&gt;&lt;p&gt;Predictive models over structured electronic health records (EHRs) remain central to machine learning for healthcare, but few have jointly emphasized quantitative laboratory information and interpretability with respect to input medical events. We present BERT-LER, a BERT-style model for coded EHR timelines pretrained and fine-tuned from a de-identified EHR dataset of 75 million patients, that encodes laboratory test results as discrete tokens while retaining graded information through percentile-based binning, paired with Integrated Gradients for token-level attributions grounded in the input&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.20315v1</guid>
-      <pubDate>Thu, 20 Aug 2026 17:54:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction</title>
-      <link>http://arxiv.org/abs/2608.20320v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Narges Ahmadi, Yubo Jiao, Jônatas Augusto Manzolli, Jiangbo Yu, Luis Miranda-Moreno&lt;/p&gt;&lt;p&gt;Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workflow integrating conversational data collection, structured data processing, and behavioral prediction. A chatbot-administered, image-augmented stated-preference survey collected mode choices from student commuters across five predefined weather scenarios, yielding 454 respondent-scenario observations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.20320v1</guid>
-      <pubDate>Thu, 20 Aug 2026 17:57:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval</title>
-      <link>http://arxiv.org/abs/2608.20326v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Parampreet Singh, Anushka Singh, Sumit Kumar, Vipul Arora&lt;/p&gt;&lt;p&gt;Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-hoc confidence estimation addresses this by training a lightweight auxiliary head over a frozen classifier&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.20326v1</guid>
-      <pubDate>Thu, 20 Aug 2026 17:58:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 03:02:33 +0000</lastBuildDate>
   </channel>
 </rss>
