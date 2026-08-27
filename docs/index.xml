@@ -7,111 +7,132 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 26 Aug 2026 03:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 12:24:44 +0000</lastBuildDate>
     <item>
-      <title>Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning</title>
-      <link>http://arxiv.org/abs/2608.24386v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruihan Liu, Yu Ji, Jianbo Yu, Shifu Yan, Qingchao Jiang&lt;/p&gt;&lt;p&gt;Tensor-valued prediction is fundamental to geometric deep learning, yet uncertainty quantification (UQ) for such outputs remains an open challenge. While E(3)-equivariant neural networks excel at point estimates, they lack rigorous confidence measures. We focus on symmetric rank-2 tensor prediction, where the target has six Kelvin--Mandel coordinates and full uncertainty is represented by a $6\times6$ covariance matrix&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24386v1</guid>
-      <pubDate>Tue, 25 Aug 2026 10:46:47 +0000</pubDate>
+      <title>Why Does Graph Learning Fail to Fully Benefit from a Text Teacher?</title>
+      <link>http://arxiv.org/abs/2608.25741v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fumiaki Kimino, Ryoma Sato&lt;/p&gt;&lt;p&gt;Graph neural networks (GNNs) are widely used to represent complex interactions and relationships among entities. We investigate a multimodal model that combines two complementary ideas: a self-supervised method that enables a GNN encoder pretrained on one dataset to operate directly on another dataset with a different node-feature dimensionality, without rebuilding the model or realigning the data; and an alternating optimization method that updates a language-model module in an E-step and a GNN module in an M-step, rather than jointly training a large language model and a GNN end to end on a &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25741v1</guid>
+      <pubDate>Wed, 26 Aug 2026 12:51:30 +0000</pubDate>
     </item>
     <item>
-      <title>It depends: Incorporating correlations for joint aleatoric and epistemic uncertainties of high-dimensional output spaces</title>
-      <link>http://arxiv.org/abs/2608.24518v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Leonhard F. Feiner, Manuel Nickel, Martin Menten, Laurin Lux, Rickmer Braren, Daniel Rueckert, Georgios Kaissis, Raphael Rehms&lt;/p&gt;&lt;p&gt;Uncertainty Quantification (UQ) plays a vital role in enhancing the reliability of deep learning model predictions, especially in scenarios with high-dimensional output spaces. This paper addresses the dual nature of uncertainty -- aleatoric and epistemic -- focusing on their joint integration in high-dimensional regression tasks. For example, in applications like medical image segmentation or restoration, aleatoric uncertainty captures inherent data noise, while epistemic uncertainty quantifies the model's confidence in unfamiliar conditions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24518v1</guid>
-      <pubDate>Tue, 25 Aug 2026 13:08:17 +0000</pubDate>
+      <title>A Constitutive Markov Physics-Informed Neural Operator (MPNO) for Autoregressive Stability in Transient Dynamics</title>
+      <link>http://arxiv.org/abs/2608.25744v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wenpu Du, Peng Zhou, Yunlong Xia, Sinuo Xin, Congcong Zhang, Boyang Zhang, Yi Zhang, Wenzheng Xu&lt;/p&gt;&lt;p&gt;Neural operators applied to transient-dynamics PDEs with strong discontinuities exhibit autoregressive instability: in concrete-penetration stress-field prediction, the wavelet neural operator (WNO) diverges in autoregressive rollout, while MeshGraphNets collapse to zero predictions. WNO's instability stems from the lack of a structural constraint on the spectral radius of its propagation operator; the Fourier neural operator (FNO) is stable in these measurements but only emergently, not by construction. We propose a constitutive Markov physics-informed neural operator (MPNO) modeling one-step&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25744v1</guid>
+      <pubDate>Wed, 26 Aug 2026 12:54:37 +0000</pubDate>
     </item>
     <item>
-      <title>Provable Quantum--Classical Separation for Continuous Gibbs Sampling</title>
-      <link>http://arxiv.org/abs/2608.24527v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Enrico Olivucci, Mariia Sobchuk, Sehmimul Hoque, Jeffrey Hnybida, Kyungho W. Kim, Ala Shayeghi, Pooya Ronagh&lt;/p&gt;&lt;p&gt;We prove the first quantum--classical separation for a sampling problem over a continuous domain. For a class of Gibbs states $p\propto e^{-βE}$ on the torus $\mathbb{T}^d$ with smooth ($s$-Gevrey) potential and barrier amplitude $α=e^{βΔ}$, where $Δ= \max E-\min E$, every classical algorithm---querying the value, gradient, or any higher-order derivatives of the log-density---requires $Ω(α)$ queries to sample at constant accuracy in total variation distance, while a quantum algorithm based on quantum singular value thresholding and temperature annealing samples with $\tilde{O}\left(\sqrtα\righ&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24527v1</guid>
-      <pubDate>Tue, 25 Aug 2026 13:13:34 +0000</pubDate>
+      <title>LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation</title>
+      <link>http://arxiv.org/abs/2608.25757v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jin Lou, Jingxuan Zhu, Andong Chen, Xupeng Wang, Yuan Xu, Yuexuan Li, Xingdong Zhu, Zhijie Zhu&lt;/p&gt;&lt;p&gt;Generalist vision--language--action (VLA) policies learn long-horizon behavior mainly through short-horizon action prediction and reveal little beyond sampled commands. This creates two coupled bottlenecks: a single action target must implicitly absorb task progress, intermediate intent, and local reliability, while these control states remain hidden during execution. Inspired by functional principles of biological sensorimotor control, we introduce LM-X , which organizes prediction across task, event, and motor scales without claiming anatomical correspondence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25757v1</guid>
+      <pubDate>Wed, 26 Aug 2026 13:05:29 +0000</pubDate>
     </item>
     <item>
-      <title>SeisMamba: Low-Latency Single-Station Seismic Magnitude Estimation for Spatially Distributed Earthquake Early Warning</title>
-      <link>http://arxiv.org/abs/2608.24561v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Quenton Yeo, Zhaoge Bi, Linghan Huang, Luke Stephen Higgins, Flora Salim, Huaming Chen&lt;/p&gt;&lt;p&gt;Rapid earthquake magnitude estimation is central to earthquake early warning, yet many operational systems depend on dense regional seismic networks and region-specific calibration. This creates a spatial coverage barrier for high-risk areas with sparse sensing infrastructure. Single-station learning offers a lower-cost alternative, but existing models often face an accuracy--latency trade-off and may degrade under regional distribution shift&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24561v1</guid>
-      <pubDate>Tue, 25 Aug 2026 13:44:42 +0000</pubDate>
+      <title>Learning from waste: Machine Learning for health risk prediction and computer vision-based sorting in Ghana</title>
+      <link>http://arxiv.org/abs/2608.25759v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hilda Adwubi Osei, Catherine Tenewaa Osei, Desdemona Yaa Asobayire&lt;/p&gt;&lt;p&gt;The inappropriate disposal of solid waste remains a significant public health and environmental concern worldwide, including in Ghana. Poor sanitation and improper waste management practices contribute to substantial economic costs and avoidable deaths annually. In 2022, a field study in Atonsu, Kumasi, Ghana, reported a community-perceived relationship between household waste disposal and illness patterns, but only through descriptive analysis without quantitative validation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25759v1</guid>
+      <pubDate>Wed, 26 Aug 2026 13:06:35 +0000</pubDate>
     </item>
     <item>
-      <title>Across the Loss Landscape with Progressive Growth</title>
-      <link>http://arxiv.org/abs/2608.24568v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Paul Caillon, Christophe Cerisara, Alexandre Allauzen&lt;/p&gt;&lt;p&gt;Deep neural networks generalize well despite their highly nonconvex, overparameterized loss landscapes, a phenomenon often associated with the geometry of the minima found by stochastic optimization. We study how incremental grow-and-optimize strategies bias training toward flatter regions by viewing growth as progressive constraint relaxation. Starting from a low-dimensional submodel, we iteratively expand the trainable parameters by unlocking nested random subspaces while freezing the orthogonal complement at the network initialization, re-optimizing after each expansion until the full archi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24568v1</guid>
-      <pubDate>Tue, 25 Aug 2026 13:50:48 +0000</pubDate>
+      <title>EXAONE Tabular 1.0 : Technical Report</title>
+      <link>http://arxiv.org/abs/2608.25774v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Moonjung Eo, Min-Kook Suh, Hye-Seung Cho, Jiwon Kim, Seoyoon Kim, Sangjun Nam, Soonyoung Lee&lt;/p&gt;&lt;p&gt;EXAONE Tabular is a compact tabular foundation model family for classification and regression via in-context learning, producing predictions without dataset-specific gradient updates. Pretrained exclusively on a synthetic structural-causal-model (SCM) prior, its central contribution is an architecture-centered redesign of tabular in-context learning. Rather than compressing features into a fixed row embedding before a separate row-level learner, EXAONE Tabular interleaves feature-axis attention within each item with support-conditioned item-axis attention within each feature at every Transform&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25774v1</guid>
+      <pubDate>Wed, 26 Aug 2026 13:17:20 +0000</pubDate>
     </item>
     <item>
-      <title>Delayed Optimizer-State Transport Shapes Short-Horizon Training Decisions</title>
-      <link>http://arxiv.org/abs/2608.24593v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jinhui Guo&lt;/p&gt;&lt;p&gt;Adaptive optimizers retain gradient history in moment variables, allowing a local change in loss weighting to alter later updates. We examine whether this delayed transport is large enough to change prospective short-horizon decisions. On committed future-minibatch sequences, we differentiate eight-step AdamW trajectories through the complete model--optimizer state and select exposure-matched Math--Code loss schedules before independent evaluation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24593v1</guid>
-      <pubDate>Tue, 25 Aug 2026 14:18:29 +0000</pubDate>
+      <title>Learning Continuous Regional Temperature Fields with Lead-Time and Resolution Queries</title>
+      <link>http://arxiv.org/abs/2608.25823v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chunlei Shi, Jiong Wang, Yi-Lin Wei, Junming Hou, Jinjin Liu, Yecheng Zhang, Dan Niu&lt;/p&gt;&lt;p&gt;Accurate regional near-surface temperature forecasting is fundamental to short-range weather services and downstream risk assessment. Existing deep learning-based regional forecasters commonly produce a fixed set of future frames on a prescribed grid, limiting their use when forecast products must be evaluated at query-dependent lead times or display resolutions. To overcome these fixed-output constraints, we formulate regional T2M forecasting as query-conditioned continuous spatiotemporal temperature field evaluation and propose the Continuous Spatiotemporal Temperature Forecaster (CSTF), a n&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25823v1</guid>
+      <pubDate>Wed, 26 Aug 2026 14:04:31 +0000</pubDate>
     </item>
     <item>
-      <title>Taming foundation model with invariance-oriented pre-training for broad-spectrum EEG analysis across signal-level, brain-state, and brain-health tasks</title>
-      <link>http://arxiv.org/abs/2608.24597v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yulong Dou, Han Wu, Guo Chen, Fangmao Ju, Zhiming Cui, Dinggang Shen&lt;/p&gt;&lt;p&gt;Electroencephalography (EEG) is a widely used window into human brain function, but most EEG models remain tied to a one-dataset-one-model supervised paradigm. Recent EEG foundation models offer a route toward reusable representations, but most remain reconstruction-centered, assuming that EEG content predictable from local context is necessarily transferable neural information. Here we present INCEPT, an invariance-oriented EEG foundation model trained on over 11,000 hours of unlabelled clinical EEG&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24597v1</guid>
-      <pubDate>Tue, 25 Aug 2026 14:20:02 +0000</pubDate>
+      <title>Missing the Butterfly and Predicting the Past: Features or Bugs of Accurate AI Weather Models?</title>
+      <link>http://arxiv.org/abs/2608.25835v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pedram Hassanzadeh, Weidong Li, Y. Qiang Sun, Jiangdi Wang, Alexander Wikner, Justin Finkel, Jonathan Q. Weare&lt;/p&gt;&lt;p&gt;AI weather prediction (AIWP) models rival physics-based models, yet the sources of their unexpected forecast accuracy and the degree of their physical fidelity remain unclear. Here, across a hierarchy spanning observation-based reanalysis, a general circulation model, and the multi-scale Lorenz system, we show that AI models can be trained to skillfully predict the past (backcast), though backcasts are systematically less accurate than forecasts. However, skillful backcasting appears to violate the second law of thermodynamics, and all these forecasting and backcasting models miss the butterfl&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25835v1</guid>
+      <pubDate>Wed, 26 Aug 2026 14:14:01 +0000</pubDate>
     </item>
     <item>
-      <title>AICON: An operational global machine learning weather forecasting model</title>
-      <link>http://arxiv.org/abs/2608.24651v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tobias Goecke, Marek Jacob, Florian Prill, Michael Denhard, Felix Fundel, Jan Keller, Roland Potthast, Hendrik Reich&lt;/p&gt;&lt;p&gt;We introduce AICON, a global machine learning weather prediction (MLWP) model which generates forecasts at 13 km spatial resolution with a 3-hour time step, trained on the high-resolution, non-hydrostatic ICON-DREAM dataset. AICON is in full operational use at Deutscher Wetterdienst since 2nd of March 2026. The model employs a graph neural network (GNN) architecture with an encoder-processor-decoder structure, where node updates are performed using a graph attention mechanism&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24651v1</guid>
-      <pubDate>Tue, 25 Aug 2026 14:58:58 +0000</pubDate>
+      <title>Why ML-based cough models do not generalize: a systematic cross-dataset evaluation for tuberculosis screening</title>
+      <link>http://arxiv.org/abs/2608.25846v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wensi Zhang, Tomas Teijeiro, Jérôme Thevenot, David Atienza&lt;/p&gt;&lt;p&gt;Cough acoustics are promising for non-invasive tuberculosis (TB) screening, yet whether machine learning (ML) models capture disease-related acoustics or artifacts of data collection remains unresolved. We evaluated the cross-dataset generalizability of classical ML and deep learning (DL) cough-based TB classifiers across three independent datasets. Despite moderate within-dataset performance (ROC-AUC up to $0.755 \pm 0.056$), both pipelines fail to generalize, with external performance frequently below 0.6, indicating a possible limitation of the data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25846v1</guid>
+      <pubDate>Wed, 26 Aug 2026 14:22:32 +0000</pubDate>
     </item>
     <item>
-      <title>Data Leakage Inflates Generalizability of Power Outage Prediction Models</title>
-      <link>http://arxiv.org/abs/2608.24665v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yamil Essus, Ranga Raju Vatsavai, Benjamin Rachunok&lt;/p&gt;&lt;p&gt;Power outage prediction models are increasingly used in assessments of climate-driven infrastructure risk, yet current evaluation practices obscure whether these models generalize to the novel conditions such applications require. We identify three common methodological choices in power outage prediction models that influence their ability to generalize across spatial, temporal, and event-based settings. We compare the predictive performance impacts of different methodological decisions using publicly available data for the U.S&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24665v1</guid>
-      <pubDate>Tue, 25 Aug 2026 15:05:55 +0000</pubDate>
+      <title>Precipitation Downscaling Using Foundation Model-Conditioned Diffusion</title>
+      <link>http://arxiv.org/abs/2608.25858v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Victor Nascimento Ribeiro, Jorge Guevara, Jorge Sebastian Moraga, Chris Lucas, Natalie Lord, Andrew Taylor, Edward Lockhart, Will Trojak&lt;/p&gt;&lt;p&gt;High-resolution precipitation fields are essential for hydrological impact assessment, yet global climate model outputs are too coarse and biased for direct use. AI-based statistical downscaling with diffusion models offers a promising approach, but the mechanism by which large-scale atmospheric predictors condition generation remains largely unexplored. We investigate three conditioning strategies for a denoising diffusion probabilistic model applied to daily precipitation downscaling: channel concatenation of upsampled coarse predictors, cross-attention conditioning with a learned convolutio&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25858v1</guid>
+      <pubDate>Wed, 26 Aug 2026 14:30:39 +0000</pubDate>
     </item>
     <item>
-      <title>Single State Update Predictive Coding training for Time Series Forecasting and Anomaly Detection</title>
-      <link>http://arxiv.org/abs/2608.24697v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Matteo Cardoni, Sam Leroux&lt;/p&gt;&lt;p&gt;Predictive Coding (PC) is a neural learning paradigm that enables parallelizable neural network layer updates. However, the main bottleneck of PC Networks (PCN) is the sequential backwards error propagation. To tackle this, we introduce a training technique that pairs a Generative PCN with a support Encoding PCN&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24697v1</guid>
-      <pubDate>Tue, 25 Aug 2026 15:21:23 +0000</pubDate>
+      <title>CEDAR: Controlled and Event-Driven Demand Forecasting via Residual Decomposition</title>
+      <link>http://arxiv.org/abs/2608.25871v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junjie Meng, Ranxu Zhang, Zi-an Zhang, Shujun Liu, Xiaoning Qi, Xiaozhou Xu, Yanyong Zhang, Hui Xiong&lt;/p&gt;&lt;p&gt;Forecasting in large-scale e-commerce marketplaces is increasingly required to support planning: merchants need to evaluate sales outcomes under future action sequences such as budget schedules, rather than passively predicting what happens next. However, most existing time series forecasting (TSF) approaches remain inherently passive. Even when incorporating operational decisions as auxiliary covariates, they typically optimize for correlation-based extrapolation under historical policies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25871v1</guid>
+      <pubDate>Wed, 26 Aug 2026 14:43:56 +0000</pubDate>
     </item>
     <item>
-      <title>Deep Learning Super Resolution for Satellite Cloud Mask Downscaling</title>
-      <link>http://arxiv.org/abs/2608.24715v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Angelos Georgakis, Valentina Kanaki, Giorgos Giannopoulos, Stella Girtsou, Ioannis Kontogiorgakis, Charalampos Kontoes, Kostas Philippopoulos&lt;/p&gt;&lt;p&gt;A vast amount of optical satellite data is being transmitted to Earth-based servers every day, and more than half of this data is affected by haze or clouds. Additionally, this data suffers from the fundamental trade-off between spatial and temporal resolution, which remains largely unresolved, making the acquisition of continuous high-resolution satellite observations of clouds an ongoing challenge. This work addresses this challenge by proposing two Deep Learning super-resolution methods for the accurate downscaling of SEVIRI cloud mask products, as well as a novel cross-sensor cloud mask da&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24715v1</guid>
-      <pubDate>Tue, 25 Aug 2026 15:34:18 +0000</pubDate>
+      <title>Scalable Multi-GPU Simulation of 3D Multicellular Growth with RNN-Based Workload Balancing</title>
+      <link>http://arxiv.org/abs/2608.25890v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Matvey Moisseyev, Huijing Du, Dandan Zheng, Chi Zhang, Hongfeng Yu&lt;/p&gt;&lt;p&gt;Detailed multicellular growth simulations based on subcellular element models (SEMs) can capture complex tissue development, but their element-level interactions impose substantial computational cost. This work presents a scalable multi-GPU framework for 3D multicellular growth simulation that combines GPU acceleration, spatial binning, domain decomposition, and workload-aware partitioning. Cell movement, growth, and division continuously reshape the spatial workload distribution, causing initially balanced partitions to become inefficient over time&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25890v1</guid>
+      <pubDate>Wed, 26 Aug 2026 15:06:10 +0000</pubDate>
     </item>
     <item>
-      <title>MoTE: Mixture of Task Experts for Multi-Task Video Understanding</title>
-      <link>http://arxiv.org/abs/2608.24763v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Muhammad Asad Ali, Umar Khan, Nadia Robertini, Didier Stricker&lt;/p&gt;&lt;p&gt;Procedural video-language models must solve heterogeneous tasks from the same visual evidence, including action recognition, forecasting, and procedure prediction. Dense transformer decoders share the same feed-forward networks across tasks, which can entangle task behavior and make controlled capability expansion difficult. Sparse Mixture-of-Experts (MoE) decoders provide conditional computation, but token-level learned routing is not naturally aligned with task-level procedural objectives&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24763v1</guid>
-      <pubDate>Tue, 25 Aug 2026 16:00:11 +0000</pubDate>
+      <title>A General-Purpose Molecular Foundation Model Transfers Across Diverse Olfactory Tasks</title>
+      <link>http://arxiv.org/abs/2608.25893v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yikun Han, Yi Wang, Neil Mankodi, Stephen Yang, Ambuj Tewari&lt;/p&gt;&lt;p&gt;Foundation models have transformed molecular property prediction, yet it remains unclear whether a molecular foundation model, fine-tuned on a single canonical olfactory prediction task, can learn representations that transfer across diverse machine olfaction problems. We investigate this question by fine-tuning Uni-Mol2 on the GS-LF benchmark for multi-label odor descriptor prediction and evaluating the resulting model, without additional deep-learning training, on four complementary downstream settings: cross-dataset odor descriptor prediction, odorous-versus-odorless classification, enantio&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25893v1</guid>
+      <pubDate>Wed, 26 Aug 2026 15:11:15 +0000</pubDate>
     </item>
     <item>
-      <title>Ensemble of Convolutional Neural Networks for StrokePrediction: Towards Improved Diagnostic Accuracy</title>
-      <link>http://arxiv.org/abs/2608.24771v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Md Shahriar Sajid&lt;/p&gt;&lt;p&gt;Brain stroke, known for its high mortality and incidence rates, poses significant health risks and requires rapid intervention for survival. Early diagnosis and preventive measures can greatly reduce life loss and disabilities. Recent advancements in deep learning have led to novel computer-aided diagnostic techniques for early stroke detection&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24771v1</guid>
-      <pubDate>Tue, 25 Aug 2026 16:09:53 +0000</pubDate>
+      <title>Towards A Unified Information Bottleneck Framework for Time Series Explanations</title>
+      <link>http://arxiv.org/abs/2608.25897v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xu Zheng, Zichuan Liu, Zhuomin Chen, Mayur Akewar, Janki Bhimani, Jason Liu, Mo Sha, Jingchao Ni&lt;/p&gt;&lt;p&gt;Explaining deep learning models operating on time series data is crucial in various applications that require transparent and interpretable insights into model behavior. {Existing explanation methods generally fall into two categories: attribution-based explanations, which identify the temporal regions most responsible for a prediction, and counterfactual explanations, which reveal how an input should be modified to alter the model's decision.} {Despite valuable insights, these two fields are largely studied independently. This disconnect leaves attribution methods lacking causal validation, w&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25897v1</guid>
+      <pubDate>Wed, 26 Aug 2026 15:14:52 +0000</pubDate>
     </item>
     <item>
-      <title>Physics Attention Transformer Surrogate for Rapid Vertical Instability Growth Rate Prediction: Alcator C-Mod to SPARC</title>
-      <link>http://arxiv.org/abs/2608.24785v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arunav Kumar, Cesar Clauser, Theodore Golfinopoulos, Cristina Rea, Francesco Capersene, Dan Boyer, SPARC Team, Alcator C-Mod Team&lt;/p&gt;&lt;p&gt;In this work, we investigate rapid prediction of the dominant $n{=}0$ vertical instability growth rate in C-Mod and SPARC equilibria, where nonrigid free boundary response models are too slow for control cycle use. Using a Physics Attention Transformer trained on MEQ-FGE-L labels, we predict both the scalar growth rate and the associated two dimensional perturbed toroidal current density. We find mean absolute errors of 5.4~s$^{-1}$ on held out C-Mod equilibria and 12.7~s$^{-1}$ on synthetic SPARC cases, with spatial eigenfunction errors near 5\%&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24785v1</guid>
-      <pubDate>Tue, 25 Aug 2026 16:30:32 +0000</pubDate>
+      <title>Forecasting Multiple Observables with SCROLL: Score-Trained Uncertainty for Stochastic Dynamics</title>
+      <link>http://arxiv.org/abs/2608.25898v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pavel Prochazka&lt;/p&gt;&lt;p&gt;Forecasting a stochastic dynamical system rarely means a single number: one wants several observables---future state, threshold event, regime label---each with its own likelihood. Standard multi-task recipes balance per-task losses, tuned or learned. We instead compose the observables' likelihoods in per-task free-routed last-layer beliefs on a shared backbone; this absorbs unit-dependent loss scaling into likelihood parameters learned in the same gradient pass&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25898v1</guid>
+      <pubDate>Wed, 26 Aug 2026 15:18:31 +0000</pubDate>
     </item>
     <item>
-      <title>Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core</title>
-      <link>http://arxiv.org/abs/2608.24810v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yogesh Kumar&lt;/p&gt;&lt;p&gt;Recent work has applied Mamba style state space models (SSMs) to video anomaly detection, yet existing approaches still rely on buffering clips or windows internally, lack a theoretical account of how temporal memory relates to detection latency, and benchmark efficiency only through GPU throughput rather than the edge hardware these methods are intended to target. We introduce a strictly causal streaming anomaly detector whose fixed size state is updated in O(1) time and memory per incoming frame, with no lookahead and no clip buffering. Its temporal core is a diagonal linear state space recu&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.24810v1</guid>
-      <pubDate>Tue, 25 Aug 2026 16:52:32 +0000</pubDate>
+      <title>Controlling for Omitted Variable Bias in Deep Neural Networks</title>
+      <link>http://arxiv.org/abs/2608.25930v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Manuel Pfeuffer, Roshan Prakash Rane, Kerstin Ritter, Sonja Greven&lt;/p&gt;&lt;p&gt;Control variables are widely used in statistical modelling to account for omitted variable bias of known confounders. However, they have largely been underexplored in deep learning. This is surprising, given that deep learning models encode image-inferable covariates, such as demographic variables, into their predictions when these covariates are correlated with the outcome---a form of omitted variable bias referred to as 'shortcut learning'&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25930v1</guid>
+      <pubDate>Wed, 26 Aug 2026 15:42:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Robust Are Automated Fact-Checking Systems? A Cross-Benchmark Evaluation</title>
+      <link>http://arxiv.org/abs/2608.25934v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aida Usmanova, Zangir Iklassov, Markus Leippold, Ricardo Usbeck&lt;/p&gt;&lt;p&gt;Automated fact-checking (AFC) systems retrieve evidence and predict claim veracity, yet evaluations omit simple baselines, systems are developed for a single benchmark and cannot be trusted to generalise across domains. No prior work cross-evaluates the full two-stage retrieve-then-verify pipeline across diverse datasets, complementing retrieval-only studies (Thakur et al., 2021) and single-stage benchmarking studies (Calamai et al., 2025). We benchmark nine models, ranging from random and sparse baselines to fine-tuned transformers, zero-shot LLMs, and the two highest-ranked systems from the &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.25934v1</guid>
+      <pubDate>Wed, 26 Aug 2026 15:50:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning</title>
+      <link>http://arxiv.org/abs/2608.26053v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lehong Wu, Yuxiao Qu, Zheyuan Hu, Ivan Zhang, Limin Wei, Zackory Erickson, Aviral Kumar&lt;/p&gt;&lt;p&gt;Reasoning in language allows foundation models to spend more test-time compute on hard problems, such as those requiring decomposition, constraint tracking, and prediction of future consequences. Whether this mechanism can improve robotic manipulation remains unclear, where long-horizon tasks require tracking partial progress, reasoning about object relations, recovering from mistakes, and steering noisy low-level policies. In this paper, we study whether VLMs can be trained to reason directly in natural language to guide low-level manipulation policies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.26053v1</guid>
+      <pubDate>Wed, 26 Aug 2026 17:25:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings</title>
+      <link>http://arxiv.org/abs/2608.26088v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Evelyn Ma, Rama Kumar Pasumarthi, Kishwar Shafin, Mandar Sharma, Mimi Sun, Hamed Sadeghi, Dav M. Ebengo, Mbulayi Onesime&lt;/p&gt;&lt;p&gt;Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building predictive planetary models remains bottlenecked by a fragmented data ecosystem, requiring manual data retrieval, multimodal data curation and fusion along with iterative model selection. We present the Planetary Prediction Engine (PPE), an autonomous AI system that executes this end-to-end workflow directly from natural-language queries&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.26088v1</guid>
+      <pubDate>Wed, 26 Aug 2026 17:50:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
