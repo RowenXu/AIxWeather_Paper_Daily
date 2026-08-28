@@ -7,132 +7,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 27 Aug 2026 12:24:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 13:52:48 +0000</lastBuildDate>
     <item>
-      <title>Why Does Graph Learning Fail to Fully Benefit from a Text Teacher?</title>
-      <link>http://arxiv.org/abs/2608.25741v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fumiaki Kimino, Ryoma Sato&lt;/p&gt;&lt;p&gt;Graph neural networks (GNNs) are widely used to represent complex interactions and relationships among entities. We investigate a multimodal model that combines two complementary ideas: a self-supervised method that enables a GNN encoder pretrained on one dataset to operate directly on another dataset with a different node-feature dimensionality, without rebuilding the model or realigning the data; and an alternating optimization method that updates a language-model module in an E-step and a GNN module in an M-step, rather than jointly training a large language model and a GNN end to end on a &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25741v1</guid>
-      <pubDate>Wed, 26 Aug 2026 12:51:30 +0000</pubDate>
+      <title>A Multi-Modal AI Framework for Real-Time Queue Prediction, Management and Optimisation in Intelligent Border Control Systems</title>
+      <link>http://arxiv.org/abs/2608.27010v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Varvara Mama, Eleni Veroni, Nikolaos Kapsalis, Christos D. Nikolopoulos, Anargyros T. Baklezos&lt;/p&gt;&lt;p&gt;In the present work an efficient border control management procedure is proposed. Compared to operational queue management systems, whose operations are based on mostly static data, the proposed work takes into account dynamic traffic conditions, thus enabling optimal performance, even in cases of uncertainty. To this end, we are proposing a multi-modal Artificial Intelligence (AI) framework, tailored to th needs of border control systems, which enables real-time queue prediction, management, and resource optimization&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.27010v1</guid>
+      <pubDate>Thu, 27 Aug 2026 11:55:40 +0000</pubDate>
     </item>
     <item>
-      <title>A Constitutive Markov Physics-Informed Neural Operator (MPNO) for Autoregressive Stability in Transient Dynamics</title>
-      <link>http://arxiv.org/abs/2608.25744v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wenpu Du, Peng Zhou, Yunlong Xia, Sinuo Xin, Congcong Zhang, Boyang Zhang, Yi Zhang, Wenzheng Xu&lt;/p&gt;&lt;p&gt;Neural operators applied to transient-dynamics PDEs with strong discontinuities exhibit autoregressive instability: in concrete-penetration stress-field prediction, the wavelet neural operator (WNO) diverges in autoregressive rollout, while MeshGraphNets collapse to zero predictions. WNO's instability stems from the lack of a structural constraint on the spectral radius of its propagation operator; the Fourier neural operator (FNO) is stable in these measurements but only emergently, not by construction. We propose a constitutive Markov physics-informed neural operator (MPNO) modeling one-step&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25744v1</guid>
-      <pubDate>Wed, 26 Aug 2026 12:54:37 +0000</pubDate>
+      <title>Magnon-induced phononic Chern insulator</title>
+      <link>http://arxiv.org/abs/2608.27011v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rui-Chang Shen, Yihao Yang, Haoran Xue&lt;/p&gt;&lt;p&gt;High-frequency artificial phononic crystals offer a low-loss platform compatible with on-chip integration, yet realizing Chern phononic phases at GHz frequencies remains challenging. Here, we propose a magnon-induced phononic Chern insulator in a honeycomb phononic crystal hybridized with ferromagnetic islands at the hexagon centers. A circularly polarized Kittel mode couples to the surrounding phonons with a phase winding, which breaks time-reversal symmetry and opens a full Chern gap&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.27011v1</guid>
+      <pubDate>Thu, 27 Aug 2026 11:55:52 +0000</pubDate>
     </item>
     <item>
-      <title>LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation</title>
-      <link>http://arxiv.org/abs/2608.25757v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jin Lou, Jingxuan Zhu, Andong Chen, Xupeng Wang, Yuan Xu, Yuexuan Li, Xingdong Zhu, Zhijie Zhu&lt;/p&gt;&lt;p&gt;Generalist vision--language--action (VLA) policies learn long-horizon behavior mainly through short-horizon action prediction and reveal little beyond sampled commands. This creates two coupled bottlenecks: a single action target must implicitly absorb task progress, intermediate intent, and local reliability, while these control states remain hidden during execution. Inspired by functional principles of biological sensorimotor control, we introduce LM-X , which organizes prediction across task, event, and motor scales without claiming anatomical correspondence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25757v1</guid>
-      <pubDate>Wed, 26 Aug 2026 13:05:29 +0000</pubDate>
+      <title>Multi-Person Human Motion Forecasting in Complex Scenes</title>
+      <link>http://arxiv.org/abs/2608.27039v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Serdar Ozsoy, Lars Doorenbos, Juergen Gall&lt;/p&gt;&lt;p&gt;Accurately forecasting the movement of people in complex scenes requires reasoning over the past and present state of the entire environment. In this context, effectively incorporating object information and social interactions into a unified framework remains particularly challenging. To address this, we propose Object-Conditioned Social Diffusion (OCSD), a conditional diffusion model that integrates motion history, multi-person interactions, and object cues into a single framework&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.27039v1</guid>
+      <pubDate>Thu, 27 Aug 2026 12:25:46 +0000</pubDate>
     </item>
     <item>
-      <title>Learning from waste: Machine Learning for health risk prediction and computer vision-based sorting in Ghana</title>
-      <link>http://arxiv.org/abs/2608.25759v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hilda Adwubi Osei, Catherine Tenewaa Osei, Desdemona Yaa Asobayire&lt;/p&gt;&lt;p&gt;The inappropriate disposal of solid waste remains a significant public health and environmental concern worldwide, including in Ghana. Poor sanitation and improper waste management practices contribute to substantial economic costs and avoidable deaths annually. In 2022, a field study in Atonsu, Kumasi, Ghana, reported a community-perceived relationship between household waste disposal and illness patterns, but only through descriptive analysis without quantitative validation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25759v1</guid>
-      <pubDate>Wed, 26 Aug 2026 13:06:35 +0000</pubDate>
+      <title>Coupled stochastic variational principles for multiscale surface gravity waves -- Part I: theoretical framework</title>
+      <link>http://arxiv.org/abs/2608.27074v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Etienne Mémin, Arnaud Debussche&lt;/p&gt;&lt;p&gt;This paper develops a comprehensive stochastic variational framework for surface gravity waves. Starting from Luke's variational principle for irrotational, incompressible free-surface flow, we introduce a decomposition of the velocity potential into a large-scale deterministic component and a regularized stochastic noise term representing unresolved scales. A path-wise variational principle yields the stochastic counterparts of the Laplace, Bernoulli, and kinematic boundary conditions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.27074v1</guid>
+      <pubDate>Thu, 27 Aug 2026 12:58:42 +0000</pubDate>
     </item>
     <item>
-      <title>EXAONE Tabular 1.0 : Technical Report</title>
-      <link>http://arxiv.org/abs/2608.25774v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Moonjung Eo, Min-Kook Suh, Hye-Seung Cho, Jiwon Kim, Seoyoon Kim, Sangjun Nam, Soonyoung Lee&lt;/p&gt;&lt;p&gt;EXAONE Tabular is a compact tabular foundation model family for classification and regression via in-context learning, producing predictions without dataset-specific gradient updates. Pretrained exclusively on a synthetic structural-causal-model (SCM) prior, its central contribution is an architecture-centered redesign of tabular in-context learning. Rather than compressing features into a fixed row embedding before a separate row-level learner, EXAONE Tabular interleaves feature-axis attention within each item with support-conditioned item-axis attention within each feature at every Transform&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25774v1</guid>
-      <pubDate>Wed, 26 Aug 2026 13:17:20 +0000</pubDate>
+      <title>Tabular Deep Learning for Algorithmic Trading: Cross-Regime Bayesian Optimisation for Equity Signal Generation</title>
+      <link>http://arxiv.org/abs/2608.27076v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Joshua Le Grice&lt;/p&gt;&lt;p&gt;Algorithmic trading now represents a market exceeding $20 billion, where even marginal gains in signal robustness can translate into economically significant returns. Existing evaluations of equity prediction models do not explicitly target regime robustness during hyperparameter selection. Five model classes are trained on daily observations from approximately 300 large-cap US equities over eleven years, with Bayesian optimisation configured to target trading performance across three statistically different market regimes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.27076v1</guid>
+      <pubDate>Thu, 27 Aug 2026 13:01:32 +0000</pubDate>
     </item>
     <item>
-      <title>Learning Continuous Regional Temperature Fields with Lead-Time and Resolution Queries</title>
-      <link>http://arxiv.org/abs/2608.25823v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chunlei Shi, Jiong Wang, Yi-Lin Wei, Junming Hou, Jinjin Liu, Yecheng Zhang, Dan Niu&lt;/p&gt;&lt;p&gt;Accurate regional near-surface temperature forecasting is fundamental to short-range weather services and downstream risk assessment. Existing deep learning-based regional forecasters commonly produce a fixed set of future frames on a prescribed grid, limiting their use when forecast products must be evaluated at query-dependent lead times or display resolutions. To overcome these fixed-output constraints, we formulate regional T2M forecasting as query-conditioned continuous spatiotemporal temperature field evaluation and propose the Continuous Spatiotemporal Temperature Forecaster (CSTF), a n&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25823v1</guid>
-      <pubDate>Wed, 26 Aug 2026 14:04:31 +0000</pubDate>
+      <title>TRACE-CRC: Trajectory-Adaptive Conformal Risk Control for Multi-Step Channel State Information Prediction</title>
+      <link>http://arxiv.org/abs/2608.27124v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kiarash Rezaei, Mehdi Sattari, Javad Aliakbari, Tommy Svensson, Paolo Monti, Carlos Natalino&lt;/p&gt;&lt;p&gt;Reliable prediction of time-varying channel state information (CSI) is essential for efficient wireless communication. Each CSI frame is a matrix-valued representation of the wireless channel response, and a sequence of CSI frames forms a temporal channel trajectory. Modern deep learning-based CSI predictors, however, often provide only point predictions and lack calibrated uncertainty estimates&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.27124v1</guid>
+      <pubDate>Thu, 27 Aug 2026 13:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>Missing the Butterfly and Predicting the Past: Features or Bugs of Accurate AI Weather Models?</title>
-      <link>http://arxiv.org/abs/2608.25835v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pedram Hassanzadeh, Weidong Li, Y. Qiang Sun, Jiangdi Wang, Alexander Wikner, Justin Finkel, Jonathan Q. Weare&lt;/p&gt;&lt;p&gt;AI weather prediction (AIWP) models rival physics-based models, yet the sources of their unexpected forecast accuracy and the degree of their physical fidelity remain unclear. Here, across a hierarchy spanning observation-based reanalysis, a general circulation model, and the multi-scale Lorenz system, we show that AI models can be trained to skillfully predict the past (backcast), though backcasts are systematically less accurate than forecasts. However, skillful backcasting appears to violate the second law of thermodynamics, and all these forecasting and backcasting models miss the butterfl&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25835v1</guid>
-      <pubDate>Wed, 26 Aug 2026 14:14:01 +0000</pubDate>
+      <title>Data-efficient crack quantification in lithium-ion cathodes using foundation model transfer</title>
+      <link>http://arxiv.org/abs/2608.27162v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Thorsten Tegetmeyer-Kleine, Thomas Schmitt, Phillip Aquino, Christiane Rahe, Dirk Uwe Sauer, Weihan Li&lt;/p&gt;&lt;p&gt;Battery lifetime is central to sustainable electrification, yet the particle cracking that drives lithium-ion cathode aging is hard to measure: quantitative microscopy of this degradation is bottlenecked by annotation, because each destructive electron-microscopy cross-section spans hundreds of megapixels and pixel-level expert labelling requires hours per image. We show that a frozen self-supervised vision-transformer encoder, combined with a lightweight trainable decoder and iterative model-assisted annotation, turns this sparse labelling budget into population-scale degradation measurements&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.27162v1</guid>
+      <pubDate>Thu, 27 Aug 2026 14:15:26 +0000</pubDate>
     </item>
     <item>
-      <title>Why ML-based cough models do not generalize: a systematic cross-dataset evaluation for tuberculosis screening</title>
-      <link>http://arxiv.org/abs/2608.25846v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wensi Zhang, Tomas Teijeiro, Jérôme Thevenot, David Atienza&lt;/p&gt;&lt;p&gt;Cough acoustics are promising for non-invasive tuberculosis (TB) screening, yet whether machine learning (ML) models capture disease-related acoustics or artifacts of data collection remains unresolved. We evaluated the cross-dataset generalizability of classical ML and deep learning (DL) cough-based TB classifiers across three independent datasets. Despite moderate within-dataset performance (ROC-AUC up to $0.755 \pm 0.056$), both pipelines fail to generalize, with external performance frequently below 0.6, indicating a possible limitation of the data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25846v1</guid>
-      <pubDate>Wed, 26 Aug 2026 14:22:32 +0000</pubDate>
+      <title>Profit based evaluation of machine learning for nitrogen recommendations in winter wheat</title>
+      <link>http://arxiv.org/abs/2608.27205v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xulong Wang, Po Yang&lt;/p&gt;&lt;p&gt;Nitrogen rates for winter wheat are set before the season, under unknown prices and weather. The standard UK advice does not respond to prices, yet recent price swings moved the most profitable rate by tens of kilograms per hectare. Machine learning is often proposed as the fix&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.27205v1</guid>
+      <pubDate>Thu, 27 Aug 2026 14:52:02 +0000</pubDate>
     </item>
     <item>
-      <title>Precipitation Downscaling Using Foundation Model-Conditioned Diffusion</title>
-      <link>http://arxiv.org/abs/2608.25858v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Victor Nascimento Ribeiro, Jorge Guevara, Jorge Sebastian Moraga, Chris Lucas, Natalie Lord, Andrew Taylor, Edward Lockhart, Will Trojak&lt;/p&gt;&lt;p&gt;High-resolution precipitation fields are essential for hydrological impact assessment, yet global climate model outputs are too coarse and biased for direct use. AI-based statistical downscaling with diffusion models offers a promising approach, but the mechanism by which large-scale atmospheric predictors condition generation remains largely unexplored. We investigate three conditioning strategies for a denoising diffusion probabilistic model applied to daily precipitation downscaling: channel concatenation of upsampled coarse predictors, cross-attention conditioning with a learned convolutio&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25858v1</guid>
-      <pubDate>Wed, 26 Aug 2026 14:30:39 +0000</pubDate>
+      <title>Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models</title>
+      <link>http://arxiv.org/abs/2608.27259v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaoxiao Lu, Yunlong Dong, Jiahao Shi, Ye Yuan&lt;/p&gt;&lt;p&gt;World Action Models (WAMs) augment robot policies by predicting how task-relevant scene states may evolve under interaction. Recent WAMs increasingly perform such prediction in latent representation spaces, avoiding full appearance-level generation while preserving control-relevant information. Yet latent transitions are commonly realized with Transformer-based predictors whose inductive structure is centered on token interaction rather than temporal evolution&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.27259v1</guid>
+      <pubDate>Thu, 27 Aug 2026 15:43:44 +0000</pubDate>
     </item>
     <item>
-      <title>CEDAR: Controlled and Event-Driven Demand Forecasting via Residual Decomposition</title>
-      <link>http://arxiv.org/abs/2608.25871v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junjie Meng, Ranxu Zhang, Zi-an Zhang, Shujun Liu, Xiaoning Qi, Xiaozhou Xu, Yanyong Zhang, Hui Xiong&lt;/p&gt;&lt;p&gt;Forecasting in large-scale e-commerce marketplaces is increasingly required to support planning: merchants need to evaluate sales outcomes under future action sequences such as budget schedules, rather than passively predicting what happens next. However, most existing time series forecasting (TSF) approaches remain inherently passive. Even when incorporating operational decisions as auxiliary covariates, they typically optimize for correlation-based extrapolation under historical policies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25871v1</guid>
-      <pubDate>Wed, 26 Aug 2026 14:43:56 +0000</pubDate>
+      <title>Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models</title>
+      <link>http://arxiv.org/abs/2608.27367v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Frederik Berenz&lt;/p&gt;&lt;p&gt;Joint-Embedding Predictive Architectures (JEPAs) for world modeling typically employ fixed-size Vision Transformer encoders that are over-provisioned for simple tasks and under-provisioned for complex ones, with significant redundancy across attention heads. We propose Successive Capacity Growth (SCG), a method that starts from a minimal encoder (1 head, 2 layers, 283K parameters) and grows incrementally in width (adding attention heads for low-level semantic capacity) or depth (adding transformer blocks for higher-order semantic abstraction), driven by a task-agnostic test-and-verify mechanis&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.27367v1</guid>
+      <pubDate>Thu, 27 Aug 2026 17:04:57 +0000</pubDate>
     </item>
     <item>
-      <title>Scalable Multi-GPU Simulation of 3D Multicellular Growth with RNN-Based Workload Balancing</title>
-      <link>http://arxiv.org/abs/2608.25890v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Matvey Moisseyev, Huijing Du, Dandan Zheng, Chi Zhang, Hongfeng Yu&lt;/p&gt;&lt;p&gt;Detailed multicellular growth simulations based on subcellular element models (SEMs) can capture complex tissue development, but their element-level interactions impose substantial computational cost. This work presents a scalable multi-GPU framework for 3D multicellular growth simulation that combines GPU acceleration, spatial binning, domain decomposition, and workload-aware partitioning. Cell movement, growth, and division continuously reshape the spatial workload distribution, causing initially balanced partitions to become inefficient over time&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25890v1</guid>
-      <pubDate>Wed, 26 Aug 2026 15:06:10 +0000</pubDate>
+      <title>Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction</title>
+      <link>http://arxiv.org/abs/2608.27397v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jin Mu, Guanhua Chen&lt;/p&gt;&lt;p&gt;Clinical language models can achieve strong in-hospital accuracy yet fail under deployment shifts because they exploit note-specific artifacts (e.g., templates, separators, boilerplate) that do not reflect patient state. We propose CAST (Concept-guided Artifact Suppression Tuning), an SAE-based framework for auditable clinical text classification. CAST uses Sparse Autoencoders to expose sparse, human-auditable features from intermediate Transformer activations, labels SAE latents with an LLM-assisted interpretation pipeline and ICD-10 retrieval constraints, suppresses verified artifact latents&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.27397v1</guid>
+      <pubDate>Thu, 27 Aug 2026 17:28:35 +0000</pubDate>
     </item>
     <item>
-      <title>A General-Purpose Molecular Foundation Model Transfers Across Diverse Olfactory Tasks</title>
-      <link>http://arxiv.org/abs/2608.25893v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yikun Han, Yi Wang, Neil Mankodi, Stephen Yang, Ambuj Tewari&lt;/p&gt;&lt;p&gt;Foundation models have transformed molecular property prediction, yet it remains unclear whether a molecular foundation model, fine-tuned on a single canonical olfactory prediction task, can learn representations that transfer across diverse machine olfaction problems. We investigate this question by fine-tuning Uni-Mol2 on the GS-LF benchmark for multi-label odor descriptor prediction and evaluating the resulting model, without additional deep-learning training, on four complementary downstream settings: cross-dataset odor descriptor prediction, odorous-versus-odorless classification, enantio&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25893v1</guid>
-      <pubDate>Wed, 26 Aug 2026 15:11:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Towards A Unified Information Bottleneck Framework for Time Series Explanations</title>
-      <link>http://arxiv.org/abs/2608.25897v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xu Zheng, Zichuan Liu, Zhuomin Chen, Mayur Akewar, Janki Bhimani, Jason Liu, Mo Sha, Jingchao Ni&lt;/p&gt;&lt;p&gt;Explaining deep learning models operating on time series data is crucial in various applications that require transparent and interpretable insights into model behavior. {Existing explanation methods generally fall into two categories: attribution-based explanations, which identify the temporal regions most responsible for a prediction, and counterfactual explanations, which reveal how an input should be modified to alter the model's decision.} {Despite valuable insights, these two fields are largely studied independently. This disconnect leaves attribution methods lacking causal validation, w&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25897v1</guid>
-      <pubDate>Wed, 26 Aug 2026 15:14:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forecasting Multiple Observables with SCROLL: Score-Trained Uncertainty for Stochastic Dynamics</title>
-      <link>http://arxiv.org/abs/2608.25898v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pavel Prochazka&lt;/p&gt;&lt;p&gt;Forecasting a stochastic dynamical system rarely means a single number: one wants several observables---future state, threshold event, regime label---each with its own likelihood. Standard multi-task recipes balance per-task losses, tuned or learned. We instead compose the observables' likelihoods in per-task free-routed last-layer beliefs on a shared backbone; this absorbs unit-dependent loss scaling into likelihood parameters learned in the same gradient pass&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25898v1</guid>
-      <pubDate>Wed, 26 Aug 2026 15:18:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Controlling for Omitted Variable Bias in Deep Neural Networks</title>
-      <link>http://arxiv.org/abs/2608.25930v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Manuel Pfeuffer, Roshan Prakash Rane, Kerstin Ritter, Sonja Greven&lt;/p&gt;&lt;p&gt;Control variables are widely used in statistical modelling to account for omitted variable bias of known confounders. However, they have largely been underexplored in deep learning. This is surprising, given that deep learning models encode image-inferable covariates, such as demographic variables, into their predictions when these covariates are correlated with the outcome---a form of omitted variable bias referred to as 'shortcut learning'&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25930v1</guid>
-      <pubDate>Wed, 26 Aug 2026 15:42:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Robust Are Automated Fact-Checking Systems? A Cross-Benchmark Evaluation</title>
-      <link>http://arxiv.org/abs/2608.25934v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aida Usmanova, Zangir Iklassov, Markus Leippold, Ricardo Usbeck&lt;/p&gt;&lt;p&gt;Automated fact-checking (AFC) systems retrieve evidence and predict claim veracity, yet evaluations omit simple baselines, systems are developed for a single benchmark and cannot be trusted to generalise across domains. No prior work cross-evaluates the full two-stage retrieve-then-verify pipeline across diverse datasets, complementing retrieval-only studies (Thakur et al., 2021) and single-stage benchmarking studies (Calamai et al., 2025). We benchmark nine models, ranging from random and sparse baselines to fine-tuned transformers, zero-shot LLMs, and the two highest-ranked systems from the &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.25934v1</guid>
-      <pubDate>Wed, 26 Aug 2026 15:50:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning</title>
-      <link>http://arxiv.org/abs/2608.26053v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lehong Wu, Yuxiao Qu, Zheyuan Hu, Ivan Zhang, Limin Wei, Zackory Erickson, Aviral Kumar&lt;/p&gt;&lt;p&gt;Reasoning in language allows foundation models to spend more test-time compute on hard problems, such as those requiring decomposition, constraint tracking, and prediction of future consequences. Whether this mechanism can improve robotic manipulation remains unclear, where long-horizon tasks require tracking partial progress, reasoning about object relations, recovering from mistakes, and steering noisy low-level policies. In this paper, we study whether VLMs can be trained to reason directly in natural language to guide low-level manipulation policies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.26053v1</guid>
-      <pubDate>Wed, 26 Aug 2026 17:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings</title>
-      <link>http://arxiv.org/abs/2608.26088v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Evelyn Ma, Rama Kumar Pasumarthi, Kishwar Shafin, Mandar Sharma, Mimi Sun, Hamed Sadeghi, Dav M. Ebengo, Mbulayi Onesime&lt;/p&gt;&lt;p&gt;Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building predictive planetary models remains bottlenecked by a fragmented data ecosystem, requiring manual data retrieval, multimodal data curation and fusion along with iterative model selection. We present the Planetary Prediction Engine (PPE), an autonomous AI system that executes this end-to-end workflow directly from natural-language queries&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.26088v1</guid>
-      <pubDate>Wed, 26 Aug 2026 17:50:52 +0000</pubDate>
+      <title>Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation</title>
+      <link>http://arxiv.org/abs/2608.27429v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nguyen Xuan-Vu, Octavian Susanu, Daniel Armstrong, Philippe Schwaller&lt;/p&gt;&lt;p&gt;Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \textit{de novo} generation of product molecules or through heuristic graph edits that operate directly on molecular topology.   We introduce MAELLE (\textbf{M}ech\textbf{A}nistic \textbf{E}dit f\textbf{L}ow-matching on e\textbf{L}ectron r\textbf{E}arrangements), which instead models reactions as discrete flow matching over electron occupation vectors.   Concretely, we formulate the reactant-to-product mapping as a Continuous-time Markov Chain (CTMC) over the g&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2608.27429v1</guid>
+      <pubDate>Thu, 27 Aug 2026 17:50:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
