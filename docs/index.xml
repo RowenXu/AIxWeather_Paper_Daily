@@ -7,104 +7,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 01 Sep 2026 07:22:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:52:39 +0000</lastBuildDate>
     <item>
-      <title>Uncertainty-Aware End-to-End AI Weather Forecasting: Disentangling Observation and Model Contributions</title>
-      <link>http://arxiv.org/abs/2608.30795v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rodrigo Almeida, Noelia Otero, Jost Arndt, Simon Baur, Wojciech Samek, Jackie Ma&lt;/p&gt;&lt;p&gt;End-to-end weather forecasting systems produce skillful global gridded and station forecasts directly from raw Earth observations, replacing the numerical weather prediction pipeline, including data assimilation, at a fraction of its cost. These systems are deterministic and issue no uncertainty. Here we render the Aardvark Weather model probabilistic by attaching one stochastic mechanism to each component: learned, input-dependent noise at the observation encoder, capturing aleatoric uncertainty inherited from the observing system, and Monte Carlo dropout in the processor, capturing epistemic&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.30795v1</guid>
-      <pubDate>Mon, 31 Aug 2026 13:49:00 +0000</pubDate>
+      <title>Multi-Head Self Attention is a Parameter Identification Mechanism</title>
+      <link>http://arxiv.org/abs/2609.01231v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; W. Ross Morrow&lt;/p&gt;&lt;p&gt;We prove that a multi-head scaled dot product attention can be viewed as a parameter identification strategy. The ratio of unidentified parameters to the total number of parameters scales like the reciprocal of the number of heads ($1/2 \to 1/(2H)$), meaning models with more heads are structurally more identified. A subtle side effect of the mathematics observation that attention can never be fully identified&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.01231v1</guid>
+      <pubDate>Tue, 01 Sep 2026 13:32:22 +0000</pubDate>
     </item>
     <item>
-      <title>Geometric Attractor Monitoring: A Robust and Frugal Framework for Multi-modal Industrial Robotic Cycles</title>
-      <link>http://arxiv.org/abs/2608.30804v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Martin Bonsergent-Brachet, Jesse Read, Dany Abboud&lt;/p&gt;&lt;p&gt;Monitoring the health of heterogeneous industrial robot fleets is severely challenged by the multi-modal nature of their operational cycles and a persistent scarcity of run-to-failure data. Standard data-driven approaches, particularly deep learning architectures relying on sequential reconstruction, often struggle in this specific setting; they tend to over-smooth complex dynamics, masking early signs of degradation. To address these industrial constraints, we reframe the monitoring problem through a framework based on Phase Space Reconstruction (PSR)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.30804v1</guid>
-      <pubDate>Mon, 31 Aug 2026 13:55:10 +0000</pubDate>
+      <title>Solving In-Table Prediction Problems by Deep Neural Networks with Performance Evaluation Using Synthetic Data</title>
+      <link>http://arxiv.org/abs/2609.01262v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiao Zhao, Daniela Oelke&lt;/p&gt;&lt;p&gt;Tabular deep learning (TDL) leverages neural networks (NN) to extract patterns from tabular data. Traditional TDL methods follow a supervised learning paradigm, where a target feature is explicitly given. In this work, however, we explore a different approach by employing deep NNs to learn relationships among individual columns within a given table&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.01262v1</guid>
+      <pubDate>Tue, 01 Sep 2026 13:53:12 +0000</pubDate>
     </item>
     <item>
-      <title>A Composition-Aware Pretraining Framework for Geospatial Foundation Models</title>
-      <link>http://arxiv.org/abs/2608.30817v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aryan Kashyap Naveen, Abhishek Srinivas, Pranav Moothedath, Shrutilipi Bhattacharjee&lt;/p&gt;&lt;p&gt;Geospatial foundation models have emerged as state-of-the-art methods for downstream Earth observation tasks. However, existing pretraining methodologies process imagery through a single-concept lens, failing to capture the highly compositional nature of complex satellite scenes. We propose a composition-aware pretraining framework that explicitly encodes fractional land-cover mixtures&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.30817v1</guid>
-      <pubDate>Mon, 31 Aug 2026 14:00:12 +0000</pubDate>
+      <title>HiLRP: Toward One Trustworthy Explanation for Vision Transformer: Conservation-Valid Attribution via Attention Primitives</title>
+      <link>http://arxiv.org/abs/2609.01282v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sathiyamohan Nishankar, Pubudu Sanjeewani, Asanka Perera, Selvarajah Thuseethan&lt;/p&gt;&lt;p&gt;Vision Transformer (ViT) design has become increasingly diverse, with backbones combining convolutional stems, windowed, linear, or multi-axis attention, patch merging, and spatial reduction in various configurations. This diversity poses challenges for existing attribution methods, whose assumptions often do not hold across ViT variants: Grad-CAM requires a terminal spatial feature map, attention rollout assumes global softmax attention, and layer-wise relevance propagation (LRP) requires module-specific rules. To the best of our knowledge, no existing method provides a unified attribution fr&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.01282v1</guid>
+      <pubDate>Tue, 01 Sep 2026 14:16:08 +0000</pubDate>
     </item>
     <item>
-      <title>VFR-Audit: Verdict-Level Reliability for Fairness Audits in Hospital Length-of-Stay Prediction</title>
-      <link>http://arxiv.org/abs/2608.30846v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Md Jannatul Rakib Joy, Viet Vo, Caslon Chua&lt;/p&gt;&lt;p&gt;Fairness audits in clinical Artificial Intelligence convert continuous fairness metrics into binary pass-or-fail verdicts against operational thresholds, where hospital governance boards, payers, and regulators act on the resulting verdicts. Such audits are repeated over time and across hospital sites, thus the same verdict can flip between pass and fail across audits. Existing uncertainty methods such as Bayesian posteriors, bootstrap confidence intervals, and permutation tests address verdict instability only at the continuous-metric level&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.30846v1</guid>
-      <pubDate>Mon, 31 Aug 2026 14:14:21 +0000</pubDate>
+      <title>Relational Task Generation Language: A Declarative Specification Framework for Relational Deep Learning</title>
+      <link>http://arxiv.org/abs/2609.01292v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Oleksii Kolesnichenko, Jakub Peleška, Gustav Šír&lt;/p&gt;&lt;p&gt;Relational Deep Learning (RDL) has become a powerful paradigm for learning from multi-tabular data. However, manually defining RDL prediction tasks is a laborious process that frequently results in data leakage. To address this issue, we introduce Relational Task Generation Language (RTGL) - an open-source declarative language that streamlines RDL task formulation by abstracting away low-level SQL details&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.01292v1</guid>
+      <pubDate>Tue, 01 Sep 2026 14:27:06 +0000</pubDate>
     </item>
     <item>
-      <title>Is Seismic Forecasting Possible with Physics-based AI?</title>
-      <link>http://arxiv.org/abs/2608.30861v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Victoria Keane, Manolis Veveakis, Thomas Poulet&lt;/p&gt;&lt;p&gt;Slow slip events within subduction zones offer a unique window into earthquake prediction. The subducting plate drives dehydration reactions in the fault, causing cyclical slip and observable surface displacements. Earthquake footprints can then be identified in these displacement series through coupling the multi-physics governing the subduction process with regional seismic activity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.30861v1</guid>
-      <pubDate>Mon, 31 Aug 2026 14:22:29 +0000</pubDate>
+      <title>Bandits in Prod: Hyperparameter Optimization at Inference Time</title>
+      <link>http://arxiv.org/abs/2609.01335v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Louis Abraham, Tuan-Anh Nguyen, Nicolas Devatine&lt;/p&gt;&lt;p&gt;Many production systems can assess a configuration only by using it on live requests and observing noisy feedback. Modern agentic systems are a prominent example, with inference-time choices such as model selection, retrieval depth, prompting strategy, and decoding temperature, yet often with no representative validation data. We formalize this setting as Online Hyperparameter Optimization (OHPO) and cast it as an infinitely many-armed bandit over mixed and conditional search spaces&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.01335v1</guid>
+      <pubDate>Tue, 01 Sep 2026 14:48:08 +0000</pubDate>
     </item>
     <item>
-      <title>Predicting Residential Rents in Dakar Using Machine Learning</title>
-      <link>http://arxiv.org/abs/2608.30865v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Amadou Tidiane Kassa Diallo&lt;/p&gt;&lt;p&gt;Dakar's residential rental market remains poorly documented despite its economic and social importance: 54.4% of households are renters, compared to 23.3% nationally. This study develops a complete machine learning pipeline to predict residential rents in Dakar, from data collection to model interpretation. An original dataset of 1,507 rental listings was built through systematic web scraping and a documented cleaning pipeline, then enriched with four purpose-built features, including a luxury score and a keyword-based quality score&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.30865v1</guid>
-      <pubDate>Mon, 31 Aug 2026 14:29:04 +0000</pubDate>
+      <title>LEAP: Likelihood Elicitation and Aggregation for LLM-based Probabilistic Forecasting</title>
+      <link>http://arxiv.org/abs/2609.01337v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yufei Chen, Yiran Zhao, Xiaogang Xu, Qipeng Xie, Jiafei Wu, Zhe Liu&lt;/p&gt;&lt;p&gt;LLM-based forecasting systems have improved on real-world tasks such as financial markets and sports outcomes, largely through stronger search and tool use. Many systems still ask an LLM to read all collected evidence together and produce the final forecast. We call this design Monolithic Prediction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.01337v1</guid>
+      <pubDate>Tue, 01 Sep 2026 14:49:19 +0000</pubDate>
     </item>
     <item>
-      <title>CARVE: Verified Expansion for Variable-Length Generation in Diffusion Language Models</title>
-      <link>http://arxiv.org/abs/2608.30922v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wail Bouhedja, Amr Mohamed, Guokan Shang&lt;/p&gt;&lt;p&gt;Masked diffusion language models predict tokens from a partially observed response canvas, enabling bidirectional conditioning and parallel token refinement. Yet standard masked-diffusion decoders use a rigid inference interface: the number of masked positions allocated to the answer is fixed before generation begins. Choosing this length is difficult&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.30922v1</guid>
-      <pubDate>Mon, 31 Aug 2026 15:00:30 +0000</pubDate>
+      <title>Measuring consistency via ensemble margin and local prediction variability: Auditing decision systems in the presence of predictive multiplicity</title>
+      <link>http://arxiv.org/abs/2609.01397v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sinjini Banerjee, Tim Marrinan, Anand D. Sarwate&lt;/p&gt;&lt;p&gt;The Rashomon effect is a machine learning phenomenon where equally accurate models produce different predictions for the same inputs (predictive multiplicity). Existing work primarily focuses on multiplicity within individual models, but in more complex decision systems, the impact of the Rashomon effect is less well understood. In this work, we study multiplicity from the perspective of auditing incorrect ensemble predictions, where the decision to divert an instance for human review is based on a consistency criterion that combines the ensemble margin with a measure of local prediction varia&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.01397v1</guid>
+      <pubDate>Tue, 01 Sep 2026 15:22:01 +0000</pubDate>
     </item>
     <item>
-      <title>Towards Stream Learning on Embedded Systems: Benchmarking the Memory Consumption of Stream Learning Methods</title>
-      <link>http://arxiv.org/abs/2608.30923v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sebastian Buschjäger, Nuwan Gunasekara, Heitor Murilo Gomes&lt;/p&gt;&lt;p&gt;Stream learning is commonly evaluated through predictive performance and adaptation to concept drift. However, sustained operation of a stream learner also requires predictable and bounded resource usage even on long streams. This requirement becomes even more critical when learning moves from servers to near-sensor embedded systems where memory and processing are scarce resources&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.30923v1</guid>
-      <pubDate>Mon, 31 Aug 2026 15:01:31 +0000</pubDate>
+      <title>Contribution-Aware Bandwidth Allocation for Multimodal Split Learning</title>
+      <link>http://arxiv.org/abs/2609.01406v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Iason Ofeidis, Leandros Tassiulas&lt;/p&gt;&lt;p&gt;Multimodal models are increasingly the default option for perception at the network edge, yet they are trained almost entirely in the datacenter, because a client holding several sensor streams cannot host an encoder per modality. Split Learning makes such training feasible by keeping only the first layers on the device, at the cost of an uplink that must carry smashed activations for every modality at every step. Existing compression schemes give each modality the same keep-ratio, so the shared budget is divided in proportion to smashed-activation dimension, a quantity unrelated to how much e&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.01406v1</guid>
+      <pubDate>Tue, 01 Sep 2026 15:28:16 +0000</pubDate>
     </item>
     <item>
-      <title>Taking the Whys Seriously: Limitations of Counterfactual Explanations in Justification and Recourse</title>
-      <link>http://arxiv.org/abs/2608.30956v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mattia Cerrato, Otto Sahlgren, Xenia Heilmann&lt;/p&gt;&lt;p&gt;Counterfactual explanations (CEs) are widely used in explainable artificial intelligence (AI) to show how a model's outputs would change if the input features were manipulated. This technique is used for a range of tasks such as debugging models, explaining predictions, justifying decisions, and providing algorithmic recourse. In this paper, we explore the normative legitimacy of employing counterfactuals in real-life model deployment settings&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.30956v1</guid>
-      <pubDate>Mon, 31 Aug 2026 15:24:19 +0000</pubDate>
+      <title>Predicting Subsurface Abnormalities Growth using Physics-Informed Neural Networks</title>
+      <link>http://arxiv.org/abs/2609.01417v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mehrdad Shafiei Dizaji, Hoda Azari&lt;/p&gt;&lt;p&gt;The research explores the pioneering integration of Physics-Informed Neural Networks (PINNs) into the domain of Ground-Penetrating Radar (GPR) data prediction. This research presents a detailed development framework for a specialized PINN model, proficient at interpreting and forecasting GPR data, much like how medical imaging models predict tumor behavior. By harnessing the synergy between deep learning algorithms and the physical laws governing subsurface structures or in medical terms, human tissues the model effectively embeds the physics of electromagnetic wave propagation into its archit&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.01417v1</guid>
+      <pubDate>Tue, 01 Sep 2026 15:34:23 +0000</pubDate>
     </item>
     <item>
-      <title>A Human-in-the-Loop Autonomous Agent for Industry Time Series Forecasting</title>
-      <link>http://arxiv.org/abs/2608.30976v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiaoyu Tao, Mingyue Cheng, Ze Guo, Bokai Pan, Qi Liu, Shijin Wang, Enhong Chen&lt;/p&gt;&lt;p&gt;Real-world time-series forecasting is rarely a one-shot model invocation: practitioners must formulate tasks, connect data and models, incorporate domain expertise, assess prediction plausibility, and communicate uncertainty. Specialized forecasting models provide strong numerical predictions but usually operate in fixed pipelines, while general-purpose large language model (LLM) agents often lack forecasting-specific checks, constraints, and stopping rules. We present CastClaw, a human-in-the-loop autonomous forecasting system built through forecasting-oriented harness engineering&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.30976v1</guid>
-      <pubDate>Mon, 31 Aug 2026 15:36:41 +0000</pubDate>
+      <title>Semantic-Guided Multimodal Preprocessing for Vision Transformer-Based Clear Cell Renal Cell Carcinoma Grading</title>
+      <link>http://arxiv.org/abs/2609.01426v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fatemeh Javadian, Zhu Chen, Zahra Aminparast, Johannes Stegmaier&lt;/p&gt;&lt;p&gt;Clear cell renal cell carcinoma (CCRCC) grading is essential for treatment planning, yet existing approaches either analyze patch-level images directly or focus solely on nuclei-level classification, without linking to final tumor grading. We propose a semantic-guided multimodal preprocessing method that integrates nuclei classification maps from existing pre-trained models with RGB histopathology images for Vision Transformer (ViT)-based CCRCC grading. Our approach employs classification map channel concatenation and multiplicative modulation, with optimized overlays to leverage nuclei gradin&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.01426v1</guid>
+      <pubDate>Tue, 01 Sep 2026 15:39:14 +0000</pubDate>
     </item>
     <item>
-      <title>Rotational Equivariance in Machine Learning: A Comprehensive Tutorial</title>
-      <link>http://arxiv.org/abs/2608.31045v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Peter Lippmann, Fred A. Hamprecht&lt;/p&gt;&lt;p&gt;Rotational symmetry is one of the most important structural principles in machine learning on 3D data. In applications ranging from physics and materials science to 3D computer vision, predictions should not depend on an arbitrary choice of coordinate frame. Rotational equivariance captures this requirement mathematically by enforcing that a rotation of the input induces a corresponding transformation of the model output&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.31045v1</guid>
-      <pubDate>Mon, 31 Aug 2026 16:21:31 +0000</pubDate>
+      <title>Learning Sparse Decision Trees via Transformer Variational Auto-Encoders</title>
+      <link>http://arxiv.org/abs/2609.01430v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Giacomo Fidone, Alessio Cascione, Riccardo Guidotti&lt;/p&gt;&lt;p&gt;Decision trees are among the most widely used models in machine learning, largely due to their transparent decision logic, making them well-suited for high-stakes decision-making contexts. However, most existing learning algorithms focus on predictive performance, overlooking the joint optimization of other desirable properties, such as structural sparsity. In this work we propose TREVIS, an approach for learning decision trees with respect to complex objectives, based on the exploration of the latent space of a Tree Transformer Variational Auto-Encoder (TTVAE)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.01430v1</guid>
+      <pubDate>Tue, 01 Sep 2026 15:40:33 +0000</pubDate>
     </item>
     <item>
-      <title>Segmentation of Bovid Dentition Under Imperfect Annotations: A Comparative Study of Convolutional and Attention Models</title>
-      <link>http://arxiv.org/abs/2608.31052v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Keith G. Mills, Evan B. Sanders, Gregory J. Matthews, Juliet K. Brophy&lt;/p&gt;&lt;p&gt;Semantic segmentation decomposes an image into distinct mask regions corresponding to different object categories, such as people, cars, signs or buildings. Advances in machine learning (ML) have shifted this task away from traditional rule-based heuristics such as edge detection, towards deep neural networks (DNN) that learn to classify pixels directly. However, semantic segmentation DNNs crucially depend on expertly designed mask targets to learn from, and imperfect or misaligned masks can interfere with a model's ability to learn effectively&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.31052v1</guid>
-      <pubDate>Mon, 31 Aug 2026 16:29:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cross-Regional Grapevine Cold Hardiness Prediction via Learned Multimodal Latent Representations</title>
-      <link>http://arxiv.org/abs/2608.31097v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; William Solow, Paola Pesantez-Cabrera, Markus Keller, Lav Khot, Sandhya Saisubramanian, Alan Fern&lt;/p&gt;&lt;p&gt;Accurate daily predictions of cold hardiness in woody plants are critical in regions where freezing temperatures can damage dormant buds and reduce seasonal yield. Existing biophysical, hybrid, and deep learning models have shown high predictive accuracy when trained on local data but remain largely site-specific. The limited availability of cold hardiness data, coupled with the lack of principled methods for transferring cold hardiness predictions to new regions and cultivars, has limited the broader adoption and practical utility of these approaches, particularly in data-scarce regions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.31097v1</guid>
-      <pubDate>Mon, 31 Aug 2026 17:04:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>On the Complexity of the Compatibility Problem for Succinctly Encoded Conditional Distributions</title>
-      <link>http://arxiv.org/abs/2608.31120v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guy Emerson&lt;/p&gt;&lt;p&gt;The motivation for this paper is the investigation of the trade-offs implicit in probabilistic models used in machine learning. Models are often used to make predictions in the form of conditional probabilities. However, a pair of conditional distributions p(x|y) and p(y|x) may not be compatible with any joint distribution p(x,y)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2608.31120v1</guid>
-      <pubDate>Mon, 31 Aug 2026 17:32:21 +0000</pubDate>
+      <title>A Sensor-Adaptive Incremental Learning Framework for Artifact Detection in Satellite Precipitation Data</title>
+      <link>http://arxiv.org/abs/2609.01514v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andres F. Monsalve, Hernan A. Moreno, Christian D. Kummerow&lt;/p&gt;&lt;p&gt;Historically, retrieving rainfall data from satellite imagery has been the domain of space agencies. However, in recent years, the development of cheaper, more compact satellites (SmallSats) capable of detecting rainfall proxies has led to a significant increase in private-sector initiatives for satellite launch and surface precipitation products. This rapid growth has yet to be matched by data validation efforts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.01514v1</guid>
+      <pubDate>Tue, 01 Sep 2026 16:43:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
