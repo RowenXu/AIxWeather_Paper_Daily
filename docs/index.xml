@@ -7,90 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 02 Sep 2026 06:52:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:56:01 +0000</lastBuildDate>
     <item>
-      <title>Multi-Head Self Attention is a Parameter Identification Mechanism</title>
-      <link>http://arxiv.org/abs/2609.01231v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; W. Ross Morrow&lt;/p&gt;&lt;p&gt;We prove that a multi-head scaled dot product attention can be viewed as a parameter identification strategy. The ratio of unidentified parameters to the total number of parameters scales like the reciprocal of the number of heads ($1/2 \to 1/(2H)$), meaning models with more heads are structurally more identified. A subtle side effect of the mathematics observation that attention can never be fully identified&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.01231v1</guid>
-      <pubDate>Tue, 01 Sep 2026 13:32:22 +0000</pubDate>
+      <title>Learning the Constitutive Behavior of Materials via Neural Operators and Causal Attention: Case Studies in Plasticity and Damage</title>
+      <link>http://arxiv.org/abs/2609.02194v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rishabh Arora, Lisa Scheunemann, Tim Brepols, Shahed Rezaei&lt;/p&gt;&lt;p&gt;Classical constitutive modeling of path-dependent inelastic materials relies on internal state variables whose evolution equations must be postulated based on domain knowledge and calibrated against experimental data. However, in many practical settings, the relevant internal variables are typically not measurable in experiments, and the constitutive response must be inferred entirely from measured strain-stress data without any prior knowledge of the material's internal state. We propose a data-driven constitutive modeling framework based on the concept of a material operator, which treats a &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.02194v1</guid>
+      <pubDate>Wed, 02 Sep 2026 06:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>Solving In-Table Prediction Problems by Deep Neural Networks with Performance Evaluation Using Synthetic Data</title>
-      <link>http://arxiv.org/abs/2609.01262v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiao Zhao, Daniela Oelke&lt;/p&gt;&lt;p&gt;Tabular deep learning (TDL) leverages neural networks (NN) to extract patterns from tabular data. Traditional TDL methods follow a supervised learning paradigm, where a target feature is explicitly given. In this work, however, we explore a different approach by employing deep NNs to learn relationships among individual columns within a given table&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.01262v1</guid>
-      <pubDate>Tue, 01 Sep 2026 13:53:12 +0000</pubDate>
+      <title>Prototype-guided transfer of sparse literature knowledge for electrolyte additive discovery</title>
+      <link>http://arxiv.org/abs/2609.02209v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Weixiang Hong, Hongting Du, Jiayue Tang, Ruifeng Tan, Yangjian Quan, Jia Li, Jiaqiang Huang&lt;/p&gt;&lt;p&gt;Electrolyte additive discovery remains challenging because experimentally validated molecules are sparse, whereas accessible chemical spaces are vast and largely unlabeled. This challenge is amplified in lithium-ion batteries, where additive performance arises from coupled interfacial reactions rather than a single molecular property. Here, we develop a prototype-guided molecular intelligence, ProtoMI, a literature-driven framework that learns transferable structural priors from reported electrolyte additives and uses them to prioritize candidates in unlabeled chemical space&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.02209v1</guid>
+      <pubDate>Wed, 02 Sep 2026 07:21:47 +0000</pubDate>
     </item>
     <item>
-      <title>HiLRP: Toward One Trustworthy Explanation for Vision Transformer: Conservation-Valid Attribution via Attention Primitives</title>
-      <link>http://arxiv.org/abs/2609.01282v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sathiyamohan Nishankar, Pubudu Sanjeewani, Asanka Perera, Selvarajah Thuseethan&lt;/p&gt;&lt;p&gt;Vision Transformer (ViT) design has become increasingly diverse, with backbones combining convolutional stems, windowed, linear, or multi-axis attention, patch merging, and spatial reduction in various configurations. This diversity poses challenges for existing attribution methods, whose assumptions often do not hold across ViT variants: Grad-CAM requires a terminal spatial feature map, attention rollout assumes global softmax attention, and layer-wise relevance propagation (LRP) requires module-specific rules. To the best of our knowledge, no existing method provides a unified attribution fr&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.01282v1</guid>
-      <pubDate>Tue, 01 Sep 2026 14:16:08 +0000</pubDate>
+      <title>Signal or Noise? Auditing Rotation-Induced Saliency Drift in Medical and Aerial Imaging</title>
+      <link>http://arxiv.org/abs/2609.02224v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Khawaja Murad ul Hassan, Mehran Ebrahimi&lt;/p&gt;&lt;p&gt;Post-hoc saliency maps such as Grad-CAM are increasingly used to audit why a deployed vision model made a decision, yet the heatmap drifts when the input is rotated, even when the prediction is unchanged. In domains with no canonical orientation, such as histopathology and aerial imagery, this undermines using saliency as evidence. We ask whether that drift is faithful signal or noise introduced by the CAM operator, and answer it by measuring equivariance at every stage of the operator rather than inferring it from the network's output&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.02224v1</guid>
+      <pubDate>Wed, 02 Sep 2026 07:35:39 +0000</pubDate>
     </item>
     <item>
-      <title>Relational Task Generation Language: A Declarative Specification Framework for Relational Deep Learning</title>
-      <link>http://arxiv.org/abs/2609.01292v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Oleksii Kolesnichenko, Jakub Peleška, Gustav Šír&lt;/p&gt;&lt;p&gt;Relational Deep Learning (RDL) has become a powerful paradigm for learning from multi-tabular data. However, manually defining RDL prediction tasks is a laborious process that frequently results in data leakage. To address this issue, we introduce Relational Task Generation Language (RTGL) - an open-source declarative language that streamlines RDL task formulation by abstracting away low-level SQL details&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.01292v1</guid>
-      <pubDate>Tue, 01 Sep 2026 14:27:06 +0000</pubDate>
+      <title>DiffuSearch: How Hybrid Trajectory Planning Benefits from Aligned Objectives in Diffusion and Action Space</title>
+      <link>http://arxiv.org/abs/2609.02252v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Steffen Hagedorn, Aron Distelzweig, Alexandru P. Condurache&lt;/p&gt;&lt;p&gt;In trajectory planning for autonomous driving, hybrid planning architectures are often realized as a collection of disparate modules, each with its own objectives. This lack of a unifying principle can lead to inconsistencies between the initial and refined trajectory, resulting in suboptimal behavior. We address this by introducing DiffuSearch, a novel hybrid planner that uses a unified set of objectives across generation and refinement&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.02252v1</guid>
+      <pubDate>Wed, 02 Sep 2026 08:00:17 +0000</pubDate>
     </item>
     <item>
-      <title>Bandits in Prod: Hyperparameter Optimization at Inference Time</title>
-      <link>http://arxiv.org/abs/2609.01335v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Louis Abraham, Tuan-Anh Nguyen, Nicolas Devatine&lt;/p&gt;&lt;p&gt;Many production systems can assess a configuration only by using it on live requests and observing noisy feedback. Modern agentic systems are a prominent example, with inference-time choices such as model selection, retrieval depth, prompting strategy, and decoding temperature, yet often with no representative validation data. We formalize this setting as Online Hyperparameter Optimization (OHPO) and cast it as an infinitely many-armed bandit over mixed and conditional search spaces&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.01335v1</guid>
-      <pubDate>Tue, 01 Sep 2026 14:48:08 +0000</pubDate>
+      <title>DiffIE: Diffusion-based Open Information Extraction</title>
+      <link>http://arxiv.org/abs/2609.02315v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Konstantin Fedorov, Valentin Malykh&lt;/p&gt;&lt;p&gt;A single sentence often expresses multiple valid relational triplets, which makes Open Information Extraction (OpenIE) fundamentally a multi-output task. Existing neural systems handle this by autoregressive generation, which is flexible but slow and prone to redundancy, or by fixed-slot prediction, which is efficient but couples the extraction budget to training. We introduce DIFFIE which instead treats the stochasticity of conditional discrete diffusion as the extraction mechanism itself: independent reverse-diffusion trajectories over per-token role tags produce a pool of candidate triplets&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.02315v1</guid>
+      <pubDate>Wed, 02 Sep 2026 09:01:42 +0000</pubDate>
     </item>
     <item>
-      <title>LEAP: Likelihood Elicitation and Aggregation for LLM-based Probabilistic Forecasting</title>
-      <link>http://arxiv.org/abs/2609.01337v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yufei Chen, Yiran Zhao, Xiaogang Xu, Qipeng Xie, Jiafei Wu, Zhe Liu&lt;/p&gt;&lt;p&gt;LLM-based forecasting systems have improved on real-world tasks such as financial markets and sports outcomes, largely through stronger search and tool use. Many systems still ask an LLM to read all collected evidence together and produce the final forecast. We call this design Monolithic Prediction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.01337v1</guid>
-      <pubDate>Tue, 01 Sep 2026 14:49:19 +0000</pubDate>
+      <title>AGI Maze Prediction Datasets: A Compact Benchmark for Learning World Dynamics with Transformers</title>
+      <link>http://arxiv.org/abs/2609.02339v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexey Potapov&lt;/p&gt;&lt;p&gt;World modeling requires a predictive model to maintain and update an internal state adequate for reasoning about the consequences of actions. We introduce the AGI Maze Prediction Datasets and Benchmark, a lightweight controlled testbed for studying this capability in Transformers and other predictive models. Derived from procedurally generated, stateful grid worlds, the benchmark comprises per-step transition prediction, fixed-horizon state prediction, and sequential textual-observation prediction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.02339v1</guid>
+      <pubDate>Wed, 02 Sep 2026 09:15:33 +0000</pubDate>
     </item>
     <item>
-      <title>Measuring consistency via ensemble margin and local prediction variability: Auditing decision systems in the presence of predictive multiplicity</title>
-      <link>http://arxiv.org/abs/2609.01397v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sinjini Banerjee, Tim Marrinan, Anand D. Sarwate&lt;/p&gt;&lt;p&gt;The Rashomon effect is a machine learning phenomenon where equally accurate models produce different predictions for the same inputs (predictive multiplicity). Existing work primarily focuses on multiplicity within individual models, but in more complex decision systems, the impact of the Rashomon effect is less well understood. In this work, we study multiplicity from the perspective of auditing incorrect ensemble predictions, where the decision to divert an instance for human review is based on a consistency criterion that combines the ensemble margin with a measure of local prediction varia&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.01397v1</guid>
-      <pubDate>Tue, 01 Sep 2026 15:22:01 +0000</pubDate>
+      <title>DeepAffinity: Long-Term Aspect Preference Prediction in eCommerce using Small Language Models</title>
+      <link>http://arxiv.org/abs/2609.02468v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yotam Eshel, Guy Hadad, Guy Feigenblat, Yuri M. Brovman, Matt Gearhart, Bracha Shapira&lt;/p&gt;&lt;p&gt;We explore predicting eCommerce user preferences for product aspects such as brand, size, and color - a task we define as Aspect Affinity. Solving this task improves customer understanding and enables fine-grained personalization in recommendation, search, and marketing. We frame Aspect Affinity as a temporal prediction task: forecasting a users future aspect choices from their time-ordered interaction history, capturing long-term preferences that evolve beyond the current session&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.02468v1</guid>
+      <pubDate>Wed, 02 Sep 2026 11:38:19 +0000</pubDate>
     </item>
     <item>
-      <title>Contribution-Aware Bandwidth Allocation for Multimodal Split Learning</title>
-      <link>http://arxiv.org/abs/2609.01406v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Iason Ofeidis, Leandros Tassiulas&lt;/p&gt;&lt;p&gt;Multimodal models are increasingly the default option for perception at the network edge, yet they are trained almost entirely in the datacenter, because a client holding several sensor streams cannot host an encoder per modality. Split Learning makes such training feasible by keeping only the first layers on the device, at the cost of an uplink that must carry smashed activations for every modality at every step. Existing compression schemes give each modality the same keep-ratio, so the shared budget is divided in proportion to smashed-activation dimension, a quantity unrelated to how much e&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.01406v1</guid>
-      <pubDate>Tue, 01 Sep 2026 15:28:16 +0000</pubDate>
+      <title>Did recent sea surface temperature warming reinforce the extreme East Asian summer monsoon precipitation in 2020?</title>
+      <link>http://arxiv.org/abs/2609.02545v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Taeho Mun, Haerin Park, Dong-Hyun Cha, Chang-Keun Song, Seung-Ki Min, Seok-Woo Son&lt;/p&gt;&lt;p&gt;We analyzed the possible effects of recent sea surface temperature (SST) warming on the extraordinary East Asian summer monsoon (EASM) precipitation in 2020 summer. The dynamic and thermodynamic impacts of SST are examined by conducting regional climate model experiments with observed SST and cold SST where the 22-year SST trend is removed. In the presence of warm SST, precipitation increases in low latitudes but decreases in the EASM region&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.02545v1</guid>
+      <pubDate>Wed, 02 Sep 2026 12:58:43 +0000</pubDate>
     </item>
     <item>
-      <title>Predicting Subsurface Abnormalities Growth using Physics-Informed Neural Networks</title>
-      <link>http://arxiv.org/abs/2609.01417v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mehrdad Shafiei Dizaji, Hoda Azari&lt;/p&gt;&lt;p&gt;The research explores the pioneering integration of Physics-Informed Neural Networks (PINNs) into the domain of Ground-Penetrating Radar (GPR) data prediction. This research presents a detailed development framework for a specialized PINN model, proficient at interpreting and forecasting GPR data, much like how medical imaging models predict tumor behavior. By harnessing the synergy between deep learning algorithms and the physical laws governing subsurface structures or in medical terms, human tissues the model effectively embeds the physics of electromagnetic wave propagation into its archit&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.01417v1</guid>
-      <pubDate>Tue, 01 Sep 2026 15:34:23 +0000</pubDate>
+      <title>Online Reinforcement Learning in the Met Office Unified Model through Distributed Model-Agent Coupling</title>
+      <link>http://arxiv.org/abs/2609.02566v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pritthijit Nath, Sebastian Schemm, Peter Haynes, Emily Shuckburgh, Mark Webb&lt;/p&gt;&lt;p&gt;Machine-learnt corrections can complement numerical weather prediction only if they adapt to the evolving model state while preserving dynamical consistency and numerical stability. To test this within a global forecasting model, we couple the Met Office (UKMO) Unified Model (UM) with distributed RL agents through rank-local tensors. A DDPG actor shares weights across the 70 vertical model levels of each atmospheric column and applies bounded potential-temperature corrections to the model tendencies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.02566v1</guid>
+      <pubDate>Wed, 02 Sep 2026 13:17:10 +0000</pubDate>
     </item>
     <item>
-      <title>Semantic-Guided Multimodal Preprocessing for Vision Transformer-Based Clear Cell Renal Cell Carcinoma Grading</title>
-      <link>http://arxiv.org/abs/2609.01426v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fatemeh Javadian, Zhu Chen, Zahra Aminparast, Johannes Stegmaier&lt;/p&gt;&lt;p&gt;Clear cell renal cell carcinoma (CCRCC) grading is essential for treatment planning, yet existing approaches either analyze patch-level images directly or focus solely on nuclei-level classification, without linking to final tumor grading. We propose a semantic-guided multimodal preprocessing method that integrates nuclei classification maps from existing pre-trained models with RGB histopathology images for Vision Transformer (ViT)-based CCRCC grading. Our approach employs classification map channel concatenation and multiplicative modulation, with optimized overlays to leverage nuclei gradin&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.01426v1</guid>
-      <pubDate>Tue, 01 Sep 2026 15:39:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learning Sparse Decision Trees via Transformer Variational Auto-Encoders</title>
-      <link>http://arxiv.org/abs/2609.01430v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Giacomo Fidone, Alessio Cascione, Riccardo Guidotti&lt;/p&gt;&lt;p&gt;Decision trees are among the most widely used models in machine learning, largely due to their transparent decision logic, making them well-suited for high-stakes decision-making contexts. However, most existing learning algorithms focus on predictive performance, overlooking the joint optimization of other desirable properties, such as structural sparsity. In this work we propose TREVIS, an approach for learning decision trees with respect to complex objectives, based on the exploration of the latent space of a Tree Transformer Variational Auto-Encoder (TTVAE)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.01430v1</guid>
-      <pubDate>Tue, 01 Sep 2026 15:40:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Sensor-Adaptive Incremental Learning Framework for Artifact Detection in Satellite Precipitation Data</title>
-      <link>http://arxiv.org/abs/2609.01514v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andres F. Monsalve, Hernan A. Moreno, Christian D. Kummerow&lt;/p&gt;&lt;p&gt;Historically, retrieving rainfall data from satellite imagery has been the domain of space agencies. However, in recent years, the development of cheaper, more compact satellites (SmallSats) capable of detecting rainfall proxies has led to a significant increase in private-sector initiatives for satellite launch and surface precipitation products. This rapid growth has yet to be matched by data validation efforts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.01514v1</guid>
-      <pubDate>Tue, 01 Sep 2026 16:43:27 +0000</pubDate>
+      <title>AI Contextual Measurement for Recovering Individual and Group-Level Effects: Validation Against Survey Measures and an Occupational Application</title>
+      <link>http://arxiv.org/abs/2609.02821v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wenxin Jiang, Xuyang Wang, Yuxiao Wu&lt;/p&gt;&lt;p&gt;Researchers increasingly use artificial intelligence to construct measures of social, organizational, and occupational characteristics that are absent from conventional surveys. We propose AICOME, AI COntextual MEasurement, a framework for evaluating whether AI-derived respondent-level measures can recover individual and group-level effects in contextual models. The key idea is that an AI measure constructed at the respondent level can be used to derive its group-level aggregate and its individual deviation, allowing researchers to estimate both between-group and within-group associations rath&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.02821v1</guid>
+      <pubDate>Wed, 02 Sep 2026 17:09:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
