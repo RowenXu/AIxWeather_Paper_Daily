@@ -7,6 +7,104 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Sep 2026 06:58:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:07:52 +0000</lastBuildDate>
+    <item>
+      <title>Flexible Spectral-Normalized Neural Gaussian Process for Dynamic Aperture Prediction</title>
+      <link>http://arxiv.org/abs/2609.08620v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yousra El-Bachir, Frederik Van der Veken, Davide di Croce, Carlo Emilio Montanari, Massimo Giovannozzi, Ekaterina Krymova, Tatiana Pieloni&lt;/p&gt;&lt;p&gt;We address the challenge of scalable uncertainty quantification in large-scale scientific applications, where complex state-of-the-art machine learning methods are often computationally infeasible. Our primary contribution is a simple yet effective empirical Bayes method for automatically tuning the hyperparameters of a flexible, heteroscedastic Spectral-normalized Neural Gaussian Process. This approach retains the expressiveness and uncertainty-awareness of semi-Bayesian neural models while significantly reducing the computational burden by integrating hyperparameter learning directly into th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.08620v1</guid>
+      <pubDate>Tue, 08 Sep 2026 11:55:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leveraging contextual events on structure-aware next activity prediction</title>
+      <link>http://arxiv.org/abs/2609.08622v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alessandro Mele, Claudia Diamantini, Domenico Potena&lt;/p&gt;&lt;p&gt;Predictive process monitoring aims at forecasting various aspects of running processes. Among the different tasks, next activity prediction represents the most extensively investigated. However, only a limited number of existing approaches explicitly encode contextual information, i.e., the environmental conditions in which the process is executed, typically modeled through event log attributes or aggregated measures&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.08622v1</guid>
+      <pubDate>Tue, 08 Sep 2026 11:57:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Where to How: Continuous 4D Interaction Forecasting from Egocentric Video</title>
+      <link>http://arxiv.org/abs/2609.08636v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Qiaohui Chu, Haoyu Zhang, Meng Liu, Haoxiang Shi, Dongmei Jiang, Liqiang Nie&lt;/p&gt;&lt;p&gt;Egocentric 4D interaction forecasting aims to anticipate both where future interactions will occur in 3D and how the human body will move to realize them, providing an important capability for assistive robotics and human-computer interaction. Existing methods struggle to translate semantic understanding into precise continuous 3D localization and to balance motion diversity with structural consistency in pose forecasting. More fundamentally, these tasks are often modeled separately, leaving the continuous geometric and temporal correspondence between interaction locations and body motion insu&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.08636v1</guid>
+      <pubDate>Tue, 08 Sep 2026 12:06:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>TriCCOT: Tri-part Convolutional Conformal Transformer for Onboard Space Object Detection</title>
+      <link>http://arxiv.org/abs/2609.08659v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Adrien Dorise, Marjorie Bellizzi, Julia Cohen, Stéphane May&lt;/p&gt;&lt;p&gt;Onboard object detection in Earth observation is constrained by limited computational resources and the absence of fully corrected imagery. While convolutional detectors are hardware-efficient, they often struggle to extract robust representations from raw and noisy data. Conversely, transformer-based models provide stronger global reasoning capabilities but remain difficult to deploy on FPGA accelerators due to quadratic attention complexity and non-compatible operations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.08659v1</guid>
+      <pubDate>Tue, 08 Sep 2026 12:26:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>CausalChapter: Improving Long-Video Chaptering with Interventional Dependency Modeling</title>
+      <link>http://arxiv.org/abs/2609.08686v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xinran Duan, Guozhang Li, Yaoyao Zhong, Mei Wang, Lizhi Wang, Hua Huang&lt;/p&gt;&lt;p&gt;Long-form instructional videos require automatic chaptering to support browsing, navigation, and knowledge access. Recent long-context language models can perform chaptering from textualized video inputs, but they remain costly and brittle for content-dense lecture videos with long transcripts, smooth topic transitions, and detailed chapter outputs. A scalable segment-then-caption paradigm reduces this cost, but introduces two new challenges: boundary error propagation and fragmented cross-chapter context&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.08686v1</guid>
+      <pubDate>Tue, 08 Sep 2026 12:54:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>PAC-Bayesian Bounds for Learning Partially Observed Stochastic Linear Time-Invariant State-Space Systems with Inputs and Sub-Gaussian Noise</title>
+      <link>http://arxiv.org/abs/2609.08740v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mihaly Petreczky, Mohamad Al Ahdab, John Leth&lt;/p&gt;&lt;p&gt;In this paper we derive a Probably Approximately Correct (PAC)-Bayesian error bound for partially observed linear time-invariant (LTI) stochastic dynamical systems in state-space form with inputs and sub-Gaussian noise. Such bounds are widespread in machine learning, and they are useful for characterizing the predictive power of models learned from finitely many data points. The bound derived in this paper relates the expectation of prediction errors with the prediction error generated by the model on the data used for learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.08740v1</guid>
+      <pubDate>Tue, 08 Sep 2026 13:32:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>It's All in the Way You Say It: The Role of Information Representation in LLM-Based Glycemic-Event Prediction</title>
+      <link>http://arxiv.org/abs/2609.08772v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andrea Apicella, Pasquale Arpaia, Matteo Orefice, Andrea Pollastro, Roberto Prevete&lt;/p&gt;&lt;p&gt;Large Language Models (LLMs) are increasingly being investigated for physiological time-series prediction, yet their effectiveness may depend not only on the model itself, but also on how physiological information is represented and presented at inference time. This study investigates prompt-based general-purpose LLMs for postprandial hyperglycemia and hypoglycemia prediction in individuals with type 1 diabetes. Using the OhioT1DM dataset, we evaluate multiple open-weight LLMs under zero-shot and few-shot inference across prediction horizons of 30, 60, and 90 minutes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.08772v1</guid>
+      <pubDate>Tue, 08 Sep 2026 14:07:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Earth System World Model for What-If Simulations: A Case Study for Terrestrial Ecosystems</title>
+      <link>http://arxiv.org/abs/2609.08855v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhihao Wang, Ruichen Wang, Ruohan Li, Lei Ma, George Hurtt, Xiaowei Jia, Gengchen Mai, Shaowen Wang&lt;/p&gt;&lt;p&gt;Machine learning emulators have become essential for accelerating expensive Earth-system simulations, but most existing approaches remain passive forecasters: they reproduce simulator trajectories under prescribed forcings without an explicit interaction mechanism for user-specified interventions. This limits their use in interactive scientific workflows and Earth-system digital twins, where users often need to explore how a system would respond if selected state components were changed. We propose an action-conditioned world-modeling framework for Earth-system emulation that reformulates simu&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.08855v1</guid>
+      <pubDate>Tue, 08 Sep 2026 15:06:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>High-Magnetization Sampling at Low Temperatures: Ising Models and Bayesian Sparse Linear Regression</title>
+      <link>http://arxiv.org/abs/2609.08873v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Syamantak Kumar, Purnamrita Sarkar, Kevin Tian, Yusong Zhu&lt;/p&gt;&lt;p&gt;Sparsity is a powerful structural resource in optimization and statistics. We develop frameworks for leveraging sparsity in sampling problems over the Hamming slice $\mathcal{X}_k^d:=\{\mathbf{x}\in\{\pm 1\}^d:|\{i:\mathbf{x}_i=1\}|=k\}$, in high-dimensional regimes where $k\ll d$ (i.e., where $\mathcal{X}_k^d$ is \emph{highly magnetized}). We use our frameworks to design improved samplers for canonical problems in the study of \emph{Ising models} and \emph{Bayesian sparse linear regression}&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.08873v1</guid>
+      <pubDate>Tue, 08 Sep 2026 15:13:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ONE CYLinder: A Benchmark for Graph-Based Surrogate Modeling of Unsteady Bluff-Body Flows</title>
+      <link>http://arxiv.org/abs/2609.08947v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Théodore Michel, Antoine Campos, Alban Dujardin, Henry Areiza, Philippe Meliga, Elie Hachem&lt;/p&gt;&lt;p&gt;Graph-based surrogate models offer a promising route to accelerate computational fluid dynamics (CFD) simulations on unstructured meshes. However, their development is limited by the scarcity of benchmark datasets spanning multiple flow regimes and standardized protocols for long-horizon autoregressive prediction. We introduce ONECYL (ONE CYLinder), a new benchmark for unsteady flow past a circular cylinder across laminar, transitional, and high-Reynolds-number regimes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.08947v1</guid>
+      <pubDate>Tue, 08 Sep 2026 16:06:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Let It Go or Learn to Self-Correct: Continuous Diffusion for Constrained Discrete Tasks</title>
+      <link>http://arxiv.org/abs/2609.09009v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mariia Drozdova, Stéphane Liem Nguyen, François Fleuret&lt;/p&gt;&lt;p&gt;Denoising Diffusion Probabilistic Models (DDPMs) generate samples by starting from noise and repeatedly denoising while keeping each update close to the current noisy state. This behavior is effective in many continuous domains, but its role is less clear for globally constrained discrete tasks, such as Sudoku, graph connectivity, Latin squares, and N-queens. In such settings, early discrete errors can be difficult to undo&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.09009v1</guid>
+      <pubDate>Tue, 08 Sep 2026 16:45:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multi-Task Learning for Sparsely-Labeled Time Series: A Case Study on Cold-Hardiness Modeling</title>
+      <link>http://arxiv.org/abs/2609.09062v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aseem Saxena, Paola Pesántez-Cabrera, Jonathan Magby, Markus Keller, Alan Fern&lt;/p&gt;&lt;p&gt;We present a real-world case study of multi-task learning (MTL) for temporal process modeling from limited data with temporally sparse labels. Specifically, we investigate multi-task learning for the important agricultural problem of predicting grape cold hardiness, which is the temperature at which lethal freezing occurs. Cold hardiness changes in response to weather and is difficult to measure directly in the field&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.09062v1</guid>
+      <pubDate>Tue, 08 Sep 2026 17:17:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Does Scale-Invariant Optimization Become Unstable? An Exact Schedule Law with Weight Decay</title>
+      <link>http://arxiv.org/abs/2609.09116v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hasan Amin, Wei-Kai Chang, Rajiv Khanna&lt;/p&gt;&lt;p&gt;Normalization renders large parts of neural networks effectively scale invariant, inducing a hidden feedback loop in which learning-rate schedules and weight decay interact through the parameter norm to control the effective step taken by the optimizer. We show that this interaction is governed by an exact discrete-time law: a single scalar quantity captures all schedule and decay forcing, while norm growth induces an opposing geometric self-quenching effect. This yields a sharp boundary that cleanly separates contraction- and expansion-dominated effective learning rate regimes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.09116v1</guid>
+      <pubDate>Tue, 08 Sep 2026 17:46:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting</title>
+      <link>http://arxiv.org/abs/2609.09140v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tobias Susetzky, Raphael Rehms, Dmitrii Seletkov, Özgün Turgut, Michelle Espranita Liman, Lisa Steinhelfer, Rickmer Braren, Daniel Rueckert&lt;/p&gt;&lt;p&gt;The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical challenge. Current AI models often struggle to capture the complex, irregular temporal dynamics and inherent stochasticity of real-world multimodal patient data. Existing AI approaches for modeling longitudinal patient records are predominantly discriminative, limited to a few modalities, constrained by closed categorical vocabularies, treating time as a monotonic inductive bias, o&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.09140v1</guid>
+      <pubDate>Tue, 08 Sep 2026 17:56:13 +0000</pubDate>
+    </item>
   </channel>
 </rss>
