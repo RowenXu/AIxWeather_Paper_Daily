@@ -7,83 +7,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:03:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:19:45 +0000</lastBuildDate>
     <item>
-      <title>A Dataset and Model for Imputing Water Surface Elevation on a Large and Extremely Sparse Spatiotemporal Graph</title>
-      <link>http://arxiv.org/abs/2609.11580v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruben Cartuyvels, Karim Douch, Gabriele Bertoli, Mounia El Baz, Artemis Vrettou, Sébastien Lefèvre, Diego Fernandez Prieto&lt;/p&gt;&lt;p&gt;Continuous monitoring of water surface elevation across river networks is critical for flood forecasting, water resource management, and understanding the global water cycle. Yet, the scarcity of in situ gauges across much of the globe constrains the development of reliable modeling frameworks. Satellite altimetry has the potential to alleviate this problem but its use is currently hindered by sparse temporal coverage&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.11580v1</guid>
-      <pubDate>Thu, 10 Sep 2026 14:12:02 +0000</pubDate>
+      <title>Neuro-Symbolic Hierarchical Intention Anticipation in Human Behavior</title>
+      <link>http://arxiv.org/abs/2609.17064v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Farnaz Soleimani, Abdelghani Chibani, Yacine Amirat, Ghazaleh Khodabandelou&lt;/p&gt;&lt;p&gt;Assistive autonomous systems must anticipate human goals before an observed behavior is complete. This article formulates anticipation as goal inference from a partially observed multimodal episode together with structured prediction of the remaining behavior, rather than exact motor forecasting. A compact Hierarchical Planning Decoder (HPD) is attached to a frozen neuro-symbolic recognition encoder and predicts, at four ontological levels, the next actions, the remaining activities and low-level intentions, and the episode high-level intention(HLI)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.17064v1</guid>
+      <pubDate>Tue, 15 Sep 2026 12:09:03 +0000</pubDate>
     </item>
     <item>
-      <title>Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices</title>
-      <link>http://arxiv.org/abs/2609.11628v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; J. Gallego, P. Protopapas, A. Bustos, A. Alonso, S. Barquero, A. Baciero, I. Rivera, J. A. Moríñigo&lt;/p&gt;&lt;p&gt;In this work, we develop an inverse Physics-Informed Neural Network (PINN) framework to infer the dependence of the scrape-off layer (SOL) perpendicular heat conductivity on plasma density and temperature, $κ_\perp(n,T)$. The method combines radial profile measurements of electron density and temperature with the residual of a reduced one-dimensional SOL transport equation, so that the inferred conductivity is constrained by both the measurements and the underlying transport model. Three neural networks are trained simultaneously: two reconstruct the temperature and density profiles as functio&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.11628v1</guid>
-      <pubDate>Thu, 10 Sep 2026 14:40:32 +0000</pubDate>
+      <title>Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction</title>
+      <link>http://arxiv.org/abs/2609.17100v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ahmed Ammar Kubba, Manar Abu Talib, Jibran Sualeh Muhammad, Ali Bou Nassif, Abdalla Sayed Mohamed, Darko Castven, Jens U. Marquardt&lt;/p&gt;&lt;p&gt;Liver cancer is a complex disease responsible for a high number of deaths across the globe each year, making automated solutions for liver cancer classification urgent. The most common form of liver cancer is hepatocellular carcinoma (HCC), accounting for over 90% of liver cancer cases. There is a distinct lack of publicly available HCC datasets utilizing genomic data, which is necessary for training artificial intelligence (AI) models for automated HCC classification&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.17100v1</guid>
+      <pubDate>Tue, 15 Sep 2026 12:33:12 +0000</pubDate>
     </item>
     <item>
-      <title>LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics</title>
-      <link>http://arxiv.org/abs/2609.11639v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mariia Baranova, Adrien Petralia, Etienne Le Naour, Nathan Etourneau, Guillaume Hofmann, Themis Palpanas&lt;/p&gt;&lt;p&gt;The energy transition is reshaping residential electricity consumption through the increasing adoption of distributed generation, electrified appliances, and demand-response programs. Understanding these evolving behaviors requires access to granular smart-meter data for applications such as load forecasting, appliance detection, and demand-side flexibility analysis. However, such data are subject to strict access restrictions and data-protection regulations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.11639v1</guid>
-      <pubDate>Thu, 10 Sep 2026 14:46:30 +0000</pubDate>
+      <title>AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET</title>
+      <link>http://arxiv.org/abs/2609.17123v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Min-Hui Kim, Khushi Sharma, Sarah Zhang, Ye Wang&lt;/p&gt;&lt;p&gt;Thermal optimization of 2D CFET inverters requires testing structural proposals against their electrical costs. We examine these research tasks using an AI agent workflow within a supplied electrothermal model. At 12 nm, Astra selects a redistributed source-interconnect geometry, while a coordinating agent proposes a substrate-directed heat-removal path&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.17123v1</guid>
+      <pubDate>Tue, 15 Sep 2026 12:48:44 +0000</pubDate>
     </item>
     <item>
-      <title>Stress-Testing Dynamical and Generative Downscaling Using Subseasonal Extreme Precipitation Forecasts</title>
-      <link>http://arxiv.org/abs/2609.11696v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mauricio Lima, Marika Koukoula, Romain Pilon, Monika Feldmann, Erwan Koch, Daniela I. V. Domeisen, Tom Beucler&lt;/p&gt;&lt;p&gt;Coarse spatial resolution limits the ability of subseasonal prediction models to resolve extreme precipitation. Downscaling with either dynamical or deep generative models can overcome this issue, but the comparative performance of these models for extremes across different atmospheric regimes remains poorly understood. In this work, we evaluate the Weather Research and Forecasting (WRF) model against a diffusion-based generative model by downscaling two physically distinct, extreme precipitation events up to lead times of 3 weeks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.11696v1</guid>
-      <pubDate>Thu, 10 Sep 2026 15:21:40 +0000</pubDate>
+      <title>Neural Field Ensembles for Aerodynamic Surface Prediction: Winning Solution to the ONERA CRM Wall Distribution 2025 Challenge</title>
+      <link>http://arxiv.org/abs/2609.17160v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lionel Salesses, Caroline Sainvitu, Tariq Benamara&lt;/p&gt;&lt;p&gt;Machine-learning surrogate models offer a promising alternative to high-fidelity Computational Fluid Dynamics (CFD) simulations for aerodynamic analysis and design. However, constructing accurate surrogates for realistic aircraft configurations remain challenging due to complex geometries, multiple flow regimes, and limited training data. This work presents the methodology that achieved first place in the ONERA CRM Wall Distribution Regression Challenge, which focuses on predicting pressure and skin-friction coefficient distributions over the NASA Common Research Model wing-body-pylon-nacelle &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.17160v1</guid>
+      <pubDate>Tue, 15 Sep 2026 13:27:37 +0000</pubDate>
     </item>
     <item>
-      <title>Predicting Privacy Leakage from Weight Spectral Density</title>
-      <link>http://arxiv.org/abs/2609.11780v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Richard J. Preen, Jim Smith&lt;/p&gt;&lt;p&gt;Membership inference attacks (MIAs) are widely used to audit the privacy disclosure risk of machine learning models, however current state-of-the-art attacks require training computationally expensive shadow models, making large-scale privacy evaluation impractical. In this work, we investigate whether inexpensive spectral metrics derived from the heavy-tailed self-regularisation framework can serve as proxies for MIA vulnerability. We evaluate several WeightWatcher spectral metrics on image and tabular classification tasks and compare their relationship with MIA privacy leakage against conven&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.11780v1</guid>
-      <pubDate>Thu, 10 Sep 2026 16:34:25 +0000</pubDate>
+      <title>MUMINS: Metadata-conditioned Uncertainty-aware Medical Image Next-state Synthesis</title>
+      <link>http://arxiv.org/abs/2609.17169v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anna Oliveras, Roger Marí, Rafael Redondo, Oriol Guardià, Cynthia Ifeyinwa Ugwu, Ana Tost, Bhalaji Nagarajan, Carolina Migliorelli&lt;/p&gt;&lt;p&gt;Forecasting anatomical changes such as tumor growth and neurodegeneration is a challenging generative vision task. Morphological evolution is subtle relative to static anatomy, highly patient-specific, and inherently stochastic. Existing methods struggle with several issues: deterministic networks ignore biological stochasticity, while standard diffusion models require computationally prohibitive multi-pass sampling to quantify uncertainty&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.17169v1</guid>
+      <pubDate>Tue, 15 Sep 2026 13:32:37 +0000</pubDate>
     </item>
     <item>
-      <title>Thinking with Looped Flows</title>
-      <link>http://arxiv.org/abs/2609.11801v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ayhan Suleymanzade, Chanhyuk Lee, Floor Eijkelboom, Nicholas M. Boffi, İsmail İlkan Ceylan, Jinwoo Kim&lt;/p&gt;&lt;p&gt;Humans and machines often solve harder problems by spending more time on computation. In deep learning, looped models implement this idea during inference by recurrently updating a hidden state. In practice, however, their training backpropagates through only one or a few updates, making it hard to train early updates to support future ones&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.11801v1</guid>
-      <pubDate>Thu, 10 Sep 2026 16:52:54 +0000</pubDate>
+      <title>IRENE: A Convolutional GRU Ensemble Model for Radar Precipitation Nowcasting over Italy</title>
+      <link>http://arxiv.org/abs/2609.17175v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alessandro Camilletti, Gabriele Franch, Elena Tomasi, Marco Cristoforetti&lt;/p&gt;&lt;p&gt;We present IRENE (Italian Radar Ensemble Nowcasting Experiment), a deep learning model for probabilistic short-range precipitation nowcasting over the Italian domain at \SI{1}{km} spatial and 5 min temporal resolution. IRENE adopts an encoder--forecaster architecture built on multi-scale Convolutional Gated Recurrent Units (ConvGRUs), trained on the national radar composite produced by the Italian Civil Protection Department (DPC). An importance-sampling scheme focuses training on precipitation-relevant events, while the almost-fair Continuous Ranked Probability Score (afCRPS) is adopted as th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.17175v1</guid>
+      <pubDate>Tue, 15 Sep 2026 13:38:33 +0000</pubDate>
     </item>
     <item>
-      <title>Model-Aware Schedules Improve Generation via Fiberwise Optimal Transport</title>
-      <link>http://arxiv.org/abs/2609.11842v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Luyi Jia, Boyan Zhang, Yilun Liu, Steffen Rulands&lt;/p&gt;&lt;p&gt;Diffusion and flow-matching schedules control the signal and noise coefficients that mix data and noise along affine probability paths. Minimizing a kinetic action defined on coefficient paths, motivated by optimal transport, helps explain strong baselines but remains model-agnostic and ignores prediction error. Here we introduce a model-aware schedule construction based on fiberwise optimal transport&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.11842v1</guid>
-      <pubDate>Thu, 10 Sep 2026 17:30:44 +0000</pubDate>
+      <title>LoopSpec: Pipelined Self-Speculative Decoding for Looped Transformers</title>
+      <link>http://arxiv.org/abs/2609.17184v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; SangLyul Cho, Langqing Cui, Sehoon Kim, Dongsu Han, Insu Han&lt;/p&gt;&lt;p&gt;Looped Transformers achieve strong performance with compact parameter sizes by repeatedly applying a shared stack of Transformer blocks across recurrent depths. However, they incur higher decoding latency than standard Transformer models of comparable parameter size because shared weights are accessed at every recurrent depth. To improve decoding efficiency, self-speculative decoding is particularly well suited to Looped Transformers, as their intermediate recurrent states can directly provide draft predictions without an auxiliary draft model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.17184v1</guid>
+      <pubDate>Tue, 15 Sep 2026 13:43:31 +0000</pubDate>
     </item>
     <item>
-      <title>From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge</title>
-      <link>http://arxiv.org/abs/2609.11859v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wenkang Wei, Yuan Fang, Renhe Jiang, Hong Cheng, Xingtong Yu&lt;/p&gt;&lt;p&gt;How does a language model's dependence on query-routing information and target knowledge change as it answers a question? We study this question through layerwise interventions on the hidden state at the end of the question. Across Qwen, Llama, and Gemma, we compare country-continent questions with noun, adjective, and code answers while keeping several fitted measurements distinct. A pair-conditioned request direction describes which country is queried in natural single-country questions; a global request direction describes first- versus second-country requests in paired questions; separate &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.11859v1</guid>
-      <pubDate>Thu, 10 Sep 2026 17:39:55 +0000</pubDate>
+      <title>MyoFlow: Anchor-Tied Rectified Flow for HD-sEMG Gesture Recognition Across Sessions and Subjects</title>
+      <link>http://arxiv.org/abs/2609.17194v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chenhao Wu, Dingjie Peng, Satoshi Funabashi, Satoshi Konishi, Wuqiang Yang, Hiroshi Onoda, Hironori Washizaki, Jiang Liu&lt;/p&gt;&lt;p&gt;High-density surface electromyography (HD-sEMG) gesture recognition supports prosthetic control, assistive robotics, and rehabilitation, but electrode re-donning and physiological variability cause distribution shifts that degrade accuracy across sessions and subjects. Generative HD-sEMG models primarily synthesize signals for augmentation; although diffusion models enhance representation learning, prediction still relies on a separate classifier. To tie learned dynamics to the decision rule, we propose MyoFlow, the first discriminative flow-matching framework for HD-sEMG recognition across se&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.17194v1</guid>
+      <pubDate>Tue, 15 Sep 2026 13:51:13 +0000</pubDate>
     </item>
     <item>
-      <title>Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models</title>
-      <link>http://arxiv.org/abs/2609.11860v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rodion Krjutškov, Eduard Barbu, Nikos Sakkas, Sofia Yfanti&lt;/p&gt;&lt;p&gt;Energy consumption forecasting relies on increasingly complex machine learning (ML) models, such as Genetic Programming-based symbolic regressors, whose predictions can be difficult for facility managers and building operators to interpret. Explainable Artificial Intelligence (XAI) techniques address this opacity, but traditional XAI dashboards require substantial technical expertise and provide limited flexibility for dynamic, context-aware inquiry. Conversational XAI systems offer a promising alternative; however, previous approaches, such as TalkToModel, were constrained by rigid custom gra&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.11860v1</guid>
-      <pubDate>Thu, 10 Sep 2026 17:40:11 +0000</pubDate>
+      <title>Extracting ontology-compliant knowledge from scientific text describing irradiated materials using large language models</title>
+      <link>http://arxiv.org/abs/2609.17291v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marco Luca Sbodio, Marcos Martínez Galindo, Vanessa Lopez, Blanca Biel, Pablo Canca, Pedro Delgado, Jesús I. Mendieta-Moreno, Raphael Tack&lt;/p&gt;&lt;p&gt;The quest for new materials increasingly relies on predictive models and comprehensive simulations that span scales from atomic to macroscopic levels. However, essential data necessary for these models and simulations are often embedded in scientific literature as unstructured text, limiting reusability and posing challenges for researchers seeking to leverage existing knowledge effectively. While extracting structured data from unstructured text using large language models is gaining popularity, traditional methods typically generate key-value pairs data with straightforward schemas&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.17291v1</guid>
+      <pubDate>Tue, 15 Sep 2026 15:05:57 +0000</pubDate>
     </item>
     <item>
-      <title>Evaluating Time-Series Foundation Models and Multimodal Dietary Context for CGM Forecasting</title>
-      <link>http://arxiv.org/abs/2609.11872v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bowen Zhang, Hsiu-Wen Cheng, Hongyu Yang, Evie L. Shen, Joleen Vansomphone, Yuna Li, Kerry Zhou, Zitian Qu&lt;/p&gt;&lt;p&gt;Continuous glucose monitoring (CGM) provides high-frequency measurements of glucose dynamics and enables short-term glucose forecasting for diabetes management. Although time-series foundation models have shown strong general forecasting ability, their effectiveness for CGM prediction and the added value of multimodal dietary context remain unclear. We conduct a comprehensive empirical study using eight public CGM datasets spanning Type 1 diabetes, Type 2 diabetes, and non-diabetes populations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.11872v1</guid>
-      <pubDate>Thu, 10 Sep 2026 17:43:29 +0000</pubDate>
+      <title>Goal-oriented probabilistic forecasting for dynamic PRB allocation in 5G networks</title>
+      <link>http://arxiv.org/abs/2609.17297v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Oier Larumbe-Lizarraga, Roberto Pereira, Cristian J. Vaca-Rubio&lt;/p&gt;&lt;p&gt;Efficient physical resource block (PRB) allocation in 5G networks requires accurate demand forecasting. Conventional methods minimize symmetric error metrics (MAE, RMSE), ignoring the operational cost asymmetry where under-provisioning (service degradation) is far costlier than over-provisioning (wasted capacity). We propose a goal-oriented probabilistic forecasting framework that aligns model training with the operator's decision-making objectives&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.17297v1</guid>
+      <pubDate>Tue, 15 Sep 2026 15:08:36 +0000</pubDate>
     </item>
     <item>
-      <title>Domain-Specific Hallucination Detection in Large Language Models</title>
-      <link>http://arxiv.org/abs/2609.11878v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Varun Teja Chundru, Debasmita Biswas&lt;/p&gt;&lt;p&gt;Large language models generate fluent text that can contain unfaithful claims -- a phenomenon known as hallucination. We present a multi-signal detection pipeline combining fine-tuned DeBERTa-v3 classification, Monte Carlo (MC) Dropout uncertainty quantification, and temperature-scaled calibration for response-level hallucination detection. Evaluated on the HaluEval benchmark, our pipeline achieves F1=0.915 and AUROC=0.977 on general-domain tasks, with per-task F1 scores of 0.97 (QA), 0.96 (Summarization), and 0.82 (Dialogue)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.11878v1</guid>
-      <pubDate>Thu, 10 Sep 2026 17:45:36 +0000</pubDate>
+      <title>Bridging the Confidence Gap: Temperature Scaling for Calibrating Test-Time Prompt Tuning</title>
+      <link>http://arxiv.org/abs/2609.17386v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuwei Liang, Jian Liang, Dapeng Hu, Yinuo Xu, Ran He&lt;/p&gt;&lt;p&gt;Test-time prompt tuning (TPT) enables adaptation on a single test instance, achieving improved accuracy but often sacrificing calibration performance. Most existing calibration methods introduce additional regularization terms to promote dispersion across text embeddings and reduce calibration error, yet these methods often suffer from a drop in accuracy. Motivated by the well-calibrated nature of zero-shot predictions, we propose CoTS, a simple yet effective post-hoc calibration method that preserves accuracy&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.17386v1</guid>
+      <pubDate>Tue, 15 Sep 2026 16:25:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bias-Induced Crossover in Absolute Capacity of Dense Associative Memory</title>
+      <link>http://arxiv.org/abs/2609.17477v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuto Sakurai, Takeaki Shimokawa, Kazunori Iwata, Kazushi Mimura&lt;/p&gt;&lt;p&gt;The absolute capacity of dense associative memory has mainly been analyzed for unbiased patterns. Here we examine the effect of bias in centered binary patterns under the Krotov-Hopfield single-site criterion $P_{\mathrm{error}}=1/N$, where $P_{\mathrm{error}}$ is the probability that a single-site flip lowers the energy of a stored pattern and $N$ is the number of neurons. Each pattern component takes $1-q$ with probability $q$ and $-q$ otherwise, where $0&lt;q\le1/2$&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.17477v1</guid>
+      <pubDate>Tue, 15 Sep 2026 17:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence</title>
+      <link>http://arxiv.org/abs/2609.17488v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xingxuan Zhang, Gang Ren, Hao Yuan, Hao Zou, Hongze Tan, Hui Wang, Jianhao Song, Jiansheng Li&lt;/p&gt;&lt;p&gt;We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is pretrained with Context-Conditional Masked Modeling (CCMM). CMNs shifts the organizing principle of in-context learning from target-centric prediction to mechanism-oriented joint modeling&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.17488v1</guid>
+      <pubDate>Tue, 15 Sep 2026 17:30:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
