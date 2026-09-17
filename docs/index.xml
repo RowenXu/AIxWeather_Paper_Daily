@@ -7,97 +7,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:15:13 +0000</lastBuildDate>
     <item>
-      <title>Neuro-Symbolic Hierarchical Intention Anticipation in Human Behavior</title>
-      <link>http://arxiv.org/abs/2609.17064v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Farnaz Soleimani, Abdelghani Chibani, Yacine Amirat, Ghazaleh Khodabandelou&lt;/p&gt;&lt;p&gt;Assistive autonomous systems must anticipate human goals before an observed behavior is complete. This article formulates anticipation as goal inference from a partially observed multimodal episode together with structured prediction of the remaining behavior, rather than exact motor forecasting. A compact Hierarchical Planning Decoder (HPD) is attached to a frozen neuro-symbolic recognition encoder and predicts, at four ontological levels, the next actions, the remaining activities and low-level intentions, and the episode high-level intention(HLI)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.17064v1</guid>
-      <pubDate>Tue, 15 Sep 2026 12:09:03 +0000</pubDate>
+      <title>Deep learning emergent spacetime from fermionic spectral functions in holography</title>
+      <link>http://arxiv.org/abs/2609.18566v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Koji Hashimoto, Hyun-Sik Jeong, Keun-Young Kim, Daichi Takeda, Kwan Yun&lt;/p&gt;&lt;p&gt;We present a physics-informed machine learning framework based on Neural Ordinary Differential Equations that solves the holographic inverse problem: reconstructing the bulk spacetime and gauge field of a charged AdS black hole directly from boundary fermionic spectral functions. Encoding the UV asymptotics, horizon regularity, and zero temperature extremality as hard constraints in the neural network architecture, our framework reliably reconstructs the extremal Reissner-Nordström AdS geometry across three quantum critical regimes set by the $U(1)$ probe charge---non-Fermi liquid, marginal Fe&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.18566v1</guid>
+      <pubDate>Wed, 16 Sep 2026 12:23:48 +0000</pubDate>
     </item>
     <item>
-      <title>Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction</title>
-      <link>http://arxiv.org/abs/2609.17100v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ahmed Ammar Kubba, Manar Abu Talib, Jibran Sualeh Muhammad, Ali Bou Nassif, Abdalla Sayed Mohamed, Darko Castven, Jens U. Marquardt&lt;/p&gt;&lt;p&gt;Liver cancer is a complex disease responsible for a high number of deaths across the globe each year, making automated solutions for liver cancer classification urgent. The most common form of liver cancer is hepatocellular carcinoma (HCC), accounting for over 90% of liver cancer cases. There is a distinct lack of publicly available HCC datasets utilizing genomic data, which is necessary for training artificial intelligence (AI) models for automated HCC classification&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.17100v1</guid>
-      <pubDate>Tue, 15 Sep 2026 12:33:12 +0000</pubDate>
+      <title>Peak-Aware Short-Term Load Forecasting Across Distribution Grid Aggregation Levels</title>
+      <link>http://arxiv.org/abs/2609.18588v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Souhardya Chattopadhyay, Julian Oelhaf, Antonia Schoening, Jessica Deuschel, Bitan Bhattacharyya, Christian Bergler, Andreas Maier, Siming Bayer&lt;/p&gt;&lt;p&gt;For distribution system operators, short-term load forecasting (STLF) supports congestion management, voltage control, and asset protection. Most existing approaches focus on overall accuracy across all time steps and neglect performance during high-demand (HD) periods, where larger forecast errors can increase the risk of congestion and voltage violations. In this paper, we study peak-aware STLF across three operator-relevant distribution grid aggregation levels, area codes (AC), secondary substations (SUB), and low-voltage (LV) feeders, using open datasets from the United Kingdom and Switzer&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.18588v1</guid>
+      <pubDate>Wed, 16 Sep 2026 12:45:33 +0000</pubDate>
     </item>
     <item>
-      <title>AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET</title>
-      <link>http://arxiv.org/abs/2609.17123v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Min-Hui Kim, Khushi Sharma, Sarah Zhang, Ye Wang&lt;/p&gt;&lt;p&gt;Thermal optimization of 2D CFET inverters requires testing structural proposals against their electrical costs. We examine these research tasks using an AI agent workflow within a supplied electrothermal model. At 12 nm, Astra selects a redistributed source-interconnect geometry, while a coordinating agent proposes a substrate-directed heat-removal path&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.17123v1</guid>
-      <pubDate>Tue, 15 Sep 2026 12:48:44 +0000</pubDate>
+      <title>ReDIL-GNN: Resynthesis Domain Incremental Learning for Circuit Graph Neural Networks</title>
+      <link>http://arxiv.org/abs/2609.18595v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rupesh Raj Karn, Johann Knechtel, Ozgur Sinanoglu&lt;/p&gt;&lt;p&gt;Logic resynthesis preserves circuit functionality while changing gate vocabulary, topology, and structural statistics, creating domain shift for circuit graph neural networks (GNNs) without changing task labels. To study this setting, we introduce ReDIL-GNN, a resynthesis domain-incremental learning framework that adapts a fixed prediction or representation head as new synthesis styles arrive and evaluates retention on all previously observed domains. Because not every shift should be adapted blindly, ReDIL-GNN further introduces the Resynthesis Adaptability Index (RAI), a pre-adaptation score&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.18595v1</guid>
+      <pubDate>Wed, 16 Sep 2026 12:51:25 +0000</pubDate>
     </item>
     <item>
-      <title>Neural Field Ensembles for Aerodynamic Surface Prediction: Winning Solution to the ONERA CRM Wall Distribution 2025 Challenge</title>
-      <link>http://arxiv.org/abs/2609.17160v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lionel Salesses, Caroline Sainvitu, Tariq Benamara&lt;/p&gt;&lt;p&gt;Machine-learning surrogate models offer a promising alternative to high-fidelity Computational Fluid Dynamics (CFD) simulations for aerodynamic analysis and design. However, constructing accurate surrogates for realistic aircraft configurations remain challenging due to complex geometries, multiple flow regimes, and limited training data. This work presents the methodology that achieved first place in the ONERA CRM Wall Distribution Regression Challenge, which focuses on predicting pressure and skin-friction coefficient distributions over the NASA Common Research Model wing-body-pylon-nacelle &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.17160v1</guid>
-      <pubDate>Tue, 15 Sep 2026 13:27:37 +0000</pubDate>
+      <title>Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents</title>
+      <link>http://arxiv.org/abs/2609.18598v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Izumi Takahara, Kazunori Nishio, Akira Aiba, Shigeru Kobayashi, Takao Nakajima, Taro Hitosugi, Teruyasu Mizoguchi&lt;/p&gt;&lt;p&gt;Self-driving laboratories can explore synthesis conditions autonomously, but their decision-making layer is typically a black-box optimizer, and the output is a set of optimized samples, with the measurements reduced to predefined scalar objectives and the reasons behind success left unarticulated. Here we present SynAgent, a framework in which large language model agents operate an automated experimental system and maintain an explicit, revisable understanding of the synthesis process as the campaign's primary output. Starting with no predefined analysis pipeline, SynAgent adaptively generate&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.18598v1</guid>
+      <pubDate>Wed, 16 Sep 2026 12:52:10 +0000</pubDate>
     </item>
     <item>
-      <title>MUMINS: Metadata-conditioned Uncertainty-aware Medical Image Next-state Synthesis</title>
-      <link>http://arxiv.org/abs/2609.17169v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anna Oliveras, Roger Marí, Rafael Redondo, Oriol Guardià, Cynthia Ifeyinwa Ugwu, Ana Tost, Bhalaji Nagarajan, Carolina Migliorelli&lt;/p&gt;&lt;p&gt;Forecasting anatomical changes such as tumor growth and neurodegeneration is a challenging generative vision task. Morphological evolution is subtle relative to static anatomy, highly patient-specific, and inherently stochastic. Existing methods struggle with several issues: deterministic networks ignore biological stochasticity, while standard diffusion models require computationally prohibitive multi-pass sampling to quantify uncertainty&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.17169v1</guid>
-      <pubDate>Tue, 15 Sep 2026 13:32:37 +0000</pubDate>
+      <title>Learning to Program Adaptive Non-Local Observables for Machine Learning</title>
+      <link>http://arxiv.org/abs/2609.18655v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yu-Ting Lee, Samuel Yen-Chi Chen, Huan-Hsin Tseng&lt;/p&gt;&lt;p&gt;Quantum neural networks (QNNs) are typically built from variational quantum circuits (VQCs), which are limited by local measurements. Adaptive non-local observables (ANO) address this by jointly optimizing circuit parameters and multi-qubit measurements. However, existing ANO-based VQCs learn only a single static observable that remains invariant across all inputs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.18655v1</guid>
+      <pubDate>Wed, 16 Sep 2026 13:35:31 +0000</pubDate>
     </item>
     <item>
-      <title>IRENE: A Convolutional GRU Ensemble Model for Radar Precipitation Nowcasting over Italy</title>
-      <link>http://arxiv.org/abs/2609.17175v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alessandro Camilletti, Gabriele Franch, Elena Tomasi, Marco Cristoforetti&lt;/p&gt;&lt;p&gt;We present IRENE (Italian Radar Ensemble Nowcasting Experiment), a deep learning model for probabilistic short-range precipitation nowcasting over the Italian domain at \SI{1}{km} spatial and 5 min temporal resolution. IRENE adopts an encoder--forecaster architecture built on multi-scale Convolutional Gated Recurrent Units (ConvGRUs), trained on the national radar composite produced by the Italian Civil Protection Department (DPC). An importance-sampling scheme focuses training on precipitation-relevant events, while the almost-fair Continuous Ranked Probability Score (afCRPS) is adopted as th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.17175v1</guid>
-      <pubDate>Tue, 15 Sep 2026 13:38:33 +0000</pubDate>
+      <title>Toward Composable Network Digital Twins: A Subgraph-Based Latency Prediction Study</title>
+      <link>http://arxiv.org/abs/2609.18704v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shenjia Ding, David Flynn, Paul Harvey&lt;/p&gt;&lt;p&gt;Modern networks must support changing topologies, configurations, and performance objectives, motivating fast and reliable performance estimation. Network digital twins (NDTs) enable what-if analysis for performance estimation in such network scenarios, however, existing machine learning-based NDT approaches often rely on entire topology representations, which are inherently monolithic and lack reusability under topological or traffic changes in the network. This paper introduces a composable NDT approach that decomposes networks into subgraphs represented by reusable unit twins that capture s&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.18704v1</guid>
+      <pubDate>Wed, 16 Sep 2026 14:12:46 +0000</pubDate>
     </item>
     <item>
-      <title>LoopSpec: Pipelined Self-Speculative Decoding for Looped Transformers</title>
-      <link>http://arxiv.org/abs/2609.17184v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; SangLyul Cho, Langqing Cui, Sehoon Kim, Dongsu Han, Insu Han&lt;/p&gt;&lt;p&gt;Looped Transformers achieve strong performance with compact parameter sizes by repeatedly applying a shared stack of Transformer blocks across recurrent depths. However, they incur higher decoding latency than standard Transformer models of comparable parameter size because shared weights are accessed at every recurrent depth. To improve decoding efficiency, self-speculative decoding is particularly well suited to Looped Transformers, as their intermediate recurrent states can directly provide draft predictions without an auxiliary draft model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.17184v1</guid>
-      <pubDate>Tue, 15 Sep 2026 13:43:31 +0000</pubDate>
+      <title>WaveTLM: Reliable Time-Series Language Modeling through Task Compilation</title>
+      <link>http://arxiv.org/abs/2609.18812v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiahui Chen, Bingke Zhu, Hongyu Pan, Yingying Chen&lt;/p&gt;&lt;p&gt;Time-series language models provide a shared natural-language interface across temporal tasks, but plausible text does not guarantee reliable task outputs. Responses may appear reasonable while hallucinating the required object: numerical sequences can violate shape, scale, channel order, or temporal alignment, and textual decisions can fall outside the legal label space. We formulate reliable time-series language modeling, separating task-object reliability from predictive quality&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.18812v1</guid>
+      <pubDate>Wed, 16 Sep 2026 15:21:39 +0000</pubDate>
     </item>
     <item>
-      <title>MyoFlow: Anchor-Tied Rectified Flow for HD-sEMG Gesture Recognition Across Sessions and Subjects</title>
-      <link>http://arxiv.org/abs/2609.17194v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chenhao Wu, Dingjie Peng, Satoshi Funabashi, Satoshi Konishi, Wuqiang Yang, Hiroshi Onoda, Hironori Washizaki, Jiang Liu&lt;/p&gt;&lt;p&gt;High-density surface electromyography (HD-sEMG) gesture recognition supports prosthetic control, assistive robotics, and rehabilitation, but electrode re-donning and physiological variability cause distribution shifts that degrade accuracy across sessions and subjects. Generative HD-sEMG models primarily synthesize signals for augmentation; although diffusion models enhance representation learning, prediction still relies on a separate classifier. To tie learned dynamics to the decision rule, we propose MyoFlow, the first discriminative flow-matching framework for HD-sEMG recognition across se&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.17194v1</guid>
-      <pubDate>Tue, 15 Sep 2026 13:51:13 +0000</pubDate>
+      <title>Interpretable Multi-Instance Learning Enables Early Prediction of Key Molecular Alterations from Routine Flow Cytometry in Acute Myeloid Leukemia</title>
+      <link>http://arxiv.org/abs/2609.18825v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jonathan Legrand, Aguirre Mimoun, Baudouin Denis de Senneville, Audrey Bidet, Pierre-Yves Dumas, Christèle Etchegaray&lt;/p&gt;&lt;p&gt;Background: Molecular testing for NPM1 and FLT3-ITD mutations guides critical early treatment decisions in acute myeloid leukemia (AML), but results can take weeks, long after these decisions must be made. Flow cytometry, already performed within hours of admission as part of routine care, may carry enough signal to predict these mutations directly, without added cost or delay. Methods: We developed an interpretable multi-instance learning classifier based on a decision tree, in which each patient sample is modeled as a collection of individual cells and mutation status is inferred from cell-l&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.18825v1</guid>
+      <pubDate>Wed, 16 Sep 2026 15:30:56 +0000</pubDate>
     </item>
     <item>
-      <title>Extracting ontology-compliant knowledge from scientific text describing irradiated materials using large language models</title>
-      <link>http://arxiv.org/abs/2609.17291v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marco Luca Sbodio, Marcos Martínez Galindo, Vanessa Lopez, Blanca Biel, Pablo Canca, Pedro Delgado, Jesús I. Mendieta-Moreno, Raphael Tack&lt;/p&gt;&lt;p&gt;The quest for new materials increasingly relies on predictive models and comprehensive simulations that span scales from atomic to macroscopic levels. However, essential data necessary for these models and simulations are often embedded in scientific literature as unstructured text, limiting reusability and posing challenges for researchers seeking to leverage existing knowledge effectively. While extracting structured data from unstructured text using large language models is gaining popularity, traditional methods typically generate key-value pairs data with straightforward schemas&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.17291v1</guid>
-      <pubDate>Tue, 15 Sep 2026 15:05:57 +0000</pubDate>
+      <title>"La Ola-MJO": a public-friendly nickname for the Madden-Julian Oscillation</title>
+      <link>http://arxiv.org/abs/2609.18858v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Takeshi Izumo, Bastien Pagli, Claire Rocuet, Mayalen Zubia, Marania Hopuare, Vateanui Sansine, Maxime Colin&lt;/p&gt;&lt;p&gt;The Madden-Julian Oscillation (MJO) is the leading intraseasonal driver of tropical weather, comparable to the interannual ''El Ni{ñ}o/La Ni{ñ}a'', yet remains largely unfamiliar outside the scientific community. The MJO is atmospherically like a ''La Ni{ñ}a'' going around the earth, and metaphorically as ''La Ola'', Spanish for ''The Wave'', evoking a stadium wave. Thus a pedagogical nickname such as ''La Ola-MJO'' could enhance forecast uptake, especially among climate-vulnerable communities.&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.18858v1</guid>
+      <pubDate>Wed, 16 Sep 2026 15:59:45 +0000</pubDate>
     </item>
     <item>
-      <title>Goal-oriented probabilistic forecasting for dynamic PRB allocation in 5G networks</title>
-      <link>http://arxiv.org/abs/2609.17297v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Oier Larumbe-Lizarraga, Roberto Pereira, Cristian J. Vaca-Rubio&lt;/p&gt;&lt;p&gt;Efficient physical resource block (PRB) allocation in 5G networks requires accurate demand forecasting. Conventional methods minimize symmetric error metrics (MAE, RMSE), ignoring the operational cost asymmetry where under-provisioning (service degradation) is far costlier than over-provisioning (wasted capacity). We propose a goal-oriented probabilistic forecasting framework that aligns model training with the operator's decision-making objectives&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.17297v1</guid>
-      <pubDate>Tue, 15 Sep 2026 15:08:36 +0000</pubDate>
+      <title>Fast Learning Rates for Physics-Informed Kernel Methods</title>
+      <link>http://arxiv.org/abs/2609.18901v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Luc Brogat-Motte, Joachim Bona-Pellissier, Giacomo Meanti, Lorenzo Rosasco&lt;/p&gt;&lt;p&gt;In physics-informed machine learning, a target function $u^*$ is learned from noisy value observations $y_i=u^*(x_i)+ \varepsilon_i$, together with differential information, given either by noisy observations $d_j=(Du^*)(z_j)+ξ_j$ or by a known physical constraint $Du^*=v$. We consider the setting where $D$ is a linear differential operator and analyze a physics-informed kernel estimator $\hat u$ combining $n$ value observations and $m$ differential observations. In this context, we ask how much can differential information improve predictions, and how does this improvement depend quantitative&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.18901v1</guid>
+      <pubDate>Wed, 16 Sep 2026 16:39:32 +0000</pubDate>
     </item>
     <item>
-      <title>Bridging the Confidence Gap: Temperature Scaling for Calibrating Test-Time Prompt Tuning</title>
-      <link>http://arxiv.org/abs/2609.17386v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuwei Liang, Jian Liang, Dapeng Hu, Yinuo Xu, Ran He&lt;/p&gt;&lt;p&gt;Test-time prompt tuning (TPT) enables adaptation on a single test instance, achieving improved accuracy but often sacrificing calibration performance. Most existing calibration methods introduce additional regularization terms to promote dispersion across text embeddings and reduce calibration error, yet these methods often suffer from a drop in accuracy. Motivated by the well-calibrated nature of zero-shot predictions, we propose CoTS, a simple yet effective post-hoc calibration method that preserves accuracy&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.17386v1</guid>
-      <pubDate>Tue, 15 Sep 2026 16:25:48 +0000</pubDate>
+      <title>Double descent is the principle of least action</title>
+      <link>http://arxiv.org/abs/2609.19076v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Congzhou M Sha&lt;/p&gt;&lt;p&gt;The test error of a model plotted against its number of parameters $d$ falls, peaks when the model can just fit the training data, and falls again, exhibiting the double descent phenomenon. We explain the phenomenon with statistical mechanics. The training trajectory of a stochastic gradient-based method is a particle wandering over the energy landscape of the training loss at an induced temperature $T$, and a run that has equilibrated visits every parameter vector of a given training loss equally often, the fundamental postulate of statistical mechanics, with probability given by the Boltzman&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.19076v1</guid>
+      <pubDate>Wed, 16 Sep 2026 17:17:46 +0000</pubDate>
     </item>
     <item>
-      <title>Bias-Induced Crossover in Absolute Capacity of Dense Associative Memory</title>
-      <link>http://arxiv.org/abs/2609.17477v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuto Sakurai, Takeaki Shimokawa, Kazunori Iwata, Kazushi Mimura&lt;/p&gt;&lt;p&gt;The absolute capacity of dense associative memory has mainly been analyzed for unbiased patterns. Here we examine the effect of bias in centered binary patterns under the Krotov-Hopfield single-site criterion $P_{\mathrm{error}}=1/N$, where $P_{\mathrm{error}}$ is the probability that a single-site flip lowers the energy of a stored pattern and $N$ is the number of neurons. Each pattern component takes $1-q$ with probability $q$ and $-q$ otherwise, where $0&lt;q\le1/2$&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.17477v1</guid>
-      <pubDate>Tue, 15 Sep 2026 17:16:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence</title>
-      <link>http://arxiv.org/abs/2609.17488v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xingxuan Zhang, Gang Ren, Hao Yuan, Hao Zou, Hongze Tan, Hui Wang, Jianhao Song, Jiansheng Li&lt;/p&gt;&lt;p&gt;We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is pretrained with Context-Conditional Masked Modeling (CCMM). CMNs shifts the organizing principle of in-context learning from target-centric prediction to mechanism-oriented joint modeling&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.17488v1</guid>
-      <pubDate>Tue, 15 Sep 2026 17:30:02 +0000</pubDate>
+      <title>Probabilistic Linear Explanations</title>
+      <link>http://arxiv.org/abs/2609.19077v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Frederic Koriche, Jean-Marie Lagniez, Chi Tran&lt;/p&gt;&lt;p&gt;Formal explainability provides mathematically grounded justifications for individual predictions. However, abductive explanations often exceed human cognitive limits by involving too many features, while probabilistic relaxations have remained largely limited to categorical classification. We present a unified framework for probabilistic explainability based on sparse, anchored linear models, applicable to both binary classification and continuous regression&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.19077v1</guid>
+      <pubDate>Wed, 16 Sep 2026 17:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
