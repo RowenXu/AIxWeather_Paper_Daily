@@ -7,6 +7,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 21 Sep 2026 07:42:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:24:39 +0000</lastBuildDate>
+    <item>
+      <title>GraphToolbox: A Configurable Python Framework for Graph Neural Network Forecasting</title>
+      <link>http://arxiv.org/abs/2609.24609v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Eloi Campagne, Yvenn Amara-Ouali, Yannig Goude, Argyris Kalogeratos&lt;/p&gt;&lt;p&gt;Electricity forecasting often involves spatially related signals observed over regions, substations, and feeders, and Graph Neural Networks (GNNs) provide a natural way to represent these relations. Building a complete GNN forecasting experiment is nonetheless laborious, because graph construction, model selection, training, aggregation, and interpretation sit in incompatible tools. We present GraphToolbox, an open-source Python framework that unifies these stages in one configurationdriven pipeline built on PyTorch Geometric&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.24609v1</guid>
+      <pubDate>Mon, 21 Sep 2026 13:58:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Augmented Hypothesis Testing with Persona-Based LLM Simulations</title>
+      <link>http://arxiv.org/abs/2609.24629v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziyad Benomar, Aymen Al Marjani, Paul Missault, Saab Mansour&lt;/p&gt;&lt;p&gt;A/B testing requires large sample sizes, long timelines, and significant costs. When auxiliary predictions of experimental outcomes are available from machine learning models, uncertain prediction quality precludes replacing human experiments entirely, yet these predictions may still contain useful signal. We propose a principled framework for learning-augmented hypothesis testing that leverages predictions of unknown quality to reduce sample sizes while maintaining statistical validity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.24629v1</guid>
+      <pubDate>Mon, 21 Sep 2026 14:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Corrective Forcing: Unified Post-Training for Diffusions and Flows in Generative Speech Enhancement</title>
+      <link>http://arxiv.org/abs/2609.24651v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Qing Yao, Lijian Gao, Qirong Mao&lt;/p&gt;&lt;p&gt;Diffusion and flow models, as promising generative paradigms for speech enhancement, face a training--inference mismatch: training uses analytical path states, whereas inference recursively evaluates models on self-generated rollout states along discretized sampling trajectories. This mismatch causes prediction and discretization errors to accumulate. To address it, we introduce Corrective Forcing (CoF), a post-training paradigm that forces diffusion and flow models to learn from self-generated rollouts and correct their predictions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.24651v1</guid>
+      <pubDate>Mon, 21 Sep 2026 14:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Offline Reinforcement Learning for Distribution-Grid Protection</title>
+      <link>http://arxiv.org/abs/2609.24703v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Julian Oelhaf, Alexander Luce, Christian Bergler, Andreas Maier, Siming Bayer&lt;/p&gt;&lt;p&gt;Data-driven protection may complement conventional relays in distribution grids whose operating conditions vary with distributed generation, switching events, and changing short-circuit levels. We study line-selective tripping from static trajectories of a realistically simulated CIGRE medium-voltage network using offline reinforcement learning. A convolutional Q-network receives causal voltage-current phasor and apparent-impedance features, optionally together with raw waveforms, and is trained with conservative Q-learning (CQL)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.24703v1</guid>
+      <pubDate>Mon, 21 Sep 2026 14:49:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>A digital-twin framework for forecasting treatment-day imaging with contour uncertainty in adaptive proton radiotherapy</title>
+      <link>http://arxiv.org/abs/2609.24725v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yizhou Wu, Jie Ding, Justin Roper, Minglei Kang, Yuheng Li, Sibo Tian, David S. Yu, Xiaofeng Yang&lt;/p&gt;&lt;p&gt;Head-and-neck anatomy changes over a six-to-seven-week proton course, and the anatomy of a later week cannot be imaged when the plan is made. We present a digital-twin framework that forecasts a patient's treatment-day anatomy as an ensemble of predicted CTs with propagated contours and quantifies the uncertainty of the forecast contours. The twin is a library of previously treated patients with planning and weekly quality-assurance CTs (QACTs), made patient-specific by a two-step foundation-model deformable registration: a cross-patient field carries each library patient onto the current pati&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.24725v1</guid>
+      <pubDate>Mon, 21 Sep 2026 15:01:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inference of Unknown Dynamical Components Using Next Generation Reservoir Computing: From Chaotic Systems to Climate Data</title>
+      <link>http://arxiv.org/abs/2609.24754v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jule Budnick, Andrew Keane, Serhiy Yanchuk&lt;/p&gt;&lt;p&gt;We investigate next generation reservoir computing (NGRC) as a data-driven approach for inferring unseen components of dynamical systems. We compare NGRC with traditional reservoir computing (RC) using the Lorenz and Rössler system, where two unknown components are inferred from one given component. For both systems, NGRC achieves accurate results while requiring fewer training data and less computational time than RC&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.24754v1</guid>
+      <pubDate>Mon, 21 Sep 2026 15:21:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection</title>
+      <link>http://arxiv.org/abs/2609.24801v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fernando Outeda, Gustavo Betarte, Juan Diego Campo, Fiorella Cravero&lt;/p&gt;&lt;p&gt;Large language models (LLMs) are increasingly deployed in production systems, raising concerns about their exposure to adversarial manipulation through prompt injection and jailbreak attacks. Classifier-based guardrails, such as Prompt Guard 2, are widely used as a first line of defense against such attacks, but their internal decision logic is largely opaque to both defenders and attackers. This paper presents an exploratory case study that applies explainable artificial intelligence (XAI) techniques to analyze how Prompt Guard 2 distinguishes malicious from benign prompts&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.24801v1</guid>
+      <pubDate>Mon, 21 Sep 2026 16:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Tomorrow Becomes Today: Self-Evolving Policies for Agentic Time-Series Forecasting</title>
+      <link>http://arxiv.org/abs/2609.24862v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yifan Hu, Xilin Dai, Zhiyuan Qu, Yiding Liu, Zewei Dong, Jiang-ming Yang, Qiang Xu&lt;/p&gt;&lt;p&gt;Agentic time series forecasting concerns systems whose underlying mechanisms evolve, making the relative effectiveness of numerical models, reasoning strategies, and intervention rules inherently time-varying. Consequently, a time series agent must adapt the forecasts it produces and the orchestration policy that determines which components to trust and how to coordinate them. The deployment process naturally provides supervision for this adaptation as forecast horizons elapse and realized targets reveal the effectiveness of earlier decisions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.24862v1</guid>
+      <pubDate>Mon, 21 Sep 2026 16:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning Prognostic Variables for AI Convective Parameterizations via Symbolic Distillation</title>
+      <link>http://arxiv.org/abs/2609.24882v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jurij Schönfeld, Tom Beucler, Julien Savre, Steven Sherwood, Veronika Eyring&lt;/p&gt;&lt;p&gt;Hybrid AI-physics climate modeling aims to improve coarse (~100km-resolution) Earth system models by learning to parameterize subgrid processes from high-fidelity data. However, this so far mostly involves local-in-time, diagnostic parameterizations, in which the subgrid state depends only on the current coarse state with no memory of previous states, which is unrealistic for processes such as convection that have intrinsic persistence. To address this, we enhance local-in-time parameterizations by learning prognostic variables that compactly carry important, additional past information where &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.24882v1</guid>
+      <pubDate>Mon, 21 Sep 2026 16:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>BackTrend: Evaluating Scientific Weak-Signal Prediction via Backward Reconstruction</title>
+      <link>http://arxiv.org/abs/2609.24921v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiao Zhou, Yilun Zhao, Owen Jiang, Tiansheng Hu, Cai Xu, Manasi Patwardhan, Arman Cohan&lt;/p&gt;&lt;p&gt;Scientific weak signals are early, low-visibility research directions that later become central to mature scientific topics, yet existing resources such as trend tracking, citation forecasting, and foresight reports rarely provide validated reference sets that link concrete early precursors to later paradigms. We introduce BackTrend, a retrospective benchmark in which, given a mature target topic and a temporal evidence constraint, systems must recover two types of precursors: problem-space signals, underrecognized research problems, and solution-space signals, emerging methods for known probl&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.24921v1</guid>
+      <pubDate>Mon, 21 Sep 2026 17:18:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exactness at Inference: A Representational Criterion for Out-of-Distribution Generalization</title>
+      <link>http://arxiv.org/abs/2609.24942v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Filipe Marinho Rocha, Inês Dutra, Vítor Santos Costa, Luís Paulo Reis&lt;/p&gt;&lt;p&gt;A model generalizes outside its training distribution only when it computes a representation structurally equivalent to the generating mechanism, not an approximation fitted to it. Such equivalence is necessary for exactness in and out of distribution, and extrapolation is governed by this exactness at inference, whatever its realization. Tensor Logic shows this: a zero-temperature contraction is equivalent to discrete logic, deducing in place with no artefact extracted, its tensors Boolean, its embeddings orthonormal, only its arithmetic continuous&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.24942v1</guid>
+      <pubDate>Mon, 21 Sep 2026 17:39:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning Physics from an Imperfect Ancestor</title>
+      <link>http://arxiv.org/abs/2609.24947v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; S. Mohammad Mousavi, Teeratorn Kadeethum, Nikolaos Bouklas, Somdatta Goswami&lt;/p&gt;&lt;p&gt;Neural operators evaluate parametric partial differential equations cheaply but degrade sharply outside their training distribution. Physics-informed neural networks avoid dependence on labeled data, yet their optimization can be basin-fragile: when the governing residual admits multiple solutions, a PINN trained from scratch may converge to a physically incorrect state despite achieving a small residual. We show that these failure modes can be addressed jointly: an imperfect NO provides the structural prior needed to place a PINN in the correct solution basin, while the PDE residual refines t&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.24947v1</guid>
+      <pubDate>Mon, 21 Sep 2026 17:42:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation</title>
+      <link>http://arxiv.org/abs/2609.24976v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haoran Yuan, Zekai Wang, Boning Shao, Haoran Lu, Trevor Darrell, Ismini Lourentzou, Wei Zhan&lt;/p&gt;&lt;p&gt;Dexterous manipulation depends on contact dynamics that are often only partially observable from vision. Recent World-Action Models (WAMs) couple predictive video world modeling with action generation, but remain largely vision-centric and therefore cannot directly model these contact dynamics. We present DexTacWAM, a visuo-tactile WAM that encodes each fingertip independently, aggregates the resulting features through a finger- and pose-aware tactile compressor, and injects the tactile latent into a video diffusion world model for joint visuo-tactile world modeling&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.24976v1</guid>
+      <pubDate>Mon, 21 Sep 2026 17:55:24 +0000</pubDate>
+    </item>
   </channel>
 </rss>
