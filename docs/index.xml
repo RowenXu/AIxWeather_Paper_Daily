@@ -7,104 +7,104 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 24 Sep 2026 07:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:12:35 +0000</lastBuildDate>
     <item>
-      <title>FFM-CP: Cross-Backbone Fusion of Vision-Language Foundation Models for Few-Shot Computational Pathology</title>
-      <link>http://arxiv.org/abs/2609.27710v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anh-Tien Nguyen, Trung DQ. Dang, Nghiem Tuong Diep, Bui Ngoc Han Nguyen, Tan-Ha Mai, Miriam Cindy Maurer, Phuong Hoa Nguyen, Thi Thuy Uyen Nguyen&lt;/p&gt;&lt;p&gt;Pathology vision-language foundation models vary in performance across diseases and tasks, with no single model consistently performing best. The high cost of expert pathology annotation can also limit the labeled data available for task-specific adaptation. Combining complementary pretrained representations is a potential approach to these limitations, yet learning an effective fusion from few labeled examples remains challenging&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.27710v1</guid>
-      <pubDate>Wed, 23 Sep 2026 11:28:09 +0000</pubDate>
+      <title>Efficient Continuous DEM Reconstruction under Limited Target-Resolution Supervision</title>
+      <link>http://arxiv.org/abs/2609.29864v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zekai Shi, Meng Zhang, Haokun Zhang, Bo Zhang&lt;/p&gt;&lt;p&gt;High-resolution digital elevation models (DEMs) support Earth observation applications, but paired training references are often available only at coarser output resolutions. Reconstructing finer terrain grids therefore requires both effective transfer beyond the supervised scale and control of dense-query computation. To address this problem, SCOPE learns a continuous terrain representation from coarser-resolution pairs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.29864v1</guid>
+      <pubDate>Thu, 24 Sep 2026 14:23:59 +0000</pubDate>
     </item>
     <item>
-      <title>AI-Driven Neural Surrogates for In Silico Design of Cognitive-Affective Neuromodulation Targets</title>
-      <link>http://arxiv.org/abs/2609.27729v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marco Rothermel, Madleen Stenger, Soroush Daftarian, Svenja Jule Francke, Bita Shariatpanahi, José C. García Alanis, Mohammad-Ali Nikouei Mahani, Stefan G. Hofmann&lt;/p&gt;&lt;p&gt;In neuropsychiatry, the primary goal is often not only to decode brain activity but to change it, for example to lessen a negative affective bias or an overly salient memory. Motivated by control theory, we develop an AI-driven neural-surrogate framework that proposes candidate representational changes and tests their predicted perceptual effects from snapshots of stimulus-evoked fMRI activity, without physical stimulation. The framework combines fMRI decoding, deep generative modeling, and constrained latent-space steering&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.27729v1</guid>
-      <pubDate>Wed, 23 Sep 2026 11:44:30 +0000</pubDate>
+      <title>A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education</title>
+      <link>http://arxiv.org/abs/2609.29874v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shihao Wang&lt;/p&gt;&lt;p&gt;Generative artificial intelligence can turn learning analytics into personalized support, but feedback systems must decide when to intervene, which evidence to use, and how much assistance to provide. We developed a risk-adaptive, evidence-constrained framework for introductory programming using 2993 failed-submission states from 215 students. Student-disjoint models predicted persistent failure and related outcomes; four matched feedback conditions were generated for 136 cases; and calibrated risk informed capacity-limited intervention policies&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.29874v1</guid>
+      <pubDate>Thu, 24 Sep 2026 14:28:35 +0000</pubDate>
     </item>
     <item>
-      <title>Relative Discharge Stage (RDS) Classification: A Practical Indicator of Battery Discharge Progress</title>
-      <link>http://arxiv.org/abs/2609.27986v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Khoa Tran, Tri Le, Hung-Cuong Trinh, Hung Tran-Nam&lt;/p&gt;&lt;p&gt;Accurate remaining discharge time (RDT) prediction is challenging in real-world battery applications because future load profiles are unknown and highly dynamic. To address the uncertainty of continuous RDT regression, this paper introduces Relative Discharge Stage (RDS), a battery-management indicator that represents the remaining discharge condition using five interpretable classes: Normal, Good, Moderate, Low, and Recharge Required. Unlike state of charge (SOC), which reflects the current charge level, RDS characterizes the remaining discharge process without requiring future-current inform&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.27986v1</guid>
-      <pubDate>Wed, 23 Sep 2026 12:14:14 +0000</pubDate>
+      <title>Improving Calibration of Black-Box Radiology AI Using Test-Time Augmentation</title>
+      <link>http://arxiv.org/abs/2609.29931v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nathan Le, Magdalini Paschali, Arogya Koirala, Andrew Johnston, Zhongnan Fang, David B. Larson, Akshay S. Chaudhari, Camila Gonzalez&lt;/p&gt;&lt;p&gt;Radiology AI systems increasingly inform clinical decisions such as triage, follow-up imaging, and treatment planning. For these decisions to be made safely, model outputs must be well calibrated, meaning predicted probabilities accurately reflect true risk. Many standard techniques for improving calibration, such as MC Dropout and Deep Ensembles, require access to model parameters or retraining&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.29931v1</guid>
+      <pubDate>Thu, 24 Sep 2026 15:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>PISCES: Physics-Informed Solar-wind Convolutional autoEncoder for Space-weather Anomaly Detection and Early Warning</title>
-      <link>http://arxiv.org/abs/2609.28022v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kevin Lee, Alison J. March&lt;/p&gt;&lt;p&gt;Space weather early warning depends on detecting solar wind transients in in-situ measurements at the first Sun-Earth Lagrange point (L1), before they reach Earth. Fixed thresholds can miss combined magnetic and plasma structure, and many learning methods provide a single anomaly score. We present the Physics-Informed Solar-wind Convolutional autoEncoder for Space-weather (PISCES), a convolutional autoencoder trained without catalog labels on OMNI solar wind measurements under physics constraints&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.28022v1</guid>
-      <pubDate>Wed, 23 Sep 2026 12:47:32 +0000</pubDate>
+      <title>Error- and Prediction-Driven Motor Learning in the Cortico-Cerebellar Loop</title>
+      <link>http://arxiv.org/abs/2609.29945v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ana Carolina Filipe, Rui Ponte Costa, Cláudia Soares&lt;/p&gt;&lt;p&gt;Robust control under delayed sensory feedback remains a key challenge in both robotics and neuroscience. Classical cerebellar models explain delay compensation through forward prediction but fail to account for fast online corrections and rapid adaptation observed in biological systems.   We propose a cerebellum-inspired control framework that combines multiplexed predictive representations with internal feedback&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.29945v1</guid>
+      <pubDate>Thu, 24 Sep 2026 15:07:10 +0000</pubDate>
     </item>
     <item>
-      <title>Visual Tripwires: Anticipating Failure in Deep Vision Systems</title>
-      <link>http://arxiv.org/abs/2609.28099v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anoushka Harit, Rehan Zuberi, William Prew, Florian Markowetz&lt;/p&gt;&lt;p&gt;Deep vision systems remain vulnerable to corruption, occlusion, and distribution shift despite strong benchmark performance. Existing reliability methods typically evaluate uncertainty at individual time steps and do not explicitly model how a system progresses toward failure. We introduce Visual Tripwires, a predictive reliability framework that uses temporal instability in model behaviour to anticipate impending failure&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.28099v1</guid>
-      <pubDate>Wed, 23 Sep 2026 13:29:26 +0000</pubDate>
+      <title>Tracking States or Tracking Cosets? An Algebraic Account of Learned State Tracking</title>
+      <link>http://arxiv.org/abs/2609.29951v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhiyu Zhang, Yupeng Li&lt;/p&gt;&lt;p&gt;State tracking requires composing a sequence of updates, but accuracy alone does not reveal what a model has learned. We study neural networks trained to predict the running product of group elements. We identify quotient solutions in Transformers, where models recover the quotient class while predicting nearly uniformly among its members&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.29951v1</guid>
+      <pubDate>Thu, 24 Sep 2026 15:10:02 +0000</pubDate>
     </item>
     <item>
-      <title>Probabilistic and Geometry Aware Neural Surrogate of Scrape Off Layer Plasma Simulations</title>
-      <link>http://arxiv.org/abs/2609.28116v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gabriele Gianuzzo, Stefan Dasbach, Fleur Hendriks, Sven Wiesen, Vlado Menkovski&lt;/p&gt;&lt;p&gt;Fast surrogates for tokamak boundary-plasma simulation are typically deterministic regressors mapping a global operating point to a flattened vector of cell values. Near the divertor detachment transition the steady state is not reliably single-valued. A point estimate must average over qualitatively different plasma states, and it arrives with no statement of confidence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.28116v1</guid>
-      <pubDate>Wed, 23 Sep 2026 13:45:19 +0000</pubDate>
+      <title>GHOST-Q: Towards Studying Grounding Hallucinations Overlooked Under Same-score TradeOffs in Quantized VLMS</title>
+      <link>http://arxiv.org/abs/2609.29999v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Saim Rehman, Muhammad Shafique&lt;/p&gt;&lt;p&gt;Post-training quantization of vision--language models (VLMs) is typically assessed through aggregate task accuracy and memory savings, but preserving a headline score does not guarantee preservation of visual grounding behavior. We present GHOST-Q, a cross-precision controlled evaluation of three 8B VLM families under FP16, INT8, and NF4 across utility and hallucination-sensitive benchmarks. Rather than comparing only aggregate accuracy, we pair FP16 and quantized predictions item by-item to quantify how compression redistributes grounding successes and failures&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.29999v1</guid>
+      <pubDate>Thu, 24 Sep 2026 15:44:33 +0000</pubDate>
     </item>
     <item>
-      <title>Geospatial embeddings detect old-growth forests but buffered spatial validation narrows their advantage over Sentinel features</title>
-      <link>http://arxiv.org/abs/2609.28194v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Thomas Ratsakatika, Mihai Zotta, Srinivasan Keshav, Emily R. Lines&lt;/p&gt;&lt;p&gt;Old-growth forests develop over centuries under minimal anthropogenic disturbance, producing structurally complex and biodiverse stands. In Europe, protecting them requires mapping that is accurate for individual forest parcels yet deployable continent-wide. Geospatial foundation model (GFM) embeddings enable label-scarce land classification, but their value for old-growth detection remains unknown&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.28194v1</guid>
-      <pubDate>Wed, 23 Sep 2026 14:33:19 +0000</pubDate>
+      <title>AERIAL: Adversarial Evaluation of Robustness in Accuracy-Preserving Low-Precision EEG Decoders</title>
+      <link>http://arxiv.org/abs/2609.30037v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Saim Rehman, Muhammad Shafique&lt;/p&gt;&lt;p&gt;Deployment-oriented compression is attractive for resource-constrained brain--computer interfaces (BCIs), but whether it changes adversarial vulnerability remains unclear. On BCI Competition IV-2a, we compare 32-bit floating-point (FP32) EEGNet and ShallowConvNet models with global magnitude pruning and simulated INT8 post training quantization (PTQ) and quantization-aware training (QAT) across nine subjects and three seeds. Simulation provides differentiable quantize--dequantize models for white-box attacks and gradient analysis, while native TensorRT deployment is used for validation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.30037v1</guid>
+      <pubDate>Thu, 24 Sep 2026 16:07:01 +0000</pubDate>
     </item>
     <item>
-      <title>Support-Compiled Feature Folding: More Evidence at Lower Memory Across Tabular Foundation Models</title>
-      <link>http://arxiv.org/abs/2609.28208v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tian Zhou, Beverly Jin, Xue Wang, Linxiao Yang, Wenwei Wang, Bingqing Peng, Mengni Ye, Jinjie Gu&lt;/p&gt;&lt;p&gt;Tabular foundation models face a feature-side scaling dilemma: full-width pairwise mixing grows quadratically with the number of columns, whereas feature selection saves memory by discarding evidence. We introduce Support-Compiled Feature Folding (SCFF), a training-free inference framework that resolves this dilemma without changing the frozen backbone. SCFF routes support-ranked features through bounded leaves of the native feature encoder, support-checks the residual evidence, and merges the encoded messages before a single contextual prediction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.28208v1</guid>
-      <pubDate>Wed, 23 Sep 2026 14:45:06 +0000</pubDate>
+      <title>Residual Correlation as a Diagnostic for Joint-Uncertainty Gains from GP Coregionalisation</title>
+      <link>http://arxiv.org/abs/2609.30085v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fangqin Zhou, Joaquin Vanschoren&lt;/p&gt;&lt;p&gt;In multi-target regression, correlated targets are often coupled through multi-output Gaussian processes with an intrinsic model of coregionalisation (GP-ICM), assuming that sharing statistical strength improves overall performance. In practice, the benefits are inconsistent. Across the settings studied, we find that the main benefit of coregionalisation is joint uncertainty quantification rather than point prediction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.30085v1</guid>
+      <pubDate>Thu, 24 Sep 2026 16:33:59 +0000</pubDate>
     </item>
     <item>
-      <title>Do Center Biases Propagate? Robustness of Pathology Foundation Models in Whole-Slide Image Classification</title>
-      <link>http://arxiv.org/abs/2609.28231v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ilán Carretero, Pablo Meseguer, Rocío del Amor, Valery Naranjo&lt;/p&gt;&lt;p&gt;Pathology foundation models (PFMs) have transformed computational pathology through powerful representation learning from histopathological images. PFMs provide rich, discriminative representations for whole slide image (WSI) analysis, enabling tasks such as slide-level classification under multiple instance learning (MIL). However, these representations may also encode non-biological signals associated with acquisition centers, potentially introducing spurious shortcuts into downstream predictions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.28231v1</guid>
-      <pubDate>Wed, 23 Sep 2026 14:55:43 +0000</pubDate>
+      <title>Accelerating Video Diffusion via Training-Free Trajectory Routing</title>
+      <link>http://arxiv.org/abs/2609.30096v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mustafa Munir, Huy Vu, Shreyas Misra, Rohit Jena, Sajad Norouzi, Ali Taghibakhshi, Anis Ahmad, Anjul Patney&lt;/p&gt;&lt;p&gt;Video diffusion is computationally expensive, as it requires executing a large model across many denoising steps. Even with step-distillation, inference remains expensive because every distilled step still requires a costly model evaluation. We present TRACK: TRajectory-Aware Capacity routing via top-K selection, a heterogeneous denoising strategy that switches between compatible large and small models at selected steps, reducing the average cost per denoising evaluation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.30096v1</guid>
+      <pubDate>Thu, 24 Sep 2026 16:39:47 +0000</pubDate>
     </item>
     <item>
-      <title>PBLH Estimation from Satellite Radiances via a Dual-Encoder Transformer</title>
-      <link>http://arxiv.org/abs/2609.28286v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lorenzo Innocenti, Luca Catalano, Edoardo Arnaudo, Claudio Rossi, Salvatore Larosa, Domenico Cimini, Paolo Garza&lt;/p&gt;&lt;p&gt;Estimating the Planetary Boundary Layer Height (PBLH) from satellite observations is a challenging regression problem due to the indirect relationship between top-of-atmosphere radiances and near-surface atmospheric structure. Progress has been limited both by the lack of architectures capable of handling the multimodal, spatially incomplete nature of satellite overpasses, and by the scarcity of suitable datasets. In this paper, we build upon the large-scale dataset pairing MetOp radiances with ERA5 PBLH labels that we introduced in our previous work, making three contributions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.28286v1</guid>
-      <pubDate>Wed, 23 Sep 2026 15:33:02 +0000</pubDate>
+      <title>R-DEIM Net: An Efficient Rationale-Augmented Dual-Expert Interaction Model for Paraphrase Detection</title>
+      <link>http://arxiv.org/abs/2609.30100v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pushp, Vaibhav Prajapati, Himangshu Sarma&lt;/p&gt;&lt;p&gt;Recent advances in paraphrase detection reveal a fundamental trade-off: large language models achieve high accuracy but require high computation, while efficient Siamese-BERT variants offer practical scalability with reduced transparency in rationale generation. We present R-DEIM Net, a 76M-parameter dual-expert architecture exploring whether moderate-scale models can achieve competitive accuracy on paraphrase detection while enabling human-readable rationale generation. The architecture combines two specialized components: an Interaction Expert that captures token-level similarity patterns th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.30100v1</guid>
+      <pubDate>Thu, 24 Sep 2026 16:44:26 +0000</pubDate>
     </item>
     <item>
-      <title>Memory-Conditioned Diffusion Model for Generalized Langevin Dynamics</title>
-      <link>http://arxiv.org/abs/2609.28371v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Minglei Yang, Sicheng He&lt;/p&gt;&lt;p&gt;Generalized Langevin equations describe non-Markovian dynamics in which the evolution of resolved variables depends on their past. We propose a memory-conditioned diffusion method for learning stochastic flow maps of these dynamics from observed trajectories, without identifying a memory kernel or reconstructing unresolved variables. A compact, recursively updated bank of exponential filters enables the flow map to retain predictive history over multiple time scales without conditioning on long observation windows&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.28371v1</guid>
-      <pubDate>Wed, 23 Sep 2026 16:47:39 +0000</pubDate>
+      <title>Beyond Compression: Training Latent Representations for Stable Long-Horizon Rollout in Neural Surrogate Solvers</title>
+      <link>http://arxiv.org/abs/2609.30198v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andreas E. Robertson, Ashley T. Lenau, John D. Shimanek, Benjamin A. Jasperson, Vivek Oommen, David L. Damm, Krishna Garikipati, Remi Dingreville&lt;/p&gt;&lt;p&gt;Latent neural surrogate solvers, or latent dynamics models, accelerate simulations of time-dependent physical systems by evolving a compressed latent space rather than resolving full-resolution fields directly. In principle this reduces computational cost and simplifies learning, but in practice errors often accumulate rapidly during long autoregressive rollouts, limiting predictive utility. We show that this instability does not stem from the latent representation itself, but arises when it is trained solely for reconstruction, producing representations poorly suited to long-horizon forecasti&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.30198v1</guid>
+      <pubDate>Thu, 24 Sep 2026 17:36:46 +0000</pubDate>
     </item>
     <item>
-      <title>Quantum score matching with applications to learning thermal states</title>
-      <link>http://arxiv.org/abs/2609.28391v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yulong Dong, Jiaqi Leng&lt;/p&gt;&lt;p&gt;Score matching has driven major advances in classical generative learning by enabling models to learn from data without evaluating intractable normalization constants, or partition functions. Yet, extending this principle to quantum learning requires rethinking its foundations, as quantum states are described by noncommuting density operators rather than scalar probabilities. The noncommutativity creates fundamental challenges not only in defining quantum scores, but also in developing a training framework with efficient circuit implementations and rigorous theoretical guarantees&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.28391v1</guid>
-      <pubDate>Wed, 23 Sep 2026 17:01:36 +0000</pubDate>
+      <title>Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage</title>
+      <link>http://arxiv.org/abs/2609.30214v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuncong Yang, Jinlong Li, Yulong Xue, Feng Wu, Chunwen Zhang, Lei Qiao, Xuyang Wang&lt;/p&gt;&lt;p&gt;We present Underwater C$^{3}$-JEPA (cross-view, control-conditioned, context-extended), an object-centric multi-view predictive world model for near-field heavy-load underwater ROV salvage. Without contact sensors, it predicts in latent space how the task-object state evolves through contact interaction and under the hydrodynamic lag of the vehicle, from synchronized multi-view RGB observations and vehicle control signals. C$^{3}$-JEPA encodes multi-camera observations into task-object and context tokens, fuses cross-camera evidence through held-out-view attention, and directly predicts future&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.30214v1</guid>
+      <pubDate>Thu, 24 Sep 2026 17:45:42 +0000</pubDate>
     </item>
     <item>
-      <title>Learning Collective Dynamics with Differentiable Gaussian Representations</title>
-      <link>http://arxiv.org/abs/2609.28405v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jianxiang Ma, Mingfu Zhang, Xiaocui Yang, Yichen Gao, Junzhao Huang, Yuesong Hou&lt;/p&gt;&lt;p&gt;Collective responses depend on individual differences, contact opportunities, and accumulated experience. Learning their dynamics from aggregate counts requires connecting a population's response distribution to both current observations and future behavior. We introduce Differentiable Gaussian Dynamics (DGD), which learns this connection through three components: a Gaussian mixture representing heterogeneous response propensities, differentiable aggregation of contact intensity and behavioral probabilities, and feedback recurrence that updates subsequent responses&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.28405v1</guid>
-      <pubDate>Wed, 23 Sep 2026 17:08:53 +0000</pubDate>
+      <title>TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations</title>
+      <link>http://arxiv.org/abs/2609.30222v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ayush Jain, Sreeharsha Paruchuri, Ishita Gupta, Fan Zhang, Tanner Schmidt, Jakob Engel, Katerina Fragkiadaki, Adam W. Harley&lt;/p&gt;&lt;p&gt;Existing point tracking models face a fundamental tradeoff: they can either track a sparse set of query points over long horizons, or track all points across only short clips. We introduce TrackEverything, a 3D point tracker that breaks this trade-off by representing videos as persistent 3D scene tracks in world coordinates. Grounded in the insight that videos are 2D projections of an underlying 3D world, TrackEverything decouples model complexity from video duration, allowing it to scale with unique physical scene geometry instead&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.30222v1</guid>
+      <pubDate>Thu, 24 Sep 2026 17:48:20 +0000</pubDate>
     </item>
     <item>
-      <title>On the Diffusibility of High-Dimensional Latents</title>
-      <link>http://arxiv.org/abs/2609.28473v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chao Feng, Zhiyang Xu, Bowei Chen, Yuanjun Xiong, Xiyao Wang, Jui-Hsien Wang, Richard Zhang, Zhe Lin&lt;/p&gt;&lt;p&gt;Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstruction, discarding fine-grained visual details. As expected, finetuning these encoders for image reconstruction recovers such details&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.28473v1</guid>
-      <pubDate>Wed, 23 Sep 2026 17:59:56 +0000</pubDate>
+      <title>Rolling-WAM: World Action Models with Rolling Imagination</title>
+      <link>http://arxiv.org/abs/2609.30247v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yinghua Zhou, Junjie Ye, Yiqi Zhao, Hao Dong, Celina Shiyu Wang, Ruohai Ge, Tingyi Yang, Basile Van Hoorick&lt;/p&gt;&lt;p&gt;World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action denoising process at each replanning cycle incurs substantial latency, delaying action updates and limiting closed-loop responsiveness. We present Rolling-WAM, a formulation that distributes joint denoising across successive replanning cycles&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.30247v1</guid>
+      <pubDate>Thu, 24 Sep 2026 17:58:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
