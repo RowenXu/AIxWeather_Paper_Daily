@@ -7,90 +7,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 07:57:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 08:06:44 +0000</lastBuildDate>
     <item>
-      <title>Spectral Super-Resolution using Spatial-Spectral Residual Operator Networks</title>
-      <link>http://arxiv.org/abs/2609.35410v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Seokhyun Chin&lt;/p&gt;&lt;p&gt;Spectral super-resolution of multispectral satellite images can enable high temporal- and spatial-resolution hyperspectral satellite imagery at a modest cost, significantly increasing the applicability of hyperspectral remote sensing. This task is inherently ill-posed, making it well-suited for deep learning-based methods. In this study, the spectral super-resolution task is framed as an operator learning problem, and SSRON is proposed as a Deep Operator Network that effectively learns function-to-function mappings from downsampled spectra to continuous spectra&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.35410v1</guid>
-      <pubDate>Mon, 28 Sep 2026 15:28:31 +0000</pubDate>
+      <title>Co-PiLOT: Constrained Physics-Informed Latent Optimization for Target-Driven Inverse Design</title>
+      <link>http://arxiv.org/abs/2609.37875v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mahish K. Guru, Mayank Nagar, Ayush vyas, Jan Bohlen, Roland Aydin, Noomane Ben Khalifa&lt;/p&gt;&lt;p&gt;Inverse design of physical systems (molecules, devices, microstructures) often reduces to optimizing a high-dimensional structure against an expensive black-box simulator. Direct search is difficult because the space is non-Euclidean, feasibility is hard to encode, and each evaluation is expensive. We present Co-PiLOT, a latent optimization approach that maps candidates through a generative encoder-decoder, uses the decoder as a learned validity prior, and searches the latent space with physics-informed black-box optimization&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.37875v1</guid>
+      <pubDate>Tue, 29 Sep 2026 15:51:02 +0000</pubDate>
     </item>
     <item>
-      <title>A Reduced-Order Coupled Oscillator Model for the Emergence of Episodic Convection</title>
-      <link>http://arxiv.org/abs/2609.35428v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sooman Han, Soong-Ki Kim, Bowen Fan, Jérôme Vialard, Alexey V. Fedorov, Juan M. Lora&lt;/p&gt;&lt;p&gt;Extreme precipitation is a societal concern, and understanding tropical moist convection is increasingly important in a warming climate. Climate simulations show that, under hothouse Earth, convection can transition from quasi-steady precipitation to an episodic regime characterized by intense rainfall bursts separated by dry intervals, although the mechanisms governing this transition remain debated. Here we develop a reduced-order framework that represents tropical convection through column-integrated moisture (q) and thermal stratification (Delta), rather than bulk measures of convective in&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.35428v1</guid>
-      <pubDate>Mon, 28 Sep 2026 15:35:44 +0000</pubDate>
+      <title>Rollout-Marginal Distillation for Long-Horizon Autoregressive Video Generation</title>
+      <link>http://arxiv.org/abs/2609.37925v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chenjian Gao, Zhihao Hu, Jianqi Ma, Jun Zhang, Weidong Zhang, Tianfan Xue&lt;/p&gt;&lt;p&gt;Autoregressive (AR) video diffusion enables low-latency, streamable video generation, but prediction errors often accumulate over long rollouts. Training the generator on its own rollouts exposes it to these imperfect histories. However, existing video-level distribution matching distillation (DMD) scores the whole rollout jointly&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.37925v1</guid>
+      <pubDate>Tue, 29 Sep 2026 16:16:37 +0000</pubDate>
     </item>
     <item>
-      <title>Riccati State Space Models: Non-iterative Parallelization for Nonlinear Sequence Modeling</title>
-      <link>http://arxiv.org/abs/2609.35441v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mónika Farsang, Ramin Hasani, Daniela Rus, Radu Grosu&lt;/p&gt;&lt;p&gt;State space models (SSMs) achieve efficient sequence processing because their affine state updates are closed under composition and can therefore be evaluated with an associative parallel scan. Nonlinear recurrent models can provide richer, state-dependent dynamics, but generally lose this compositional structure: parallel evaluation then requires iterative methods that repeatedly linearize and scan the recurrence. We ask, what state-dependent nonlinear dynamics can be designed to remain exactly composable? We answer by introducing RiccatiSSM, a nonlinear SSM, in which each state dimension fol&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.35441v1</guid>
-      <pubDate>Mon, 28 Sep 2026 15:40:55 +0000</pubDate>
+      <title>GRFBrain: Graph-Structured Rectified Flows for EEG Dynamic Modeling</title>
+      <link>http://arxiv.org/abs/2609.37934v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haohui Jia, Zheng Chen, Jathurshan Pradeepkumar, Xu Cao, Yasuko Matsubara, Yasushi Sakurai, Takashi Matsubara&lt;/p&gt;&lt;p&gt;Forecasting time-varying functional connectivity from electroencephalography (EEG) requires modeling both history-dependent trends and structured variability across channels. Conditional flow matching provides a framework for distributional forecasting, yet it remains unclear whether graph-informed source distributions offer practical advantages over isotropic noise and strong deterministic predictors. We introduce a graph-structured residual flow framework that separates conditional mean prediction from stochastic residual transport&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.37934v1</guid>
+      <pubDate>Tue, 29 Sep 2026 16:18:44 +0000</pubDate>
     </item>
     <item>
-      <title>AutoBCI: Forecast-Guided Agentic Neural Architecture Discovery for EEG-Based Brain--Computer Interfaces</title>
-      <link>http://arxiv.org/abs/2609.35456v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Muyun Jiang, Yi Ding, Wei Zhang, Jinbo Chen, Chenyu Liu, Zhenjie Yang, Yuxin Li, Jingyuan Chen&lt;/p&gt;&lt;p&gt;EEG-based brain-computer interfaces support a broad range of applications, yet designing decoding architectures that perform well across diverse tasks remains challenging. We introduce AutoBCI, an agentic framework in which a Designer Agent and a Forecaster Agent support the discovery and selection of EEG decoding architectures across tasks. The Designer Agent performs Pool-Guided Architecture Discovery (PGAD), generating and refining architectures through training and validation across multiple EEG tasks, such as emotion recognition, motor imagery, and sleep staging&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.35456v1</guid>
-      <pubDate>Mon, 28 Sep 2026 15:46:12 +0000</pubDate>
+      <title>An Efficient Machine Learning Approach for Degradation Forecasting in AEM Water Electrolysis</title>
+      <link>http://arxiv.org/abs/2609.37941v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marco Veneriano, Ani Gjergji, Sebastiano Bellani, Andrea Riva, Vito Paolo Pastore, Matteo Santacesaria&lt;/p&gt;&lt;p&gt;This study provides a data-driven analysis of a novel dataset of single-cell Anion Exchange Membrane water electrolyzers (AEMWE), operated under constant current load across multiple heterogeneous experimental campaigns. We train and evaluate a range of machine learning models with different complexity, including linear baselines, LSTMs and CNNs, to perform medium-term forecasting of the cell voltage degradation curve. The models are assessed within a rigorous training and evaluation framework specifically designed for heterogeneous industrial data.&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.37941v1</guid>
+      <pubDate>Tue, 29 Sep 2026 16:21:15 +0000</pubDate>
     </item>
     <item>
-      <title>Analog Computing revisited: A fully analog and minimalistic Damage Detector for Ultrasonic Testing enabling Material-Integrated Structural Health Monitoring</title>
-      <link>http://arxiv.org/abs/2609.35478v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Stefan Bosse&lt;/p&gt;&lt;p&gt;Ultrasonic Testing (UT) is commonly used to detect damage in structures, e.g., metal plates. A sensor acquires Ultrasonic waves, e.g., by using PZT transducers. The time-resolved sensor signal must be processed with analog electronics, e.g., amplified and filtered&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.35478v1</guid>
-      <pubDate>Mon, 28 Sep 2026 15:56:01 +0000</pubDate>
+      <title>BrainNet Studio: A Unified Toolkit for Brain Network Construction, Intelligent Analysis, and Visualization</title>
+      <link>http://arxiv.org/abs/2609.37956v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiwei Zeng, Shengrong Li, Yiheng Liu, Chunwei Tian, Daoqiang Zhang, Qi Zhu&lt;/p&gt;&lt;p&gt;Brain networks characterize structural and functional relationships among brain regions and support research on cognition, brain disorders, and brain-computer interfaces. Their time-varying topology and higher-order spatiotemporal dependencies are not adequately represented by conventional static networks. Existing tools primarily focus on static connectomes and provide limited integration of dynamic network modeling with modern graph and sequence learning methods&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.37956v1</guid>
+      <pubDate>Tue, 29 Sep 2026 16:30:13 +0000</pubDate>
     </item>
     <item>
-      <title>Bounding Retraining Equivalence and the Deletion Floor in Materials Machine Unlearning</title>
-      <link>http://arxiv.org/abs/2609.35635v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Can Polat, Mustafa Kurban, Erchin Serpedin, Hasan Kurban&lt;/p&gt;&lt;p&gt;In materials machine learning, closely related retained structures can sustain accurate property predictions even after removing a specific record, rendering post-deletion prediction error an ambiguous metric for machine unlearning. To resolve this ambiguity, we define the deletion floor as the expected target loss under a specified retraining procedure at the deleted request. Standard indistinguishability constraints yield a sharp interval bounding an update's target loss around this baseline reference&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.35635v1</guid>
-      <pubDate>Mon, 28 Sep 2026 17:03:08 +0000</pubDate>
+      <title>TabFM: A Zero-Shot Foundation Model for Tabular Data</title>
+      <link>http://arxiv.org/abs/2609.37959v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Weihao Kong, Erez Louidor Ilan, Shuxin Nie, Taman Narayan, Rajat Sen, Yichen Zhou, Deqing Fu, Samet Oymak&lt;/p&gt;&lt;p&gt;Tabular machine learning typically relies on per-dataset workflows, fitting tree ensembles or running AutoML searches from scratch for every task. We present TabFM, a 400M-parameter tabular foundation model that formulates supervised tabular prediction as in-context learning. TabFM produces calibrated zero-shot predictions in a single forward pass without task-specific tuning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.37959v1</guid>
+      <pubDate>Tue, 29 Sep 2026 16:30:44 +0000</pubDate>
     </item>
     <item>
-      <title>Guided Uncertainty-Aware Robust Domain Transfer</title>
-      <link>http://arxiv.org/abs/2609.35654v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xin Xiong, Zijian Guo, Tianxi Cai&lt;/p&gt;&lt;p&gt;Artificial intelligence models deployed as clinical decision support tools often suffer substantial performance degradation over time and across institutions due to covariate shift, concept drift, and cross-system heterogeneity. Fully retraining complex models is frequently infeasible, particularly in EHR settings where labeled outcome data are scarce and regulatory constraints limit model modification. We propose GUARD (Guided and Uncertainty-Aware Robustness to Domain shift), a unified statistical framework for updating an existing deployed model using limited labeled target data and multipl&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.35654v1</guid>
-      <pubDate>Mon, 28 Sep 2026 17:20:38 +0000</pubDate>
+      <title>On Trajectory-Aware Training for Masked Diffusion Language Models</title>
+      <link>http://arxiv.org/abs/2609.37974v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Manuel Madeira, Amitis Shidani, Alice Bizeul, Victor Turrisi, Louis Béthune, Bhavika Devnani, Dan Busbridge, Pierre Ablin&lt;/p&gt;&lt;p&gt;Masked diffusion models (MDMs) generate text by unmasking several tokens per step, but they are trained and sampled under different conditions. The model is trained on randomly masked sequences, whereas inference follows a trajectory shaped by the model's own predictions. Additionally, each step has no access to what the previous one computed&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.37974v1</guid>
+      <pubDate>Tue, 29 Sep 2026 16:40:34 +0000</pubDate>
     </item>
     <item>
-      <title>Explainable Deep Learning for Probabilistic Nowcasting of Radar Reflectivity in Tornadic Storms</title>
-      <link>http://arxiv.org/abs/2609.35675v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nathan Erickson, Amy McGovern, Aaron Hill&lt;/p&gt;&lt;p&gt;Tornadoes pose substantial risk to human life and property in the United States, causing more than 50 fatalities and \$100 million of property damage on average annually. When tornadoes are likely, weather radar provides critical information for forecasters by providing information on storm morphology, storm motion, and intensity trends. Additional tools such as satellite and numerical weather prediction model runs can provide useful short-term information for understanding changes in storm characteristics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.35675v1</guid>
-      <pubDate>Mon, 28 Sep 2026 17:29:35 +0000</pubDate>
+      <title>doPlan: A Variable-Horizon Dataset for Multi-Stage Language-Conditioned Planning in Autonomous Driving</title>
+      <link>http://arxiv.org/abs/2609.38028v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Parthib Roy, Yash Tandon, Marcus Blennemann, Giovanni Tapia Lopez, Angel Martinez-Sanchez, Mohan M. Trivedi, Ross Greer&lt;/p&gt;&lt;p&gt;Autonomous vehicles interacting with passengers through natural language must reason beyond immediate commands. Passenger intent may span multiple stages of behavior, depend on future events, refer to surrounding agents or landmarks, and remain relevant as driving conditions evolve. Existing language-enabled driving datasets largely focus on short, localized interactions, leaving these longer-horizon forms of passenger intent comparatively underexplored&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.38028v1</guid>
+      <pubDate>Tue, 29 Sep 2026 17:08:01 +0000</pubDate>
     </item>
     <item>
-      <title>A Unified Uncertainty Representation for Graph Neural Networks via Doubly-Spectral Stochastic Expansion</title>
-      <link>http://arxiv.org/abs/2609.35703v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fred Xu, Thomas Markovich, Florence Regol, Yizhou Sun&lt;/p&gt;&lt;p&gt;Reliable deployment of graph neural networks requires calibration, out-of-distribution (OOD) detection, and robustness to distribution shift, yet existing methods address these needs with separate models and   objectives. We model uncertain node embeddings as random graph signals: graph Fourier filters capture structural variation, and a scalar orthogonal-polynomial chaos coordinate captures latent stochastic   variation. The resulting doubly-spectral stochastic (DSS) expansion supplies task-matched readouts from one representation: the mean coefficient encodes class evidence for the energy-ba&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.35703v1</guid>
-      <pubDate>Mon, 28 Sep 2026 17:42:52 +0000</pubDate>
+      <title>Latent Inference-Time Guidance of Time Series Foundation Models</title>
+      <link>http://arxiv.org/abs/2609.38058v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chloé Hashimoto-Cullen, Amaury Durand, Laurent Bozzi, Benjamin Guedj, Yannig Goude, Sylvain Le Corff&lt;/p&gt;&lt;p&gt;Time Series Foundation Models (TSFMs) currently provide state-of-the-art results in forecasting tasks. They are available out-of-the-box and rely on in-context learning to make their predictions, which makes the quality of their performance highly sensitive to the user-selected lookback, covariates, horizon and training data distributions. In practise, the quality of the forecasts are variable but complementary, which highlights the need for a principled ensembling approach, rather than selecting the best context&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.38058v1</guid>
+      <pubDate>Tue, 29 Sep 2026 17:25:58 +0000</pubDate>
     </item>
     <item>
-      <title>Reinforcing Agentic Creativity in Scientific Ideation with Night Science</title>
-      <link>http://arxiv.org/abs/2609.35706v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Priyanka Kargupta, Silviu Cucerzan, Shweti Mahajan, Allen Herring, Jiawei Han, Ryen W. White, Sujay Kumar Jauhar&lt;/p&gt;&lt;p&gt;Large language models (LLMs) excel at structured, verifiable tasks, but their low-entropy bias can produce homogeneous and predictable outputs, limiting their utility for open-ended scientific ideation. Effective discovery, however, spans a broader creative spectrum: from structured day science to loosely structured, serendipitous night science that reaches ideas beyond those typically considered. We introduce AI Night-Scientist, an agentic framework that uses reinforcement learning to teach models when and how to depart from predictable reasoning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.35706v1</guid>
-      <pubDate>Mon, 28 Sep 2026 17:43:52 +0000</pubDate>
+      <title>Alpha Diffusion Language Models: Factorization Alone Is Not the Problem</title>
+      <link>http://arxiv.org/abs/2609.38066v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nikita Gushchin, Dmitry Baranchuk, Alexander Korotin&lt;/p&gt;&lt;p&gt;Discrete diffusion language models can generate multiple tokens in parallel, but reducing the number of denoising steps can lead to inconsistent predictions. Standard cross-entropy training fits conditional token marginals, whereas parallel generation requires consistent joint predictions. We introduce Alpha Diffusion Language Models (AlphaDLM), trained with a sequence-level alpha loss that recovers cross-entropy in the limit of vanishing alpha and has a joint-mode optimum at alpha one&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.38066v1</guid>
+      <pubDate>Tue, 29 Sep 2026 17:31:02 +0000</pubDate>
     </item>
     <item>
-      <title>Improving Test-Time Scaling with Adaptive Looped Transformers</title>
-      <link>http://arxiv.org/abs/2609.35748v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yichen You, Tianyu Fu, Aosong Feng, Xingtai Lv, Xuefei Ning, Ning Ding, Yu Wang&lt;/p&gt;&lt;p&gt;Looped transformers have demonstrated promising parameter efficiency by reusing layers for latent computation. Prior studies compare looped and non-looped models at matched parameters or per-token FLOPs. However, to the best of our knowledge, whether looping improves test-time scaling as outputs grow longer remains underexplored&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.35748v1</guid>
-      <pubDate>Mon, 28 Sep 2026 17:56:55 +0000</pubDate>
+      <title>A foundation model for energy and radiation systems built on heterogeneous scientific interfaces</title>
+      <link>http://arxiv.org/abs/2609.38067v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Samrendra Roy, Tapas Tripura, Yoon Pyo Lee, Souvik Chakraborty, Syed Bahauddin Alam&lt;/p&gt;&lt;p&gt;Scientific foundation models are commonly evaluated after heterogeneous physical problems have already been translated into a compatible gridded, tokenized or symbolic representation. This leaves the scientific interface outside both the pretrained model and the audit of what is actually reused. We study the complementary setting in which boundary histories, sparse monitor records and loading histories retain their native inference classes and their outputs remain on Cartesian, latitude-longitude and unstructured domains&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.38067v1</guid>
+      <pubDate>Tue, 29 Sep 2026 17:31:44 +0000</pubDate>
     </item>
     <item>
-      <title>TokenCast: Forecasting Token Consumption During LLM Agent Execution</title>
-      <link>http://arxiv.org/abs/2609.35760v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chaoqian Ouyang, Ling Yue, Libin Zheng, Huanghui Guo, Shengxiang Xu, YiShu Wang, Ran Li, Jian Yin&lt;/p&gt;&lt;p&gt;When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and intermediate results, while the growing context steadily inflates the input size of every subsequent call. The total consumption of a task is therefore hard to predict before execution and the prediction must be revised as the run unfolds&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.35760v1</guid>
-      <pubDate>Mon, 28 Sep 2026 17:59:09 +0000</pubDate>
+      <title>Probe-Space Preconditioning for Fast and Stable Zero-Order Training</title>
+      <link>http://arxiv.org/abs/2609.38095v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Francois Chaubard, Mykel J. Kochenderfer, Chris Ré&lt;/p&gt;&lt;p&gt;Backpropagation (BP) dominates deep learning but imposes a massive memory tax. For example, training OPT-30B with Adam requires $\approx$ 600GB of GPU memory (assuming batch size 8 and sequence length 2048). Alternatively, zero-order optimization (ZOO) trains in inference-mode (requiring only $\approx$ 60GB for the same model): no stored activations, no gradients, and no optimizer states&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.38095v1</guid>
+      <pubDate>Tue, 29 Sep 2026 17:43:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
