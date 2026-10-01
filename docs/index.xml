@@ -7,90 +7,104 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 30 Sep 2026 08:06:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:24:44 +0000</lastBuildDate>
     <item>
-      <title>Co-PiLOT: Constrained Physics-Informed Latent Optimization for Target-Driven Inverse Design</title>
-      <link>http://arxiv.org/abs/2609.37875v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mahish K. Guru, Mayank Nagar, Ayush vyas, Jan Bohlen, Roland Aydin, Noomane Ben Khalifa&lt;/p&gt;&lt;p&gt;Inverse design of physical systems (molecules, devices, microstructures) often reduces to optimizing a high-dimensional structure against an expensive black-box simulator. Direct search is difficult because the space is non-Euclidean, feasibility is hard to encode, and each evaluation is expensive. We present Co-PiLOT, a latent optimization approach that maps candidates through a generative encoder-decoder, uses the decoder as a learned validity prior, and searches the latent space with physics-informed black-box optimization&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.37875v1</guid>
-      <pubDate>Tue, 29 Sep 2026 15:51:02 +0000</pubDate>
+      <title>Markovian Dynamics Enforcer: Feasibility Preserving Correction on Learned Dynamics Manifolds</title>
+      <link>http://arxiv.org/abs/2609.39888v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kevin Yu, Tao Guo, Constantinos Antoniou, Panagiotis Angeloudis&lt;/p&gt;&lt;p&gt;Neural trajectory predictors can reach low prediction error while violating dynamics, actuator limits, or state constraints, especially when controls are unobserved and dynamics are partially specified. We introduce the Markovian Dynamics Enforcer (MaDE), a time-invariant post-hoc operator mapping state-transition proposals onto a learned feasible dynamics manifold, trained on feasible states without ground-truth controls. For each transition it infers a control and recomputes the state through a completion model of known physics plus a learned residual&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.39888v1</guid>
+      <pubDate>Wed, 30 Sep 2026 14:57:24 +0000</pubDate>
     </item>
     <item>
-      <title>Rollout-Marginal Distillation for Long-Horizon Autoregressive Video Generation</title>
-      <link>http://arxiv.org/abs/2609.37925v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chenjian Gao, Zhihao Hu, Jianqi Ma, Jun Zhang, Weidong Zhang, Tianfan Xue&lt;/p&gt;&lt;p&gt;Autoregressive (AR) video diffusion enables low-latency, streamable video generation, but prediction errors often accumulate over long rollouts. Training the generator on its own rollouts exposes it to these imperfect histories. However, existing video-level distribution matching distillation (DMD) scores the whole rollout jointly&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.37925v1</guid>
-      <pubDate>Tue, 29 Sep 2026 16:16:37 +0000</pubDate>
+      <title>Shared Weights, Selected Computations: How Looped Transformers Route What Each Loop Does</title>
+      <link>http://arxiv.org/abs/2609.39892v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiaju Wu, Yi Hu, Muhan Zhang&lt;/p&gt;&lt;p&gt;Looped Transformers repeatedly apply the same set of Transformer layers, giving them a recurrent architecture for latent computation. Their strong performance on iterative reasoning and length-generalization tasks suggests an appealing explanation: recurrence may provide an inductive bias that lets the model reuse a learned algorithm across loops. However, weight sharing alone does not imply that every loop performs the same operation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.39892v1</guid>
+      <pubDate>Wed, 30 Sep 2026 14:59:21 +0000</pubDate>
     </item>
     <item>
-      <title>GRFBrain: Graph-Structured Rectified Flows for EEG Dynamic Modeling</title>
-      <link>http://arxiv.org/abs/2609.37934v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haohui Jia, Zheng Chen, Jathurshan Pradeepkumar, Xu Cao, Yasuko Matsubara, Yasushi Sakurai, Takashi Matsubara&lt;/p&gt;&lt;p&gt;Forecasting time-varying functional connectivity from electroencephalography (EEG) requires modeling both history-dependent trends and structured variability across channels. Conditional flow matching provides a framework for distributional forecasting, yet it remains unclear whether graph-informed source distributions offer practical advantages over isotropic noise and strong deterministic predictors. We introduce a graph-structured residual flow framework that separates conditional mean prediction from stochastic residual transport&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.37934v1</guid>
-      <pubDate>Tue, 29 Sep 2026 16:18:44 +0000</pubDate>
+      <title>AIMS: An Agentic AI Framework for Sim-to-Real Multi-Modal ISAC</title>
+      <link>http://arxiv.org/abs/2609.39964v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yijie Bian, Kai Zhang, Wei Guo, Zixin Wang, Shenghui Song, Jun Zhang, Khaled B. Letaief&lt;/p&gt;&lt;p&gt;Multi-modal integrated sensing and communication (ISAC) enables environmental perception and reliable connectivity for intelligent wireless networks. Data-driven multi-modal ISAC models depend heavily on annotated real-world data to learn relationships across sensing and wireless observations, thereby constraining scalable deployment. Although synthetic data generation reduces the burden, adapting existing simulation pipelines to a target deployment requires consistent scene, sensing, wireless, and learning configurations, while mismatches among these coupled components impair sim-to-real tran&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.39964v1</guid>
+      <pubDate>Wed, 30 Sep 2026 15:31:29 +0000</pubDate>
     </item>
     <item>
-      <title>An Efficient Machine Learning Approach for Degradation Forecasting in AEM Water Electrolysis</title>
-      <link>http://arxiv.org/abs/2609.37941v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marco Veneriano, Ani Gjergji, Sebastiano Bellani, Andrea Riva, Vito Paolo Pastore, Matteo Santacesaria&lt;/p&gt;&lt;p&gt;This study provides a data-driven analysis of a novel dataset of single-cell Anion Exchange Membrane water electrolyzers (AEMWE), operated under constant current load across multiple heterogeneous experimental campaigns. We train and evaluate a range of machine learning models with different complexity, including linear baselines, LSTMs and CNNs, to perform medium-term forecasting of the cell voltage degradation curve. The models are assessed within a rigorous training and evaluation framework specifically designed for heterogeneous industrial data.&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.37941v1</guid>
-      <pubDate>Tue, 29 Sep 2026 16:21:15 +0000</pubDate>
+      <title>Efficient Active Auditing of Multi-Group Fairness with Bias Probes</title>
+      <link>http://arxiv.org/abs/2609.40034v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ayoub Ajarra, Debabrota Basu&lt;/p&gt;&lt;p&gt;Over the past decade, Machine Learning (ML) has been trained under dual objectives: minimizing prediction error via Empirical Risk Minimization (ERM) while controlling unfairness bias. In practice, however, fairness-aware training often yields limited improvements over standard ERM, making reliable post hoc auditing essential. Existing auditing approaches for black-box models either rely on model reconstruction --exposing systems to extraction attacks-- or directly estimate fairness metrics, offering limited insight into which regions of the data distribution drive bias&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.40034v1</guid>
+      <pubDate>Wed, 30 Sep 2026 16:05:25 +0000</pubDate>
     </item>
     <item>
-      <title>BrainNet Studio: A Unified Toolkit for Brain Network Construction, Intelligent Analysis, and Visualization</title>
-      <link>http://arxiv.org/abs/2609.37956v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xiwei Zeng, Shengrong Li, Yiheng Liu, Chunwei Tian, Daoqiang Zhang, Qi Zhu&lt;/p&gt;&lt;p&gt;Brain networks characterize structural and functional relationships among brain regions and support research on cognition, brain disorders, and brain-computer interfaces. Their time-varying topology and higher-order spatiotemporal dependencies are not adequately represented by conventional static networks. Existing tools primarily focus on static connectomes and provide limited integration of dynamic network modeling with modern graph and sequence learning methods&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.37956v1</guid>
-      <pubDate>Tue, 29 Sep 2026 16:30:13 +0000</pubDate>
+      <title>Grounding Time-Series Foundation Models in Digital Twin Topology for Predictive Maintenance</title>
+      <link>http://arxiv.org/abs/2609.40071v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sizhe Ma, Katherine A. Flanigan, Mario Bergés&lt;/p&gt;&lt;p&gt;Digital twins increasingly support downstream analytical tasks that depend on time-series data, motivating interest in time-series foundation models (TSFMs) as scalable backbones. However, TSFMs are primarily pretrained for temporal continuation and often underperform on unseen tasks such as regression, and systematic empirical comparisons against state-of-the-art dedicated models in digital twin contexts remain limited. This paper makes three contributions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.40071v1</guid>
+      <pubDate>Wed, 30 Sep 2026 16:24:35 +0000</pubDate>
     </item>
     <item>
-      <title>TabFM: A Zero-Shot Foundation Model for Tabular Data</title>
-      <link>http://arxiv.org/abs/2609.37959v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Weihao Kong, Erez Louidor Ilan, Shuxin Nie, Taman Narayan, Rajat Sen, Yichen Zhou, Deqing Fu, Samet Oymak&lt;/p&gt;&lt;p&gt;Tabular machine learning typically relies on per-dataset workflows, fitting tree ensembles or running AutoML searches from scratch for every task. We present TabFM, a 400M-parameter tabular foundation model that formulates supervised tabular prediction as in-context learning. TabFM produces calibrated zero-shot predictions in a single forward pass without task-specific tuning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.37959v1</guid>
-      <pubDate>Tue, 29 Sep 2026 16:30:44 +0000</pubDate>
+      <title>PTNO: Training Neural Operators with Noisy Monte Carlo Estimates for Particle Transport Problems</title>
+      <link>http://arxiv.org/abs/2609.40090v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yubo Cao, Xi Deng, Mengqi Xia, Vignesh Gopakumar, Ander Gray, Anima Anandkumar&lt;/p&gt;&lt;p&gt;Particle transport under multiple scattering is central to radiative transfer and plasma physics, yet high-fidelity Monte Carlo (MC) simulations must trace prohibitively many particles. Learning-based surrogates can amortize this cost, but typically train on expensive, well-converged MC solutions. We propose the Particle Transport Neural Operator (PTNO), a neural operator that learns particle transport surrogates directly from noisy, low-cost MC labels&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.40090v1</guid>
+      <pubDate>Wed, 30 Sep 2026 16:31:40 +0000</pubDate>
     </item>
     <item>
-      <title>On Trajectory-Aware Training for Masked Diffusion Language Models</title>
-      <link>http://arxiv.org/abs/2609.37974v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Manuel Madeira, Amitis Shidani, Alice Bizeul, Victor Turrisi, Louis Béthune, Bhavika Devnani, Dan Busbridge, Pierre Ablin&lt;/p&gt;&lt;p&gt;Masked diffusion models (MDMs) generate text by unmasking several tokens per step, but they are trained and sampled under different conditions. The model is trained on randomly masked sequences, whereas inference follows a trajectory shaped by the model's own predictions. Additionally, each step has no access to what the previous one computed&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.37974v1</guid>
-      <pubDate>Tue, 29 Sep 2026 16:40:34 +0000</pubDate>
+      <title>reGRAF: a global MPAS reforecast data set with convection-allowing refinements over the US and Europe</title>
+      <link>http://arxiv.org/abs/2609.40133v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Thomas M Hamill, Akshay Subramaniam, Montgomery Flora, Raghu Raj Prasanna Kumar, Karthik Kashinath, Carl Ponder, Tao Ge, Sepideh Khajehie&lt;/p&gt;&lt;p&gt;NVIDIA and The Weather Company (TWC) have generated a data set of reforecasts from TWC's GRAF (Global high-Resolution Atmospheric Forecasting) model, a version of the National Center for Atmospheric Research (NCAR) Model for Predictions Across Scales (\href{https://ncar.ucar.edu/what-we-offer/models/model-prediction-across-scales-mpas}{\underline{MPAS}}). GRAF is global, but the configuration for this reforecast had a mesh refinement to \textasciitilde4 km over the US, Caribbean Basin, and Europe, and 15 km elsewhere. This model was designed to run much of the computation on graphical processi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.40133v1</guid>
+      <pubDate>Wed, 30 Sep 2026 16:49:30 +0000</pubDate>
     </item>
     <item>
-      <title>doPlan: A Variable-Horizon Dataset for Multi-Stage Language-Conditioned Planning in Autonomous Driving</title>
-      <link>http://arxiv.org/abs/2609.38028v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Parthib Roy, Yash Tandon, Marcus Blennemann, Giovanni Tapia Lopez, Angel Martinez-Sanchez, Mohan M. Trivedi, Ross Greer&lt;/p&gt;&lt;p&gt;Autonomous vehicles interacting with passengers through natural language must reason beyond immediate commands. Passenger intent may span multiple stages of behavior, depend on future events, refer to surrounding agents or landmarks, and remain relevant as driving conditions evolve. Existing language-enabled driving datasets largely focus on short, localized interactions, leaving these longer-horizon forms of passenger intent comparatively underexplored&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.38028v1</guid>
-      <pubDate>Tue, 29 Sep 2026 17:08:01 +0000</pubDate>
+      <title>Less is more: error-distance scaling relation for data-efficient kilometer-scale downscaling of extreme heat</title>
+      <link>http://arxiv.org/abs/2609.40140v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ahmed Marey, Henry Lu, Abhishek Gaur, Liangzhu Leon Wang, Sherif Goubran, Malek Aloui, Theodore Potsis, Alex Hernandez-Garcia&lt;/p&gt;&lt;p&gt;Extreme heat is where urban adaptation needs kilometer-scale data the most, but the simulations training a downscaler can cost more than they save, and how much is needed has not been identified. We measured it with CASPER, a U-Net with a structure-preserving loss downscaling 32 km reanalysis to 1 km temperature, humidity and wind, across 24 configurations of one to eight months. Held-out error grows linearly with climatological distance to the training data, RMSE = 0.83 + 2.95 d, explaining 90% of its variance against 7% for volume and predicting unseen months in advance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.40140v1</guid>
+      <pubDate>Wed, 30 Sep 2026 16:50:36 +0000</pubDate>
     </item>
     <item>
-      <title>Latent Inference-Time Guidance of Time Series Foundation Models</title>
-      <link>http://arxiv.org/abs/2609.38058v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chloé Hashimoto-Cullen, Amaury Durand, Laurent Bozzi, Benjamin Guedj, Yannig Goude, Sylvain Le Corff&lt;/p&gt;&lt;p&gt;Time Series Foundation Models (TSFMs) currently provide state-of-the-art results in forecasting tasks. They are available out-of-the-box and rely on in-context learning to make their predictions, which makes the quality of their performance highly sensitive to the user-selected lookback, covariates, horizon and training data distributions. In practise, the quality of the forecasts are variable but complementary, which highlights the need for a principled ensembling approach, rather than selecting the best context&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.38058v1</guid>
-      <pubDate>Tue, 29 Sep 2026 17:25:58 +0000</pubDate>
+      <title>Role-Adaptive Policy Optimization for Offline Reinforcement Learning</title>
+      <link>http://arxiv.org/abs/2609.40149v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Seonvin Cho, Soohyun Choi, Songnam Hong&lt;/p&gt;&lt;p&gt;Policy regularization in offline reinforcement learning balances policy improvement against reliance on uncertain value estimates. This balance can differ between selecting actions for execution and supplying actions for critic bootstrapping, yet methods such as TD3+BC couple these roles through a shared policy. We propose Role-Adaptive Policy Optimization (RAPO), which adapts policy-update coefficients according to their roles in value learning and execution&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.40149v1</guid>
+      <pubDate>Wed, 30 Sep 2026 16:53:45 +0000</pubDate>
     </item>
     <item>
-      <title>Alpha Diffusion Language Models: Factorization Alone Is Not the Problem</title>
-      <link>http://arxiv.org/abs/2609.38066v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nikita Gushchin, Dmitry Baranchuk, Alexander Korotin&lt;/p&gt;&lt;p&gt;Discrete diffusion language models can generate multiple tokens in parallel, but reducing the number of denoising steps can lead to inconsistent predictions. Standard cross-entropy training fits conditional token marginals, whereas parallel generation requires consistent joint predictions. We introduce Alpha Diffusion Language Models (AlphaDLM), trained with a sequence-level alpha loss that recovers cross-entropy in the limit of vanishing alpha and has a joint-mode optimum at alpha one&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.38066v1</guid>
-      <pubDate>Tue, 29 Sep 2026 17:31:02 +0000</pubDate>
+      <title>OpenTSLM TeeMoE: A Unified Time-Series Language Model for Forecasting, Contextual Prediction, and Reasoning</title>
+      <link>http://arxiv.org/abs/2609.40265v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tony Chen, Timo Stoffregen, Maxwell Xu, Thomas Kaar, Martin Maritsch, Geremia Pompei, Nicolas Zumarraga, Robert Jakob&lt;/p&gt;&lt;p&gt;Real-world time-series applications increasingly require models that can handle time series forecasting, context-conditioned prediction, and language-based temporal reasoning. Yet current time-series foundation models remain fragmented across these capabilities: numerical specialists often provide the strongest forecasts, while language-based models offer broader contextual understanding and analysis. A central challenge is to unify these heterogeneous capabilities without reducing their individual performance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.40265v1</guid>
+      <pubDate>Wed, 30 Sep 2026 17:43:22 +0000</pubDate>
     </item>
     <item>
-      <title>A foundation model for energy and radiation systems built on heterogeneous scientific interfaces</title>
-      <link>http://arxiv.org/abs/2609.38067v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Samrendra Roy, Tapas Tripura, Yoon Pyo Lee, Souvik Chakraborty, Syed Bahauddin Alam&lt;/p&gt;&lt;p&gt;Scientific foundation models are commonly evaluated after heterogeneous physical problems have already been translated into a compatible gridded, tokenized or symbolic representation. This leaves the scientific interface outside both the pretrained model and the audit of what is actually reused. We study the complementary setting in which boundary histories, sparse monitor records and loading histories retain their native inference classes and their outputs remain on Cartesian, latitude-longitude and unstructured domains&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.38067v1</guid>
-      <pubDate>Tue, 29 Sep 2026 17:31:44 +0000</pubDate>
+      <title>Linguistic Loopholes in LLM Unlearning: From a 174-Language Benchmark to Coverage-Aware Unlearning</title>
+      <link>http://arxiv.org/abs/2609.40286v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tyler Skow, Shravan Chaudhari, Rama Chellappa, Abhay Yadav&lt;/p&gt;&lt;p&gt;Unlearning a fact in one language does not guarantee its removal in others as changing the query or even the requested answer language can reopen seemingly forgotten knowledge -- a cross-lingual loophole. The most straightforward solution to this challenge -- unlearning in all languages -- is neither scalable nor desirable as it amplifies damage to unrelated model capabilities. We introduce the task of language budgeted multilingual unlearning where the goal is to select a subset of languages that maximizes cross-lingual erasure&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.40286v1</guid>
+      <pubDate>Wed, 30 Sep 2026 17:48:13 +0000</pubDate>
     </item>
     <item>
-      <title>Probe-Space Preconditioning for Fast and Stable Zero-Order Training</title>
-      <link>http://arxiv.org/abs/2609.38095v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Francois Chaubard, Mykel J. Kochenderfer, Chris Ré&lt;/p&gt;&lt;p&gt;Backpropagation (BP) dominates deep learning but imposes a massive memory tax. For example, training OPT-30B with Adam requires $\approx$ 600GB of GPU memory (assuming batch size 8 and sequence length 2048). Alternatively, zero-order optimization (ZOO) trains in inference-mode (requiring only $\approx$ 60GB for the same model): no stored activations, no gradients, and no optimizer states&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2609.38095v1</guid>
-      <pubDate>Tue, 29 Sep 2026 17:43:53 +0000</pubDate>
+      <title>Scaling Laws for Looped Mixture of Experts</title>
+      <link>http://arxiv.org/abs/2609.40316v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yanbei Chen, Anirudh Goyal, Raghuraman Krishnamoorthi&lt;/p&gt;&lt;p&gt;Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands total capacity at fixed active compute. Yet existing scaling laws model recurrence or sparsity in isolation. In this work, we introduce Loop Scaling Laws, the first scaling law to jointly model recurrence and sparsity alongside model size and data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.40316v1</guid>
+      <pubDate>Wed, 30 Sep 2026 17:53:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?</title>
+      <link>http://arxiv.org/abs/2609.40335v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Razan El Mais, Ali Chehab, Ibrahim Issa, Razane Tajeddine&lt;/p&gt;&lt;p&gt;Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between input and output embeddings, a design choice originally introduced for parameter efficiency and improved language modeling performance in the non-private setting. However, the impact of weight tying under differentially private training remains largely unexplored&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.40335v1</guid>
+      <pubDate>Wed, 30 Sep 2026 17:57:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text</title>
+      <link>http://arxiv.org/abs/2609.40359v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dulhan Jayalath, Oiwi Parker Jones&lt;/p&gt;&lt;p&gt;We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time series of brain activity from subjects perceiving continuous speech are segmented into fixed-length windows starting at each word&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2609.40359v1</guid>
+      <pubDate>Wed, 30 Sep 2026 17:59:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
