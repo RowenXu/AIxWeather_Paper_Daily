@@ -7,6 +7,118 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 05 Oct 2026 08:29:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:38:57 +0000</lastBuildDate>
+    <item>
+      <title>Separators Make Carry Propagation Learnable:The Geometry of Latent Carry in a Multiplication Transformer</title>
+      <link>http://arxiv.org/abs/2610.06605v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sama Satariyan, Raphael Cousin, G{é}rard Biau&lt;/p&gt;&lt;p&gt;Transformers asked to multiply multi-digit numbers in a single forward pass often fail, and interpretability studies of pretrained language models find arithmetic solved by input-range heuristics rather than by an explicit carry. We train small Llama-style transformers from scratch on 4x4 multiplication without chain of thought and find that the input format is decisive: inserting a space token between digits raises exact-match accuracy from 1% to 89%. Output positions are learned in carry-chain order, with the middle digits, which have the longest-range dependencies, learned last&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06605v1</guid>
+      <pubDate>Mon, 05 Oct 2026 16:14:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>RealtimeWAM: One-Step Asynchronous World Action Models</title>
+      <link>http://arxiv.org/abs/2610.06617v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chengtao Lv, Jinyang Du, Shuyi Feng, Yang Yong, Shiqiao Gu, Shunzi Yang, Ruihao Gong, Shen Ren&lt;/p&gt;&lt;p&gt;World Action Models (WAMs) incorporate visual representations from video generation backbones to guide action prediction. Recent efficient WAMs adopt Mixture-of-Transformers (MoT) architectures and compute video representations once for reuse by the action expert. However, intra-expert iteration (\ie, multi-step action denoising) and inter-expert waiting (\ie, sequential execution of the video and action experts) still limit inference efficiency&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06617v1</guid>
+      <pubDate>Mon, 05 Oct 2026 16:18:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond the Model: The Critical Role of Data Filtering in Clinical Machine Learning</title>
+      <link>http://arxiv.org/abs/2610.06640v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Noah Subedar, Colin Campbell, Wenjing Zhang, Dan Perri, Sarah Culgin, Andrew Hamilton-Wright&lt;/p&gt;&lt;p&gt;Machine learning (ML) studies using clinical data often rely on preprocessing and filtering pipelines before model development. The filtering decisions made in these pipelines can alter the dataset's statistical structure and may artificially reduce or increase the complexity of the prediction task. We argue that filtering choices should be treated as part of the scientific method rather than as a routine preprocessing step&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06640v1</guid>
+      <pubDate>Mon, 05 Oct 2026 16:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collective intelligence through aggregation</title>
+      <link>http://arxiv.org/abs/2610.06652v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Franz Dietrich, Christian List&lt;/p&gt;&lt;p&gt;Suppose a committee, expert panel, or other group is making judgments on some issues, where these may be not just yes/no-questions, such as whether a defendant is guilty, but also variables with many possible values, such as macroeconomic or meteorological variables or travel directions. Furthermore, there may be interconnections between different issues, as in the case of economic or climate variables. How can the group arrive at "intelligent" collective judgments, based on the group members' individual judgments? We investigate three challenges raised by this judgment-aggregation problem&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06652v1</guid>
+      <pubDate>Mon, 05 Oct 2026 16:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>TrustmeWatcher: An Application for Workplace Micro-Sensing and Explainable Well-Being Feedback</title>
+      <link>http://arxiv.org/abs/2610.06657v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chengyu Yu, Leon Jacopo Costa, Zoja Anžur, Mohan Li, Gašper Slapničar, Daniil Kirilenko, Martin Gjoreski, Mitja Luštrek&lt;/p&gt;&lt;p&gt;Workplace sensing studies combine long-running behaviour traces with self-reports, yet the tools that collect those data often sit apart from the interface that returns results. We present TrustmeWatcher, the application built for the TRUST-ME project to connect this work. TrustmeWatcher reuses ActivityWatch's OS-level watchers for computer-activity collection and adds its own application layer&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06657v1</guid>
+      <pubDate>Mon, 05 Oct 2026 16:34:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting Nighttime Anomalies from NASA Black Marble Using a Generalized Spatio-Temporally Robust Framework of Machine Leaning Ensembles</title>
+      <link>http://arxiv.org/abs/2610.06674v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Srija Chakraborty&lt;/p&gt;&lt;p&gt;Nighttime lights from NASA's Black Marble product suite capture thermal and light emission signals from anomalous events including fires, volcanic eruptions, and gas flaring. Existing detection approaches rely primarily on thermal bands, limiting sensitivity to weaker signals. We propose a novel machine learning framework that jointly models Black Marble M-band and Day/Night Band (DNB) signals to derive a generalized, spatio-temporally robust ensemble of anomaly detectors&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06674v1</guid>
+      <pubDate>Mon, 05 Oct 2026 16:47:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Closing the Context Gap: Activation Alignment for Tabular In-Context Learning</title>
+      <link>http://arxiv.org/abs/2610.06679v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yoel Zeldes&lt;/p&gt;&lt;p&gt;Tabular foundation models perform in-context learning (ICL) by conditioning predictions on labeled training examples provided as context. Unlike traditional models that separate training from inference, these models must process all training examples in every forward pass, making each prediction expensive. Restricting the number of training examples reduces this cost but substantially degrades performance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06679v1</guid>
+      <pubDate>Mon, 05 Oct 2026 16:48:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs</title>
+      <link>http://arxiv.org/abs/2610.06685v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiawen Du, Arshan Ali Khan, Chenhao Zhang, Zachary Plotkin, Li Shen, Qi Long, Yun Li, Can Chen&lt;/p&gt;&lt;p&gt;Clinical questions often depend on linking a patient's multimodal evidence to external biomedical knowledge, yet existing predictive systems rarely represent such links explicitly, so they can neither be traced to their evidence sources nor removed to measure their contributions. We present MM-KG (Multimodal Knowledge Graph), which represents heterogeneous, multimodal patient observations and biomedical concepts as separate layers in one typed graph, joined by explicit alignment edges. First, modality-specific harmonizers convert EHR text, imaging, genomic, and biospecimen data into typed obse&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06685v1</guid>
+      <pubDate>Mon, 05 Oct 2026 16:51:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>To Learn is to Wander: Learning Across Graphs and Tasks with Random Walks</title>
+      <link>http://arxiv.org/abs/2610.06694v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Louis Tichelman, Xingyue Huang, Jinwoo Kim, İsmail İlkan Ceylan&lt;/p&gt;&lt;p&gt;Graph foundation models aim to transfer across graphs, feature spaces, relational schemas, and prediction tasks, yet existing approaches typically generalize only within particular graph modalities or tasks. We propose Wander, a graph foundation model designed to operate across these settings within a single pretrained checkpoint. Following the prior-predictive perspective, we formulate graph learning as completion of a partially observed graph&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06694v1</guid>
+      <pubDate>Mon, 05 Oct 2026 16:55:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs</title>
+      <link>http://arxiv.org/abs/2610.06703v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Manousos Linardakis, Georgios Alexandridis&lt;/p&gt;&lt;p&gt;Background music that matches the mood of a text has been shown to make readers feel more immersed and improve their reading experience, motivating recommender systems that pair books with mood-matched music. In this direction, we present Sentiment Aware Generative Adversarial Network for Cross Domain Recommendation (SAGA-CDR), a two-phase cross-domain recommendation framework that personalizes music suggestions and emotionally aligns them with the book being read. In the first phase, transformer-based sentiment embeddings are constructed from user reviews and mapped across domains via a Condi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06703v1</guid>
+      <pubDate>Mon, 05 Oct 2026 17:01:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>ufakzeka-karar: An Open Turkish Typed-Decision Model with Order-Invariant Option Scoring</title>
+      <link>http://arxiv.org/abs/2610.06744v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sait Furkan Teke&lt;/p&gt;&lt;p&gt;ufakzeka-karar is an open Turkish decision model with 182,494,466 parameters. Given a Turkish text and questions of a fixed answer type (a choice, a level on an ordered scale, or yes or no), it returns a temperature-scaled probability for every option and an expected error that serves as a "not sure" signal, without generating text and in one CPU forward pass for up to ten options. Built on the lab's ufakzeka-1-base, its head scores each option blind to the others at shared positions, so the answer does not depend on option order&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06744v1</guid>
+      <pubDate>Mon, 05 Oct 2026 17:22:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>MatrixFormer: A Foundation Model for Matrix Completion</title>
+      <link>http://arxiv.org/abs/2610.06751v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dwaipayan Saha, Jacob Feitelberg, Kyuseong Choi, Raaz Dwivedi, Anish Agarwal&lt;/p&gt;&lt;p&gt;Matrix completion underlies problems from tabular imputation to causal inference, yet existing tabular foundation models treat it as entry-by-entry prediction, repeating context for every target and discarding the matrix's two-dimensional structure. We introduce MatrixFormer, a pre-trained matrix-native transformer that predicts a full distribution for every missing entry in a single forward pass. MatrixFormer is trained entirely on synthetic low-rank and latent-factor matrices under diverse missingness patterns&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06751v1</guid>
+      <pubDate>Mon, 05 Oct 2026 17:28:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to scale your HEP ML models: A recipe for robust architecture comparisons at scale</title>
+      <link>http://arxiv.org/abs/2610.06784v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Matthias Vigl, Nikita Pond, Jackson Barr, Alexander Froch, Dan Guest, Nicole Hartman, Michael Kagan, Lukas Heinrich&lt;/p&gt;&lt;p&gt;Much of the recent progress in machine learning domains such as language models has come from scaling laws that predict performance as a function of training effort. In high-energy physics (HEP) similar behavior has now been observed. To aid further study, we present a systematic procedure to derive robust scaling laws and compare design choices on the relevant budget axes for HEP tasks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06784v1</guid>
+      <pubDate>Mon, 05 Oct 2026 17:44:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Response Theory Probe for Learned Stochastic AI Simulators, Tested on Lorenz-63</title>
+      <link>http://arxiv.org/abs/2610.06798v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; João Böger, Simon Driscoll, Niccolò Zagli, Valerio Lucarini, Francisco Camara Pereira&lt;/p&gt;&lt;p&gt;Machine-learning emulators of chaotic and stochastic systems are usually validated on forecast skill and long-run statistics. Neither certifies that an emulator responds correctly to forcing, the property that projection and attribution studies rely on. Linear response theory makes this testable: the forced response follows from unperturbed correlations through a generalized fluctuation-dissipation relation, and decomposes over the stochastic Ruelle-Pollicott resonances of the Koopman generator&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06798v1</guid>
+      <pubDate>Mon, 05 Oct 2026 17:51:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution</title>
+      <link>http://arxiv.org/abs/2610.06804v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Erfan Baghaei Potraghloo, Seyedarmin Azizi, Arya Fayyazi, Saeid Shokoufa, Mehdi Kamal, Souvik Kundu, Massoud Pedram&lt;/p&gt;&lt;p&gt;A language model can give a correct answer more probability than any single incorrect answer and still usually sample an incorrect one, because the incorrect answers together hold more probability. The power distribution raises each complete answer's probability to a power above one and renormalizes, shifting probability toward answers the model finds most likely (sharpening). Sampling from it improves reasoning without changing parameters, but needs many scored candidates per query&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06804v1</guid>
+      <pubDate>Mon, 05 Oct 2026 17:53:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac Insight Without Optical Sensors</title>
+      <link>http://arxiv.org/abs/2610.06823v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tanbin Islam Rohan, Pranjol Sen Gupta, Tanusree Debi, Nazmus Sakib&lt;/p&gt;&lt;p&gt;Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of cardiac information from motion signals already collected during sleep. We present SeqSmoother, a transformer-based temporal corrector for sleep heart rate (HR) estimation from wrist accelerometry. SeqSmoother combines spectral descriptors with an intermediate Nightbeat-derived frequency anchor and a physics-motivated sub-harmonic feature designed to identify harmonic frequency lock-on&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.06823v1</guid>
+      <pubDate>Mon, 05 Oct 2026 17:56:57 +0000</pubDate>
+    </item>
   </channel>
 </rss>
