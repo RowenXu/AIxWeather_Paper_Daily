@@ -7,111 +7,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:13:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:29:56 +0000</lastBuildDate>
     <item>
-      <title>Atom-JEPA: Joint-Embedding Predictive Architecture for 3D Atomistic Systems</title>
-      <link>http://arxiv.org/abs/2610.08400v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kasper Helverskov Petersen, Rasmus Hannibal Tirsgaard, François R J Cornet, Mikkel Jordahn, Mikkel N. Schmidt&lt;/p&gt;&lt;p&gt;Large-scale self-supervised pretraining has reshaped modern machine learning, substantially advancing the ability of language and vision models to generalize across downstream tasks. While deep learning has driven considerable progress in modeling atomistic systems in recent years, self-supervised pretraining in this domain has not yet achieved comparable downstream generalization. To address this, we introduce Atom-JEPA, a self-supervised pretraining framework that learns latent representations from unlabeled 3D structures through complementary atom-level and substructure-level objectives ins&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08400v1</guid>
-      <pubDate>Tue, 06 Oct 2026 14:13:51 +0000</pubDate>
+      <title>Evaluating Sequence Assembly Strategies for Differentially Private Synthetic Time-Series Forecasting</title>
+      <link>http://arxiv.org/abs/2610.10222v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guoxiong Long, Huizhen Huang, Qikun Cai, Tao Huang, Chen Hou&lt;/p&gt;&lt;p&gt;Differentially private time-series generators commonly produce fixed-length synthetic windows, whereas downstream forecasting models often require long continuous training sequences. How these windows are assembled after generation can therefore alter the effective synthetic data presented to a forecaster, even when the trained generator remains unchanged. We study this post-generation sequence assembly process by systematically varying overlap rates and window-weighting schemes and evaluating the resulting sequences in terms of boundary continuity, statistical and temporal fidelity, and Train&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.10222v1</guid>
+      <pubDate>Wed, 07 Oct 2026 15:16:07 +0000</pubDate>
     </item>
     <item>
-      <title>Learning PDE solution operators with variable initial conditions via Latent Dynamics Networks</title>
-      <link>http://arxiv.org/abs/2610.08475v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Stefano Maria Pizzamiglio, Stefano Pagani, Francesco Regazzoni&lt;/p&gt;&lt;p&gt;In many-query scenarios, data-driven surrogate models provide an efficient alternative to high-fidelity solvers for simulating physical systems governed by Partial Differential Equations (PDEs). In this context, the Latent Dynamics Network (LDNet) has recently demonstrated remarkable performance in predicting the response of spatio-temporal systems, combining Neural Ordinary Differential Equations with nonlinear dimensionality reduction. However, the original formulation assumes a fixed initial condition, limiting its applicability to many real-world applications where a system evolves from va&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08475v1</guid>
-      <pubDate>Tue, 06 Oct 2026 14:55:39 +0000</pubDate>
+      <title>ProtocolMatch: Protocol-Dependent Model Selection for Scientific Dynamics Forecasting</title>
+      <link>http://arxiv.org/abs/2610.10239v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lu Wei, Yufeng Wang, Haibin Ling&lt;/p&gt;&lt;p&gt;Scientific dynamics forecasting is often framed as an architecture choice, although deployment is also determined by observed history, rollout feedback, compute budget, physical objective, and test distribution. We formulate protocol-dependent model selection and introduce ProtocolMatch, a compute-matched, validation-selected, and failure-preserving evaluation framework. On driven quantum-spin dynamics, we compare recurrent, patched-attention, causal-attention, and low-rank linear predictors across three independently generated datasets&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.10239v1</guid>
+      <pubDate>Wed, 07 Oct 2026 15:23:27 +0000</pubDate>
     </item>
     <item>
-      <title>X-OPM: Explainable Automatic Digital On-Chip Power Modeling for Enhanced Robustness</title>
-      <link>http://arxiv.org/abs/2610.08502v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jingbo Jiang, Xizi Chen, Jian Peng, Wei Zhang&lt;/p&gt;&lt;p&gt;Proactive power management systems reduce processor dynamic power through runtime power prediction and power-aware scheduling. Accurate, stable and low-overhead digital on-chip power meters (OPMs) are crucial for improving the prediction quality. Recent studies have explored various modeling methods, including using linear models, decision trees, and multi-layer perceptrons (MLPs) to construct OPMs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08502v1</guid>
-      <pubDate>Tue, 06 Oct 2026 15:09:52 +0000</pubDate>
+      <title>Temporal Visuo-Tactile Learning for Dexterous Grasp Stability</title>
+      <link>http://arxiv.org/abs/2610.10283v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ken Nakahara, Aleksei Buvailik, Prokhor Kotov, Roberto Calandra&lt;/p&gt;&lt;p&gt;Humans can grasp everyday objects with almost perfect success rates using fingertip tactile feedback, yet much of the robotic grasping literature emphasizes vision-based grasp selection with parallel grippers. In this work, we systematically investigate how high-resolution, dynamic tactile sensing contributes to grasp stability prediction and model-guided grasping in dexterous robotic hands. To this end, we collected a dataset of 10,000 grasp trials across 200 objects using a multi-fingered robotic hand equipped with four Digit 360 tactile sensors, recording external vision, proprioception, an&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.10283v1</guid>
+      <pubDate>Wed, 07 Oct 2026 15:48:19 +0000</pubDate>
     </item>
     <item>
-      <title>Cylindrical Geodesic Flow Matching for Quasiperiodic Physiological Signal Transformation</title>
-      <link>http://arxiv.org/abs/2610.08510v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Onur Selim Kilic, Afra Nawar, Cem Okan Yaldiz, Michael J. Cho, Ahmet Rasim Emirdagi, Demet Tangolar, Amirali Aghazadeh, Amit J. Shah&lt;/p&gt;&lt;p&gt;Paired translation between quasiperiodic physiological waveforms (i.e., recovering a target oscillatory signal from the source) is central to the interpretation of cardiovascular signals derived from wearables placed at different body locations. This source-to-target mapping in these problems carries inherent geometric structure: the phase wraps around the cycle and must be treated as a circular variable, the amplitude remains strictly positive, and the beat-to-beat alignment can drift unpredictably across cycles and subjects. While deep neural networks have been used for phase estimation and &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08510v1</guid>
-      <pubDate>Tue, 06 Oct 2026 15:15:07 +0000</pubDate>
+      <title>PoreML: A Data-Driven Framework for Learning Multiphase Flow in Porous Media</title>
+      <link>http://arxiv.org/abs/2610.10314v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chunyang Wang, Mingrui Zhang, Yuyan Zhang, Linqi Zhu, Xin Ju, Edo Sicco Boek, Martin J. Blunt, Gege Wen&lt;/p&gt;&lt;p&gt;Multiphase flow in porous microstructures is central to CO$_2$ storage, fuel-cell operation, and flip-chip packaging. Predicting these flows remains challenging because wettability and complex pore geometry govern the nonlinear evolution of fluid interfaces. Machine learning holds substantial promise for advancing the field, but progress is constrained by scarce time-resolved 3D datasets and a lack of a unified workflow for training and evaluating models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.10314v1</guid>
+      <pubDate>Wed, 07 Oct 2026 16:08:35 +0000</pubDate>
     </item>
     <item>
-      <title>Multi-model ocean oxygen fields predicted by conditional diffusion models</title>
-      <link>http://arxiv.org/abs/2610.08523v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Linus Vogt, Laure Zanna&lt;/p&gt;&lt;p&gt;Dissolved oxygen is important for the ocean's ecosystems and biogeochemical cycles. Yet, Earth System Models (ESMs) vary in their simulations of the present-day and future ocean oxygen inventory. To narrow down the uncertainty in estimates of ocean oxygen content, we train a conditional generative diffusion model on outputs of a multi-model ESM ensemble to learn the conditional distribution of upper-ocean oxygen given physical input variables such as temperature and salinity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08523v1</guid>
-      <pubDate>Tue, 06 Oct 2026 15:20:01 +0000</pubDate>
+      <title>Thinking in Depth: Retrospective Inference for Tabular Foundation Models</title>
+      <link>http://arxiv.org/abs/2610.10317v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hao-Run Cai, Si-Yang Liu, Zi-Jian Cheng, Kun-Yang Yu, Jin-Hao Sheng, Guo Yu, Chonghan Liu, Zhi Zhou&lt;/p&gt;&lt;p&gt;Tabular foundation models (TFMs) are pretrained across diverse tabular tasks and make predictions on a new table at inference time using its labeled examples as context. Most recent TFMs perform such in-context prediction with stacked Transformer layers, repeatedly transforming how examples are represented and compared. By tracing individual queries through several strong TFMs, we find that predictive refinement is highly uneven across depth and is often concentrated in later layers&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.10317v1</guid>
+      <pubDate>Wed, 07 Oct 2026 16:11:04 +0000</pubDate>
     </item>
     <item>
-      <title>From Shared Demand Patterns to Local Uncertainty: Probabilistic Load Forecasting by Mixing Compact Adaptations</title>
-      <link>http://arxiv.org/abs/2610.08538v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haoran Li, Zhe Cheng, Yang Weng&lt;/p&gt;&lt;p&gt;Probabilistic load forecasting has been widely studied for power-system operation and planning, but customer- and transformer-level forecasting introduces a distinct scalability challenge. At these levels, load uncertainty is strongly affected by customer behavior, weather, and mixed load composition, making it difficult for a single shared model to capture heterogeneous patterns. Using separate probabilistic models can improve local accuracy, but becomes costly to train, store, update, and validate at scale&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08538v1</guid>
-      <pubDate>Tue, 06 Oct 2026 15:27:43 +0000</pubDate>
+      <title>HAN-Mamba: Hierarchical Selective State Space Networks for Multi-Scale Financial Volatility Forecasting</title>
+      <link>http://arxiv.org/abs/2610.10323v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mihai Bogdan Deaconu, Ioan Daniel Pop&lt;/p&gt;&lt;p&gt;Short-horizon realized volatility forecasting requires the integration of market information that evolves at incompatible temporal resolutions, from second-level order book dynamics to weekly regime drift. Our conference work introduced HAN-T, a hierarchical architecture in which scale-specific Transformer encoders process short, mid, and long-horizon streams and a learned attention fuser weighs their contributions. This article replaces the quadratic attention encoders with selective state space (Mamba) encoders while retaining attention only in the fuser, where the input is a three-token set&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.10323v1</guid>
+      <pubDate>Wed, 07 Oct 2026 16:12:52 +0000</pubDate>
     </item>
     <item>
-      <title>How High Is 0.6? Floors, Ceilings, and Headroom in Interpretability Probing</title>
-      <link>http://arxiv.org/abs/2610.08544v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pranjal Garg&lt;/p&gt;&lt;p&gt;Probes are the workhorse of interpretability. If a model's hidden states predict a variable, the model is said to represent it. But a probe score has no fixed meaning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08544v1</guid>
-      <pubDate>Tue, 06 Oct 2026 15:32:25 +0000</pubDate>
+      <title>Koopman Observers for Diffusion Acceleration: Correcting Feature Forecasts with Shallow Measurements</title>
+      <link>http://arxiv.org/abs/2610.10366v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hanru Bai, Yuanchao Xu, Fengyi Li&lt;/p&gt;&lt;p&gt;Feature caching accelerates diffusion sampling by replacing expensive network evaluations with predictions from previously computed activations. However, forecasts based only on past features cannot directly incorporate changes in the current denoising state. We investigate whether inexpensive, freshly computed features can serve as observations for correcting these predictions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.10366v1</guid>
+      <pubDate>Wed, 07 Oct 2026 16:35:07 +0000</pubDate>
     </item>
     <item>
-      <title>Valid for Free: Homophily-Gated Conformal Prediction for Training-Free Node Classification with Tabular Foundation Models</title>
-      <link>http://arxiv.org/abs/2610.08564v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nguyen Duy Long, Phung Minh Hien, Nguyen Trong Viet, Nguyen Thai Anh&lt;/p&gt;&lt;p&gt;Tabular foundation models (TFMs) can classify the nodes of a graph without training on it, by reading node and neighborhood features as table rows next to labeled context rows. Work in this line reports predictive performance, not conformal coverage or prediction-set size. To our knowledge, we give the first reliability study of the setting, with TabICL as the TFM and half of each graph as labeled context&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08564v1</guid>
-      <pubDate>Tue, 06 Oct 2026 15:44:07 +0000</pubDate>
+      <title>Conditional Flow Matching for Generation of 3D Multi-variable Instantaneous Urban Microclimate Fields</title>
+      <link>http://arxiv.org/abs/2610.10430v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Peng Liu, Shaoxiang Qin, Theodore Potsis, Lili Ji, Dingyang Geng, Liangzhu Leon Wang&lt;/p&gt;&lt;p&gt;Rapid and accurate prediction of urban wind and temperature fields is important for urban microclimate design and climate adaptation. Large-eddy simulation (LES) effectively resolves these instantaneous fields, but its application is limited in iterative design of urban microclimate applications due to high computational cost. Existing regressive data-driven models offers quick outputs, but they produce only deterministic point predictions that inherently fail to represent turbulent stochasticity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.10430v1</guid>
+      <pubDate>Wed, 07 Oct 2026 17:09:48 +0000</pubDate>
     </item>
     <item>
-      <title>When does conformal calibration need censoring weights? Cause-of-failure prediction sets under competing risks</title>
-      <link>http://arxiv.org/abs/2610.08602v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sunny Yang, Weiyan Zhao&lt;/p&gt;&lt;p&gt;Split conformal prediction sets for competing-risks labels at a fixed horizon require calibration labels that right censoring can leave unobserved. Complete-case calibration guarantees coverage for the label-complete subpopulation, but its population coverage can deviate in either direction, even at the true class probabilities. We study how selection changes the score distribution near the population quantile&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08602v1</guid>
-      <pubDate>Tue, 06 Oct 2026 16:06:22 +0000</pubDate>
+      <title>Seq-Flow: Efficient Probabilistic Forecasting with Self-Rollout Error Control</title>
+      <link>http://arxiv.org/abs/2610.10440v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yinan Huang, Shitij Govil, Bo Dai, Pan Li&lt;/p&gt;&lt;p&gt;Many scientific forecasting tasks require updating a distribution over future trajectories as new observations arrive. Conventional diffusion and flow models generate each forecast from Gaussian noise, often at the cost of many sampling steps. Warm-start methods reuse earlier predictions to reduce this cost, but their models are not trained to perform the forecast update itself, which can compromise quality under few-step sampling&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.10440v1</guid>
+      <pubDate>Wed, 07 Oct 2026 17:15:52 +0000</pubDate>
     </item>
     <item>
-      <title>Steering Diffusion Models to Rare Events with Sequential Monte Carlo</title>
-      <link>http://arxiv.org/abs/2610.08652v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aavash Subedi, Tim Reichelt, Christopher Williams, Philip Stier, Yee Whye Teh, Saifuddin Syed&lt;/p&gt;&lt;p&gt;Diffusion models are increasingly used as surrogates for expensive simulators in weather prediction, molecular dynamics, and materials design. In these models, computing the probability $p_0[E]$ of an event $E$ is difficult, especially when the event of interest is rare. A stable estimate using Monte Carlo becomes computationally intractable, requiring a growing sample size $\propto\!1/p_0[E]$ to compensate for an increasing rarity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08652v1</guid>
-      <pubDate>Tue, 06 Oct 2026 16:38:03 +0000</pubDate>
+      <title>NeuralBES: A Differentiable, Control-Aware Emulator for Scalable Building Energy Modeling</title>
+      <link>http://arxiv.org/abs/2610.10459v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ting-Yu Dai, Takuya Kurihana, Wing Yee Au, Hon Yung Wong&lt;/p&gt;&lt;p&gt;Demand-side flexibility i.e. forecasting, shifting, and curtailing residential energy loads, depends on thermal models trusted across millions of heterogeneous buildings. Existing tools force a hard tradeoff: high-fidelity physics simulators such as EnergyPlus are accurate but sequential and require per-building calibration, while purely data-driven sequence models scale but abandon the physical structure that makes their predictions trustworthy&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.10459v1</guid>
+      <pubDate>Wed, 07 Oct 2026 17:27:20 +0000</pubDate>
     </item>
     <item>
-      <title>GeneICL: A Tabular Foundation Model for Bulk Transcriptomics</title>
-      <link>http://arxiv.org/abs/2610.08694v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Michael Bohl, Alexander Theus, David Wissel, Valentina Boeva&lt;/p&gt;&lt;p&gt;Gene expression is widely measured in biomedicine, yet clinical outcome prediction remains challenging due to high dimensionality, strong feature correlations, and limited labeled data. Large self-supervised transcriptomic foundation models often fail to outperform simple supervised baselines. Tabular foundation models offer an alternative through in-context learning, but are typically pretrained on generic synthetic data rather than transcriptomic structure&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08694v1</guid>
-      <pubDate>Tue, 06 Oct 2026 17:10:37 +0000</pubDate>
+      <title>SciExam for ENSO: Can AI Agents Build Climate Models?</title>
+      <link>http://arxiv.org/abs/2610.10513v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yinling Zhang, Langchen Liu, Dongbin Xiu, Xueyan Zou, Xu Kuang, Mengdi Wang, Shilong Liu&lt;/p&gt;&lt;p&gt;Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new scientific model is valid. The AI Science Exam for El Nino-Southern Oscillation (SciExam for ENSO) is a benchmark in which agents build low-order stochastic models of ENSO, the dominant mode of interannual climate variability, from real observations. Within a six-hour budget, agents process the observations, write their own diagnostics, which are then frozen, and develo&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.10513v1</guid>
+      <pubDate>Wed, 07 Oct 2026 17:52:52 +0000</pubDate>
     </item>
     <item>
-      <title>Prediction-powered inference for time series across space</title>
-      <link>http://arxiv.org/abs/2610.08715v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shahzar Rizvi, David Burt, Vishwak Srinivasan, Renato Berlinghieri, Stefano Del Col, Tamara Broderick&lt;/p&gt;&lt;p&gt;The following motif is common in spatiotemporal settings: we have a sequence of covariate and label pairs observed for a relatively short, recent time period. We have access to unlabeled covariates over a longer time period. Data is observed over many spatial locations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08715v1</guid>
-      <pubDate>Tue, 06 Oct 2026 17:22:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neural Petri flows for chemical reactions</title>
-      <link>http://arxiv.org/abs/2610.08750v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jose Eduardo Escrig Molina, Daniel Probst&lt;/p&gt;&lt;p&gt;Petri nets have been used to describe chemical processes such as reactions.They map well to chemistry: Places are the bonds between atoms and the free valence of each atom, a token is a unit of bond order, a transition forms or breaks a bond, the conserved quantities are the valence budgets of the atoms, and the enabling rule is the valence rule. These semantics are not guaranteed by learned models of reactions or neural networks that are built on Petri nets that use the net as a scaffold for message passing. Here, we ask what architecture remains a Petri net for every value of its weights&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08750v1</guid>
-      <pubDate>Tue, 06 Oct 2026 17:44:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>DepthWorld: 3D World Model for Robot Manipulation</title>
-      <link>http://arxiv.org/abs/2610.08780v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jai Bardhan, Josef Sivic, Vladimir Petrik&lt;/p&gt;&lt;p&gt;World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D geometry, yet current video-based world models are trained on RGB alone and produce rollouts that look correct frame-by-frame but do not compose into a consistent 3D world. Closing this gap requires progress on two fronts: large-scale 3D supervision for manipulation, and an architecture that can absorb it without disturbing strong pretrained video priors&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08780v1</guid>
-      <pubDate>Tue, 06 Oct 2026 17:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction</title>
-      <link>http://arxiv.org/abs/2610.08782v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shiqi Li, Sean Cho, Yijie Li, Fengzhi Guo, Bowen Wen, Cheng Zhang&lt;/p&gt;&lt;p&gt;Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction prediction. We introduce 4D-HOF, a feed-forward framework that reconstructs 4D hand-object interactions from coarse but informative estimates produced by vision foundation models. Concretely, we learn a conditional flow matching model that transports foundation-model-derived hand-object states toward an interaction manifold, allowing the model to correct errors in translation, r&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.08782v1</guid>
-      <pubDate>Tue, 06 Oct 2026 17:59:02 +0000</pubDate>
+      <title>Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs</title>
+      <link>http://arxiv.org/abs/2610.10520v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhewei Chen, Hao Zhu, Jiaojiao Jiang, Ahad N. Zehmakan&lt;/p&gt;&lt;p&gt;GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based reweighting, but they do not specify where the student should preserve the teacher's graph-induced geometry. We show that this omission leads to two spectral failure modes in the student's representation space&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.10520v1</guid>
+      <pubDate>Wed, 07 Oct 2026 17:56:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
