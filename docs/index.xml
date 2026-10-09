@@ -7,90 +7,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 08:29:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:33:14 +0000</lastBuildDate>
     <item>
-      <title>Evaluating Sequence Assembly Strategies for Differentially Private Synthetic Time-Series Forecasting</title>
-      <link>http://arxiv.org/abs/2610.10222v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guoxiong Long, Huizhen Huang, Qikun Cai, Tao Huang, Chen Hou&lt;/p&gt;&lt;p&gt;Differentially private time-series generators commonly produce fixed-length synthetic windows, whereas downstream forecasting models often require long continuous training sequences. How these windows are assembled after generation can therefore alter the effective synthetic data presented to a forecaster, even when the trained generator remains unchanged. We study this post-generation sequence assembly process by systematically varying overlap rates and window-weighting schemes and evaluating the resulting sequences in terms of boundary continuity, statistical and temporal fidelity, and Train&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.10222v1</guid>
-      <pubDate>Wed, 07 Oct 2026 15:16:07 +0000</pubDate>
+      <title>Verification with Transfer: Exact Information Frontiers and Their Price in Calls</title>
+      <link>http://arxiv.org/abs/2610.12211v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hazar Yueksel&lt;/p&gt;&lt;p&gt;A verifier that accepts or rejects whole answers reveals little: under a flat prior over $k$-bit answers, zero error needs $2^k-1$ verifications. The usual remedy is to solve related source tasks, either all first, as a curriculum does, or interleaved with verification. We price this remedy in information and in calls&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.12211v1</guid>
+      <pubDate>Thu, 08 Oct 2026 16:00:23 +0000</pubDate>
     </item>
     <item>
-      <title>ProtocolMatch: Protocol-Dependent Model Selection for Scientific Dynamics Forecasting</title>
-      <link>http://arxiv.org/abs/2610.10239v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lu Wei, Yufeng Wang, Haibin Ling&lt;/p&gt;&lt;p&gt;Scientific dynamics forecasting is often framed as an architecture choice, although deployment is also determined by observed history, rollout feedback, compute budget, physical objective, and test distribution. We formulate protocol-dependent model selection and introduce ProtocolMatch, a compute-matched, validation-selected, and failure-preserving evaluation framework. On driven quantum-spin dynamics, we compare recurrent, patched-attention, causal-attention, and low-rank linear predictors across three independently generated datasets&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.10239v1</guid>
-      <pubDate>Wed, 07 Oct 2026 15:23:27 +0000</pubDate>
+      <title>When Has a Bayesian Neural Network Sampled Enough? Adaptive Inference Time with Statistical Guarantees</title>
+      <link>http://arxiv.org/abs/2610.12212v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fabian Denoodt, Sibylle Hess&lt;/p&gt;&lt;p&gt;Bayesian neural network predictions are commonly approximated using a fixed number of Monte Carlo samples per input, without controlling the resulting error that comes from this finite sample. We propose the use of confidence sequences to dynamically determine how many samples are needed while maintaining statistical guarantees. We consider several ways in which predictive probabilities are used, including identifying the most likely class, approximating the full predictive distribution, and resolving probability-threshold decisions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.12212v1</guid>
+      <pubDate>Thu, 08 Oct 2026 16:01:08 +0000</pubDate>
     </item>
     <item>
-      <title>Temporal Visuo-Tactile Learning for Dexterous Grasp Stability</title>
-      <link>http://arxiv.org/abs/2610.10283v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ken Nakahara, Aleksei Buvailik, Prokhor Kotov, Roberto Calandra&lt;/p&gt;&lt;p&gt;Humans can grasp everyday objects with almost perfect success rates using fingertip tactile feedback, yet much of the robotic grasping literature emphasizes vision-based grasp selection with parallel grippers. In this work, we systematically investigate how high-resolution, dynamic tactile sensing contributes to grasp stability prediction and model-guided grasping in dexterous robotic hands. To this end, we collected a dataset of 10,000 grasp trials across 200 objects using a multi-fingered robotic hand equipped with four Digit 360 tactile sensors, recording external vision, proprioception, an&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.10283v1</guid>
-      <pubDate>Wed, 07 Oct 2026 15:48:19 +0000</pubDate>
+      <title>Training on the Future: A Delay-Aware Audit of Test-Time Adaptation for Time-Series Forecasting</title>
+      <link>http://arxiv.org/abs/2610.12232v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohamed Readh Fentazi, Mazene Ameur, Adlen Ksentini&lt;/p&gt;&lt;p&gt;Test-time adaptation (TTA) methods for time-series forecasting update a deployed model, or a small adapter around it, from incoming ground truth. But the label of an $H$-step forecast exists only $H$ steps later, and real data pipelines add further delay. We build a leakage-free harness in which the label of forecast origin $s$ is released for updates only at step $s+d$ with $d \ge H$, and enforce this rule inside the released code of four recent TTA methods (TAFAS, COSA, PETSA and DynaTTA), run on their own backbones and checkpoints across five benchmarks (ETTm1, ETTh2, Weather, Electricity a&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.12232v1</guid>
+      <pubDate>Thu, 08 Oct 2026 16:16:58 +0000</pubDate>
     </item>
     <item>
-      <title>PoreML: A Data-Driven Framework for Learning Multiphase Flow in Porous Media</title>
-      <link>http://arxiv.org/abs/2610.10314v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chunyang Wang, Mingrui Zhang, Yuyan Zhang, Linqi Zhu, Xin Ju, Edo Sicco Boek, Martin J. Blunt, Gege Wen&lt;/p&gt;&lt;p&gt;Multiphase flow in porous microstructures is central to CO$_2$ storage, fuel-cell operation, and flip-chip packaging. Predicting these flows remains challenging because wettability and complex pore geometry govern the nonlinear evolution of fluid interfaces. Machine learning holds substantial promise for advancing the field, but progress is constrained by scarce time-resolved 3D datasets and a lack of a unified workflow for training and evaluating models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.10314v1</guid>
-      <pubDate>Wed, 07 Oct 2026 16:08:35 +0000</pubDate>
+      <title>AdaCast: Conditional Parameter Generation for Adaptive Time Series Forecasting</title>
+      <link>http://arxiv.org/abs/2610.12240v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Darahaas Nallagatla, Darryl Cherian Jacob, Pan He&lt;/p&gt;&lt;p&gt;Time-series foundation models (TSFMs) have achieved strong forecasting performance across domains. However, most adaptation methods remain static. Existing all-in-one methods learn a single set of dataset-level parameter updates and apply the same adapted model to every input&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.12240v1</guid>
+      <pubDate>Thu, 08 Oct 2026 16:21:19 +0000</pubDate>
     </item>
     <item>
-      <title>Thinking in Depth: Retrospective Inference for Tabular Foundation Models</title>
-      <link>http://arxiv.org/abs/2610.10317v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hao-Run Cai, Si-Yang Liu, Zi-Jian Cheng, Kun-Yang Yu, Jin-Hao Sheng, Guo Yu, Chonghan Liu, Zhi Zhou&lt;/p&gt;&lt;p&gt;Tabular foundation models (TFMs) are pretrained across diverse tabular tasks and make predictions on a new table at inference time using its labeled examples as context. Most recent TFMs perform such in-context prediction with stacked Transformer layers, repeatedly transforming how examples are represented and compared. By tracing individual queries through several strong TFMs, we find that predictive refinement is highly uneven across depth and is often concentrated in later layers&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.10317v1</guid>
-      <pubDate>Wed, 07 Oct 2026 16:11:04 +0000</pubDate>
+      <title>Batch Before You Lift: Scalable Topological Deep Learning on Large Graphs</title>
+      <link>http://arxiv.org/abs/2610.12247v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; David Leko, Luka Benić, Guillermo Bernárdez, Nina Miolane, Olga Fink, Lev Telyatnikov&lt;/p&gt;&lt;p&gt;Topological Deep Learning extends graph-based learning to higher-order domains, such as hypergraphs, cellular, and simplicial complexes. These domains are typically constructed from patterns in an input graph through a process of graph lifting. Full-domain training constructs and stores the complete lifted representation before model execution&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.12247v1</guid>
+      <pubDate>Thu, 08 Oct 2026 16:23:43 +0000</pubDate>
     </item>
     <item>
-      <title>HAN-Mamba: Hierarchical Selective State Space Networks for Multi-Scale Financial Volatility Forecasting</title>
-      <link>http://arxiv.org/abs/2610.10323v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mihai Bogdan Deaconu, Ioan Daniel Pop&lt;/p&gt;&lt;p&gt;Short-horizon realized volatility forecasting requires the integration of market information that evolves at incompatible temporal resolutions, from second-level order book dynamics to weekly regime drift. Our conference work introduced HAN-T, a hierarchical architecture in which scale-specific Transformer encoders process short, mid, and long-horizon streams and a learned attention fuser weighs their contributions. This article replaces the quadratic attention encoders with selective state space (Mamba) encoders while retaining attention only in the fuser, where the input is a three-token set&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.10323v1</guid>
-      <pubDate>Wed, 07 Oct 2026 16:12:52 +0000</pubDate>
+      <title>AdaptLSTM: Efficient Adaptive Online Learning for Cloud Workload Forecasting under Distribution Drift</title>
+      <link>http://arxiv.org/abs/2610.12265v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xinhua Miao, Bowei Yang, Zhengong Cai&lt;/p&gt;&lt;p&gt;Accurate workload forecasting is critical for elastic resource provisioning in web-scale cloud services, where distribution shifts driven by viral content, product launches, and user behavior degrade offline-trained models rapidly. Naive online learning recovers accuracy but incurs prohibitive per-step compute cost. We propose AdaptLSTM, an adaptive online framework that detects drift via validation-calibrated thresholds and applies selective, targeted updates&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.12265v1</guid>
+      <pubDate>Thu, 08 Oct 2026 16:31:56 +0000</pubDate>
     </item>
     <item>
-      <title>Koopman Observers for Diffusion Acceleration: Correcting Feature Forecasts with Shallow Measurements</title>
-      <link>http://arxiv.org/abs/2610.10366v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hanru Bai, Yuanchao Xu, Fengyi Li&lt;/p&gt;&lt;p&gt;Feature caching accelerates diffusion sampling by replacing expensive network evaluations with predictions from previously computed activations. However, forecasts based only on past features cannot directly incorporate changes in the current denoising state. We investigate whether inexpensive, freshly computed features can serve as observations for correcting these predictions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.10366v1</guid>
-      <pubDate>Wed, 07 Oct 2026 16:35:07 +0000</pubDate>
+      <title>Bilevel optimization for data-driven learning of Koopman embeddings using kernel-based autoencoders</title>
+      <link>http://arxiv.org/abs/2610.12370v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Joel-Pascal Ntwali N'konzi, Feliks Nüske, Stefan Klus&lt;/p&gt;&lt;p&gt;Koopman operator theory provides a linear framework for analyzing nonlinear dynamical systems and has become a major tool for data-driven modeling. A central challenge, however, is that finite-dimensional approximations computed by methods such as extended dynamic mode decomposition (EDMD) require the dictionary to be specified a priori. Recent machine-learning approaches address this limitation by learning the dictionary from data, predominantly using artificial neural network (ANN) autoencoder architectures&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.12370v1</guid>
+      <pubDate>Thu, 08 Oct 2026 17:30:23 +0000</pubDate>
     </item>
     <item>
-      <title>Conditional Flow Matching for Generation of 3D Multi-variable Instantaneous Urban Microclimate Fields</title>
-      <link>http://arxiv.org/abs/2610.10430v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Peng Liu, Shaoxiang Qin, Theodore Potsis, Lili Ji, Dingyang Geng, Liangzhu Leon Wang&lt;/p&gt;&lt;p&gt;Rapid and accurate prediction of urban wind and temperature fields is important for urban microclimate design and climate adaptation. Large-eddy simulation (LES) effectively resolves these instantaneous fields, but its application is limited in iterative design of urban microclimate applications due to high computational cost. Existing regressive data-driven models offers quick outputs, but they produce only deterministic point predictions that inherently fail to represent turbulent stochasticity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.10430v1</guid>
-      <pubDate>Wed, 07 Oct 2026 17:09:48 +0000</pubDate>
+      <title>Marformer: A Transformer for Predicting Missing Data Distributions</title>
+      <link>http://arxiv.org/abs/2610.12379v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Prabhav Singh, Xiheng Tom Wang, Haojun Shi, Jason Eisner&lt;/p&gt;&lt;p&gt;Real decisions are made under incomplete information. If we observe only some of the random variables we need, we can predict the others. The \textbf{conditional marginals} over the missing variables are the key ingredient for computing Bayes risk and Value of Information (VOI), the expected gain from acquiring one more observation before deciding&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.12379v1</guid>
+      <pubDate>Thu, 08 Oct 2026 17:33:16 +0000</pubDate>
     </item>
     <item>
-      <title>Seq-Flow: Efficient Probabilistic Forecasting with Self-Rollout Error Control</title>
-      <link>http://arxiv.org/abs/2610.10440v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yinan Huang, Shitij Govil, Bo Dai, Pan Li&lt;/p&gt;&lt;p&gt;Many scientific forecasting tasks require updating a distribution over future trajectories as new observations arrive. Conventional diffusion and flow models generate each forecast from Gaussian noise, often at the cost of many sampling steps. Warm-start methods reuse earlier predictions to reduce this cost, but their models are not trained to perform the forecast update itself, which can compromise quality under few-step sampling&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.10440v1</guid>
-      <pubDate>Wed, 07 Oct 2026 17:15:52 +0000</pubDate>
+      <title>Learning Kilometer-Scale Weather Prediction with Global-Regional Alignment</title>
+      <link>http://arxiv.org/abs/2610.12401v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guowen Li, Yang Liu, Yujie Wang, Qiuyan Sun, Haoyuan Liang, Juepeng Zheng, Hong Cheng, Haohuan Fu&lt;/p&gt;&lt;p&gt;Kilometer-scale regional weather forecasting is essential for local weather warnings and weather-sensitive decisions. Existing data-driven approaches often rely on numerical forecasts for large-scale guidance or require additional training of global forecasting components. Pretrained global weather models offer an efficient source of large-scale forecasts, motivating their reuse to guide high-resolution regional prediction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.12401v1</guid>
+      <pubDate>Thu, 08 Oct 2026 17:43:23 +0000</pubDate>
     </item>
     <item>
-      <title>NeuralBES: A Differentiable, Control-Aware Emulator for Scalable Building Energy Modeling</title>
-      <link>http://arxiv.org/abs/2610.10459v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ting-Yu Dai, Takuya Kurihana, Wing Yee Au, Hon Yung Wong&lt;/p&gt;&lt;p&gt;Demand-side flexibility i.e. forecasting, shifting, and curtailing residential energy loads, depends on thermal models trusted across millions of heterogeneous buildings. Existing tools force a hard tradeoff: high-fidelity physics simulators such as EnergyPlus are accurate but sequential and require per-building calibration, while purely data-driven sequence models scale but abandon the physical structure that makes their predictions trustworthy&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.10459v1</guid>
-      <pubDate>Wed, 07 Oct 2026 17:27:20 +0000</pubDate>
+      <title>LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC</title>
+      <link>http://arxiv.org/abs/2610.12407v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shashank Hegde, Alexander Popov, Elie Aljalbout, Nikolai Smolyanskiy&lt;/p&gt;&lt;p&gt;World action models (WAMs) predict actions and future observations, typically from a reconstruction-based representation that carries noisy, redundant information which can complicate downstream predictions. We introduce LeWAM, a bidirectional transformer for forward, backward, inverse dynamics and policy prediction, on a decoder-free JEPA latent trained end-to-end through all four modes. We see the following benefits: 1) Alignment: linear probes read robot and object state from LeWAM's latent better than from a regular Le World Model (a forward-only JEPA world model), while the latent ignores&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.12407v1</guid>
+      <pubDate>Thu, 08 Oct 2026 17:46:03 +0000</pubDate>
     </item>
     <item>
-      <title>SciExam for ENSO: Can AI Agents Build Climate Models?</title>
-      <link>http://arxiv.org/abs/2610.10513v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yinling Zhang, Langchen Liu, Dongbin Xiu, Xueyan Zou, Xu Kuang, Mengdi Wang, Shilong Liu&lt;/p&gt;&lt;p&gt;Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new scientific model is valid. The AI Science Exam for El Nino-Southern Oscillation (SciExam for ENSO) is a benchmark in which agents build low-order stochastic models of ENSO, the dominant mode of interannual climate variability, from real observations. Within a six-hour budget, agents process the observations, write their own diagnostics, which are then frozen, and develo&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.10513v1</guid>
-      <pubDate>Wed, 07 Oct 2026 17:52:52 +0000</pubDate>
+      <title>Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems</title>
+      <link>http://arxiv.org/abs/2610.12449v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anna Zimmel, Fleur Hendriks, Markus Holzleitner, Florian Sestak, Martin Weichselbaumer, Vlado Menkovski, Johannes Brandstetter&lt;/p&gt;&lt;p&gt;Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits multiple equally valid solutions, violating the one-to-one assumption underlying most learned physical surrogates. We introduce Bi-FORK, a generative framework for learning these one-to-many solution maps in high-dimensional systems&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.12449v1</guid>
+      <pubDate>Thu, 08 Oct 2026 17:58:36 +0000</pubDate>
     </item>
     <item>
-      <title>Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs</title>
-      <link>http://arxiv.org/abs/2610.10520v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhewei Chen, Hao Zhu, Jiaojiao Jiang, Ahad N. Zehmakan&lt;/p&gt;&lt;p&gt;GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based reweighting, but they do not specify where the student should preserve the teacher's graph-induced geometry. We show that this omission leads to two spectral failure modes in the student's representation space&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.10520v1</guid>
-      <pubDate>Wed, 07 Oct 2026 17:56:01 +0000</pubDate>
+      <title>One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts</title>
+      <link>http://arxiv.org/abs/2610.12448v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Adrian Bulat, Yassine Ouali, Georgios Tzimiropoulos&lt;/p&gt;&lt;p&gt;In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores depth-specific transformations by representing the FFN at each recurrent depth as a convex combination of a small shared expert bank. A continuous normalized-depth coordinate programs this mixture, defining a resampleable trajectory through FFN parameter space&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.12448v1</guid>
+      <pubDate>Thu, 08 Oct 2026 17:58:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
