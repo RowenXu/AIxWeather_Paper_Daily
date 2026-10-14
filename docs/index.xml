@@ -7,6 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:15:15 +0000</lastBuildDate>
+    <item>
+      <title>Can an Agent Learn to Predict Its Own Failure? Outcome-Grounded Confidence Calibration in LLM Agents</title>
+      <link>http://arxiv.org/abs/2610.18614v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ashutosh Hathidara&lt;/p&gt;&lt;p&gt;Controlling an acting LLM agent means deciding, at each step of a long-horizon task, whether to trust its next action, abstain, or hand off to a human. That decision needs a per-step confidence signal predicting whether the current rollout will eventually succeed. The agent's own self-reported verbalized confidence is the natural candidate, but existing reinforcement learning methods calibrate it against the correctness of a decision at the current step&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.18614v1</guid>
+      <pubDate>Tue, 13 Oct 2026 16:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deterministic Prediction as Global Velocity: Flow Matching for Probabilistic Time-Series Forecast</title>
+      <link>http://arxiv.org/abs/2610.18621v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiajing Hu, Xu Han, Li-Ping Liu&lt;/p&gt;&lt;p&gt;Accurate uncertainty quantification is critical for many time series forecasting applications, and recent studies have increasingly adopted generative models to capture predictive uncertainty. Existing approaches often combine deterministic forecasting with generative modeling to improve predictive performance. However, their joint training is typically unstable because the deterministic model is embedded within the generative process, resulting in deep computational graphs and changing the probability transport path&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.18621v1</guid>
+      <pubDate>Tue, 13 Oct 2026 16:02:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>MajorTOM:Elliot Pretrain, A Multi-Sensor, Multi-Temporal Pretraining Dataset for Earth Observation</title>
+      <link>http://arxiv.org/abs/2610.18624v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Carmen Oliver Huidobro, Mikolaj Czerkawski, Kevin Monsalvez-Pozo, Cesar Aybar, Gustau Camps-Valls, Oscar J. Pellicer-Valero&lt;/p&gt;&lt;p&gt;Pretraining generalist Earth observation foundation models requires data that combine several sensors, varied temporal sampling and, increasingly, text, yet open datasets rarely provide all three in one consistent, easily accessible form. We introduce MajorTOM:Elliot Pretrain, a collection of 279,166 tiles of 10 km drawn from the Major-TOM grid by clustering AlphaEarth embeddings. Each tile stacks Sentinel-2 L1C, Landsat-8/9, Sentinel-1 RTC, Copernicus DEM and ESA WorldCover on a shared 1056x1056-pixel, 10 m grid, complemented by cloud masks, OpenStreetMap entities and ERA5 weather&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.18624v1</guid>
+      <pubDate>Tue, 13 Oct 2026 16:03:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Some generalizations of the tornado model</title>
+      <link>http://arxiv.org/abs/2610.18663v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; S. N. Artekha&lt;/p&gt;&lt;p&gt;A possible mechanism of tornado generation is associated with the Schwarzschild criterion for convective instability. The supercooled cloud-air mixture near the axis starts to descend and, due to the super adiabatic temperature gradient, the overheated near-surface air mass rises. The complete system of equations for full model includes equations for the stream function, for the azimuthal velocity component, and for the change in density&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.18663v1</guid>
+      <pubDate>Tue, 13 Oct 2026 16:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>RadarGSOcc: Doppler-Aware 3D Semantic Occupancy Prediction Using 4D Radar Tensor with Geometric-Semantic Feature Extraction</title>
+      <link>http://arxiv.org/abs/2610.18686v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Christofel Rio Goenawan, Dong-Hee Paek, Seung-Hyun Kong&lt;/p&gt;&lt;p&gt;3D semantic occupancy prediction is crucial for autonomous driving, but camera-based methods degrade in low-light conditions and LiDAR-based methods are sensitive to adverse weather. 4D radar is more robust, yet its sparsity and the high cost of radar tensor processing limit its use. We propose Radar Geometric-Semantic Occupancy Prediction (RadarGSOcc), an efficient framework that directly processes 4D radar tensors by separately extracting geometric and semantic features, including Doppler information, with a deformable attention-based geometric refinement module as its key component&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.18686v1</guid>
+      <pubDate>Tue, 13 Oct 2026 16:40:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>UniW(A)M: A Unified Mixture-of-Experts Framework for World and World-Action Models</title>
+      <link>http://arxiv.org/abs/2610.18697v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jingbo Xu, Jianjie Fang, Zhuohang Li, Zihao Song, Zhaolu Wang, Xvyuan Liu, Xin Zhang, Haisheng Su&lt;/p&gt;&lt;p&gt;World models (WMs) and world-action models (WAMs) focus on future world prediction and executable action generation, respectively. Although these models learn shared physical dynamics and interaction semantics from embodied trajectories, they are typically trained in isolation, which restricts knowledge reuse between prediction and control. The central challenge is therefore to develop a unified learning framework that shares these dynamics while preserving the distinct modeling capabilities required by each paradigm&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.18697v1</guid>
+      <pubDate>Tue, 13 Oct 2026 16:47:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Establishing baseline model performances for optical turbulence forecasting</title>
+      <link>http://arxiv.org/abs/2610.18702v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; M. De Sepibus, E. Masciadri, C. Weinberger, A. Otarola, S. Miesske, C. Veillet, S. Ragland&lt;/p&gt;&lt;p&gt;Accurate forecasting of optical turbulence (OT) is useful to optimise telescope scheduling and maximising observing efficiency, as the performance of adaptive optics systems strongly depends on turbulence conditions. While various numerical weather prediction and machine learning models are developed to predict these complex turbulence properties, properly evaluating their added value requires well-defined baseline reference models. This study establishes baseline performance thresholds for key astroclimatic parameters using two distinct models: one forecasting the parameter average over a spe&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.18702v1</guid>
+      <pubDate>Tue, 13 Oct 2026 16:51:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning Source Structure: Bayesian Prediction with Transformers</title>
+      <link>http://arxiv.org/abs/2610.18725v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Meir Feder, Ruediger Urbanke&lt;/p&gt;&lt;p&gt;A transformer trained on sequences whose source parameters are drawn afresh each time can learn only what the sequences share: the source family and its prior. The Bayesian predictor that knows both, which we call informed Bayes, is the unique minimizer of the training loss and is computable from the family alone; we use it as a quantitative, falsifiable reference. Where earlier work compared transformers with Bayes on sources whose contexts can be learned independently, we build Markov sources with up to 64 symbols in which observations in one context inform prediction in another: product sou&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.18725v1</guid>
+      <pubDate>Tue, 13 Oct 2026 17:05:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Read the Room Before Your Model Generates</title>
+      <link>http://arxiv.org/abs/2610.18820v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Muyao Kong, Zhihao Lin&lt;/p&gt;&lt;p&gt;Large language models (LLMs) generally rely on sampling temperature to regulate the amount of randomness in their outputs. Mainstream methods for selecting temperature typically involve fixed, heuristic global settings and context or token-level calibration, rather than a geometrically interpretable representation of the communicative scenario. In this work, we introduce a simple and interpretable temperature selection framework, the \textbf{Scenario-Actor}, which adapts decoding to the inferred situational characteristics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.18820v1</guid>
+      <pubDate>Tue, 13 Oct 2026 17:51:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Simulations of the Evolving Ozone Layer: Implications for the Early Earth, Exoplanets, and the Search For Life</title>
+      <link>http://arxiv.org/abs/2610.18864v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Akhil Kumar, Gregory J. Cooke&lt;/p&gt;&lt;p&gt;Over 4 billion years, Earth's atmosphere has been transformed from a composition devoid of molecular oxygen (O$_2$) to one where O$_2$ is now 21% of our modern atmosphere by volume. With high quantities of O$_2$, an ozone (O$_3$) layer can form and partially shield the surface from biologically harmful ultraviolet radiation (UV). The evolution of the O$_3$ layer has previously been simulated under the modern Sun by independent groups with separate models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.18864v1</guid>
+      <pubDate>Tue, 13 Oct 2026 17:59:34 +0000</pubDate>
+    </item>
   </channel>
 </rss>
