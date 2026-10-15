@@ -7,76 +7,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 07:15:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:04:03 +0000</lastBuildDate>
     <item>
-      <title>Can an Agent Learn to Predict Its Own Failure? Outcome-Grounded Confidence Calibration in LLM Agents</title>
-      <link>http://arxiv.org/abs/2610.18614v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ashutosh Hathidara&lt;/p&gt;&lt;p&gt;Controlling an acting LLM agent means deciding, at each step of a long-horizon task, whether to trust its next action, abstain, or hand off to a human. That decision needs a per-step confidence signal predicting whether the current rollout will eventually succeed. The agent's own self-reported verbalized confidence is the natural candidate, but existing reinforcement learning methods calibrate it against the correctness of a decision at the current step&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.18614v1</guid>
-      <pubDate>Tue, 13 Oct 2026 16:00:01 +0000</pubDate>
+      <title>Extreme-Scale Super-Resolution of Homogeneous Turbulence from a Single Realization</title>
+      <link>http://arxiv.org/abs/2610.20305v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arth Sojitra, Muhammad Abid, Omer San&lt;/p&gt;&lt;p&gt;Homogeneous turbulent flows exhibit recurring multiscale structures across spatially separated regions, suggesting that a single flow realization may contain sufficient information to learn representations of unresolved scales. We investigate this hypothesis through an extreme super-resolution framework in which a wide-activation deep super-resolution (WDSR) network is trained exclusively on overlapping patches extracted from a single high-resolution turbulent realization. Previously unseen flow fields are reconstructed through patchwise prediction followed by Hann-window-weighted overlap-add &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.20305v1</guid>
+      <pubDate>Wed, 14 Oct 2026 14:54:20 +0000</pubDate>
     </item>
     <item>
-      <title>Deterministic Prediction as Global Velocity: Flow Matching for Probabilistic Time-Series Forecast</title>
-      <link>http://arxiv.org/abs/2610.18621v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiajing Hu, Xu Han, Li-Ping Liu&lt;/p&gt;&lt;p&gt;Accurate uncertainty quantification is critical for many time series forecasting applications, and recent studies have increasingly adopted generative models to capture predictive uncertainty. Existing approaches often combine deterministic forecasting with generative modeling to improve predictive performance. However, their joint training is typically unstable because the deterministic model is embedded within the generative process, resulting in deep computational graphs and changing the probability transport path&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.18621v1</guid>
-      <pubDate>Tue, 13 Oct 2026 16:02:03 +0000</pubDate>
+      <title>Fractional is Better: Learnable Derivative Orders in Neural Operator Learning</title>
+      <link>http://arxiv.org/abs/2610.20363v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fares B. Mehouachi, Saif Eddin Jabari&lt;/p&gt;&lt;p&gt;Neural operators learn mappings between function spaces, enabling fast surrogate solutions to partial differential equations. Despite remarkable architectural diversity, these methods often share a common input representation: raw coordinate-value pairs $(x, u(x))$. We ask whether inputs aligned with PDE differential structure can improve learning&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.20363v1</guid>
+      <pubDate>Wed, 14 Oct 2026 15:37:48 +0000</pubDate>
     </item>
     <item>
-      <title>MajorTOM:Elliot Pretrain, A Multi-Sensor, Multi-Temporal Pretraining Dataset for Earth Observation</title>
-      <link>http://arxiv.org/abs/2610.18624v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Carmen Oliver Huidobro, Mikolaj Czerkawski, Kevin Monsalvez-Pozo, Cesar Aybar, Gustau Camps-Valls, Oscar J. Pellicer-Valero&lt;/p&gt;&lt;p&gt;Pretraining generalist Earth observation foundation models requires data that combine several sensors, varied temporal sampling and, increasingly, text, yet open datasets rarely provide all three in one consistent, easily accessible form. We introduce MajorTOM:Elliot Pretrain, a collection of 279,166 tiles of 10 km drawn from the Major-TOM grid by clustering AlphaEarth embeddings. Each tile stacks Sentinel-2 L1C, Landsat-8/9, Sentinel-1 RTC, Copernicus DEM and ESA WorldCover on a shared 1056x1056-pixel, 10 m grid, complemented by cloud masks, OpenStreetMap entities and ERA5 weather&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.18624v1</guid>
-      <pubDate>Tue, 13 Oct 2026 16:03:15 +0000</pubDate>
+      <title>ReAl: Refine neural operators via aligning dynamical flow</title>
+      <link>http://arxiv.org/abs/2610.20369v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jing Xu, Zenglin Xu, Li Yi, Ruoxi Jiang, Yuan Qi&lt;/p&gt;&lt;p&gt;Neural partial differential equation (PDE) surrogates trained with mean squared error (MSE) can capture dominant dynamics but often lose high-frequency information and fine-scale structures. Generative models (e.g., Flow Matching) can capture the distribution of fine-scale details, yet stochastic errors may accumulate during autoregressive rollouts and compromise long-term stability. To address these limitations, we introduce Refine and Align(ReAl), a model-agnostic plug-in that augments pretrained PDE surrogates to improve the reconstruction of high-frequency structures associated with comple&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.20369v1</guid>
+      <pubDate>Wed, 14 Oct 2026 15:41:24 +0000</pubDate>
     </item>
     <item>
-      <title>Some generalizations of the tornado model</title>
-      <link>http://arxiv.org/abs/2610.18663v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; S. N. Artekha&lt;/p&gt;&lt;p&gt;A possible mechanism of tornado generation is associated with the Schwarzschild criterion for convective instability. The supercooled cloud-air mixture near the axis starts to descend and, due to the super adiabatic temperature gradient, the overheated near-surface air mass rises. The complete system of equations for full model includes equations for the stream function, for the azimuthal velocity component, and for the change in density&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.18663v1</guid>
-      <pubDate>Tue, 13 Oct 2026 16:25:57 +0000</pubDate>
+      <title>Improved Precipitation Variability in the Community Atmosphere Model through Implementation of a Neural-Network Deep Convection Scheme</title>
+      <link>http://arxiv.org/abs/2610.20405v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xavier J. Levine, Griffin Mooers, Jack W. Atkinson, Marat F. Khairoutdinov, Janni Yuval, Dominic Orchard, Paul A. O'Gorman&lt;/p&gt;&lt;p&gt;Conventional deep convection schemes remain a primary source of uncertainty in global climate models, yet replacing them with data-driven alternatives while maintaining physical consistency and numerical stability is an open challenge. We present a hybrid configuration of the Community Atmosphere Model version 6 (CAM6), in which a fully connected deep neural network replaces the Zhang-McFarlane deep convection scheme (ZM), while radiation, turbulence, and other cloud processes are left unchanged. The network is trained on output from a storm-resolving global model - the global System for Atmos&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.20405v1</guid>
+      <pubDate>Wed, 14 Oct 2026 16:05:59 +0000</pubDate>
     </item>
     <item>
-      <title>RadarGSOcc: Doppler-Aware 3D Semantic Occupancy Prediction Using 4D Radar Tensor with Geometric-Semantic Feature Extraction</title>
-      <link>http://arxiv.org/abs/2610.18686v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Christofel Rio Goenawan, Dong-Hee Paek, Seung-Hyun Kong&lt;/p&gt;&lt;p&gt;3D semantic occupancy prediction is crucial for autonomous driving, but camera-based methods degrade in low-light conditions and LiDAR-based methods are sensitive to adverse weather. 4D radar is more robust, yet its sparsity and the high cost of radar tensor processing limit its use. We propose Radar Geometric-Semantic Occupancy Prediction (RadarGSOcc), an efficient framework that directly processes 4D radar tensors by separately extracting geometric and semantic features, including Doppler information, with a deformable attention-based geometric refinement module as its key component&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.18686v1</guid>
-      <pubDate>Tue, 13 Oct 2026 16:40:59 +0000</pubDate>
+      <title>OrionMoE-v1.0: A Mixture-of-Experts Foundation Model for Tabular In-Context Learning</title>
+      <link>http://arxiv.org/abs/2610.20418v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohamed Bouadi, Nassim Bouarour, Aditya Tanna, Vinay Kumar Sankarapu&lt;/p&gt;&lt;p&gt;Tabular foundation models enable in-context learning by predicting unseen observations from a labeled support table without task-specific parameter updates. Despite recent advances, most existing approaches rely on dense architectures that apply the same transformations across features and datasets. We introduce OrionMoE-Small, a compact tabular foundation model that combines distribution-aware representations with dataset-conditioned sparse mixture-of-experts computation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.20418v1</guid>
+      <pubDate>Wed, 14 Oct 2026 16:13:12 +0000</pubDate>
     </item>
     <item>
-      <title>UniW(A)M: A Unified Mixture-of-Experts Framework for World and World-Action Models</title>
-      <link>http://arxiv.org/abs/2610.18697v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jingbo Xu, Jianjie Fang, Zhuohang Li, Zihao Song, Zhaolu Wang, Xvyuan Liu, Xin Zhang, Haisheng Su&lt;/p&gt;&lt;p&gt;World models (WMs) and world-action models (WAMs) focus on future world prediction and executable action generation, respectively. Although these models learn shared physical dynamics and interaction semantics from embodied trajectories, they are typically trained in isolation, which restricts knowledge reuse between prediction and control. The central challenge is therefore to develop a unified learning framework that shares these dynamics while preserving the distinct modeling capabilities required by each paradigm&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.18697v1</guid>
-      <pubDate>Tue, 13 Oct 2026 16:47:16 +0000</pubDate>
+      <title>Learning by Examples: Power Grid Steady State Analysis with a Tabular Foundation Model</title>
+      <link>http://arxiv.org/abs/2610.20462v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Olayiwola Arowolo, Oluwadara Adedeji, Peter Palensky, Jochen L. Cremer&lt;/p&gt;&lt;p&gt;Foundation models have shown strong generalization across scientific domains, but their use in power systems remains largely task-specific. We investigate whether a pretrained tabular foundation model (TFM), TabPFN, can serve as a general-purpose neural solver for power grid steady-state analysis. We evaluate the TFM on three tasks: power flow (PF) prediction, N-k contingency screening (NCS), and voltage stability margin (VSM) prediction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.20462v1</guid>
+      <pubDate>Wed, 14 Oct 2026 16:44:29 +0000</pubDate>
     </item>
     <item>
-      <title>Establishing baseline model performances for optical turbulence forecasting</title>
-      <link>http://arxiv.org/abs/2610.18702v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; M. De Sepibus, E. Masciadri, C. Weinberger, A. Otarola, S. Miesske, C. Veillet, S. Ragland&lt;/p&gt;&lt;p&gt;Accurate forecasting of optical turbulence (OT) is useful to optimise telescope scheduling and maximising observing efficiency, as the performance of adaptive optics systems strongly depends on turbulence conditions. While various numerical weather prediction and machine learning models are developed to predict these complex turbulence properties, properly evaluating their added value requires well-defined baseline reference models. This study establishes baseline performance thresholds for key astroclimatic parameters using two distinct models: one forecasting the parameter average over a spe&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.18702v1</guid>
-      <pubDate>Tue, 13 Oct 2026 16:51:47 +0000</pubDate>
+      <title>Quantifying privacy risks in foundation model representations of brain MRI</title>
+      <link>http://arxiv.org/abs/2610.20494v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Imen Bajar, Héber Hwang Arcolezi, Antoine Boutet, Carole Frindel, Mohamed Maouche&lt;/p&gt;&lt;p&gt;Pretrained representations are increasingly used to share and reuse information from medical images without exposing the original scans, but it is unclear how much patient-specific information these representations retain. We investigate this question for brain magnetic resonance imaging (MRI) by evaluating five frozen pretrained encoders spanning different architectures, pretraining objectives, and training domains on two longitudinal T1-weighted datasets, OASIS-2 and MIRIAD. Under an attacker model with access to released embeddings, the corresponding public encoder, and auxiliary MRI scans,&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.20494v1</guid>
+      <pubDate>Wed, 14 Oct 2026 17:03:42 +0000</pubDate>
     </item>
     <item>
-      <title>Learning Source Structure: Bayesian Prediction with Transformers</title>
-      <link>http://arxiv.org/abs/2610.18725v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Meir Feder, Ruediger Urbanke&lt;/p&gt;&lt;p&gt;A transformer trained on sequences whose source parameters are drawn afresh each time can learn only what the sequences share: the source family and its prior. The Bayesian predictor that knows both, which we call informed Bayes, is the unique minimizer of the training loss and is computable from the family alone; we use it as a quantitative, falsifiable reference. Where earlier work compared transformers with Bayes on sources whose contexts can be learned independently, we build Markov sources with up to 64 symbols in which observations in one context inform prediction in another: product sou&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.18725v1</guid>
-      <pubDate>Tue, 13 Oct 2026 17:05:05 +0000</pubDate>
+      <title>Graph-Enhanced Disease Trajectory Discovery and Temporal Endpoint Forecasting from Longitudinal Electronic Health Records</title>
+      <link>http://arxiv.org/abs/2610.20502v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jin-Jia Zheng, Vincent S. Tseng&lt;/p&gt;&lt;p&gt;Longitudinal electronic health records (EHRs) can reveal disease-progression structure, while useful forecasting requires leakage-controlled discovery, censor-aware outcomes, and inspectable trajectory evidence. We developed a graph-enhanced framework in MIMIC-IV v3.1 that splits patients before graph construction, learns train-only consecutive-admission transitions, and freezes endpoint-specific branching-motif policies selected on validation data. The final catalog contained 99,527 motifs, and a time-aware Transformer retrieved at most 24 patient-compatible motifs per endpoint through endpoi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.20502v1</guid>
+      <pubDate>Wed, 14 Oct 2026 17:08:50 +0000</pubDate>
     </item>
     <item>
-      <title>Read the Room Before Your Model Generates</title>
-      <link>http://arxiv.org/abs/2610.18820v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Muyao Kong, Zhihao Lin&lt;/p&gt;&lt;p&gt;Large language models (LLMs) generally rely on sampling temperature to regulate the amount of randomness in their outputs. Mainstream methods for selecting temperature typically involve fixed, heuristic global settings and context or token-level calibration, rather than a geometrically interpretable representation of the communicative scenario. In this work, we introduce a simple and interpretable temperature selection framework, the \textbf{Scenario-Actor}, which adapts decoding to the inferred situational characteristics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.18820v1</guid>
-      <pubDate>Tue, 13 Oct 2026 17:51:18 +0000</pubDate>
+      <title>Probabilistic AI models outperform numerical weather prediction models on record breaking heat extremes</title>
+      <link>http://arxiv.org/abs/2610.20519v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jakob Benjamin Wessel, Fiona Spuler, Christopher A. T. Ferro, Marlene Kretschmer, Sebastian Sippel&lt;/p&gt;&lt;p&gt;AI weather prediction (AIWP) models have emerged as a key complement to physics-based numerical weather prediction (NWP) models, and now often outperform them on aggregate skill. Yet, several studies report that physics-based models still forecast extreme events better, in particular record-breaking extremes, based on the evaluation of deterministic forecasts. Here we evaluate heat extreme forecasts from probabilistic AIWP models over global land and show that they clearly outperform the ECMWF IFS ensemble, both raw and post-processed, including for record-breaking events, in all regions and a&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.20519v1</guid>
+      <pubDate>Wed, 14 Oct 2026 17:21:07 +0000</pubDate>
     </item>
     <item>
-      <title>Simulations of the Evolving Ozone Layer: Implications for the Early Earth, Exoplanets, and the Search For Life</title>
-      <link>http://arxiv.org/abs/2610.18864v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Akhil Kumar, Gregory J. Cooke&lt;/p&gt;&lt;p&gt;Over 4 billion years, Earth's atmosphere has been transformed from a composition devoid of molecular oxygen (O$_2$) to one where O$_2$ is now 21% of our modern atmosphere by volume. With high quantities of O$_2$, an ozone (O$_3$) layer can form and partially shield the surface from biologically harmful ultraviolet radiation (UV). The evolution of the O$_3$ layer has previously been simulated under the modern Sun by independent groups with separate models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.18864v1</guid>
-      <pubDate>Tue, 13 Oct 2026 17:59:34 +0000</pubDate>
+      <title>Generative Representation Learning for Scalable Latent Tokenization</title>
+      <link>http://arxiv.org/abs/2610.20533v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alan Baade, Kyle Sargent, Vincent Sitzmann, Eric Ryan Chan, Justin Johnson, Li Fei-Fei, Gordon Wetzstein&lt;/p&gt;&lt;p&gt;We introduce an approach for self-supervised representation learning designed to be used as a tokenizer for generative modeling. Our objective supervises a representation loss by factorizing the pointwise mutual information of the data, which we estimate by taking information differences between conditional predictions from a learned generative model. We justify our algorithm theoretically and empirically, demonstrating that our generative approach to representation learning avoids dimensional collapse and feature suppression in cases where commonly used methods like DINO and LeJEPA fail&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.20533v1</guid>
+      <pubDate>Wed, 14 Oct 2026 17:29:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revisiting Simple Baselines for Relational Deep Learning</title>
+      <link>http://arxiv.org/abs/2610.20534v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Viet The Nguyen, Vijay Prakash Dwivedi, Gunther Gust&lt;/p&gt;&lt;p&gt;Relational deep learning has emerged as a powerful paradigm for learning end-to-end predictive models over relational databases by representing them as temporal heterogeneous graphs. Recent advances based on graph neural networks and Transformers have achieved strong performance across diverse domains. However, the effectiveness of simpler relational baselines remains underexplored, making it difficult to assess how much architectural complexity is needed to achieve strong predictive performance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.20534v1</guid>
+      <pubDate>Wed, 14 Oct 2026 17:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition</title>
+      <link>http://arxiv.org/abs/2610.20560v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Weichen Lyu, Chong Xia, Mingyu Dong, Long Xu, Shengjun Zhang, Yueqi Duan&lt;/p&gt;&lt;p&gt;3D object composition is pivotal to digital content creation and robot simulation, while also serving as a critical testbed for physical intelligence in foundation models. Previous methods either leverage large language models to directly predict object coordinates, or utilize generative diffusion priors to synthesize composite images for visual alignment, both of which rely on static priors in digital spaces. However, these methods consistently struggle with complex compositions such as precise hanging, gravity-driven settling and hidden containment, as these tasks require interactive constru&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.20560v1</guid>
+      <pubDate>Wed, 14 Oct 2026 17:47:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Co-Evolving Acting and Forecasting for Language Agents</title>
+      <link>http://arxiv.org/abs/2610.20597v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haofei Yu, Yixing Chen, Yining Zhao, Xuyan Ye, Yuxiang Liu, Zhigang Hua, Yan Xie, Shuang Yang&lt;/p&gt;&lt;p&gt;Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate steps largely unused. Prior work exploits this supervision through value targets that estimate per-step success probabilities or observation targets that fit environment response. Both are hard to construct well: (1) value targets come from the same single scalar signal for each step in the trajectory, and (2) observation targets, such as web pages and terminal logs, are long and n&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.20597v1</guid>
+      <pubDate>Wed, 14 Oct 2026 17:59:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
