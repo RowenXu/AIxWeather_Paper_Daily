@@ -7,6 +7,83 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 19 Oct 2026 07:26:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 07:14:32 +0000</lastBuildDate>
+    <item>
+      <title>Wet-Biased Data Pipelines Mislead the Training and Evaluation of Generative Precipitation Nowcasting</title>
+      <link>http://arxiv.org/abs/2610.26486v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Christoph Metzl, Stefan Kapsreiter, Kianusch Vahid Yousefnia, Virginia Poli, Richard Müller, Frank Krüger, Tobias Bölle&lt;/p&gt;&lt;p&gt;Generative models for precipitation nowcasting are trained and evaluated predominantly on wet-biased datasets, which over-represent precipitation events to emphasize rare extremes. Selecting test cases based on target observations is known to favor forecasts that match the selected distribution rather than the intended deployment distribution. We show analytically how this target-dependent sampling also shifts the conditional distribution learned by generative models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.26486v1</guid>
+      <pubDate>Mon, 19 Oct 2026 14:28:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Semantic Knowledge Graph Construction Pipeline for Vehicle Intention Prediction in nuScenes</title>
+      <link>http://arxiv.org/abs/2610.26528v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Khaled Nowara, Mohamed Manzour, Catherine Elias&lt;/p&gt;&lt;p&gt;Knowledge graphs (KGs) are increasingly used in autonomous driving (AD) to make traffic scene entities and relations explicit for prediction and reasoning. Existing traffic-scene KGs, however, primarily emphasize trajectory forecasting or general scene understanding. This paper presents the nuScenes Intention Knowledge Graph (NIKG), a focused Web Ontology Language (OWL)-based semantic representation and construction pipeline for ego-centric vehicle intention context&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.26528v1</guid>
+      <pubDate>Mon, 19 Oct 2026 14:56:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Breaking Diffusion: Parallel Reasoning with Draft Refinement</title>
+      <link>http://arxiv.org/abs/2610.26542v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jaesang Yu, Seoyeon Byun, Yun Wang, Yan Lu, Juho Kim&lt;/p&gt;&lt;p&gt;Drafting an answer allows a reasoning model to reconsider each decision in the context of the others. Yet repeated diffusion denoising does not ensure that individually plausible token updates form a better answer together. We introduce Draft Refinement Language Models (DRLMs), which use a single denoiser to propose parallel revisions and evaluate a candidate draft&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.26542v1</guid>
+      <pubDate>Mon, 19 Oct 2026 15:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatIf-Bench: Benchmarking Intervention-Aware Time Series Forecasting</title>
+      <link>http://arxiv.org/abs/2610.26582v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arjun Ashok, Mihir Parmar, Palash Goyal, Bhavana Dalvi Mishra, Chun-Liang Li, Irina Rish, Alexandre Drouin, Jinsung Yoon&lt;/p&gt;&lt;p&gt;Recent time series foundation models (TSFMs) can consume covariates in-context, extending zero-shot forecasting to problems driven by external factors. This enables scenario analysis: forecasting how a target responds to events that set covariates to chosen future values. Whether they can do this reliably is an open question&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.26582v1</guid>
+      <pubDate>Mon, 19 Oct 2026 15:32:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Concerns in Benchmarking Jailbreaks: An Empirical Study of Attack Success Rates</title>
+      <link>http://arxiv.org/abs/2610.26595v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Leon Tu Nguyen, Rohan Menon, Rafael Tappe Maestro, Eric Aubinais, Chih-Hong Cheng&lt;/p&gt;&lt;p&gt;Jailbreak methods are commonly compared using Attack Success Rate (ASR), but these comparisons depend on how responses are generated and judged. In this paper, we examine eight attacks against three open-weight language models using three evaluation procedures. Low-resource language attacks achieve a mean ASR of 96.0% under keyword matching but 2.7% under a Qwen3 evaluator following StrongREJECT scoring instructions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.26595v1</guid>
+      <pubDate>Mon, 19 Oct 2026 15:39:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Probabilistic, Rotation-Preserving Kernel Operator Surrogate for Continuum-Robot Design Spaces</title>
+      <link>http://arxiv.org/abs/2610.26605v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Branden Frieden, Alan Kuntz, Varun Shankar&lt;/p&gt;&lt;p&gt;We develop an uncertainty-aware, operator-learning-based surrogate for tendon-driven continuum robots (TDCRs) that generalizes across robot design and actuation while predicting the complete equilibrium configuration. Our central idea is a nonstationary Gaussian-process (GP) kernel whose metric is learned by a shallow neural network from mechanics-aware design coordinates. The network learns how similarity changes across design space, while the resulting kernel defines the design-to-pose operator, its posterior uncertainty, and a criterion for sequential simulator acquisition&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.26605v1</guid>
+      <pubDate>Mon, 19 Oct 2026 15:45:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>recAMPLIFY: Large-Scale Pretraining of Recursive Protein Language Models</title>
+      <link>http://arxiv.org/abs/2610.26747v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Saurav Jha, Qianli Liao, Robert Vernon, Sarath Chandar, Quentin Fournier&lt;/p&gt;&lt;p&gt;Protein language models (pLMs) are powerful tools for protein annotation and mutation-effect prediction, but progress has largely depended on scaling model size and data, making them expensive and prone to memorization. Test-time scaling offers a complementary path, but methods developed for autoregressive LLMs do not transfer directly: masked encoders lack a generation loop, and amino acids do not verbalize in a reasoning language. Instead, we adapt recursive pretraining to masked pLMs, where a weight-tied Transformer core refines residue-aligned hidden states over an adjustable number of cyc&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.26747v1</guid>
+      <pubDate>Mon, 19 Oct 2026 17:12:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Teacher Supervision, Fixed Representations and Calibration: Exact Risk Calculations for Candidate-Scoring Decision Models</title>
+      <link>http://arxiv.org/abs/2610.26797v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Agus Sudjianto, Denis Burakov&lt;/p&gt;&lt;p&gt;Candidate-scoring decision models return a probability distribution over a presented set of answers. Public documentation of one such system, Jev, and of an open counterpart, JevAny, describes three training ingredients that determine what these probabilities estimate: soft targets from larger models, a frozen pretrained backbone and temperature calibration. We analyze each ingredient in Gaussian surrogates where the finite-sample risk can be computed exactly&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.26797v1</guid>
+      <pubDate>Mon, 19 Oct 2026 17:42:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling Parameter-Efficient Fine-Tuning for Brain Encoding</title>
+      <link>http://arxiv.org/abs/2610.26802v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhuofan Josh Ying, Guanglong Sun, Nolan Ho, Kieran Liu, Rui Yang, Andrew Chen, Nikolaus Kriegeskorte, Pony Ma&lt;/p&gt;&lt;p&gt;Brain encoding models aim to predict neural responses to stimuli. The most widely used approach fits readouts from frozen pretrained backbones. Using neural data to train large models from scratch or fully fine-tune them after task-pretraining has proven difficult because neural data is costly and limited&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.26802v1</guid>
+      <pubDate>Mon, 19 Oct 2026 17:46:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy</title>
+      <link>http://arxiv.org/abs/2610.26848v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zekai Li, Jiayi Yu, Jinlu Zhang, Luyang Niu, Zekun Qi, Jun Zheng, Xuchuan Chen, Dairu Liu&lt;/p&gt;&lt;p&gt;In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: First-Attempt Performance, Efficiency, Success, Budget and Improvement from failure. Different VLMs are evaluated on 18 manipulation tasks under a fixed interaction budget&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.26848v1</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting</title>
+      <link>http://arxiv.org/abs/2610.26852v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zehao Wang, Jianpeng Yao, Yuping Wang, Yiping Li, Jiaqi Li, Zhixu Li, Kanghoon Lee, Jinfeng Wang&lt;/p&gt;&lt;p&gt;Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fails to ensure safety and efficiency, especially under occlusions and out-of-distribution (OOD) scenarios, where individual robots may overlook potential risks or make inaccurate predictions. Leveraging cooperation effectively for both prediction and navigation remains a major challenge&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.26852v1</guid>
+      <pubDate>Mon, 19 Oct 2026 17:59:49 +0000</pubDate>
+    </item>
   </channel>
 </rss>
