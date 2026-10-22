@@ -7,83 +7,111 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 07:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:11:56 +0000</lastBuildDate>
     <item>
-      <title>Wet-Biased Data Pipelines Mislead the Training and Evaluation of Generative Precipitation Nowcasting</title>
-      <link>http://arxiv.org/abs/2610.26486v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Christoph Metzl, Stefan Kapsreiter, Kianusch Vahid Yousefnia, Virginia Poli, Richard Müller, Frank Krüger, Tobias Bölle&lt;/p&gt;&lt;p&gt;Generative models for precipitation nowcasting are trained and evaluated predominantly on wet-biased datasets, which over-represent precipitation events to emphasize rare extremes. Selecting test cases based on target observations is known to favor forecasts that match the selected distribution rather than the intended deployment distribution. We show analytically how this target-dependent sampling also shifts the conditional distribution learned by generative models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.26486v1</guid>
-      <pubDate>Mon, 19 Oct 2026 14:28:28 +0000</pubDate>
+      <title>An interpretable deep learning method for early hepatocellular carcinoma diagnosis on multiphase CT</title>
+      <link>http://arxiv.org/abs/2610.29616v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Emma Sarfati, Alexandre Bône, Pietro Gori, Sisi Yang, Marc-Michel Rohé, François Nicolas, Jeong-Min Lee, Jeong Hee Yoon&lt;/p&gt;&lt;p&gt;Early diagnosis of hepatocellular carcinoma is critical to preserve access to curative treatment options. The Liver Imaging Reporting and Data System (LI-RADS) provides a standardized framework for non-invasive diagnosis on multiphase computed tomography, based on major visual imaging features. However, these features may be difficult to assess consistently, particularly in small liver lesions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.29616v1</guid>
+      <pubDate>Wed, 21 Oct 2026 11:56:23 +0000</pubDate>
     </item>
     <item>
-      <title>A Semantic Knowledge Graph Construction Pipeline for Vehicle Intention Prediction in nuScenes</title>
-      <link>http://arxiv.org/abs/2610.26528v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Khaled Nowara, Mohamed Manzour, Catherine Elias&lt;/p&gt;&lt;p&gt;Knowledge graphs (KGs) are increasingly used in autonomous driving (AD) to make traffic scene entities and relations explicit for prediction and reasoning. Existing traffic-scene KGs, however, primarily emphasize trajectory forecasting or general scene understanding. This paper presents the nuScenes Intention Knowledge Graph (NIKG), a focused Web Ontology Language (OWL)-based semantic representation and construction pipeline for ego-centric vehicle intention context&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.26528v1</guid>
-      <pubDate>Mon, 19 Oct 2026 14:56:03 +0000</pubDate>
+      <title>FogTTA: Online Test-Time Adaptation for Robust Transformer-based Object Detection in Foggy Weather</title>
+      <link>http://arxiv.org/abs/2610.29618v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ali Abedi, Q. M. Jonathan Wu, Ning Zhang, Shiqi Tian&lt;/p&gt;&lt;p&gt;Object detection models for autonomous driving commonly experience substantial performance drops when deployed under adverse weather due to the domain shift between training data and real-world operating conditions. This degradation is especially evident when models trained on clear-weather images encounter foggy environments with reduced visibility and contrast. To address this challenge, we introduce FogTTA, an online test-time adaptation framework designed to improve the robustness of Transformer-based object detectors in fog&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.29618v1</guid>
+      <pubDate>Wed, 21 Oct 2026 11:57:36 +0000</pubDate>
     </item>
     <item>
-      <title>Breaking Diffusion: Parallel Reasoning with Draft Refinement</title>
-      <link>http://arxiv.org/abs/2610.26542v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jaesang Yu, Seoyeon Byun, Yun Wang, Yan Lu, Juho Kim&lt;/p&gt;&lt;p&gt;Drafting an answer allows a reasoning model to reconsider each decision in the context of the others. Yet repeated diffusion denoising does not ensure that individually plausible token updates form a better answer together. We introduce Draft Refinement Language Models (DRLMs), which use a single denoiser to propose parallel revisions and evaluate a candidate draft&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.26542v1</guid>
-      <pubDate>Mon, 19 Oct 2026 15:02:45 +0000</pubDate>
+      <title>Space weather dependence of decameter-scale ionospheric irregularities spatial distribution</title>
+      <link>http://arxiv.org/abs/2610.29630v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Oleg I. Berngardt, Ivan A. Lavygin&lt;/p&gt;&lt;p&gt;This paper describes an approach to constructing nowcast and forecast predictive models for the occurrence of high-latitude decameter ionospheric irregularities based on SuperDARN and SECIRA radar data and space weather parameters. The method relies on self-learning pattern recognition in the dynamics of space weather parameters, that influence the irregularities formation. The proposed approach is a data-driven, multiscale method in which the spatial distribution of irregularities is approximated using a neural network of an original architecture, inspired by graph neural networks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.29630v1</guid>
+      <pubDate>Wed, 21 Oct 2026 12:12:15 +0000</pubDate>
     </item>
     <item>
-      <title>WhatIf-Bench: Benchmarking Intervention-Aware Time Series Forecasting</title>
-      <link>http://arxiv.org/abs/2610.26582v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arjun Ashok, Mihir Parmar, Palash Goyal, Bhavana Dalvi Mishra, Chun-Liang Li, Irina Rish, Alexandre Drouin, Jinsung Yoon&lt;/p&gt;&lt;p&gt;Recent time series foundation models (TSFMs) can consume covariates in-context, extending zero-shot forecasting to problems driven by external factors. This enables scenario analysis: forecasting how a target responds to events that set covariates to chosen future values. Whether they can do this reliably is an open question&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.26582v1</guid>
-      <pubDate>Mon, 19 Oct 2026 15:32:53 +0000</pubDate>
+      <title>Probabilistic Machine Learning for Short-Term Atmospheric Seeing Forecasting</title>
+      <link>http://arxiv.org/abs/2610.29654v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mary-Joe Medlej, Rahul Srinivasan, Simon Prunet, Aziz Ziad, Christophe Giordano&lt;/p&gt;&lt;p&gt;Accurate short-term forecasting of atmospheric seeing is of significant interest for astronomical observations and free-space optical communication systems, where rapid variations in optical turbulence can affect system performance and operational planning. In this work, we benchmark machine learning models for predicting atmospheric seeing up to two hours in advance, with a particular focus on probabilistic forecasting and uncertainty quantification. We compare two probabilistic approaches, Gaussian Processes (GPs) and a normalizing-flow- based model (FloTS), against deterministic recurrent n&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.29654v1</guid>
+      <pubDate>Wed, 21 Oct 2026 12:35:47 +0000</pubDate>
     </item>
     <item>
-      <title>Concerns in Benchmarking Jailbreaks: An Empirical Study of Attack Success Rates</title>
-      <link>http://arxiv.org/abs/2610.26595v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Leon Tu Nguyen, Rohan Menon, Rafael Tappe Maestro, Eric Aubinais, Chih-Hong Cheng&lt;/p&gt;&lt;p&gt;Jailbreak methods are commonly compared using Attack Success Rate (ASR), but these comparisons depend on how responses are generated and judged. In this paper, we examine eight attacks against three open-weight language models using three evaluation procedures. Low-resource language attacks achieve a mean ASR of 96.0% under keyword matching but 2.7% under a Qwen3 evaluator following StrongREJECT scoring instructions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.26595v1</guid>
-      <pubDate>Mon, 19 Oct 2026 15:39:16 +0000</pubDate>
+      <title>Hydrodynamics of microalgae in sea spray</title>
+      <link>http://arxiv.org/abs/2610.29719v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Elettra Figà Talamanca, Juliette Pierre, Eva Ternon, Paula Cohen, Maarten De Rijcke, Hélène de Maleprade&lt;/p&gt;&lt;p&gt;Airborne transmission of biological matter is likely to cause numerous respiratory distress in coastal populations during certain harmful algal blooms. While we know that dissolved algal toxins aerosolize, the contribution of particle-associated toxins is still unknown. The observation of microalgae in the atmosphere suggests that cells or cell debris could be a carrier&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.29719v1</guid>
+      <pubDate>Wed, 21 Oct 2026 13:29:45 +0000</pubDate>
     </item>
     <item>
-      <title>A Probabilistic, Rotation-Preserving Kernel Operator Surrogate for Continuum-Robot Design Spaces</title>
-      <link>http://arxiv.org/abs/2610.26605v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Branden Frieden, Alan Kuntz, Varun Shankar&lt;/p&gt;&lt;p&gt;We develop an uncertainty-aware, operator-learning-based surrogate for tendon-driven continuum robots (TDCRs) that generalizes across robot design and actuation while predicting the complete equilibrium configuration. Our central idea is a nonstationary Gaussian-process (GP) kernel whose metric is learned by a shallow neural network from mechanics-aware design coordinates. The network learns how similarity changes across design space, while the resulting kernel defines the design-to-pose operator, its posterior uncertainty, and a criterion for sequential simulator acquisition&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.26605v1</guid>
-      <pubDate>Mon, 19 Oct 2026 15:45:57 +0000</pubDate>
+      <title>Structure-Aware Message Passing on Petri Nets through Directed Walks and Incidence Diffusion</title>
+      <link>http://arxiv.org/abs/2610.29725v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Geri Skenderi&lt;/p&gt;&lt;p&gt;A common application of the process mining discipline is to connect observed event data with Petri nets, which are bipartite, directed graphical process models with rich formal underpinnings. Recent work learns vector representations of Petri nets to retrieve process models and relate them to event logs, but leaves implicit two key aspects hidden within the net's structure: directed cycles (process loops) and invariants recorded by the net's incidence matrix. We expose both of these to message-passing graph neural networks, through a positional encoding built from return probabilities of direc&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.29725v1</guid>
+      <pubDate>Wed, 21 Oct 2026 13:31:05 +0000</pubDate>
     </item>
     <item>
-      <title>recAMPLIFY: Large-Scale Pretraining of Recursive Protein Language Models</title>
-      <link>http://arxiv.org/abs/2610.26747v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Saurav Jha, Qianli Liao, Robert Vernon, Sarath Chandar, Quentin Fournier&lt;/p&gt;&lt;p&gt;Protein language models (pLMs) are powerful tools for protein annotation and mutation-effect prediction, but progress has largely depended on scaling model size and data, making them expensive and prone to memorization. Test-time scaling offers a complementary path, but methods developed for autoregressive LLMs do not transfer directly: masked encoders lack a generation loop, and amino acids do not verbalize in a reasoning language. Instead, we adapt recursive pretraining to masked pLMs, where a weight-tied Transformer core refines residue-aligned hidden states over an adjustable number of cyc&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.26747v1</guid>
-      <pubDate>Mon, 19 Oct 2026 17:12:55 +0000</pubDate>
+      <title>How Do DiTs Denoise? An Aggregator-Predictor View of Attention and MLPs</title>
+      <link>http://arxiv.org/abs/2610.29854v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gyeonghun Kang, William Xingxu Chen, Xiang Cheng&lt;/p&gt;&lt;p&gt;How do diffusion transformers (DiTs) represent image content and learn rules for reusing it to generalize? We develop an aggregator--predictor view of DiTs as input-adaptive local denoisers, in which context aggregation and patch prediction provide functional roles for interpreting attention and MLPs. We first establish that, for Gaussian Markov random field (GMRF) priors, the global Bayes denoiser can be approximated using only a subset of context patches, with error decaying exponentially in context radius. We further show that patchwise linear denoisers, often invoked to explain diffusion g&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.29854v1</guid>
+      <pubDate>Wed, 21 Oct 2026 15:14:22 +0000</pubDate>
     </item>
     <item>
-      <title>Teacher Supervision, Fixed Representations and Calibration: Exact Risk Calculations for Candidate-Scoring Decision Models</title>
-      <link>http://arxiv.org/abs/2610.26797v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Agus Sudjianto, Denis Burakov&lt;/p&gt;&lt;p&gt;Candidate-scoring decision models return a probability distribution over a presented set of answers. Public documentation of one such system, Jev, and of an open counterpart, JevAny, describes three training ingredients that determine what these probabilities estimate: soft targets from larger models, a frozen pretrained backbone and temperature calibration. We analyze each ingredient in Gaussian surrogates where the finite-sample risk can be computed exactly&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.26797v1</guid>
-      <pubDate>Mon, 19 Oct 2026 17:42:24 +0000</pubDate>
+      <title>Tractable Inference with Kolmogorov-Arnold Networks</title>
+      <link>http://arxiv.org/abs/2610.29909v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Juan Diego Toscano, Sascha Ranft, Zhiwei Gao, Li-Lian Wang, George Em Karniadakis&lt;/p&gt;&lt;p&gt;Machine-learning surrogates in computational science often require not only accurate predictions but also expectations, variances, conserved integrals, and normalization constants. Conventional neural networks, including Kolmogorov--Arnold networks (KANs), generally evaluate these quantities through Monte Carlo sampling or multidimensional quadrature, making repeated inference costly, particularly in high dimensions. We introduce KANs with Tractable Operators for Uncertainty and Constraints (TOUCKANs), whose finite-degree polynomial outer functions yield a decomposable sum--product representat&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.29909v1</guid>
+      <pubDate>Wed, 21 Oct 2026 15:49:10 +0000</pubDate>
     </item>
     <item>
-      <title>Scaling Parameter-Efficient Fine-Tuning for Brain Encoding</title>
-      <link>http://arxiv.org/abs/2610.26802v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhuofan Josh Ying, Guanglong Sun, Nolan Ho, Kieran Liu, Rui Yang, Andrew Chen, Nikolaus Kriegeskorte, Pony Ma&lt;/p&gt;&lt;p&gt;Brain encoding models aim to predict neural responses to stimuli. The most widely used approach fits readouts from frozen pretrained backbones. Using neural data to train large models from scratch or fully fine-tune them after task-pretraining has proven difficult because neural data is costly and limited&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.26802v1</guid>
-      <pubDate>Mon, 19 Oct 2026 17:46:08 +0000</pubDate>
+      <title>Asking a Multimodal LLM Whether Someone Fell: Zero-Shot Screening of Low-Resolution Thermal Video in a Laboratory and an Occupied Home</title>
+      <link>http://arxiv.org/abs/2610.29913v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marcos Junca, Mauro Junca&lt;/p&gt;&lt;p&gt;Thermal cameras can watch over older people living alone without capturing faces, and multimodal large language models (LLMs) can judge a short video without task-specific training. We evaluate a production multimodal LLM, Gemini 3.8 Flash at temperature 0, as the decision stage of an event-triggered fall screener, used exactly as a deployed prototype uses it: one request per short thermal clip, with its sound track when there is one, and its predecessor Gemini 3.7 Flash on the same requests. On 438 staged falls and 563 non-fall windows that we located by hand in a public 32x24 thermal dataset&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.29913v1</guid>
+      <pubDate>Wed, 21 Oct 2026 15:53:17 +0000</pubDate>
     </item>
     <item>
-      <title>Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy</title>
-      <link>http://arxiv.org/abs/2610.26848v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zekai Li, Jiayi Yu, Jinlu Zhang, Luyang Niu, Zekun Qi, Jun Zheng, Xuchuan Chen, Dairu Liu&lt;/p&gt;&lt;p&gt;In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: First-Attempt Performance, Efficiency, Success, Budget and Improvement from failure. Different VLMs are evaluated on 18 manipulation tasks under a fixed interaction budget&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.26848v1</guid>
-      <pubDate>Mon, 19 Oct 2026 17:59:30 +0000</pubDate>
+      <title>Topographically Forced Stationary Waves Can Explain the Near-Surface Zonal Winds Observed by Huygens on Titan</title>
+      <link>http://arxiv.org/abs/2610.29930v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sooman Han, Scot Rafkin, J. Michael Battalio, Bowen Fan, Juan M. Lora&lt;/p&gt;&lt;p&gt;Titan's equatorial superrotation is associated with climatological retrograde (westward) near-surface winds at low latitudes, as consistently simulated by Titan general circulation models. However, the Huygens probe measured prograde (eastward) near-surface winds, contrary to the expected circulation. We investigate whether these observations reflect localized forcing by large-scale topography, using paired three-dimensional dry simulations with and without topography in the Titan Atmospheric Model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.29930v1</guid>
+      <pubDate>Wed, 21 Oct 2026 16:03:29 +0000</pubDate>
     </item>
     <item>
-      <title>CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting</title>
-      <link>http://arxiv.org/abs/2610.26852v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zehao Wang, Jianpeng Yao, Yuping Wang, Yiping Li, Jiaqi Li, Zhixu Li, Kanghoon Lee, Jinfeng Wang&lt;/p&gt;&lt;p&gt;Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fails to ensure safety and efficiency, especially under occlusions and out-of-distribution (OOD) scenarios, where individual robots may overlook potential risks or make inaccurate predictions. Leveraging cooperation effectively for both prediction and navigation remains a major challenge&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2610.26852v1</guid>
-      <pubDate>Mon, 19 Oct 2026 17:59:49 +0000</pubDate>
+      <title>Mitigating Model Collapse through Dreaming Learning</title>
+      <link>http://arxiv.org/abs/2610.30009v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Matteo Benati, Alessandro Londei, Denise Lanzieri, Raffaello Mastromarino, Vittorio Loreto&lt;/p&gt;&lt;p&gt;Training generative models on synthetic data causes loss of diversity and a decrease in performance, a phenomenon known as model collapse. We study this degeneration spectrally in a controlled Markov setting. The eigenvalue spectrum of the learned transition operator offers a direct view of the process, since the subdominant eigenvalues set how fast the chain mixes and therefore how much of the state space it continues to explore&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.30009v1</guid>
+      <pubDate>Wed, 21 Oct 2026 16:41:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Loopholing All the Way: Language Modeling with pure Self-Conditioning</title>
+      <link>http://arxiv.org/abs/2610.30068v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Adrien Deschenaux, Nadezhda Ilieva, Justin Deschenaux, Manuel Madeira, Dorina Thanou, Aurélien Lucchi, Antonio Orvieto, Caglar Gulcehre&lt;/p&gt;&lt;p&gt;Recent Diffusion Language Models (DLMs) use Self-Conditioning (SC), or Loopholing, to improve their performance. While SC is traditionally seen as an auxiliary heuristic, its empirical success raises the question: can a continuous generative model be based purely on Self-Conditioning? We answer affirmatively with LAW (``Loopholing All the Way''), which propagates the Expected Embedding under the denoiser's prediction across steps, decoding the tokens once, at the end. On Sudoku, LAW outperforms previous Discrete and Continuous Diffusion Models, including Loopholing Discrete Diffusion&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.30068v1</guid>
+      <pubDate>Wed, 21 Oct 2026 17:25:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift</title>
+      <link>http://arxiv.org/abs/2610.30090v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Juan S. Santillana&lt;/p&gt;&lt;p&gt;Perimeter triage faces a latency/semantics trade-off: signature engines are fast and format-safe but blind to unseen attacks, while generative models are semantic but slow and produce unparseable output. In late 2026 a class of commercial System One decision models (TypeSafe Jev; Microsoft-Decision-1) began selling typed decision primitives - binary gates, closed-set choices, ordinal scores - as product APIs, with no academic treatment. We present VX-One: a small multi-head network (100K-10M parameters) whose outputs are these primitives - a calibrated gate, a choice over a closed candidate se&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.30090v1</guid>
+      <pubDate>Wed, 21 Oct 2026 17:39:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geometric Algebra for Neural Networks: A Survey</title>
+      <link>http://arxiv.org/abs/2610.30121v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tao Zhong, Kaison Fong, Keqin Wang, Christine Allen-Blanchette&lt;/p&gt;&lt;p&gt;Geometric algebra (GA) unifies geometric primitives and transformations in a single algebraic framework. Neural networks designed around this framework often represent features as multivectors and constrain layer operations to respect the algebraic structure, enabling principled treatment of geometric transformations and, in many cases, built-in equivariance. This survey reviews geometric algebra neural networks, including their building blocks, equivariant properties, application domains, empirical performance, and software support&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.30121v1</guid>
+      <pubDate>Wed, 21 Oct 2026 17:57:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>PhysiCalWorld: In-Context Physics Calibration for World Models</title>
+      <link>http://arxiv.org/abs/2610.30125v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yunhao Luo, Wentao He, Yinpei Dai, Hyelin Nam, Hongze Fu, Joyce Chai, Nima Fazeli, Jeong Joon Park&lt;/p&gt;&lt;p&gt;Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an object's mass distribution, joint damping, or surface friction. Without calibrating these physics factors for world models, predictions tend to regress toward an empirical prior and induce severe drift in novel test scenes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.30125v1</guid>
+      <pubDate>Wed, 21 Oct 2026 17:57:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
