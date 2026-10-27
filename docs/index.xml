@@ -7,6 +7,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:29:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:24:00 +0000</lastBuildDate>
+    <item>
+      <title>Evaluating Bayesian deep learning for robust biomedical time-series classification under distribution shift: A sleep scoring case study</title>
+      <link>http://arxiv.org/abs/2610.35484v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mads Birch Sørensen, Ulrike Richter, Francois Gastambide, Michael Riis Andersen&lt;/p&gt;&lt;p&gt;In biomedical time-series classification, machine learning models often suffer from deteriorating accuracy and calibration due to distribution shift. We investigate to what degree Bayesian-inspired deep learning improves robustness through Bayesian model averaging (BMA). Using rodent sleep scoring as a case study, we evaluate BMA under distribution shifts in genotype, laboratory, and species&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.35484v1</guid>
+      <pubDate>Mon, 26 Oct 2026 14:14:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficient probabilistic weather forecasting at quarter-degree resolution with two-sided transport attention</title>
+      <link>http://arxiv.org/abs/2610.35545v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junu Choi, Youngjoon Hong&lt;/p&gt;&lt;p&gt;High-resolution probabilistic weather forecasting remains computationally demanding. Here we present Astra, a 0.25$^\circ$ ensemble model trained on eight H200 GPUs. It combines Kantorovich Attention, a two-sided transport attention in which each region chooses where it reads from and writes to, so every region sends and receives at token resolution, with a self-featurised continuous ranked probability score (CRPS) that also scores forecasts in the model's multiscale features&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.35545v1</guid>
+      <pubDate>Mon, 26 Oct 2026 14:53:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Explainable Prediction of High-Speed Solar Wind Streams driven by Coronal Holes via Topological Data Analysis</title>
+      <link>http://arxiv.org/abs/2610.35549v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Francesco Marchetti, Sabrina Guastavino, Daniel Collin&lt;/p&gt;&lt;p&gt;High-speed solar wind streams (HSSs) originating from coronal holes (CHs) are an important driver of recurrent geomagnetic activity. Since HSSs are associated to coronal structures visible in extreme-ultraviolet observations, this provides a natural basis for forecasting several days in advance. In this work, we investigate whether the topology of coronal structures observed in extreme ultraviolet (EUV) images contains predictive information on the subsequent occurrence of CH-driven HSSs at Earth&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.35549v1</guid>
+      <pubDate>Mon, 26 Oct 2026 14:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAP-ViT: A Self-Attributing Patch Vision Transformer for Medical Image Classification</title>
+      <link>http://arxiv.org/abs/2610.35593v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wei Zhang, Wolfgang Nejdl, Ming Tang&lt;/p&gt;&lt;p&gt;Vision Transformer (ViT) classifiers commonly rely on a global classification (CLS) token for image-level prediction, which is poorly aligned with local interpretability requirements in medical imaging. We propose SAP-ViT, a Self-Attributing Patch Vision Transformer that replaces CLS-based classification with direct aggregation of last-layer patch embeddings. This design makes class predictions decomposable into patch-level contributions as part of the forward pass&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.35593v1</guid>
+      <pubDate>Mon, 26 Oct 2026 15:19:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Distilling neural networks into equations to predict planetary instability</title>
+      <link>http://arxiv.org/abs/2610.35617v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Simon Alford, Edward Gu, Omar Costilla-Reyes, Dan Tamayo, Miles Cranmer, Kevin Ellis&lt;/p&gt;&lt;p&gt;The problem of predicting when a multi-planet system will become dynamically unstable has defied analytical progress over the past three hundred years. Recent machine learning advances achieve high predictive performance of instability dynamics, but as black-box systems cannot be interpreted to connect to existing scientific understanding. Here we show analytic equations that predict when a multi-planet system will undergo instability&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.35617v1</guid>
+      <pubDate>Mon, 26 Oct 2026 15:34:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>TRON: Transferring Naturally Evolved Network Architectures into Neuroevolution</title>
+      <link>http://arxiv.org/abs/2610.35647v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Konstantinos Zacharopoulos, Alexandra Bekou, Jose M Serradell, Foteini Paraskevopoulou, Apostolos Fournaris, Ioannis Arapakis, Oscar Lao&lt;/p&gt;&lt;p&gt;Neural architecture search (NAS) is challenging because of the vast, non-linear space of artificial neural network (ANN) topologies. Evolutionary methods can generate architectures, but their effectiveness is limited by difficulties in preserving functional organization during mutation and recombination. Naturally evolved biological networks may provide organizational principles that support adaptation and evolvability&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.35647v1</guid>
+      <pubDate>Mon, 26 Oct 2026 15:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Hybrid Framework for Explainable Aviation Risk: Causal Chain Extraction from Safety Reports with Physics-Based Failure Quantification and Interventional Analysis</title>
+      <link>http://arxiv.org/abs/2610.35658v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yutian Pang, Yifang Tian, Jiacheng Xie, Xinyu Zhao, Jueming Hu, John-Paul Clarke, Hans-Arno Jacobsen&lt;/p&gt;&lt;p&gt;Aviation authorities hold decades of accident reports whose narratives record how investigators reconstructed each accident. Computational work on these archives has mostly sorted reports into fixed taxonomies. In this work, we propose a hybrid framework in which a text-based corpus identifies the leading factors of a failure mode&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.35658v1</guid>
+      <pubDate>Mon, 26 Oct 2026 16:03:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>GNN-VIEW: Visual Inspection and Explanation of Graph-based Earth-System Models</title>
+      <link>http://arxiv.org/abs/2610.35693v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alessandro Lucatelli, Ferdinand Unterhuber, Katharina Krenzer, Mennatallah El-Assady, Benedikt Soja, Christina Humer, Joel Oskarsson&lt;/p&gt;&lt;p&gt;Machine learning Earth-system models are becoming increasingly important, and so is their development. Graph-based models, one of the most prominent approaches, allow developers to constrain the learning process before training via graph connectivity. Yet, developing these models remains challenging: the graph is built algorithmically with little intuition about the final result beyond static plotting, which requires extra work and is often not detailed enough&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.35693v1</guid>
+      <pubDate>Mon, 26 Oct 2026 16:22:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Explainable Multimodal AI Approach to Reduce Unnecessary Breast Biopsies</title>
+      <link>http://arxiv.org/abs/2610.35704v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sadam Hussain, Mansoor Ali, Daly Betzabeth Avendaño-Avalos, Jose Gerardo Tamez-Peña&lt;/p&gt;&lt;p&gt;Recently, there has been rise in multimodal vision-language models for computer-aided diagnosis (CAD), yet their application in breast diagnosis, particularly for predicting biopsy outcomes remains limited. This study presents a multimodal vision-language approach, incorporating Grad-CAM as an Explainable AI (XAI) technique, to predict benign tumors in patients recommended for biopsy, especially those classified as BI-RADS 4 and 5. A novel multimodal framework was devel- oped using Vision Transformer (ViT) for imaging feature extraction and DeBERTa-V3-Large for textual embeddings&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.35704v1</guid>
+      <pubDate>Mon, 26 Oct 2026 16:29:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Triage: Skip, Skim, or Refine Attention Tiles in Video Diffusion Transformers</title>
+      <link>http://arxiv.org/abs/2610.35706v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yeonjae Kim, Omin Kwon, Seong Hoon Seo, Jae W. Lee&lt;/p&gt;&lt;p&gt;Attention over tens of thousands of visual tokens dominates the inference of video diffusion transformers (DiTs). Existing methods reduce this cost through sparsity, low precision, or both, but use a single precision for all kept tiles. We observe that the output error introduced by approximation varies widely across tiles&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.35706v1</guid>
+      <pubDate>Mon, 26 Oct 2026 16:29:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantitative Generalization Bounds for Multi-Layer Transformers: A Few Long Strings can Beat Many Short Ones</title>
+      <link>http://arxiv.org/abs/2610.35715v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marius Henry, Michael Rizvi-Martel, Michael Hahn&lt;/p&gt;&lt;p&gt;Transformer-based language models exhibit an astonishing capacity to generalize to longer and more difficult problem instances than those seen in training. However, theoretical understanding of this phenomenon still lags behind. Unlike most machine learning models, the generalisation abilities of transformers inherently require considering two axes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.35715v1</guid>
+      <pubDate>Mon, 26 Oct 2026 16:36:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>CLOSURE: Cross-Channel Closure for Multivariate Time Series Anomaly Detection</title>
+      <link>http://arxiv.org/abs/2610.35753v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fan Xu, Hao Wu, Zhi Song, Hanbo Huang, Wenzhuo Ma, Nan Wang, Wei Gong, Xibin Zhao&lt;/p&gt;&lt;p&gt;Multivariate time series produced by industrial installations and server clusters are under continuous monitoring, and anomaly detection is the first line of defense before a local fault escalates into a system-wide failure. In the absence of labels, the dominant paradigm trains a reconstruction model on normal data and scores the residual to reach a verdict. Recent work has steadily enriched the expressiveness of the recovery map through Transformers, diffusion models, and cross-scale associations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.35753v1</guid>
+      <pubDate>Mon, 26 Oct 2026 17:02:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning Force-Reactive Humanoid Loco-Manipulation</title>
+      <link>http://arxiv.org/abs/2610.35862v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sihang Li, Xiaofeng Guo, Jinkun Cao, Charlie Cheng, Ruihan Yang, Chen Feng, Guanya Shi, Haozhi Qi&lt;/p&gt;&lt;p&gt;Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone. Therefore, we present FLORE, a framework for learning force-reactive humanoid loco-manipulation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.35862v1</guid>
+      <pubDate>Mon, 26 Oct 2026 17:59:11 +0000</pubDate>
+    </item>
   </channel>
 </rss>
