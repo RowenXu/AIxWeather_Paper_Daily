@@ -7,6 +7,83 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:10:08 +0000</lastBuildDate>
+    <item>
+      <title>The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables</title>
+      <link>http://arxiv.org/abs/2610.40370v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Behnam Moradi&lt;/p&gt;&lt;p&gt;Large language model (LLM) agents for personal health read wearable data and recommend, but do not learn about the individual in a way that can be audited or falsified. We present EpiCoach, an agentic system that treats one athlete, a cross-country mountain biker, as the subject of accountable N-of-1 science. Claims about the athlete live in an evidence-gated hypothesis registry: each must issue a probabilistic prediction about a future session before it occurs, and its belief moves only through computed evidence from a logged statistical fit&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.40370v1</guid>
+      <pubDate>Thu, 29 Oct 2026 16:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>OCCAMS: A Multi-Task Learning-Based Investigation of the CMB Power Spectra</title>
+      <link>http://arxiv.org/abs/2610.40415v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ankit Mandal, Rahul Shah, Md. Wali Hossain, Somasri Sen, Anjan A Sen, Supratik Pal&lt;/p&gt;&lt;p&gt;How many latent variables are needed to fit the cosmic microwave background (CMB) temperature and polarisation power spectra when a neural network is given no cosmological model, and to what extent do they map onto the standard cosmological parameters? We use multi-task learning with variational autoencoders trained on CLASS-generated spectra (TT, TE, EE) over $2\le\ell\le2500$. No cosmological model is built into the network, and the number of latent variables, $L$, is varied over $L=5$, $6$ and $7$. Their fits are compared to the Planck 2018 data using $\hatχ^2$, AIC, BIC and Bayesian eviden&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.40415v1</guid>
+      <pubDate>Thu, 29 Oct 2026 16:42:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>IMPACT: Inverter-Informed Multimodal Learning for Photovoltaic Generation Forecasting</title>
+      <link>http://arxiv.org/abs/2610.40418v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Anushka Katiyar, Cong Feng, Jing Wang, Tristan Liu, Simon Julien, Zachary Jacobs&lt;/p&gt;&lt;p&gt;This work develops a physics-informed multimodal deep learning framework for 10- to 110-minute-ahead probabilistic photovoltaic power forecasting. The forecasting model is built on a four-branch architecture that separately encodes plant-level temporal history and inverter-level spatial cloud dynamics through a graph attention encoder with a learned adjacency, known-future solar geometry, and the current meteorological state, fused through gated cross-attention. The geometry branch adds two forward-looking physical signals, spatial cloud heterogeneity and inverter ramp-down activity, each empi&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.40418v1</guid>
+      <pubDate>Thu, 29 Oct 2026 16:44:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>NECA: Neighbor Event Curve Augmentation for Multi-Horizon ICU Deterioration Prediction</title>
+      <link>http://arxiv.org/abs/2610.40420v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chenyang Wang, Jiawei Theresa Tang, Xinran Liu, Xinyu Lu, Xulei Yang&lt;/p&gt;&lt;p&gt;Early prediction of ICU organ dysfunction events supports timely clinical monitoring and intervention, but estimating short-term organ-specific risk from early ICU records remains challenging due to irregular measurements, heterogeneous clinical variables, and the need to predict risk across multiple future horizons. Existing supervised models usually treat each patient as an isolated sample and do not explicitly use the observed event timing of similar historical patients. We propose Neighbor Event-Curve Augmentation (NECA), a model-agnostic method that retrieves training-set patients with si&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.40420v1</guid>
+      <pubDate>Thu, 29 Oct 2026 16:45:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uncertainty-aware Feedback Loop Diagnosis: integrating reinforcement learning and conformal prediction for reliable wafer defect classification</title>
+      <link>http://arxiv.org/abs/2610.40421v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aleksandr Dekhovich, Carlas Smith, Oleg Soloviev&lt;/p&gt;&lt;p&gt;Semiconductor manufacturing is a complex, multi-step process that requires both high precision and low operating costs. Therefore, detecting defects in a high-volume setting is an important component of wafer map analysis for reliable production. However, most state-of-the-art deep learning approaches require a full scan of the surface, which hinders the development of high-throughput inspection systems&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.40421v1</guid>
+      <pubDate>Thu, 29 Oct 2026 16:45:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning developmental dynamics from lineage context</title>
+      <link>http://arxiv.org/abs/2610.40447v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gokul Gowri, Nic Fishman, William N. Colgan, Minming Wang, Yusuke Kijima, Sachin A. Kumar, Aleksandr Zimin, Luke W. Koblan&lt;/p&gt;&lt;p&gt;A central goal of biology is to predict the dynamics of multicellular systems. Lineage context (the states of a cell's sisters, cousins, etc.) could inform these predictions, but how best to leverage it remains unclear. Here we introduce lineage inpainting, a generative modeling approach that uses lineage context with tree-structured transformers and stochastic interpolants to model cell state dynamics across lineage trees&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.40447v1</guid>
+      <pubDate>Thu, 29 Oct 2026 16:59:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collaborative AI agents for autonomous experimental research with solid-state quantum spins</title>
+      <link>http://arxiv.org/abs/2610.40589v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; El Mustapha Mansouri, Eikichi Kimura, Masato Koga, Keigo Arai&lt;/p&gt;&lt;p&gt;An autonomous research laboratory could conduct an entire study, from formulating questions to preparing manuscripts. Artificial intelligence (AI) offers one route towards this goal. Recent AI systems take on several research roles, but may draw conclusions that the evidence does not support&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.40589v1</guid>
+      <pubDate>Thu, 29 Oct 2026 17:47:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Difficulty Calibration Across Time for Membership Inference in Diffusion Models</title>
+      <link>http://arxiv.org/abs/2610.40616v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Michael Joseph, Yedid Hoshen&lt;/p&gt;&lt;p&gt;Modern diffusion models are trained on massive datasets that often include copyrighted or private images. Membership inference attacks (MIAs) address this by testing whether a given image was in a model's training set. The standard approach scores an image by its reconstruction loss and flags low-loss images as members&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.40616v1</guid>
+      <pubDate>Thu, 29 Oct 2026 17:54:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Probing Spatial State Representations in Visual Foundation Models</title>
+      <link>http://arxiv.org/abs/2610.40636v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Baiqiao Yin, Zhongang Cai, Ruisi Wang, Qiwei Liang, Lei Yang, Ziwei Liu&lt;/p&gt;&lt;p&gt;An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spatial state that is updated under self-motion and used to guide action. Do visual foundation models provide representations that support such a state? We study this question through four levels of spatial capability---spatial structure, object persistence, predictive spatial update, and actionability---using frozen-feature probes on ten representations under streaming egocentric &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.40636v1</guid>
+      <pubDate>Thu, 29 Oct 2026 17:58:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>From extreme weather to agricultural consequences with agentic AI</title>
+      <link>http://arxiv.org/abs/2610.40641v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Minghan Yu, Mengyu Dai, Yixin Wen, Haizhao Yang&lt;/p&gt;&lt;p&gt;Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources. We present WxCrop, the first agent that judges agricultural hazards from physically interpretable weather indices examined by causal analysis, and the first that combines weather and agricultural information to predict crop loss reliably for past and forecast dates. We demonstrate it in Florida on hurricanes, freezes and dry heat, with a loss model ca&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.40641v1</guid>
+      <pubDate>Thu, 29 Oct 2026 17:58:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers</title>
+      <link>http://arxiv.org/abs/2610.40647v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiongfan Yang, Weichen Fan, Haiwen Diao, Zhongang Cai, Ziwei Liu&lt;/p&gt;&lt;p&gt;Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange, while high-frequency detail can be modeled locally. Based on this insight, we introduce SpecSlot, a pixel-space rectified-flow Transformer that decouples output detail from the length of the global attention sequence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2610.40647v1</guid>
+      <pubDate>Thu, 29 Oct 2026 17:59:21 +0000</pubDate>
+    </item>
   </channel>
 </rss>
