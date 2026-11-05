@@ -7,125 +7,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 08:42:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:02:28 +0000</lastBuildDate>
     <item>
-      <title>Effects of Parton Pair Correlations on Direct-Photon Yields and Elliptic Flow in Heavy-Ion Collisions</title>
-      <link>http://arxiv.org/abs/2611.05042v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xingjian Lu, Shuzhe Shi&lt;/p&gt;&lt;p&gt;Direct photons escape heavy-ion collisions with little rescattering, carrying information from the full emission history. Yet describing the measured direct-photon yield and the sizable elliptic flow $v_2$ together remains a long-standing challenge. Here we explore how correlations between emitting partons may affect both observables&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05042v1</guid>
-      <pubDate>Tue, 03 Nov 2026 15:12:24 +0000</pubDate>
+      <title>Microdroplet Generator Surrogate Enhancement and Inverse Design Through an Uncertainty-Guided Framework</title>
+      <link>http://arxiv.org/abs/2611.06464v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; David Gabriel Harispe, Matías Gerard, Pablo A. Kler&lt;/p&gt;&lt;p&gt;Microfluidic droplet generation is critical for many applications, yet efficient device design in high-dimensional parameter spaces remains computationally prohibitive due to complex multiphase flow dynamics. This work presents a unified methodology that couples adaptive surrogate enhancement with simulation-driven inverse design. High-fidelity Volume-of-Fluid simulations provide ground-truth data, while neural network ensembles predict flow regimes and droplet diameters&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.06464v1</guid>
+      <pubDate>Wed, 04 Nov 2026 13:01:32 +0000</pubDate>
     </item>
     <item>
-      <title>VIGOR: Visual Gain Ordering for Hallucination Mitigation in Multimodal Discrete Diffusion Language Models</title>
-      <link>http://arxiv.org/abs/2611.05066v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junzhe Chen, Tian Qin, Eugenie Shi, Tianshu Zhang, Qiang Ju, Lijie Wen&lt;/p&gt;&lt;p&gt;Multimodal discrete diffusion language models (dLLMs) generate responses through iterative mask prediction and offer a promising alternative to autoregressive large vision-language models. However, they still suffer from hallucination, producing outputs that are plausible under language priors but insufficiently grounded in the image. We argue that hallucination in multimodal dLLMs is not only a token prediction problem, but also a premature commitment problem: during iterative denoising, some masked positions are unmasked too early because their confidence is driven more by language priors th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05066v1</guid>
-      <pubDate>Tue, 03 Nov 2026 15:28:11 +0000</pubDate>
+      <title>ElecLoad: Adaptive Electricity Load Forecasting Guided by Multiple Events</title>
+      <link>http://arxiv.org/abs/2611.06508v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Huajian Zhang, Mingyue Cheng, Xingpeng Gao, Xiaoyu Tao, Zhiding Liu, Jiqian Yang, Zhi Li&lt;/p&gt;&lt;p&gt;Accurate electricity load forecasting provides critical decision support for energy procurement, generation scheduling, and supply-demand balancing, contributing to the economic efficiency and operational reliability of power systems. However, future electricity demand can be affected by the complex interplay of multiple events described in Web notices, weather alerts, and event schedules. Their effects vary over time and can reinforce or offset one another, making electricity load difficult to forecast accurately&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.06508v1</guid>
+      <pubDate>Wed, 04 Nov 2026 13:38:13 +0000</pubDate>
     </item>
     <item>
-      <title>Data informed Ansatz Selection for Variational Quantum Circuits</title>
-      <link>http://arxiv.org/abs/2611.05079v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Manav Seksaria, Advith Desu, Anil Prabhakar&lt;/p&gt;&lt;p&gt;Choosing a variational quantum circuit (VQC) usually means searching over ansatze and depths, and training each candidate. We give three rules that fix these choices from the data and the gate set alone, before any training. First, a circuit without entangling gates has a rank-one Fourier coefficient tensor on every subset of qubits&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05079v1</guid>
-      <pubDate>Tue, 03 Nov 2026 15:41:03 +0000</pubDate>
+      <title>Nowcasting Future Performance for Population Pruning in Survival-of-the-Fittest Training</title>
+      <link>http://arxiv.org/abs/2611.06512v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rico Städeli, Léo Meynent, Boris Knyazev, Damian Borth&lt;/p&gt;&lt;p&gt;Training high-performing neural networks often involves evaluating populations of candidate models with varying hyperparameters, architectures, or random seeds. Training every candidate to completion is computationally expensive, yet stopping seemingly weaker runs early risks discarding models that would ultimately perform better, as learning curves can cross. To address this challenge, we investigate whether intermediate training checkpoints can predict future model accuracy and enable more informed pruning decisions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.06512v1</guid>
+      <pubDate>Wed, 04 Nov 2026 13:40:02 +0000</pubDate>
     </item>
     <item>
-      <title>The Platonic Brain: Representational Convergence in EEG Foundation Models</title>
-      <link>http://arxiv.org/abs/2611.05097v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nicolas Waehner, Enzo Tagliazucchi, Jacobo Sitt, Demian Wassermann, Giovanni Franco Gabriel Marraffini, Trinidad Borrell&lt;/p&gt;&lt;p&gt;The Platonic Representation Hypothesis (PRH) predicts that artificial neural networks converge on shared representations as scale and performance increase. We test whether these predictions hold for representations of the human brain with EEG foundation models. Using EEG recordings from six participants watching a television series, together with aligned visual and language content, we tested whether EEG foundation-model representations converge within and across modalities as their embeddings become better at decoding an informative set of EEG markers&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05097v1</guid>
-      <pubDate>Tue, 03 Nov 2026 15:53:13 +0000</pubDate>
+      <title>Evaluating the prediction of subgrid eddy kinetic energy from a machine learning model</title>
+      <link>http://arxiv.org/abs/2611.06539v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Thomas Wilder, Ranjini Swaminathan, David Storkey, Till Kuhlbrodt&lt;/p&gt;&lt;p&gt;Global climate model resolution is still too coarse to fully resolve mesoscale processes, therefore subgrid closures are required to approximate the feedback of eddies onto the resolved flow. With high-resolution datasets now readily available, there has been a rapid growth in the use of machine learning to develop new eddy closures that could help reduce model biases and uncertainty. In this work we employ an offline learning approach with a convolutional neural network to predict subgrid eddy kinetic energy ($KE_e$), laying the initial groundwork for a machine-learned scale-aware GEOMETRIC e&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.06539v1</guid>
+      <pubDate>Wed, 04 Nov 2026 14:09:44 +0000</pubDate>
     </item>
     <item>
-      <title>Molecular Prior Networks</title>
-      <link>http://arxiv.org/abs/2611.05103v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pawel Gomoluch, Anthony Bradley&lt;/p&gt;&lt;p&gt;Predicting affinity between small molecules and their protein targets remains one of the central problems in drug discovery. Due to the substantial cost of wet-lab experiments, machine learning models of drug-target affinity are usually trained on relatively small datasets, ranging from tens to hundreds of molecules. Given the inherent difficulty of generalization between different targets and chemical series, existing datasets of protein-ligand affinities are typically not used for new projects&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05103v1</guid>
-      <pubDate>Tue, 03 Nov 2026 15:56:48 +0000</pubDate>
+      <title>Adapting Sleep Foundation Models for Dense Sleep Spindle Localization</title>
+      <link>http://arxiv.org/abs/2611.06546v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexis Bollengier, Abel Díaz Berenguer, Olivier Pallanca, André Anjos, Hichem Sahli&lt;/p&gt;&lt;p&gt;Adapting sleep foundation models to dense electroencephalography (EEG) event localization is challenging because multi-second representations may not preserve sufficient temporal detail for precise boundary recovery. We address sleep spindle localization by adapting a frozen SleepFM encoder with a local time-frequency pathway that preserves spindle-relevant spectral content and intra-token position. The local representation drives localization, while residual cross-attention incorporates SleepFM temporal context&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.06546v1</guid>
+      <pubDate>Wed, 04 Nov 2026 14:12:33 +0000</pubDate>
     </item>
     <item>
-      <title>From AutoResearch to Continual AutoResearch: Do Agents Learn Across Tasks?</title>
-      <link>http://arxiv.org/abs/2611.05108v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jeremy Qin, Ruizhi Deng, Mohamed Osama Ahmed, Frederick Tung, Leo Feng&lt;/p&gt;&lt;p&gt;Autoresearch has shown that agents can autonomously write code, run experiments, and iteratively improve machine learning solutions. Yet most evaluations start a new agent session from scratch for each new problem, making them costly and leaving unclear whether agents can retain and apply prior insights when adapting to new tasks. We introduce CONTINUAL AUTORESEARCH, an open-ended environment that compares persistent and reset instances of the same agent under matched task streams, data, and time budget&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05108v1</guid>
-      <pubDate>Tue, 03 Nov 2026 16:02:34 +0000</pubDate>
+      <title>From Fixed Defaults to Calibrated Activation Policies for Long-Term Time-Series Forecasting</title>
+      <link>http://arxiv.org/abs/2611.06559v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shijie Xu, Boyan Tang, Jianghua Wu&lt;/p&gt;&lt;p&gt;Long-term time-series forecasting supports decisions in energy, transportation, and other applications where reliable predictions are needed beyond the observed data. Although forecasting research has advanced model architectures, fixed activation configurations provide limited guidance on how activation choices should vary across datasets and prediction horizons. This study aims to establish when task-specific activation choices improve forecasting accuracy and how previous experiments can guide the selection of suitable configurations for new tasks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.06559v1</guid>
+      <pubDate>Wed, 04 Nov 2026 14:22:23 +0000</pubDate>
     </item>
     <item>
-      <title>From Opinions to Commitments: Unstable Assignments and Silent Choices in AI-Mediated Proposals</title>
-      <link>http://arxiv.org/abs/2611.05135v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sachit Mahajan, Javier Argota S{á}nchez-Vaquerizo, Arthur Capozzi, Dirk Helbing&lt;/p&gt;&lt;p&gt;Large language models (LLMs) are increasingly being used to turn citizens' opinions into collective proposals. These proposals can make assignments: who should act, what must be done, how much one should spend and by when. However, if the assignments change when the same opinions are processed again, publishing a single proposal can hide alternatives that participants never get to see&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05135v1</guid>
-      <pubDate>Tue, 03 Nov 2026 16:16:09 +0000</pubDate>
+      <title>Thermodynamics-Informed Learning Captures Hierarchical Hydrogen-Bond Networks in Deep Eutectic Solvents</title>
+      <link>http://arxiv.org/abs/2611.06590v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yanpeng Ye, Chaoran Duan, Mian Xu, S. Mani Sarathy&lt;/p&gt;&lt;p&gt;Deep eutectic solvents (DESs) offer a tunable platform for lignocellulose refining, but their solvation behavior depends on multicomponent hydrogen-bond networks rather than individual constituent properties. We develop TiNN, a thermodynamics-informed neural network that hierarchically represents HBA-HBD association and solute accommodation through a learned free-energy pathway. Trained on 938 records, TiNN achieves a test-set $R^2$ of 0.917 and generalizes to new HBA-HBD combinations and sparse conditions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.06590v1</guid>
+      <pubDate>Wed, 04 Nov 2026 14:43:58 +0000</pubDate>
     </item>
     <item>
-      <title>Basin2Vec: Learning Basin-Centric Embeddings for Scalable Hydrological Modeling</title>
-      <link>http://arxiv.org/abs/2611.05164v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Muhammad Talha, Xiaofeng Liu, Yuan Yang, Pang-Ning Tan, A. Pouyan Nejadhashemi&lt;/p&gt;&lt;p&gt;Reliable streamflow prediction across time and in ungauged basins requires representations that capture hydrologically relevant basin characteristics. Existing methods rely on either fixed handcrafted attributes or general-purpose Earth observation embeddings not tailored to basin structure. We introduce \textbf{Basin2Vec}, a self-supervised framework that learns compact basin representations from hydroclimatic and physiographic data without observed streamflow&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05164v1</guid>
-      <pubDate>Tue, 03 Nov 2026 16:36:09 +0000</pubDate>
+      <title>PINR-ESI: Physics-Informed Self-Supervised Implicit Neural Representation Framework for EEG Extended-Source Imaging</title>
+      <link>http://arxiv.org/abs/2611.06700v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhiyong Zhou, Sheng Liao, Youshen Xiao, Xiaolin Li, Yakang Dai&lt;/p&gt;&lt;p&gt;EEG extended-source imaging aims to localize active cortical regions and characterize their spatial extent, yet supervised inverse networks typically depend on synthetic EEG-source pairs and may be sensitive to synthetic-to-real mismatch. We propose a physics-informed self-supervised implicit neural representation (INR) framework for spatial source reconstruction without paired source labels or simulation-based supervised pretraining. The lead field matrix encodes the source-to-sensor volume-conduction model and constrains the INR through agreement between predicted and measured EEG&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.06700v1</guid>
+      <pubDate>Wed, 04 Nov 2026 16:02:28 +0000</pubDate>
     </item>
     <item>
-      <title>AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed Fusion</title>
-      <link>http://arxiv.org/abs/2611.05171v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Olabode T. Ajenifujah, Amir Barati Farimani&lt;/p&gt;&lt;p&gt;Predictive models for laser powder bed fusion (LPBF) are rarely used on the shop floor because querying them requires programming and model-specific knowledge. We present AgentAM, a large language model (LLM) agent that gives process engineers natural-language access to CFD-trained surrogates of spatter and melt pool geometry for SS316L through the Model Context Protocol (MCP). Polynomial surrogates trained on 279 single-track simulations predict melt pool dimensions ($R^2 \geq 0.95$) and spatter volume ($R^2 = 0.83$ on test data) at any power-velocity point in the trained range, and geometric&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05171v1</guid>
-      <pubDate>Tue, 03 Nov 2026 16:38:46 +0000</pubDate>
+      <title>Evolutionary Design of Interpretable Spatial Descriptors for Structure-Property Relationship Discovery</title>
+      <link>http://arxiv.org/abs/2611.06811v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aditya Raghavan, Sergei V Kalinin&lt;/p&gt;&lt;p&gt;Structure property prediction is a classical task in machine learning, ranging from molecular activity and materials properties to local functional responses measured in microscopy. For image-based regression, two choices define the information available to the predictor: the size of the image neighborhood and the spatial resolution retained within it. A small neighborhood can omit relevant surrounding structure, whereas a large, finely sampled neighborhood can introduce redundant or irrelevant information&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.06811v1</guid>
+      <pubDate>Wed, 04 Nov 2026 17:25:10 +0000</pubDate>
     </item>
     <item>
-      <title>Physics-informed traditional and generative Mori-Zwanzig-reduced models for multiscale systems</title>
-      <link>http://arxiv.org/abs/2611.05211v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Emily Williams, Saad Qadeer, Amanda Howard, Panos Stinis&lt;/p&gt;&lt;p&gt;Model reduction via the Mori-Zwanzig (MZ) formalism is well understood for coarse-grained representations constructed from standard basis functions such as Fourier functions. We show that the same formalism can be used to build reduced-order models in bases discovered by physics-informed machine learning. The fluctuation-dissipation theorem (FDT) is used to close the resulting non-Markovian evolution equations for the expansion coefficients of the learned basis&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05211v1</guid>
-      <pubDate>Tue, 03 Nov 2026 16:57:56 +0000</pubDate>
+      <title>Context--Answer Metamodels: Forecasting LLM Activations Before the First Answer Token</title>
+      <link>http://arxiv.org/abs/2611.06837v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tommy He, Thomas Jiralerspong&lt;/p&gt;&lt;p&gt;Under stochastic decoding, a single context can elicit many different answers from a language model. Characterizing this variation typically requires many expensive autoregressive rollouts, each revealing only one realization. We ask whether the activations produced while reading the context can directly forecast the model's rollout activations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.06837v1</guid>
+      <pubDate>Wed, 04 Nov 2026 17:53:52 +0000</pubDate>
     </item>
     <item>
-      <title>Fusing Earth observation embeddings and spaceborne terrain with meteorological forcing for flood peak depth prediction from high-water marks</title>
-      <link>http://arxiv.org/abs/2611.05220v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wen Zhou, Shaowen Wang, Upmanu Lall, Venkatesh Merwade, Dingqi Ye&lt;/p&gt;&lt;p&gt;Flood peak depth on normally dry land governs damage and risk to life, but is observed only sparsely, by post-event high-water mark (HWM) surveys, and depth derived from satellite flood extent is produced after the event and inherits the vertical error of the digital elevation model (DEM) it is computed from. Deep-learning flood models have in turn been trained on hydrodynamic simulations rather than on observed depths. We ask whether flood peak depth can be learned from field observations and predicted before the peak from spaceborne terrain, geospatial foundation-model embeddings and anteced&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05220v1</guid>
-      <pubDate>Tue, 03 Nov 2026 17:05:45 +0000</pubDate>
+      <title>Thermally Conditioned Time-Series Forecasting of Grain Growth in Polycrystalline Materials</title>
+      <link>http://arxiv.org/abs/2611.06843v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Eliane Younes, Elie Hachem, Marc Bernacki&lt;/p&gt;&lt;p&gt;Grain growth during heat treatment strongly affects the microstructure of polycrystalline materials and, consequently, their mechanical properties. Although numerical methods such as front-tracking or front-capturing simulations can accurately describe grain growth, their high computational cost limits their use for long or non-isothermal thermal cycles. In previous work, grain growth was successfully predicted under isothermal conditions by treating grain size distributions as time series and forecasting their evolution using recurrent neural networks, allowing complete grain growth trajector&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.06843v1</guid>
+      <pubDate>Wed, 04 Nov 2026 17:59:26 +0000</pubDate>
     </item>
     <item>
-      <title>Shrinkage prior for implicit generative models</title>
-      <link>http://arxiv.org/abs/2611.05241v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shreya Sinha-Roy, Christian P. Robert, Ritabrata Dutta&lt;/p&gt;&lt;p&gt;Implicit generative models based on deep neural networks have revolutionized many scientific fields, from weather research to language generation. They successfully model complex random objects arising in real-world problems. In this work, we propose a sample-efficient training mechanism for these models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05241v1</guid>
-      <pubDate>Tue, 03 Nov 2026 17:24:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>False Reassurance in LLM Severe-Weather Guidance: A Replayable Evaluation Against Real NWS Alerts</title>
-      <link>http://arxiv.org/abs/2611.05290v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kadharmoideen Fadurudeen&lt;/p&gt;&lt;p&gt;An LLM assistant that cannot see official severe-weather alerts may tell users that conditions are calm while a warning is active. We call this false reassurance and measure it by replaying 117 frozen cases built from real U.S. National Weather Service (NWS) alerts (69 alert cases, 32 no-alert controls, 16 non-U.S&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05290v1</guid>
-      <pubDate>Tue, 03 Nov 2026 18:04:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>$Φ$asmaNet: A Staged Spectral Token-Refinement Architecture for Fast Gravitational-Wave Signal-to-Noise Ratio Prediction</title>
-      <link>http://arxiv.org/abs/2611.05309v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ioannis Tsioulis, Anastasios Tefas, Nikolaos Stergioulas&lt;/p&gt;&lt;p&gt;Quantifying selection effects in gravitational-wave population studies requires millions of costly signal-to-noise ratio (SNR) calculations. We present $Φ$asmaNet, a compact neural architecture for structured tabular regression, with staged spectral refinement as an explicit architectural prior. Learned input tokens are refined through ordered attention-based $Φ$-Stages, each augmented by a $Φ$-Refractor subspace-mixing module, then revisited through gated top-down $Φ$-Feedback&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05309v1</guid>
-      <pubDate>Tue, 03 Nov 2026 18:19:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>CATF: A Manager-Worker Framework for Context-Aware Time-Series Forecasting</title>
-      <link>http://arxiv.org/abs/2611.05325v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yueqiao Chen, Dongyu Liu&lt;/p&gt;&lt;p&gt;We study context-aware time-series forecasting, in which a single target variable is predicted from its own history and a set of contextual variables, such as weather and calendar information. As the context becomes more diverse, a single model struggles to capture all of its regimes, while ensemble learning and Mixture-of-Experts approaches rely on manual data partitioning or soft routing, which increases the inference cost and hinders interpretability. We propose CATF, a Context-Aware Time-Series Forecasting framework built on a Manager-Worker architecture: a Transformer-based Manager routes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05325v1</guid>
-      <pubDate>Tue, 03 Nov 2026 18:28:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Circuit for In-Context Learning</title>
-      <link>http://arxiv.org/abs/2611.05344v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andrew Gao, William Gao&lt;/p&gt;&lt;p&gt;In-context learning (ICL) lets a pretrained language model perform a task specified by demonstrations in its prompt, with no parameter updates. With arbitrary labels the model must acquire a mapping it cannot have memorized, so the learning happens within a single forward pass. Prior work found candidate parts but not how they compose&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05344v1</guid>
-      <pubDate>Tue, 03 Nov 2026 18:44:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agnostic Learning by Imitating</title>
-      <link>http://arxiv.org/abs/2611.05346v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sílvia Casacuberta, Parikshit Gopalan, Varun Kanade, Omer Reingold, Konstantinos Stavropoulos, Pranay Tankala&lt;/p&gt;&lt;p&gt;Given a class of machine learning models and sample access to a data distribution with binary labels, which computational task is harder: training a discriminative model that distinguishes positive and negative labels as well as the best member of the class, or training a generative model whose outputs are indistinguishable from real data by all members of the class? We prove that these two fundamental tasks in computational learning theory are not just closely related, but actually equivalent to each other in complexity. One direction of this equivalence was previously known. Indeed, the powe&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.05346v1</guid>
-      <pubDate>Tue, 03 Nov 2026 18:45:38 +0000</pubDate>
+      <title>FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors</title>
+      <link>http://arxiv.org/abs/2611.06912v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nicolas Tricard, Linzheng Wang, Jason Chen, Sili Deng&lt;/p&gt;&lt;p&gt;Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimators and which aspects of their predictions can be trusted. FlowReconBench evaluates ten learned and five classical methods on three regimes: a laminar cylinder wake across Reynolds numbers, two-dimensional Kolmogorov turbulence and a large-scale three-dimensional (3D) isotropic turbulence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.06912v1</guid>
+      <pubDate>Wed, 04 Nov 2026 18:57:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
