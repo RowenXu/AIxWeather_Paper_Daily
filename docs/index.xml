@@ -7,90 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 05 Nov 2026 09:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 08:58:32 +0000</lastBuildDate>
     <item>
-      <title>Microdroplet Generator Surrogate Enhancement and Inverse Design Through an Uncertainty-Guided Framework</title>
-      <link>http://arxiv.org/abs/2611.06464v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; David Gabriel Harispe, Matías Gerard, Pablo A. Kler&lt;/p&gt;&lt;p&gt;Microfluidic droplet generation is critical for many applications, yet efficient device design in high-dimensional parameter spaces remains computationally prohibitive due to complex multiphase flow dynamics. This work presents a unified methodology that couples adaptive surrogate enhancement with simulation-driven inverse design. High-fidelity Volume-of-Fluid simulations provide ground-truth data, while neural network ensembles predict flow regimes and droplet diameters&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.06464v1</guid>
-      <pubDate>Wed, 04 Nov 2026 13:01:32 +0000</pubDate>
+      <title>Gabor Gabor: E-Gaborformer, a Strictly Causal Speech Recognizer with Gabor-Dictionary Convolutions and Delta-Rule Memory</title>
+      <link>http://arxiv.org/abs/2611.08092v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nir Krakowski, Tamir Cohen, Ohad Zohar, Chen Zarfati&lt;/p&gt;&lt;p&gt;Real-time voice agents need a speech recognizer that never waits for future audio and whose memory per call does not grow with the length of the call. We present E-Gaborformer, a strictly causal encoder that combines Gated DeltaNet-2 recurrent layers with sliding-window attention in a 3:1 ratio, and builds every temporal convolution from a fixed dictionary of causal Gabor atoms. Its streaming state is constant, about 19 MB per call at production scale including the prediction network, where a causal-attention encoder of the same size accumulates over 1 GB after ten minutes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08092v1</guid>
+      <pubDate>Thu, 05 Nov 2026 14:36:34 +0000</pubDate>
     </item>
     <item>
-      <title>ElecLoad: Adaptive Electricity Load Forecasting Guided by Multiple Events</title>
-      <link>http://arxiv.org/abs/2611.06508v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Huajian Zhang, Mingyue Cheng, Xingpeng Gao, Xiaoyu Tao, Zhiding Liu, Jiqian Yang, Zhi Li&lt;/p&gt;&lt;p&gt;Accurate electricity load forecasting provides critical decision support for energy procurement, generation scheduling, and supply-demand balancing, contributing to the economic efficiency and operational reliability of power systems. However, future electricity demand can be affected by the complex interplay of multiple events described in Web notices, weather alerts, and event schedules. Their effects vary over time and can reinforce or offset one another, making electricity load difficult to forecast accurately&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.06508v1</guid>
-      <pubDate>Wed, 04 Nov 2026 13:38:13 +0000</pubDate>
+      <title>Gradient Boosting for Efficient Rank Discovery in Tensor Network Kernel Machines</title>
+      <link>http://arxiv.org/abs/2611.08093v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Albert Saiapin, Kim Batselier&lt;/p&gt;&lt;p&gt;Tensor network kernel machines (TNKMs) combine nonlinear features with low-rank tensor representations to model complex relationships efficiently. However, selecting an appropriate tensor rank remains challenging, as conventional rank-search methods require training multiple candidate models, increasing computational costs. In this work, we focus on a canonical polyadic (CP) tensor network parameterization and propose GB-CPKM, a gradient boosting framework that builds a higher-capacity predictor by sequentially adding fixed-rank learners&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08093v1</guid>
+      <pubDate>Thu, 05 Nov 2026 14:36:46 +0000</pubDate>
     </item>
     <item>
-      <title>Nowcasting Future Performance for Population Pruning in Survival-of-the-Fittest Training</title>
-      <link>http://arxiv.org/abs/2611.06512v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rico Städeli, Léo Meynent, Boris Knyazev, Damian Borth&lt;/p&gt;&lt;p&gt;Training high-performing neural networks often involves evaluating populations of candidate models with varying hyperparameters, architectures, or random seeds. Training every candidate to completion is computationally expensive, yet stopping seemingly weaker runs early risks discarding models that would ultimately perform better, as learning curves can cross. To address this challenge, we investigate whether intermediate training checkpoints can predict future model accuracy and enable more informed pruning decisions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.06512v1</guid>
-      <pubDate>Wed, 04 Nov 2026 13:40:02 +0000</pubDate>
+      <title>Detecting Weather Fronts from Satellite Observations: What Does Reanalysis Add?</title>
+      <link>http://arxiv.org/abs/2611.08148v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ioannis Dravilas, Miruna Stoicescu, Roope Tervo, Carlos Horn, Oriol Hinojo Comellas, Sina Montazeri, Andrea Meraner, Ana Lucic&lt;/p&gt;&lt;p&gt;Weather fronts are transition regions between air masses with contrasting thermodynamic properties and are associated with mid-latitude precipitation and severe weather. We investigate machine learning (ML) methods for detecting weather fronts and quantify the contribution of reanalysis data to performance. We compare two configurations of the same ML model for pixel-wise frontal classification over the North Atlantic and Europe: (1) using only geostationary infrared satellite observations, and (2) additionally using 28 ERA5 reanalysis fields&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08148v1</guid>
+      <pubDate>Thu, 05 Nov 2026 15:07:10 +0000</pubDate>
     </item>
     <item>
-      <title>Evaluating the prediction of subgrid eddy kinetic energy from a machine learning model</title>
-      <link>http://arxiv.org/abs/2611.06539v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Thomas Wilder, Ranjini Swaminathan, David Storkey, Till Kuhlbrodt&lt;/p&gt;&lt;p&gt;Global climate model resolution is still too coarse to fully resolve mesoscale processes, therefore subgrid closures are required to approximate the feedback of eddies onto the resolved flow. With high-resolution datasets now readily available, there has been a rapid growth in the use of machine learning to develop new eddy closures that could help reduce model biases and uncertainty. In this work we employ an offline learning approach with a convolutional neural network to predict subgrid eddy kinetic energy ($KE_e$), laying the initial groundwork for a machine-learned scale-aware GEOMETRIC e&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.06539v1</guid>
-      <pubDate>Wed, 04 Nov 2026 14:09:44 +0000</pubDate>
+      <title>A Generative Foundation Model for Multimodal Tokamak Tasks</title>
+      <link>http://arxiv.org/abs/2611.08153v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yingshuai Ji, Haodong Feng, Guohong Deng, Gelin Bian, Yue Wang&lt;/p&gt;&lt;p&gt;Tokamak experiments record diverse measurements, including waveforms, profiles, fields, and scalars, which are used to reconstruct the plasma, forecast its evolution, recover associated control signals, and estimate disruption risk. Most models are built separately for one task and a fixed set of inputs and outputs, and each relies on a prescribed subset of diagnostics rather than structuring the full multimodal observation set to extract global, cross-signal information about the discharge. These limitations motivate a reusable foundation model that adapts to each task's input-output schema a&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08153v1</guid>
+      <pubDate>Thu, 05 Nov 2026 15:13:48 +0000</pubDate>
     </item>
     <item>
-      <title>Adapting Sleep Foundation Models for Dense Sleep Spindle Localization</title>
-      <link>http://arxiv.org/abs/2611.06546v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexis Bollengier, Abel Díaz Berenguer, Olivier Pallanca, André Anjos, Hichem Sahli&lt;/p&gt;&lt;p&gt;Adapting sleep foundation models to dense electroencephalography (EEG) event localization is challenging because multi-second representations may not preserve sufficient temporal detail for precise boundary recovery. We address sleep spindle localization by adapting a frozen SleepFM encoder with a local time-frequency pathway that preserves spindle-relevant spectral content and intra-token position. The local representation drives localization, while residual cross-attention incorporates SleepFM temporal context&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.06546v1</guid>
-      <pubDate>Wed, 04 Nov 2026 14:12:33 +0000</pubDate>
+      <title>La-JEPA: Compact Robot Policies with Latent World Modeling</title>
+      <link>http://arxiv.org/abs/2611.08156v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mateo Clémente, George Z. Xue, Amin Abyaneh, Liheng Ma, Rui Heng Yang, Tongtong Cao, Zhanguang Zhang, Yingxue Zhang&lt;/p&gt;&lt;p&gt;World-action models adapt pretrained video generators, and vision-language-action models build on pretrained vision-language backbones; both tie policy architecture and inference cost to large transformers designed for generation rather than control. It remains unclear how much these generation-oriented choices affect control. In this work, we introduce Latent Action JEPA (La-JEPA), a compact world-action model whose policy transformer is trained from scratch in the feature space of a pretrained V-JEPA 2.1 encoder&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08156v1</guid>
+      <pubDate>Thu, 05 Nov 2026 15:16:38 +0000</pubDate>
     </item>
     <item>
-      <title>From Fixed Defaults to Calibrated Activation Policies for Long-Term Time-Series Forecasting</title>
-      <link>http://arxiv.org/abs/2611.06559v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shijie Xu, Boyan Tang, Jianghua Wu&lt;/p&gt;&lt;p&gt;Long-term time-series forecasting supports decisions in energy, transportation, and other applications where reliable predictions are needed beyond the observed data. Although forecasting research has advanced model architectures, fixed activation configurations provide limited guidance on how activation choices should vary across datasets and prediction horizons. This study aims to establish when task-specific activation choices improve forecasting accuracy and how previous experiments can guide the selection of suitable configurations for new tasks&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.06559v1</guid>
-      <pubDate>Wed, 04 Nov 2026 14:22:23 +0000</pubDate>
+      <title>Improving Context-Shift Robustness of Convolutional Networks via Context-Regularized Cross-Entropy</title>
+      <link>http://arxiv.org/abs/2611.08157v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jinen Setpal, Chaoyue Liu&lt;/p&gt;&lt;p&gt;Image classification models often encounter objects in diverse and unpredictable contexts at test time, which may differ substantially from those seen during training. This phenomenon, termed context shift, exposes a key fragility in neural networks: when models rely on non-causal contextual cues for prediction, shifts in context can lead to significant performance degradation. In this paper, we propose a novel training framework to improve the robustness of convolutional neural networks under context shift&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08157v1</guid>
+      <pubDate>Thu, 05 Nov 2026 15:16:49 +0000</pubDate>
     </item>
     <item>
-      <title>Thermodynamics-Informed Learning Captures Hierarchical Hydrogen-Bond Networks in Deep Eutectic Solvents</title>
-      <link>http://arxiv.org/abs/2611.06590v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yanpeng Ye, Chaoran Duan, Mian Xu, S. Mani Sarathy&lt;/p&gt;&lt;p&gt;Deep eutectic solvents (DESs) offer a tunable platform for lignocellulose refining, but their solvation behavior depends on multicomponent hydrogen-bond networks rather than individual constituent properties. We develop TiNN, a thermodynamics-informed neural network that hierarchically represents HBA-HBD association and solute accommodation through a learned free-energy pathway. Trained on 938 records, TiNN achieves a test-set $R^2$ of 0.917 and generalizes to new HBA-HBD combinations and sparse conditions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.06590v1</guid>
-      <pubDate>Wed, 04 Nov 2026 14:43:58 +0000</pubDate>
+      <title>Patch Attention Wisely: Understanding Patch Length in Attention-Based Forecasting</title>
+      <link>http://arxiv.org/abs/2611.08160v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Junyu Chen, Likai Chen, Weining Wang&lt;/p&gt;&lt;p&gt;Attention-based time series forecasters commonly group consecutive observations into patches. Patch length is known to have a substantial impact on forecasting performance, yet its selection remains largely empirical. We develop a theoretical framework that explains why patch length matters for forecasting accuracy and provides a principled basis for its selection&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08160v1</guid>
+      <pubDate>Thu, 05 Nov 2026 15:18:11 +0000</pubDate>
     </item>
     <item>
-      <title>PINR-ESI: Physics-Informed Self-Supervised Implicit Neural Representation Framework for EEG Extended-Source Imaging</title>
-      <link>http://arxiv.org/abs/2611.06700v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhiyong Zhou, Sheng Liao, Youshen Xiao, Xiaolin Li, Yakang Dai&lt;/p&gt;&lt;p&gt;EEG extended-source imaging aims to localize active cortical regions and characterize their spatial extent, yet supervised inverse networks typically depend on synthetic EEG-source pairs and may be sensitive to synthetic-to-real mismatch. We propose a physics-informed self-supervised implicit neural representation (INR) framework for spatial source reconstruction without paired source labels or simulation-based supervised pretraining. The lead field matrix encodes the source-to-sensor volume-conduction model and constrains the INR through agreement between predicted and measured EEG&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.06700v1</guid>
-      <pubDate>Wed, 04 Nov 2026 16:02:28 +0000</pubDate>
+      <title>BUMP: Brief Unexpected Mid-Interpolation Peak</title>
+      <link>http://arxiv.org/abs/2611.08182v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Melinda Flóra Kiss, Márton Muntag, Adrián Csiszárik, Dániel Varga&lt;/p&gt;&lt;p&gt;We identify an intriguing phenomenon when linearly interpolating between permutation-aligned neural networks: test accuracy briefly improves near the interpolation endpoints before dropping toward the midpoint, which we term BUMP (Brief Unexpected Mid-interpolation Peak). We observe that BUMP appears consistently across datasets, architectures, training regimes, and remains robust under substantial perturbations such as early checkpoints and extreme pruning. Moreover, controlled ablations suggest that it cannot be attributed to trivial regularization effects&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08182v1</guid>
+      <pubDate>Thu, 05 Nov 2026 15:37:49 +0000</pubDate>
     </item>
     <item>
-      <title>Evolutionary Design of Interpretable Spatial Descriptors for Structure-Property Relationship Discovery</title>
-      <link>http://arxiv.org/abs/2611.06811v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aditya Raghavan, Sergei V Kalinin&lt;/p&gt;&lt;p&gt;Structure property prediction is a classical task in machine learning, ranging from molecular activity and materials properties to local functional responses measured in microscopy. For image-based regression, two choices define the information available to the predictor: the size of the image neighborhood and the spatial resolution retained within it. A small neighborhood can omit relevant surrounding structure, whereas a large, finely sampled neighborhood can introduce redundant or irrelevant information&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.06811v1</guid>
-      <pubDate>Wed, 04 Nov 2026 17:25:10 +0000</pubDate>
+      <title>FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning</title>
+      <link>http://arxiv.org/abs/2611.08240v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haitao Lin, Minsi Ren, Yang Li, Xingtong Ge, Zheyuan Hu, Peiyan Hu, Tailin Wu&lt;/p&gt;&lt;p&gt;Reinforcement learning (RL) has become a standard post-training method for diffusion models, but most RL objectives roll out the current policy at every iteration, and with a many-step sampler these rollouts typically dominate the cost of training. Few-step models cut this cost, yet they model an average velocity over an interval, whereas existing RL objectives are built for an instantaneous velocity with a many-step sampler. We adapt RL objectives to few-step models systematically in three phases, namely a transformation, a decomposition and an adaptation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08240v1</guid>
+      <pubDate>Thu, 05 Nov 2026 16:19:52 +0000</pubDate>
     </item>
     <item>
-      <title>Context--Answer Metamodels: Forecasting LLM Activations Before the First Answer Token</title>
-      <link>http://arxiv.org/abs/2611.06837v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tommy He, Thomas Jiralerspong&lt;/p&gt;&lt;p&gt;Under stochastic decoding, a single context can elicit many different answers from a language model. Characterizing this variation typically requires many expensive autoregressive rollouts, each revealing only one realization. We ask whether the activations produced while reading the context can directly forecast the model's rollout activations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.06837v1</guid>
-      <pubDate>Wed, 04 Nov 2026 17:53:52 +0000</pubDate>
+      <title>Value-oriented policy distillation for interpretable wind farm power control</title>
+      <link>http://arxiv.org/abs/2611.08245v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Max Bruninx, Timothy Verstraeten, Jan Decuyper, Ann Nowé, Jan Helsen&lt;/p&gt;&lt;p&gt;Wind farm power control can help the system maintain balance and avoid blackouts. In Europe, this can be achieved through implicit balancing, where a wind farm adjusts its power setpoint in anticipation of the imbalance price using information published by the Transmission System Operator. Thereby, the wind farm helps restore system balance while also reducing its own imbalance costs resulting from forecast errors&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08245v1</guid>
+      <pubDate>Thu, 05 Nov 2026 16:22:55 +0000</pubDate>
     </item>
     <item>
-      <title>Thermally Conditioned Time-Series Forecasting of Grain Growth in Polycrystalline Materials</title>
-      <link>http://arxiv.org/abs/2611.06843v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Eliane Younes, Elie Hachem, Marc Bernacki&lt;/p&gt;&lt;p&gt;Grain growth during heat treatment strongly affects the microstructure of polycrystalline materials and, consequently, their mechanical properties. Although numerical methods such as front-tracking or front-capturing simulations can accurately describe grain growth, their high computational cost limits their use for long or non-isothermal thermal cycles. In previous work, grain growth was successfully predicted under isothermal conditions by treating grain size distributions as time series and forecasting their evolution using recurrent neural networks, allowing complete grain growth trajector&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.06843v1</guid>
-      <pubDate>Wed, 04 Nov 2026 17:59:26 +0000</pubDate>
+      <title>Series-wise Cross-validation for Global Time Series Forecasting</title>
+      <link>http://arxiv.org/abs/2611.08252v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vitor Cerqueira, Mariana Oliveira, Luis Roque&lt;/p&gt;&lt;p&gt;We consider the problem of cross-validation (CV) in time series forecasting, with a focus on global forecasting models based on deep learning. The prevailing CV strategy in forecasting is to partition data across time with the last part of each series used for testing. With global models trained on collections of time series, however, a fundamentally different approach becomes possible: partitioning across series and time&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08252v1</guid>
+      <pubDate>Thu, 05 Nov 2026 16:28:08 +0000</pubDate>
     </item>
     <item>
-      <title>FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors</title>
-      <link>http://arxiv.org/abs/2611.06912v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nicolas Tricard, Linzheng Wang, Jason Chen, Sili Deng&lt;/p&gt;&lt;p&gt;Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimators and which aspects of their predictions can be trusted. FlowReconBench evaluates ten learned and five classical methods on three regimes: a laminar cylinder wake across Reynolds numbers, two-dimensional Kolmogorov turbulence and a large-scale three-dimensional (3D) isotropic turbulence&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.06912v1</guid>
-      <pubDate>Wed, 04 Nov 2026 18:57:47 +0000</pubDate>
+      <title>Nowcasting of Tropical Cyclone Wind Fields and Intensity from Geostationary Imagery</title>
+      <link>http://arxiv.org/abs/2611.08255v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Simon Donike, Pritthijit Nath, Cristina Radin, Arthur Avenas, Ruben Cartuyvels, Emiliano Diaz, William K. Jones, Anna Jungbluth&lt;/p&gt;&lt;p&gt;High-resolution tropical cyclone surface wind speeds derived from synthetic aperture radar (SAR) observations can support storm structure and intensity modelling, but remain spatially and temporally sparse and unavailable near-real-time. Geostationary satellites capture cloud tops continuously in space and time, but do not directly resolve surface winds. Here, we present simple neural networks to predict 2D wind fields and storm-scale intensity metrics from geostationary imagery&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08255v1</guid>
+      <pubDate>Thu, 05 Nov 2026 16:31:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation</title>
+      <link>http://arxiv.org/abs/2611.08295v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Gabriel Parra, Kimia Khoshnami, Daniel S. Brown, Laura A. Hallock&lt;/p&gt;&lt;p&gt;Robot-mediated rehabilitation has the potential to deliver high-intensity, individualized therapy, but existing systems (which have not consistently improved outcomes) typically prescribe kinematic trajectories rather than explicitly targeting the neuromotor activations thought to support recovery. To address this gap, and ultimately enable activation-optimizing rehabilitation robot behavior, we present a personalizable transformer-based model mapping individuals' muscle activations (as measured via surface electromyography) to prescribed contact force trajectories when interacting with an end&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08295v1</guid>
+      <pubDate>Thu, 05 Nov 2026 16:55:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Measured Coupling for Parallel Decoding in Diffusion Language Models</title>
+      <link>http://arxiv.org/abs/2611.08307v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tal Oved, Lior Wolf&lt;/p&gt;&lt;p&gt;Diffusion language models can write many tokens per step, but must choose which tokens are safe to commit together. Mean-field decoding penalizes pairs of positions whose predictions look alike. We replace this proxy with the coupling itself: how much committing one token changes the model's confidence at another&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08307v1</guid>
+      <pubDate>Thu, 05 Nov 2026 17:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout</title>
+      <link>http://arxiv.org/abs/2611.08376v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tushaar Gangavarapu, Gil Tabak, Clemens JS Schaefer&lt;/p&gt;&lt;p&gt;Linear attention compresses context into a fixed-size key-value state for linear-time training and constant-memory inference. Gated delta-rule models decay this state and erase its prediction for an incoming key before writing a new value; Gated DeltaNet-2 (GDN-2) generalizes this with channel-wise decay and decoupled, full-rank erase and write gates. However, we show that state updates are far less sensitive to erasure than to writes: key activation and unit normalization concentrate key energy onto a sparse subset of channels, whereas value writes scale all channels, so the erase gate can be&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08376v1</guid>
+      <pubDate>Thu, 05 Nov 2026 17:53:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Module-Aware Optimization for Graph Neural Networks</title>
+      <link>http://arxiv.org/abs/2611.08379v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guy Hadad, Haggai Roitman, Moshe Eliasof, Bracha Shapira&lt;/p&gt;&lt;p&gt;Different optimizers impose different geometries on parameter updates. Adaptive methods such as Adam and AdamW use coordinate-wise updates, while matrix-aware optimizers such as Muon utilize weight-matrix structure through orthogonalized updates. For Graph Neural Networks (GNNs), however, the effective geometry of its weight matrices is shaped not only by its learned channel-mixing weights, but also by the graph-propagated representations it acts on&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08379v1</guid>
+      <pubDate>Thu, 05 Nov 2026 17:56:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hybrid Machine Learning for Imbalanced Landing-Phase Safety Event Prediction from Flight Data</title>
+      <link>http://arxiv.org/abs/2611.08386v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Taha Asghar, Bilal Mufti, Syed Qasim Zaheer, Luqman Ahmed&lt;/p&gt;&lt;p&gt;Landing-phase safety-event prediction requires the detection of rare abnormal approaches within strongly imbalanced multivariate flight data. Capturing coupled temporal behavior while distinguishing event-specific signatures across airport operating contexts remains a central modeling challenge. This study proposes an interpretable hybrid feature-fusion framework for multiclass landing-phase safety-event prediction&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08386v1</guid>
+      <pubDate>Thu, 05 Nov 2026 18:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning a patient world model for health system simulation in intensive care</title>
+      <link>http://arxiv.org/abs/2611.08392v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yingtai Li, Ruoyan Wang, Yu Li, Shaohua Kevin Zhou&lt;/p&gt;&lt;p&gt;Designing healthcare strategies requires anticipating their clinical and operational consequences before implementation, a task that often relies on health system simulation. Such a simulation necessitates modeling how patient states evolve and generate care demands. However, conventional approaches typically tailor compact state transitions to a single policy question and omit history-dependent dynamics, thus requiring the redefinition of states and transitions when there is a new question that entails different clinical information&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08392v1</guid>
+      <pubDate>Thu, 05 Nov 2026 18:06:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conformal Prediction for Time-Dependent PDEs</title>
+      <link>http://arxiv.org/abs/2611.08409v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Joshua Stiller, Annika Schneider, Eyke Hüllermeier&lt;/p&gt;&lt;p&gt;Uncertainty quantification is crucial in scientific machine learning, where models inform safety-critical tasks such as flood forecasting, financial risk management, and thermal control in machines. Conformal prediction provides distribution-free coverage guarantees, but in time-dependent settings common to physics and engineering, these guarantees can break down, leading to systematic undercoverage. We study this problem in the context of surrogate models for time-dependent physical systems described by partial differential equations&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08409v1</guid>
+      <pubDate>Thu, 05 Nov 2026 18:15:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety</title>
+      <link>http://arxiv.org/abs/2611.08438v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fazl Barez, Tung-Yu Wu, Hunar Batra, Gabriele Dominici, Florent Draye, Yanai Elazar, Damiano Fornasiere, Antía García&lt;/p&gt;&lt;p&gt;Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of the defining challenges of our time. Yet we continue to build increasingly powerful systems without fully understanding how they work, how they will behave in unfamiliar situations, or how to reliably control them&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.08438v1</guid>
+      <pubDate>Thu, 05 Nov 2026 18:30:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
