@@ -7,118 +7,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 02:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 02:13:30 +0000</lastBuildDate>
     <item>
-      <title>XAI-Driven Confidence Estimation for OOD-Resilient Runtime Prediction</title>
-      <link>http://arxiv.org/abs/2611.13199v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mahmoud Sanad, Mohammed Bakr Sikal, Osama Abboud, Heba Khdr, Jörg Henkel&lt;/p&gt;&lt;p&gt;Machine learning-based resource management (RM) models degrade under out-of-distribution (OOD) inputs at runtime, yet existing approaches in the literature rely on a single global error margin that is overly conservative and fails to distinguish reliablepredictions from catastrophic failures. We propose Lightweight Runtime EXplainability (LEX), the first post-hoc XAI framework for input-specific runtime confidence estimation in ML-based RM. LEX clusters the embeddings of the training input space using a Gaussian Mixture Model and associates per-cluster prediction error bounds to input samples,&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13199v1</guid>
-      <pubDate>Mon, 09 Nov 2026 20:23:12 +0000</pubDate>
+      <title>HaiRuo: Forecasting Ocean Eddies as Fields and Objects with a Satellite-Altimetry Foundation Model</title>
+      <link>http://arxiv.org/abs/2611.14136v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Xukun Qin, Haochen Sun, Yuyang Tian, Ge Chen&lt;/p&gt;&lt;p&gt;Mesoscale eddies carry most of the ocean's kinetic energy and move heat, salt and nutrients across basins, yet where an eddy will be two weeks ahead is still read off ocean models with post-hoc tracking heuristics. We introduce HaiRuo, which forecasts eddies as fields and as objects at once: from 30 days of satellite sea-level maps, one forward pass returns 15 days of sea level and geostrophic velocity, daily eddy masks and the trajectory of every eddy alive today. HaiRuo pairs two components with a clear division of labour: (1) HaiRuo-1B, an open-weight 1.05-billion-parameter foundation model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.14136v1</guid>
+      <pubDate>Tue, 10 Nov 2026 14:24:07 +0000</pubDate>
     </item>
     <item>
-      <title>Audited Gradients, Anchored Policies: Model-Based Reinforcement Learning for Efficient Flow Control</title>
-      <link>http://arxiv.org/abs/2611.13203v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ruige Kong, Stefania Fresca&lt;/p&gt;&lt;p&gt;Feedback controllers for flows are expensive to design, since each candidate must be evaluated with a high-fidelity solver. Differentiable surrogates reduce that cost, but they also introduce a failure mode that prediction error cannot detect. Policy optimization uses the derivative of the objective with respect to the action, which we call the action gradient and which can be computed either through the surrogate or through the high-fidelity solver&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13203v1</guid>
-      <pubDate>Mon, 09 Nov 2026 20:28:10 +0000</pubDate>
+      <title>Tidal potential measured with distant optical clocks</title>
+      <link>http://arxiv.org/abs/2611.14293v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lei Hou, Xiang Zhang, Qiang Zhu, Xiang-Pei Liu, Fa-Xi Chen, Wen-Xuan Song, Zhuan-Xian Xiong, Jian-Yu Guan&lt;/p&gt;&lt;p&gt;Fibre-linked optical clocks sense tidal changes of the gravitational potential, but separating overlapping tidal components and quantifying their precision remain challenging. Using strontium and ytterbium clocks 692 km apart, we measure over 353 days a response of 0.95 (0.11) to the combined solid-Earth and ocean-loading tide and 1.01 (0.13) for the lunar semidiurnal group, and separate the lunar and solar-frequency semidiurnal contributions. A signal-to-noise model based on the actual sampling accounts for the lunar precision and guides future clock-network observations.&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.14293v1</guid>
+      <pubDate>Tue, 10 Nov 2026 16:30:42 +0000</pubDate>
     </item>
     <item>
-      <title>Prediction Inference for Hybrid Models on Realized Volatility Forecasting</title>
-      <link>http://arxiv.org/abs/2611.13212v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kyle Parrella, Kejin Wu&lt;/p&gt;&lt;p&gt;GARCH-LSTM hybrid models have become increasingly popular in the volatility forecasting literature. To date, these models have almost exclusively focused on point estimation and accuracy measures such as RMSE and MAPE, while failing to assess the uncertainty of these point estimates. We approach this gap in two ways&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13212v1</guid>
-      <pubDate>Mon, 09 Nov 2026 20:35:36 +0000</pubDate>
+      <title>Forward-Value Discretization: Faster Stochastic Diffusion Sampling Without High-Order Approximation</title>
+      <link>http://arxiv.org/abs/2611.14328v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuchen Jiao, Na Li, Changxiao Cai, Yuting Wei, Gen Li&lt;/p&gt;&lt;p&gt;Stochastic diffusion samplers often require substantially more neural function evaluations (NFEs) than deterministic samplers to achieve comparable sample quality. Although higher-order discretization accelerates deterministic sampling, its benefits for stochastic sampling remains unclear. We establish matching upper and worst-case lower bounds showing that stochastic samplers with higher-order approximations remain first-order convergent, even with exact score functions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.14328v1</guid>
+      <pubDate>Tue, 10 Nov 2026 16:53:27 +0000</pubDate>
     </item>
     <item>
-      <title>MediPFN: Amortized In-Context Nuisance Learning and Inference for Causal Mediation Analysis</title>
-      <link>http://arxiv.org/abs/2611.13219v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shi Bo, Jiaming Hu&lt;/p&gt;&lt;p&gt;Causal mediation analysis decomposes a treatment effect into indirect pathways through mediators and direct pathways through other processes. Tabular foundation models perform classification and regression through in-context learning, providing estimates of conditional means and propensity scores used in causal mediation analysis. Constructing confidence intervals from these estimates requires accounting for uncertainty introduced by fitting and combining several nuisance functions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13219v1</guid>
-      <pubDate>Mon, 09 Nov 2026 20:44:35 +0000</pubDate>
+      <title>The Unused Input: The Initial State as a Conditioning Interface for Recurrent TSFMs</title>
+      <link>http://arxiv.org/abs/2611.14357v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bernhard Voggenberger, Christian Ganhör, Levente Zólyomi, Sebastian Böck, Sepp Hochreiter&lt;/p&gt;&lt;p&gt;Time series foundation models (TSFMs) forecast unseen series without task-specific training. Increasingly they are built on recurrent backbones, whose constant per-step cost makes long-context inference cheap, and which, unlike transformers, carry a state. A recurrent backbone computes its prediction from two inputs: the observed context window and the initial recurrent state&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.14357v1</guid>
+      <pubDate>Tue, 10 Nov 2026 17:16:54 +0000</pubDate>
     </item>
     <item>
-      <title>Heterogeneous and episodic permeability evolution and correlation with acoustic emission activity during faulting in granite</title>
-      <link>http://arxiv.org/abs/2611.13272v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ado Farsi, Franciscus M. Aben, Nicolas Brantut&lt;/p&gt;&lt;p&gt;Rock permeability changes dramatically during brittle deformation, affecting faulting dynamics and crustal fluid flow. Here, we combine fluid-flow and local pore-pressure measurements acquired during a quasi-static shear-failure test in Westerly granite with a three-dimensional finite-element inverse method. The measured flow rate and six internal pore pressures constrain the local hydraulic transmissivities (permeability-thickness products) of ten cells along the growing fault&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13272v1</guid>
-      <pubDate>Mon, 09 Nov 2026 21:39:20 +0000</pubDate>
+      <title>Uncertainty-Aware Hybrid Offline Reinforcement Learning with Online Action Selection Enabled by Sparse Gaussian-Process Critics</title>
+      <link>http://arxiv.org/abs/2611.14374v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marco Chan, Christos Evripidou, Liqiu Dong, Benoit Chachuat, Mehmet Mercangöz&lt;/p&gt;&lt;p&gt;Start-ups and grade changes remain largely operator-driven, while developing and maintaining dynamic models for model-based control requires substantial engineering effort. Hybrid Offline Learning and Online Optimisation (HOFLON) uses one-step offline reinforcement learning to select actions from historical transition data. In its original implementation, the online objective combines the predicted return from a tree-ensemble critic with an adversarial-autoencoder (AAE) penalty for unfamiliar state-action pairs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.14374v1</guid>
+      <pubDate>Tue, 10 Nov 2026 17:30:34 +0000</pubDate>
     </item>
     <item>
-      <title>PegasusAI Studio: Legible Cyberinfrastructure and Accountable AI Agents for Scientific Workflows</title>
-      <link>http://arxiv.org/abs/2611.13309v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Komal Thareja, Mats Rynge, Berent Aldikacti, Angelina Ju, Ian Lumsden, Anirban Mandal, Rajiv Mayani, Kin Wai Ng&lt;/p&gt;&lt;p&gt;AI coding agents can now construct scientific workflows, but operating them on shared cyberinfrastructure (CI) raises problems that code generation does not solve. Agents need current knowledge of the workflow system and its execution sites and access to the runtime state of distributed executions, while facilities need to attribute every agent action to a user and bound it by that user's privileges. We present PegasusAI Studio, an AI-assisted science gateway built on the Pegasus and HTCondor stack&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13309v1</guid>
-      <pubDate>Mon, 09 Nov 2026 22:22:25 +0000</pubDate>
+      <title>A Margin Perspective on LoRA: Robustness to Catastrophic Forgetting and Adapter Merging (MaLoRA)</title>
+      <link>http://arxiv.org/abs/2611.14397v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziqing Xu, Hancheng Min, Lachlan Ewen MacDonald, Salma Tarmoun, Enrique Mallada, Weijie Su, Rene Vidal&lt;/p&gt;&lt;p&gt;Low-rank adaptation (LoRA) is the de facto method for parameter-efficient fine-tuning of large neural networks, achieving strong task adaptation with minimal trainable parameters and low optimization cost. Beyond this efficiency, practitioners have observed two striking properties: \textit{robustness to catastrophic forgetting} and the ability to \textit{merge independently trained adapters} into a single model that performs competitively across multiple tasks. These properties are central to continual and multi-task learning, yet remain poorly understood&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.14397v1</guid>
+      <pubDate>Tue, 10 Nov 2026 17:44:14 +0000</pubDate>
     </item>
     <item>
-      <title>Impact of compressiblity approximations on atmospheric gravity wave characteristics</title>
-      <link>http://arxiv.org/abs/2611.13317v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hrishikesh Sivanandan, Matthew Churchfield, Ben Kravitz, Eliot Quon, Mehtab Khan&lt;/p&gt;&lt;p&gt;Atmospheric gravity waves are a common phenomenon in the atmosphere and are of critical importance to understanding power generation from wind plants. Common sources of atmospheric gravity waves are stratified flow over topography or wind deceleration ahead of wind farms. Simulations to understand atmospheric boundary layer conditions and wind power generation often solve the Navier-Stokes equations in incompressible Boussinesq form, which allows for density variation as a function of potential temperature only; the purpose of this study is to understand how much that simplification matters&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13317v1</guid>
-      <pubDate>Mon, 09 Nov 2026 22:35:47 +0000</pubDate>
+      <title>Discovering Equations for the Thermodynamics of South Asian Monsoon Precipitation</title>
+      <link>http://arxiv.org/abs/2611.14401v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Savannah L. Ferretti, Jane W. Baldwin, Michael S. Pritchard, Tom Beucler&lt;/p&gt;&lt;p&gt;South Asian monsoon precipitation depends on the thermodynamic structure of the lower troposphere, but how its ingredients combine to shape precipitation remains unclear, partly because this dependence is nonlocal in the vertical. We use symbolic distillation, which combines neural networks and symbolic regression, to discover interpretable precipitation equations from 21 years of June-August reanalysis data. Neural networks first learn the vertical thermodynamic structure most relevant to precipitation, condensing each variable into a single interpretable feature not tied to a particular vert&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.14401v1</guid>
+      <pubDate>Tue, 10 Nov 2026 17:45:21 +0000</pubDate>
     </item>
     <item>
-      <title>The climate and potential habitability of a warm and oxygenated Mars</title>
-      <link>http://arxiv.org/abs/2611.13321v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ashwin S. Braude, Edwin S. Kite, Preston Cosslett Kemeny, Raymond T. Pierrehumbert, Alexandre Kling, Michael A. Mischna&lt;/p&gt;&lt;p&gt;We present the first 3-D Global Climate Model simulations of an oxygen-rich, terraformed Mars. Assuming an O2-CO2 atmosphere, with additional warming from a well-mixed grey gas, we study (1) how surface temperatures change with atmospheric pressure and grey gas opacity, and (2) how temperature, pressure, and other effects limit life as oxygen builds up. We neglect the climate effects of dust and the water cycle, as well as possible soil-chemistry and nutrient limits to life&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13321v1</guid>
-      <pubDate>Mon, 09 Nov 2026 22:43:08 +0000</pubDate>
+      <title>DnNP: Denoising Input Uncertainty in Neural Processes</title>
+      <link>http://arxiv.org/abs/2611.14424v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fatemeh Tohidian, Chengzhi Shi, Soomi Lee, Matthew Elia, Amy Mueller, Stratis Ioannidis, Jennifer Dy&lt;/p&gt;&lt;p&gt;Neural Processes (NPs) are flexible meta-learning models capable of uncertainty quantification across diverse applications. However, the standard NP framework assumes access to noise-free inputs. This is unrealistic in many practical settings, where sensor noise or measurement errors are unavoidable&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.14424v1</guid>
+      <pubDate>Tue, 10 Nov 2026 18:00:37 +0000</pubDate>
     </item>
     <item>
-      <title>Agent-Guided Discovery of Exchange-Correlation Functionals with Physics-based Validation</title>
-      <link>http://arxiv.org/abs/2611.13329v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Achuth Chandrasekhar, Amir Barati Farimani&lt;/p&gt;&lt;p&gt;Accurate, compact exchange--correlation functionals are central to predictive density functional theory. Symbolic search and language-model agents can propose new functional forms, but it remains unclear whether their gains survive self-consistency and external evaluation, whether the new terms carry physical content, whether agents outperform evolutionary search, and how language-model backbones compare. We connect frontier LLM agents to a GPU evaluator through the Model Context Protocol, with training-only fitting, persistent memory, and self-consistent and external evaluation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13329v1</guid>
-      <pubDate>Mon, 09 Nov 2026 22:56:02 +0000</pubDate>
+      <title>Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications</title>
+      <link>http://arxiv.org/abs/2611.14425v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Sourish Gunesh Dhekane, Abinaya Kumar, Torsten Woertwein, Yan-Bo Lin, Thomas Ploetz, Shabnam Ghaffarzadegan&lt;/p&gt;&lt;p&gt;Time-Series Foundation Models (TSFMs) are increasingly used in sensor applications, where sampling frequency (SF) varies across sensors, devices, and operating modes (e.g., power saving). Ideally, TSFMs must remain effective during such SF changes, provided the SF retains task-critical bandwidth. In this paper, we stress-test 4 prominent TSFMs: MOMENT, Chronos-2, Moirai-MoE, and TimesFM, to quantify their SF-invariance and investigate whether their behavior tracks the resulting loss of information bandwidth rather than the SF value itself&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.14425v1</guid>
+      <pubDate>Tue, 10 Nov 2026 18:01:23 +0000</pubDate>
     </item>
     <item>
-      <title>Advancing Mass-Conserving Deep Learning for Distributed Hydrologic Modeling: A Case Study in a Snow-Dominated Watershed</title>
-      <link>http://arxiv.org/abs/2611.13346v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yihan Wang, Lujun Zhang, N. Benjamin Erichson, Yang Hong, Tiantian Yang&lt;/p&gt;&lt;p&gt;Recent progress in physics-aware deep learning (DL) has embedded mass conservation within Long Short-Term Memory (LSTM) architecture for hydrologic modeling, improving physical consistency and enabling diagnostics of internal states. However, existing mass-conserving neural networks are primarily developed in lumped formulations. Consequently, previous studies provide only fragmented and often indirect evidence of when and why imposed physical constraints may lead to unrealistic hydrologic behavior&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13346v1</guid>
-      <pubDate>Mon, 09 Nov 2026 23:17:03 +0000</pubDate>
+      <title>Accurate predictions of properties of energetic materials with tabular foundation models</title>
+      <link>http://arxiv.org/abs/2611.14462v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vagn Krister Nes Glomsrud, Mathias Bynke, Lars Henry Berge Olsen, Dennis Christensen&lt;/p&gt;&lt;p&gt;We use TabPFN, a recently developed tabular foundation model, to predict three properties of energetic materials: impact sensitivity, decomposition temperature and crystal density. Without any hyperparameter tuning, TabPFN outperforms the best published models for all three properties. It also substantially outperforms a wide range of established machine-learning models, including tuned gradient boosting (XGBoost), random forests and Gaussian processes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.14462v1</guid>
+      <pubDate>Tue, 10 Nov 2026 18:29:37 +0000</pubDate>
     </item>
     <item>
-      <title>Reconstructing Boundary Layer Wind Profiles with Machine Learning: A Comparative Study on IGRA Radiosonde Data</title>
-      <link>http://arxiv.org/abs/2611.13359v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fedor Buzaev, Dmitry Efremenko, Daria Pugacheva, Fedor Ratnikov, Egor Bugaev, Vladimir Gordin, Denis Derkach&lt;/p&gt;&lt;p&gt;Wind profiles in the atmospheric boundary layer (ABL) drive short-range forecasting and wind-energy siting, yet sparse radiosonde coverage forces practitioners to interpolate them from a handful of physical predictors. We benchmark modern tabular learners against analytical parameterizations on 158,097 IGRA soundings. CatBoost, TabM, and FT-Transformer reduce RMSE to 1.3-1.6 m/s, against approximately 3 m/s for power-law and Monin-Obukhov fits; once the predictor set is fixed the three architectures differ by less than 0.05 m/s, so accuracy is driven by predictors rather than architecture&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13359v1</guid>
-      <pubDate>Mon, 09 Nov 2026 23:34:40 +0000</pubDate>
+      <title>TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics</title>
+      <link>http://arxiv.org/abs/2611.14491v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Peng Chen, Yihang Wang, Zhongwen Rao, Yang Shu, Yuying Qiu, Yuxuan Chen, Lujia Pan, Bin Yang&lt;/p&gt;&lt;p&gt;Time series analytics has been widely applied across various domains. While existing time series foundation models (TSFMs) have demonstrated promising results, they still face two major challenges: 1) Most TSFMs mainly rely on stacking Transformer layers to increase parameter size, lacking the ability to adaptively model complex time series patterns from multi-domain data. 2) Current TSFMs are primarily pre-trained for specific tasks, e.g., forecasting or anomaly detection, and a few models support multiple tasks, but they fail to fully leverage task specificity and commonality, resulting in s&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.14491v1</guid>
+      <pubDate>Tue, 10 Nov 2026 18:49:26 +0000</pubDate>
     </item>
     <item>
-      <title>Online-Adaptive Fuzzy Cognitive Maps for Neuro-symbolic Financial Forecasting</title>
-      <link>http://arxiv.org/abs/2611.13388v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Brandon Rodriguez, Abel Deulofeu, Olaoluwa Adigun&lt;/p&gt;&lt;p&gt;We present a neuro-symbolic framework that pairs online-adaptive Fuzzy Cognitive Maps (FCMs) with long short-term memory (LSTM) networks for financial forecasting. Financial markets exhibit regime shifts and nonlinear dynamics. Existing models often trade off one of these key properties: these models capture temporal patterns but hide causal drivers, or they recover causal graphs that cannot adapt post-training&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13388v1</guid>
-      <pubDate>Tue, 10 Nov 2026 00:05:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Placing LLM Lookup Tables by Per-Layer Prefetch Deadlines</title>
-      <link>http://arxiv.org/abs/2611.13413v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wen Huang, Jack Liu&lt;/p&gt;&lt;p&gt;DeepSeek-V4.1's 203 GB of Engram n-gram tables sit in host DRAM today, taking 190 of the 223 GiB a 4-GPU serving process uses. Row indices depend only on input tokens, so reads can start with each step and overlap earlier layers. V4.1's two Engram layers have windows that differ by 30x (0.3 vs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13413v1</guid>
-      <pubDate>Tue, 10 Nov 2026 00:47:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sharp Sample Complexity of KL-Regularized Reinforcement Learning</title>
-      <link>http://arxiv.org/abs/2611.13480v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Andrew Liu&lt;/p&gt;&lt;p&gt;KL-regularized reinforcement learning, the objective behind maximum-entropy RL and RL from human feedback, is variational inference in the graphical model of "control as inference": the regularized optimal policy is a posterior over trajectories, and the suboptimality of a policy is $β$ times a KL divergence between path measures. However, it is not known how many samples it takes to learn this posterior, even with a generative model. Earlier $1/ε$ guarantees scale with $H^5$ in the effective horizon $H$, and no lower bound for MDPs depends on the temperature $β$&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13480v1</guid>
-      <pubDate>Tue, 10 Nov 2026 02:42:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evaluating Compositional Generalization in Transformers: The Role of Composition Equivalence and Module Coverage</title>
-      <link>http://arxiv.org/abs/2611.13498v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Purva Pruthi, Andrew Yuan, Alexander D'Amour, David Jensen&lt;/p&gt;&lt;p&gt;Compositional generalization is an important form of out-of-distribution generalization, defined as the ability to train on some combinations of modules (e.g., functions such as sort, filter) and then generalize to unseen combinations. Despite substantial empirical work evaluating compositional generalization in transformers, findings have been inconsistent because evaluations were often conducted on a limited set of train-test splits, defined in an ad hoc manner. Through a systematic evaluation, we identify two key aspects of the train-test distribution that strongly affect performance: compo&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13498v1</guid>
-      <pubDate>Tue, 10 Nov 2026 03:09:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Distribution Shift Detection in Remote Sensing Imagery using Machine Learning Models</title>
-      <link>http://arxiv.org/abs/2611.13510v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abdullah Almansour, Ozan K. Tonguz&lt;/p&gt;&lt;p&gt;Remote sensing imagery acquired by Unmanned Aerial Vehicles (UAVs) supports wide range of applications; however, deploying machine learning (ML) models on resource-constrained aerial platforms introduces challenges beyond predictive accuracy, particularly when deployment data differ from the distributions observed during training. Such shifts are common in remote sensing due to geographic, sensor, seasonal, and other visual variations. A practical solution is to equip deployed models with mechanisms that detect emerging distribution shifts and support subsequent responsive actions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.13510v1</guid>
-      <pubDate>Tue, 10 Nov 2026 03:37:47 +0000</pubDate>
+      <title>Emergent Biological Capabilities in a Foundation Model for Molecular Interactions</title>
+      <link>http://arxiv.org/abs/2611.14504v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Adi Mashiach&lt;/p&gt;&lt;p&gt;Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular interactions trained on approximately 3.2 trillion tokens of paired protein-ligand sequences. From a single representation space, Bonbon exhibits three zero-shot emergent capabilities at hierarchical levels of resolution: functional (mechanism of action), residue (binding site localization, including orthosteric/allosteric discrimination), and bond (covalent versus non-covalen&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.14504v1</guid>
+      <pubDate>Tue, 10 Nov 2026 18:53:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
