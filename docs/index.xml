@@ -7,6 +7,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 02:11:40 +0000</lastBuildDate>
+    <item>
+      <title>Protein Language Models Fail To Capture Contact Predictions Under Invariant Relabeling</title>
+      <link>http://arxiv.org/abs/2611.16881v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Paarth Batra, Aryan Keluskar&lt;/p&gt;&lt;p&gt;Protein language models (pLMs) produce highly accurate contact maps from single-sequence inputs. People often take this accuracy as proof that these models implicitly learn invariant coevolutionary statistics, extracting the same signals as classical alignment-based methods like Potts. In this work, we introduce a diagnostic framework around a global bijective relabeling of the amino-acid alphabet&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.16881v1</guid>
+      <pubDate>Thu, 12 Nov 2026 14:45:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uncertainty-aware quantum machine learning based on Dempster-Shafer theory</title>
+      <link>http://arxiv.org/abs/2611.16903v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Marie Kempkes, Jakob Spiegelberg, Evert van Nieuwenburg, Vedran Dunjko&lt;/p&gt;&lt;p&gt;A large body of work in quantum machine learning has centered on characterizing the expressivity and performance of quantum models. In contrast, little attention has been paid to the reliability of predictions beyond average performance measures such as accuracy. In this work, we introduce an uncertainty-aware quantum classification framework based on Dempster-Shafer theory&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.16903v1</guid>
+      <pubDate>Thu, 12 Nov 2026 14:58:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences</title>
+      <link>http://arxiv.org/abs/2611.16934v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Torben Berndt, Lingyi Yang, Federico Nardi, Yi Heng Lim, AJ Shears, Benjamin Walker&lt;/p&gt;&lt;p&gt;Time series foundation models have demonstrated strong zero-shot forecasting performance, but computational efficiency remains a central architectural challenge. Temporal self-attention incurs quadratic cost in the number of temporal tokens, while nonlinear recurrent state transitions restrict parallel computation along the temporal dimension. We introduce ci-proto, a family of time series foundation models based on Mamba-3, whose linear state recurrences support chunk-wise parallel-in-time computation during training, and inference costs that scale linearly with sequence length&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.16934v1</guid>
+      <pubDate>Thu, 12 Nov 2026 15:20:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Universal Infectious Disease Forecasting with Mantis 2</title>
+      <link>http://arxiv.org/abs/2611.16935v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Carson Dudley, Reiden Magdaleno, Yutong Bi, Anthony Valencia, Xiaofeng Liu, Marisa Eisenberg&lt;/p&gt;&lt;p&gt;Public health agencies need to anticipate how outbreaks will unfold, when they will peak, and how long demand on health services will remain elevated. We previously developed a foundation model, Mantis, which was trained entirely on simulated outbreaks---enabling us to generate the diversity and scale of training data needed to support forecasting across diseases. However, our previous work left unresolved when simulation improves predictions and how it should complement observational data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.16935v1</guid>
+      <pubDate>Thu, 12 Nov 2026 15:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upscale energy transfer from mesoscale convective systems to African easterly waves</title>
+      <link>http://arxiv.org/abs/2611.16941v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ben Maybee, Elliot McKinnon-Gray, Dan Shipley, John Methven&lt;/p&gt;&lt;p&gt;African easterly waves (AEWs) drive the synoptic variability of West African monsoon rainfall via intricate two-way interactions with mesoscale convective systems (MCSs). The composite MCS-AEW system is a canonical example of multiscale interactions in the tropical atmosphere, with upscale feedbacks from deep convection driving the evolution of a larger-scale circulation. Here we support this perspective through application of techniques from turbulence theory, calculating for the first time patterns of interscale kinetic energy transfer, $\mathcal{D}_L$, across different spatial scales $L$ ar&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.16941v1</guid>
+      <pubDate>Thu, 12 Nov 2026 15:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElasticDino: Dense Semantic Features Using Elastic Deformations</title>
+      <link>http://arxiv.org/abs/2611.16984v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ulysse Mizrahi, Sean Zaretzky, Dov Danon, Amit H. Bermano&lt;/p&gt;&lt;p&gt;Vision transformers (ViTs) serve as the backbone for countless vision tasks, including dense prediction tasks, such as segmentation and depth estimation, even though the quadratic complexity of self-attention severely limits feature resolution and induces spatial artifacts. In this work, we introduce ElasticDino, a lightweight adapter which produces high-resolution feature maps, adhering to the fine details of the input image. As a key insight, we observe the consistency of artifacts across channels, and simultaneously resolve them to match the input image structure&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.16984v1</guid>
+      <pubDate>Thu, 12 Nov 2026 15:50:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI for Biologists: The Knowledge Boundaries of Foundation Models in the Age of Agentic Systems</title>
+      <link>http://arxiv.org/abs/2611.17015v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tian Cai, Andrew Kleist, Jaimin Patel, Duccio Malinverni, Alexander K. Taylor, Malvika Sharan, Renato Umeton, M. Madan Babu&lt;/p&gt;&lt;p&gt;Artificial intelligence (AI) is changing how biological research is done. Biological foundation models trained on millions of nucleotides, protein, and single-cell measurements predict protein structures, mutation effects, and cellular responses to genetic perturbations. Agentic systems, AI assistants built on large language models, can run multistep analyses from plain-language requests and increasingly call foundation models as tools&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.17015v1</guid>
+      <pubDate>Thu, 12 Nov 2026 16:08:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capacity-Constrained Delayed Feedback for Online Conformal Risk Control</title>
+      <link>http://arxiv.org/abs/2611.17059v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bowen Wang, Osvaldo Simeone&lt;/p&gt;&lt;p&gt;Online conformal risk control (OCRC) enables reliable uncertainty quantification in machine learning by converting model outputs into prediction sets with long-term risk guarantees. These guarantees, however, hinge on the assumption that the loss of each round is revealed immediately and losslessly. In practice, feedback may be delayed, and limited resources may prevent tracking all pending predictions, causing some feedback to be lost&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.17059v1</guid>
+      <pubDate>Thu, 12 Nov 2026 16:37:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speed-to-Power Dominates Energy Costs for AI Data Centers: Technoeconomic Analysis of Powering AI in the Continental United States</title>
+      <link>http://arxiv.org/abs/2611.17098v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alex C. Newkirk, Daniel L. Gerber, Erica R. H. Fuchs, Alex Hubbard, M. Granger Morgan, Arman Shehabi, Sarah J. Smith, Constantine Samaras&lt;/p&gt;&lt;p&gt;The rapid growth of artificial intelligence is driving demand for new data centers at large scale and on short deployment timelines. To power them, firms connect to the commercial grid or contract generation directly, but interconnection and gas-turbine delays now incentivize on-site generation. We compare grid-connected and off-grid data center energy infrastructure (AC- and DC-coupled solar-plus-storage, islanded natural gas, and grid interconnection) across the continental U.S&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.17098v1</guid>
+      <pubDate>Thu, 12 Nov 2026 16:58:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models</title>
+      <link>http://arxiv.org/abs/2611.17110v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiachun Jin, Zetong Zhou, Haonan Wang, Xiao Yang, Jun Zhu, Zhijie Deng&lt;/p&gt;&lt;p&gt;Embodied foundation models hinge on diverse robot interaction data, which are costly to collect. Egocentric human videos offer a complementary source of experience, and latent action models (LAMs) provide a popular means of leveraging these videos for policy supervision. Compared with world-action models (WAMs), LAMs can offer greater training efficiency and potentially lower inference costs by avoiding explicit pixel prediction during policy learning and execution&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.17110v1</guid>
+      <pubDate>Thu, 12 Nov 2026 17:04:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>AeroZoo: A Benchmark of Well-Posed Flow Problems for Foundation Models of Aerodynamics</title>
+      <link>http://arxiv.org/abs/2611.17152v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Peter Sharpe, Carmelo Gonzales, Corey Adams, Mehdi Ataei, Sanjay Choudhry&lt;/p&gt;&lt;p&gt;Neural surrogates for computational fluid dynamics (CFD) are trained and ranked on datasets that each vary one design family in one flow domain. Such datasets cannot test the least that an aerodynamic foundation model must do: predict CFD-quality incompressible flow in seconds for new shapes in new enclosures. On DrivAerML, larger models and longer training barely lower Transolver's error; doubling the training cases cuts it by about 12% up to 400 cases, exhausting the dataset&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.17152v1</guid>
+      <pubDate>Thu, 12 Nov 2026 17:36:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goal Encoding in LLMs</title>
+      <link>http://arxiv.org/abs/2611.17297v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arnab Sen Sharma, Eric Todd, Sheridan Feucht, Andy Arditi, Rohit Gandikota, Natalie Shapira, Gabriele Sarti, Constanza Fierro&lt;/p&gt;&lt;p&gt;We investigate whether and how LLMs encode goals: internal neural representations that precede and guide action, and that are flexible enough to be realized through many different execution paths. We construct a coding setting with multiple sub-tasks that allows us to evaluate goal-seeking behavior and the selection of sub-goals. In this setting, we localize an encoding of the next sub-goal in the outputs of a sparse set of attention heads&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.17297v1</guid>
+      <pubDate>Thu, 12 Nov 2026 18:55:06 +0000</pubDate>
+    </item>
   </channel>
 </rss>
