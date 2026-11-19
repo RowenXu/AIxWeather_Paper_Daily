@@ -7,118 +7,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:11:39 +0000</lastBuildDate>
     <item>
-      <title>ThermLeT: Transformer-based Temperature Prediction for 2.5D Chiplet Architecture</title>
-      <link>http://arxiv.org/abs/2611.21954v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Varun Darshana Parekh, Anusha Devulapally, Sivani Devarapalli, Cassius Henderson, Shimeng Yu, Vijaykrishnan Narayanan&lt;/p&gt;&lt;p&gt;The drive toward heterogeneous 2.5D chiplet packages promises unmatched performance and customization, yet the resulting density amplifies thermal challenges. To facilitate rapid design space exploration, we present ThermLeT, a multimodal transformer-based, scale invariant surrogate that integrates power density maps, spatial coordinate embeddings, material properties and heat transfer rate to predict steady state temperature in 13 ms, about four orders of magnitude faster than conventional finite element solvers such as ANSYS. To train the transformer model, we also create a dataset of 6,221 &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.21954v1</guid>
-      <pubDate>Mon, 16 Nov 2026 22:36:06 +0000</pubDate>
+      <title>Conformally Calibrated Adaptive Computation in Neural Operators</title>
+      <link>http://arxiv.org/abs/2611.23440v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abdul Qadir Ibrahim, Martin Burger, Abel Maviano Jonathan&lt;/p&gt;&lt;p&gt;Selecting less computation in a neural operator need not reduce inference time. We study this gap using conformal calibration to choose Fourier modes or channel width per input subject to a fixed error budget. A triangle-inequality envelope bounds all candidates simultaneously; a direct-score rule handles non-monotone candidate errors and, with an input-independent score, calibrates a static baseline under the same marginal guarantee&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.23440v1</guid>
+      <pubDate>Tue, 17 Nov 2026 19:41:01 +0000</pubDate>
     </item>
     <item>
-      <title>Sparse Integer Fourier Transform and Its Application In Machine Learning</title>
-      <link>http://arxiv.org/abs/2611.21976v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jinyang Li, Jie Chen&lt;/p&gt;&lt;p&gt;The Discrete Fourier transform, mainly implemented by Fast Fourier Transform (FFT), has been essential for numerous domains, such as digital signal processing and feature extraction in materials design. However, current FFT methods suffer from extensive non-trivial multiplications and twiddle-factor operations in the big data era. To improve the computational efficiency of FFT, this study proposes Sparse Integer Fourier Transform (SIFT), a method that leverages the fast computing of sparsity and small integers, and applies the Radix-n method to derive an FFT&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.21976v1</guid>
-      <pubDate>Mon, 16 Nov 2026 22:59:32 +0000</pubDate>
+      <title>PhysDial: Adapting Pretrained Video Models for PDE Simulation under Changing Physical Conditions</title>
+      <link>http://arxiv.org/abs/2611.23498v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yilong Dai, Yiming Sun, Shengyu Chen, Jiaqi Gong, Xiaowei Jia, Runlong Yu&lt;/p&gt;&lt;p&gt;Simulating how physical systems respond to changing conditions is central to control, design, and scenario studies. To our knowledge, prior PDE foundation models have not been trained or evaluated on changes within trajectories. Our counterfactual test measures how far predictions move toward a changed solver branch from the same state&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.23498v1</guid>
+      <pubDate>Tue, 17 Nov 2026 20:49:17 +0000</pubDate>
     </item>
     <item>
-      <title>Large Language Models as Nonlinear Dynamical Systems: The Three Clocks of Depth, Training, and Generation</title>
-      <link>http://arxiv.org/abs/2611.21983v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Maor Farid&lt;/p&gt;&lt;p&gt;Language models are dynamical systems. A transformer is iterated over its layers, over the steps of its training and over the tokens it generates, and on each of these three clocks it shows behavior that nonlinear dynamics has studied for a century: fixed points, bifurcations, synchronization, chaos and noise-driven escape from potential wells. The two communities rarely meet, so this behavior is often rediscovered under new names&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.21983v1</guid>
-      <pubDate>Mon, 16 Nov 2026 23:11:52 +0000</pubDate>
+      <title>From Arraignment to Resolution: Transformer Models of Court Cases</title>
+      <link>http://arxiv.org/abs/2611.23518v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kory Rosen, Aron Culotta&lt;/p&gt;&lt;p&gt;The criminal legal system is composed of many complex decision points, such as which charges are pursued, how bond is determined, plea deal negotiations, and sentencing. Given the profound impact of such decisions, there is a growing need to increase the transparency within this system. While prior machine learning approaches have focused on modeling single decisions (e.g., recidivism), this paper proposes a transformer-based time series model to forecast the outcome of the next proceeding in a case (e.g., charges accepted, bond set, plea deal made, etc.)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.23518v1</guid>
+      <pubDate>Tue, 17 Nov 2026 21:08:52 +0000</pubDate>
     </item>
     <item>
-      <title>On Formal Counterfactual Explanations</title>
-      <link>http://arxiv.org/abs/2611.22010v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alexey Ignatiev, Peter J. Stuckey, Joao Marques-Silva&lt;/p&gt;&lt;p&gt;Counterfactual explanations are often seen as counterfactual conditionals under closest-world semantics, requiring one to reason over all minimally distant counterexamples. In contrast, formal XAI typically relies on feature-based abductive explanations (AXps) and contrastive explanations (CXps), which admit efficient computation and a minimal hitting-set duality. This paper bridges these perspectives by (i) characterizing closest-world counterfactual explanations explicitly as a disjunctive normal form over all minimally distant counterexample instances, and (ii) introducing conjunctive count&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.22010v1</guid>
-      <pubDate>Mon, 16 Nov 2026 23:51:26 +0000</pubDate>
+      <title>Entropy-Regularized Integrated Gradients for Stable Feature Attribution</title>
+      <link>http://arxiv.org/abs/2611.23600v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rukmangadh Sai Myana, Sumit Kumar Jha, Yanzhao Wu&lt;/p&gt;&lt;p&gt;Path-based attribution methods like Integrated Gradients (IG) are widely used to interpret neural networks, yet imperceptible input perturbations can drastically alter their attribution maps while leaving model predictions unchanged. We introduce Entropy-Regularized Integrated Gradients (ERIG), a path-based attribution method that intrinsically attenuates gradient irregularities along the integration path using maximum-entropy softmax weighting with temperature parameter $τ$. We quantify the effect of the entropy-regularized weighting on attribution stability by using the Lipschitz properties &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.23600v1</guid>
+      <pubDate>Tue, 17 Nov 2026 22:53:17 +0000</pubDate>
     </item>
     <item>
-      <title>An AI-Based OSSE Framework to Evaluate Learned Physical Consistency: A Multi-Model Study Using FourCastNet, Aurora, Prithvi WxC, and GraphCast</title>
-      <link>http://arxiv.org/abs/2611.22024v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yash Diggikar, Milton Halem, Aishwarya Raman&lt;/p&gt;&lt;p&gt;Observing System Simulation Experiments (OSSEs) are a central methodology for evaluating future atmospheric observing systems. We present the first AI-based OSSE framework to test whether different AI weather models can reproduce comparable physical impact from new observations that traditional physics based models generate. We evaluate four distinct architectural AI models on the Charney conjecture that incomplete historical observations can infer the present state of the atmospheric&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.22024v1</guid>
-      <pubDate>Tue, 17 Nov 2026 00:29:47 +0000</pubDate>
+      <title>MAIC-2 v2.3: A Fortran program for simulating the surface temperature, atmospheric water transport and surface glaciation of the planet Mars</title>
+      <link>http://arxiv.org/abs/2611.23643v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ralf Greve, Björn Grieger, Oliver J. Stenzel&lt;/p&gt;&lt;p&gt;The Mars Atmosphere-Ice Coupler MAIC-2 is a computationally efficient, zonally-averaged model designed to simulate Martian surface temperature, atmospheric water transport and surface glaciation over timescales of 10^5 to 10^7 years. While sophisticated General Circulation Models (GCMs) provide high-resolution simulations of the Martian atmosphere, their high computational cost makes them largely unsuitable for studies covering millions of years of orbital evolution. MAIC-2 addresses this gap by utilizing physically-based, zonally-averaged parameterizations, including a Local Insolation Temper&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.23643v1</guid>
+      <pubDate>Wed, 18 Nov 2026 00:07:49 +0000</pubDate>
     </item>
     <item>
-      <title>DSADiff: Data Structure-Aware Diffusion for Crystal Structure Prediction via Mitigating Complexity- and Imbalance-Induced Biases</title>
-      <link>http://arxiv.org/abs/2611.22050v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiang Xiaobo, Dinghong Lai&lt;/p&gt;&lt;p&gt;Crystal Structure Prediction (CSP) is an important step in accelerating the generation and discovery of new materials. In recent years, diffusion-based CSP methods have made significant progress. However, existing models still suffer from generation bias when facing diverse materials spaces, while systematic approaches for tracing the sources of such performance variations remain limited&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.22050v1</guid>
-      <pubDate>Tue, 17 Nov 2026 01:18:26 +0000</pubDate>
+      <title>Toward Out-of-Distribution Generalization in Neural AC Power Flow</title>
+      <link>http://arxiv.org/abs/2611.23729v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ojas Sanghi, Anvita Bhagavathula, Alvaro Carbonero, Priya L. Donti&lt;/p&gt;&lt;p&gt;Growing uncertainty in power system operations from renewables integration, extreme weather, and data center loads challenges the reliability of traditional power flow solvers at scale. Machine learning-based proxies are a potentially promising alternative, but the prohibitive cost of generating training data for large grids makes out-of-distribution generalization a key capability for deployment; currently, models trained on small grids lack that capability. In this work, we systematically evaluate how physics-informed losses, multi-grid training, and perturbation-based data augmentation impr&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.23729v1</guid>
+      <pubDate>Wed, 18 Nov 2026 02:41:59 +0000</pubDate>
     </item>
     <item>
-      <title>BernBRS: Certified Backward Reachability for Deep Bernstein Neural Networks</title>
-      <link>http://arxiv.org/abs/2611.22083v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ibrahim Albool, Yasser Shoukry&lt;/p&gt;&lt;p&gt;Ensuring the safety of complex neural network systems requires mathematically rigorous verification. While backward reachability analysis is a critical tool for identifying safe initial states, computing tight, formal bounds remains notoriously difficult to scale. Recent advancements have demonstrated that DeepBern-Nets neural networks utilizing Bernstein polynomial activation functions possess advantageous mathematical properties that enable exceptionally fast and tight forward reachability analysis&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.22083v1</guid>
-      <pubDate>Tue, 17 Nov 2026 02:10:03 +0000</pubDate>
+      <title>Modeling LLM Reasoning Dynamics with Structural Representations</title>
+      <link>http://arxiv.org/abs/2611.23749v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ilia Karpov, Andrey Atamanyuk, Dmitry Ilvovsky, Aleksandr Anokhin, Alex Elizov, Dmitry Zagorulkin, Sergei O. Kuznetsov&lt;/p&gt;&lt;p&gt;Language-model reasoning alternates between sustained activities and local operations. We study how this temporal structure predicts continuation and the computation needed to analyze it. T/E/S combines text, local events, and spans of activity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.23749v1</guid>
+      <pubDate>Wed, 18 Nov 2026 03:02:29 +0000</pubDate>
     </item>
     <item>
-      <title>Every Measurement, Every Direction, All at Once: Multimodal Flow Matching for Molecules and Spectra</title>
-      <link>http://arxiv.org/abs/2611.22098v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Thorben Prein, Elton Pan, Rafael Gómez-Bombarelli, Santiago Miret&lt;/p&gt;&lt;p&gt;Generative modeling in science is often data-limited, where experiments are expensive. However, each experiment may yield several coupled measurements of the same physical entity. Standard generative models often train only on a single direction, discarding supervision from the rest&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.22098v1</guid>
-      <pubDate>Tue, 17 Nov 2026 02:30:01 +0000</pubDate>
+      <title>STORM: A Lightweight Structure-Free Model for Binding Affinity Prediction</title>
+      <link>http://arxiv.org/abs/2611.23777v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ayush Pandit, Rohan V. Koodli, Wei Deng, Roxana Daneshjou, Ron O. Dror&lt;/p&gt;&lt;p&gt;Accurately predicting a small molecule's binding affinity to a protein, a critical task in drug discovery, remains challenging. Physics-based approaches like free-energy perturbation (FEP) have very high computational costs and require expert setup. Recent machine learning--based cofolding models have reported accuracy approaching that of FEP---and at least one of them, Boltz-2, has already been widely adopted for affinity prediction---but they remain expensive for large computational screens and even more expensive for retraining on newly collected experimental data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.23777v1</guid>
+      <pubDate>Wed, 18 Nov 2026 03:34:08 +0000</pubDate>
     </item>
     <item>
-      <title>EvoDisco: Strategy Discovery for Evolving Agent Memory</title>
-      <link>http://arxiv.org/abs/2611.22102v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mingyang Liu, Qingcan Kang, Shixiong Kai, Kaichao Liang, Xiaojin Fu, Tao Zhong, Linqi Song&lt;/p&gt;&lt;p&gt;Large language model agents accumulate experience in memory, and how that memory evolves during interaction is as important as what it stores. Recent methods update memory online, yet both the operators that transform memory and the rules that select them remain fixed by design. We propose EvoDisco, which formulates agent memory evolution as evolutionary strategy discovery: the agent must discover which operator to apply, when to apply it, and how to instantiate it, rather than rewriting memory under a static operator schedule&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.22102v1</guid>
-      <pubDate>Tue, 17 Nov 2026 02:37:56 +0000</pubDate>
+      <title>TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning</title>
+      <link>http://arxiv.org/abs/2611.23779v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pau Mateo-Bernadó, Saivenkata Nagavyjayanthi Polapragada, David Bonet, Pol Arbiol Rakuljic, Laia Mogas Pladevall, Marçal Comajoan Cara, Jesus Gonzalez-Ferrer, Jordi Abante&lt;/p&gt;&lt;p&gt;Recent advances in machine learning have accelerated biomedical prediction, but evaluation on structured biomedical data remains fragmented, especially for datasets with high dimensionality, large sample size, missingness, and class imbalance. We introduce TabBioMed, a large-scale benchmark of 94 curated public biomedical tabular datasets spanning electronic health records, drug discovery, genomics, transcriptomics, proteomics, metabolomics, single-cell omics, and systems biology. TabBioMed unifies these datasets through a standardized, dataset-aware preprocessing and evaluation framework, ena&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.23779v1</guid>
+      <pubDate>Wed, 18 Nov 2026 03:35:35 +0000</pubDate>
     </item>
     <item>
-      <title>TempQuant: Learning Adaptive Temperatures for Quantized Language Models</title>
-      <link>http://arxiv.org/abs/2611.22128v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mukund Athmaram, Liang Ma, Manoj Rao&lt;/p&gt;&lt;p&gt;Large language models are increasingly deployed at low precision, yet quantization can degrade their performance. We study how quantization interacts with decoding settings such as the sampling temperature and top-p by examining how it distorts the model's next-token probabilities. Measuring entropy during generation across deployed temperatures, we find that quantization warms the model on average, and that temperature matters much more for the performance of a quantized model than for its full-precision counterpart&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.22128v1</guid>
-      <pubDate>Tue, 17 Nov 2026 03:11:36 +0000</pubDate>
+      <title>A State-Level Assessment of Space Weather Impact on the Virginia Power Grid: From Vulnerability to Mitigation Strategies</title>
+      <link>http://arxiv.org/abs/2611.23791v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vedaang Verma, Dennies K. Bor, Lucy Wilkerson, Edward J. Oughton&lt;/p&gt;&lt;p&gt;Contemporary methodologies exist for assessing the nationwide impacts of geomagnetically induced currents (GICs), such as the Coupled Space Weather Impact Model (C-SWIM), which links power grid vulnerability with economic losses. Yet regional mitigation requires adapting the national model to the local transmission network so operators and planners can identify substations at risk and evaluate economic and population consequences and protective actions. We present the first adaptation of C-SWIM to Virginia, modeling the Pennsylvania-New Jersey-Maryland (PJM) Interconnection, which includes Dom&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.23791v1</guid>
+      <pubDate>Wed, 18 Nov 2026 03:58:17 +0000</pubDate>
     </item>
     <item>
-      <title>Synthetic Crystal Data Generation for Diffusion Pretraining in Material Property Prediction</title>
-      <link>http://arxiv.org/abs/2611.22140v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Aamod Varma, Shuyi Jia, Victor Fung&lt;/p&gt;&lt;p&gt;Diffusion-based pretraining has emerged as a powerful strategy for learning transferable representations in graph neural networks for materials property prediction without requiring quantum-mechanical labels such as energies, forces, and stresses for every pretraining structure. However, the method retains a critical dependency: it requires structures residing near local minima of a potential energy surface, which have traditionally been obtained through costly DFT relaxations of known or physically synthesized compounds. This reliance constrains both the scale and the structural diversity of &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.22140v1</guid>
-      <pubDate>Tue, 17 Nov 2026 03:27:08 +0000</pubDate>
+      <title>CAFE-AQI: Coverage-Aware Day-Ahead AQI Forecasting with Early Warning and Conformal Uncertainty in Bangladesh</title>
+      <link>http://arxiv.org/abs/2611.23815v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Md Rafid Islam, Rafsan Jany, Rafid Bin Zaman, Mohammad Fahim Islam, Hafiz Abdur Rahman&lt;/p&gt;&lt;p&gt;Next-day air quality forecasting often assumes city records are equally complete and independent. However, an audit of a large Bangladesh dataset revealed a sharp coverage expansion after August 2022 and showed that 103 city labels correspond to only 61 unique AQI trajectories. To address these issues, this paper presents CAFE-AQI, a coverage-aware framework for forecasting next-day maximum AQI&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.23815v1</guid>
+      <pubDate>Wed, 18 Nov 2026 04:18:24 +0000</pubDate>
     </item>
     <item>
-      <title>When does deep reinforcement learning pay off in HVAC supervisory control? Four small Modelica case studies trained directly on FMUs</title>
-      <link>http://arxiv.org/abs/2611.22144v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bingnan Zhao, Harshala Gammulle, Tharindu Fernando&lt;/p&gt;&lt;p&gt;Deep reinforcement learning (DRL) is often proposed for the supervisory control of heating, ventilation and air-conditioning (HVAC) systems. The reported gains are, however, difficult to interpret, because the baselines are often weak and the attainable optimum is seldom known. This paper examines four small, reproducible case studies based on an office building in Brisbane, Australia: pre-cooling under a time-of-use tariff; chiller staging with condenser water reset; chilled water supply temperature reset with a wet cooling coil; and chilled water storage under time-of-use prices and a demand&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.22144v1</guid>
-      <pubDate>Tue, 17 Nov 2026 03:29:06 +0000</pubDate>
+      <title>A System 1 Decision Model for Medical Multiple-Choice Questions Built on Frozen Language Models</title>
+      <link>http://arxiv.org/abs/2611.23832v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pavan Kumar Mantha&lt;/p&gt;&lt;p&gt;A System 1 model answers a multiple-choice question in a single pass. A frozen language model turns the question and each option into vectors, two small, trained heads place them in a shared space, and the closest option wins. The design has been shown on agent decisions, but we are not aware of a study of how far it goes on exam questions that need medical knowledge, where the right option is often no more similar to the question than the wrong ones&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.23832v1</guid>
+      <pubDate>Wed, 18 Nov 2026 04:38:49 +0000</pubDate>
     </item>
     <item>
-      <title>Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)</title>
-      <link>http://arxiv.org/abs/2611.22148v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Allen G. Roush, Minh Nhat Nguyen, Ravid Shwartz-Ziv, Judah Goldfeder, Sanjay Basu&lt;/p&gt;&lt;p&gt;Open-weight language models are widely observed to get worse the longer they generate. Often, attempts to fix this involve more training. At high temperature, The sampler, i.e&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.22148v1</guid>
-      <pubDate>Tue, 17 Nov 2026 03:30:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>EgoHandWAM: Probing the Role of Hand Motion in Egocentric World Action Modeling</title>
-      <link>http://arxiv.org/abs/2611.22151v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kailin Wang, Haoxiang Jie, Yaoyuan Yan, Zhiyou Heng, Zhaosong Li&lt;/p&gt;&lt;p&gt;How much does hand motion tell us about what a first-person camera will see next? EgoHandWAM forecasts three-dimensional wrist and fingertip trajectories and a future visual feature from the current image and recent hand states. We train on 751,065 EgoDex windows using a frozen DINOv2 encoder. On held-out development sessions, the action-only model reduces two-second wrist endpoint error from 60.26 to 56.48~mm relative to a stationary forecast&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.22151v1</guid>
-      <pubDate>Tue, 17 Nov 2026 03:34:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>CorrectCast: Selective Multimodal Context for Scale-Aware Residual Correction in Precipitation Nowcasting</title>
-      <link>http://arxiv.org/abs/2611.22178v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Henan Wang, Shengwu Xiong, Yifang Zhang, Pengfei Duan&lt;/p&gt;&lt;p&gt;Precipitation nowcasting models suffer from errors in intensity, location, and spatial structure. Addressing these errors by retraining nowcaster backbones can be computationally expensive and requires architecture-specific modifications. To overcome these limitations, we propose CorrectCast, a decoupled residual correction framework that refines completed nowcasts while keeping the base nowcaster frozen&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.22178v1</guid>
-      <pubDate>Tue, 17 Nov 2026 04:14:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Imperfective Paradox to Moorean Absurdity: Single-Chain Reasoning Lock-In and Multi-Candidate Verbalization Across Aspectual and Pragmatic Ambiguity</title>
-      <link>http://arxiv.org/abs/2611.22188v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; An-Sheng Jhang&lt;/p&gt;&lt;p&gt;Natural language entailment and coherence judgments often depend on whether an event merely occurred, reached a telic culmination, satisfied a plan, or was evaluated under multiple pragmatic standards. We test observable consequences of the single-chain premature lock-in hypothesis across four preregistered, sealed formal experiments on Qwen3-8B-Q8_0 (16,640 formal units, temperature=0.0): 15 of 16 hypothesis slots retain confirmatory status (12 rejecting H0 under within-experiment Holm control at alpha_fam=0.05; E3_H3 demoted to descriptive status). In Experiment 1, Direct-CoT vs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.22188v1</guid>
-      <pubDate>Tue, 17 Nov 2026 04:20:45 +0000</pubDate>
+      <title>NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding</title>
+      <link>http://arxiv.org/abs/2611.23835v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alagappan Valliappan, Ankit More, Dheevatsa Mudigere, Jatin Mitra&lt;/p&gt;&lt;p&gt;Speculative decoding is widely used to speed up generation in large language models (LLMs), with a small draft model proposing tokens that one forward pass of the target model verifies. Draft models that read the target's hidden states, such as DFlash and EAGLE-3, typically inherit the target's hidden width. We show that the draft's whole residual stream can run at half or a quarter of that width while largely preserving acceptance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.23835v1</guid>
+      <pubDate>Wed, 18 Nov 2026 04:40:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
