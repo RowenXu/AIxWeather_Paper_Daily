@@ -7,97 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 02:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 02:14:23 +0000</lastBuildDate>
     <item>
-      <title>Conformally Calibrated Adaptive Computation in Neural Operators</title>
-      <link>http://arxiv.org/abs/2611.23440v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Abdul Qadir Ibrahim, Martin Burger, Abel Maviano Jonathan&lt;/p&gt;&lt;p&gt;Selecting less computation in a neural operator need not reduce inference time. We study this gap using conformal calibration to choose Fourier modes or channel width per input subject to a fixed error budget. A triangle-inequality envelope bounds all candidates simultaneously; a direct-score rule handles non-monotone candidate errors and, with an input-independent score, calibrates a static baseline under the same marginal guarantee&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.23440v1</guid>
-      <pubDate>Tue, 17 Nov 2026 19:41:01 +0000</pubDate>
+      <title>Evaluation of machine-learning and deep-learning SPEI drought forecasts against persistence across timescales and lead times in Bangladesh</title>
+      <link>http://arxiv.org/abs/2611.25075v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mahir Ahnaf, Showmitra Kumar Sarkar&lt;/p&gt;&lt;p&gt;Bangladesh, home to nearly 178 million people, is highly vulnerable to recurring droughts that threaten food security and rural livelihoods. Machine-learning and deep-learning models are increasingly used to forecast drought indices such as the Standardized Precipitation Evapotranspiration Index (SPEI). Most studies report accuracy without a persistence reference, although accumulated indices are strongly autocorrelated, and seldom test drought detection, longer leads or variation between training runs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.25075v1</guid>
+      <pubDate>Wed, 18 Nov 2026 19:16:23 +0000</pubDate>
     </item>
     <item>
-      <title>PhysDial: Adapting Pretrained Video Models for PDE Simulation under Changing Physical Conditions</title>
-      <link>http://arxiv.org/abs/2611.23498v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yilong Dai, Yiming Sun, Shengyu Chen, Jiaqi Gong, Xiaowei Jia, Runlong Yu&lt;/p&gt;&lt;p&gt;Simulating how physical systems respond to changing conditions is central to control, design, and scenario studies. To our knowledge, prior PDE foundation models have not been trained or evaluated on changes within trajectories. Our counterfactual test measures how far predictions move toward a changed solver branch from the same state&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.23498v1</guid>
-      <pubDate>Tue, 17 Nov 2026 20:49:17 +0000</pubDate>
+      <title>Auditing Learned Dynamics in Weather Models</title>
+      <link>http://arxiv.org/abs/2611.25119v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Skylar Gu, Christina Last&lt;/p&gt;&lt;p&gt;Learned weather models are experimentally accessible computational systems whose internal representations can be inspected and manipulated. Using sparse autoencoder features from GraphCast, DeepMind's autoregressive weather forecasting model, we test whether causal relevance requires physical semantics, a question that matters for auditing whether AI forecasters used in high-assurance settings rely on reliable mechanisms. We also look at whether physically associated latent directions can be steered to improve extreme-event forecasts, where interventions are applied to the model's internal act&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.25119v1</guid>
+      <pubDate>Wed, 18 Nov 2026 19:58:01 +0000</pubDate>
     </item>
     <item>
-      <title>From Arraignment to Resolution: Transformer Models of Court Cases</title>
-      <link>http://arxiv.org/abs/2611.23518v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Kory Rosen, Aron Culotta&lt;/p&gt;&lt;p&gt;The criminal legal system is composed of many complex decision points, such as which charges are pursued, how bond is determined, plea deal negotiations, and sentencing. Given the profound impact of such decisions, there is a growing need to increase the transparency within this system. While prior machine learning approaches have focused on modeling single decisions (e.g., recidivism), this paper proposes a transformer-based time series model to forecast the outcome of the next proceeding in a case (e.g., charges accepted, bond set, plea deal made, etc.)&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.23518v1</guid>
-      <pubDate>Tue, 17 Nov 2026 21:08:52 +0000</pubDate>
+      <title>Temporal Extrapolation of Elastic Seismic Wave Propagation in Layered Media Using Neural Operators</title>
+      <link>http://arxiv.org/abs/2611.25130v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dibyajyoti Nayak, Yuze Pu, Kami Mohammadi, Somdatta Goswami&lt;/p&gt;&lt;p&gt;Temporal prediction of seismic velocity fields beyond the time interval represented in training remains challenging for neural operator models. This study develops a coupled neural operator framework for stress-conditioned temporal prediction in layered elastic media. A time-integrator-embedded Deep Operator Network (TI-DeepONet) advances the velocity field through an embedded fourth-order Runge-Kutta (RK4) scheme, while a Fourier Neural Operator (FNO) learns a residual correction to the predicted spatial field&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.25130v1</guid>
+      <pubDate>Wed, 18 Nov 2026 20:07:44 +0000</pubDate>
     </item>
     <item>
-      <title>Entropy-Regularized Integrated Gradients for Stable Feature Attribution</title>
-      <link>http://arxiv.org/abs/2611.23600v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rukmangadh Sai Myana, Sumit Kumar Jha, Yanzhao Wu&lt;/p&gt;&lt;p&gt;Path-based attribution methods like Integrated Gradients (IG) are widely used to interpret neural networks, yet imperceptible input perturbations can drastically alter their attribution maps while leaving model predictions unchanged. We introduce Entropy-Regularized Integrated Gradients (ERIG), a path-based attribution method that intrinsically attenuates gradient irregularities along the integration path using maximum-entropy softmax weighting with temperature parameter $τ$. We quantify the effect of the entropy-regularized weighting on attribution stability by using the Lipschitz properties &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.23600v1</guid>
-      <pubDate>Tue, 17 Nov 2026 22:53:17 +0000</pubDate>
+      <title>A Verifier from the Past: Test-Time Compute for Time Series Foundation Models</title>
+      <link>http://arxiv.org/abs/2611.25171v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arjun Choudhry, Aditya Narayanan, Raghav Mallampalli, Po-han Li, Sai Shankar Narasimhan, Raimi Shah, B. Aditya Prakash, Shubhankar Agarwal&lt;/p&gt;&lt;p&gt;Test-time compute (TTC) improves language models by spending additional inference compute to generate, verify, and select among candidate outputs, but this recipe has not transferred directly to time series forecasting. A language model can verify a proof or vote across samples, but a forecaster must be causal; it cannot use future information to score a candidate. We propose Backtest-Gated Augmentation Averaging (BGAA), a TTC algorithm for time series forecasting that builds a causal verifier from the series's own history, using rolling-origin backtests to score structured views of the contex&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.25171v1</guid>
+      <pubDate>Wed, 18 Nov 2026 20:52:30 +0000</pubDate>
     </item>
     <item>
-      <title>MAIC-2 v2.3: A Fortran program for simulating the surface temperature, atmospheric water transport and surface glaciation of the planet Mars</title>
-      <link>http://arxiv.org/abs/2611.23643v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ralf Greve, Björn Grieger, Oliver J. Stenzel&lt;/p&gt;&lt;p&gt;The Mars Atmosphere-Ice Coupler MAIC-2 is a computationally efficient, zonally-averaged model designed to simulate Martian surface temperature, atmospheric water transport and surface glaciation over timescales of 10^5 to 10^7 years. While sophisticated General Circulation Models (GCMs) provide high-resolution simulations of the Martian atmosphere, their high computational cost makes them largely unsuitable for studies covering millions of years of orbital evolution. MAIC-2 addresses this gap by utilizing physically-based, zonally-averaged parameterizations, including a Local Insolation Temper&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.23643v1</guid>
-      <pubDate>Wed, 18 Nov 2026 00:07:49 +0000</pubDate>
+      <title>Stability Bands for Feature Attribution: The Core, the Nucleolus and the Bargaining Set of Explained-Variance Games</title>
+      <link>http://arxiv.org/abs/2611.25238v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fernando Delbianco, Fernando Tohmé&lt;/p&gt;&lt;p&gt;Shapley-value attributions are the default way of explaining machine-learning predictions in economics, but they report a single number per feature and say nothing about whether a coalition of features that jointly accounts for more than it receives could contest that allocation. We study feature attribution through the core, the nucleolus and the bargaining set of an explained-variance game, in which the worth of a set of features is the variance of the model's predictions that those features generate. For every feature we report a stability band (its range of shares over the core, or over th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.25238v1</guid>
+      <pubDate>Wed, 18 Nov 2026 22:15:30 +0000</pubDate>
     </item>
     <item>
-      <title>Toward Out-of-Distribution Generalization in Neural AC Power Flow</title>
-      <link>http://arxiv.org/abs/2611.23729v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ojas Sanghi, Anvita Bhagavathula, Alvaro Carbonero, Priya L. Donti&lt;/p&gt;&lt;p&gt;Growing uncertainty in power system operations from renewables integration, extreme weather, and data center loads challenges the reliability of traditional power flow solvers at scale. Machine learning-based proxies are a potentially promising alternative, but the prohibitive cost of generating training data for large grids makes out-of-distribution generalization a key capability for deployment; currently, models trained on small grids lack that capability. In this work, we systematically evaluate how physics-informed losses, multi-grid training, and perturbation-based data augmentation impr&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.23729v1</guid>
-      <pubDate>Wed, 18 Nov 2026 02:41:59 +0000</pubDate>
+      <title>When Objectives and Evaluators Disagree: Evaluating Transfer for Post-hoc Demographic Framing Mitigation</title>
+      <link>http://arxiv.org/abs/2611.25258v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tunazzina Islam&lt;/p&gt;&lt;p&gt;Post-hoc rewriting is used to reduce demographic disparities in LLM-generated text when the source model is inaccessible. A rewrite can look successful merely because it improved its own target or satisfied its selector. We study this as a transfer problem on 660 gender pairs and 1,980 age contrasts of demographic-conditioned climate messages&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.25258v1</guid>
+      <pubDate>Wed, 18 Nov 2026 22:42:03 +0000</pubDate>
     </item>
     <item>
-      <title>Modeling LLM Reasoning Dynamics with Structural Representations</title>
-      <link>http://arxiv.org/abs/2611.23749v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ilia Karpov, Andrey Atamanyuk, Dmitry Ilvovsky, Aleksandr Anokhin, Alex Elizov, Dmitry Zagorulkin, Sergei O. Kuznetsov&lt;/p&gt;&lt;p&gt;Language-model reasoning alternates between sustained activities and local operations. We study how this temporal structure predicts continuation and the computation needed to analyze it. T/E/S combines text, local events, and spans of activity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.23749v1</guid>
-      <pubDate>Wed, 18 Nov 2026 03:02:29 +0000</pubDate>
+      <title>Learning to Verify: Signature-Guided Training for Adaptive Adversarial Detection</title>
+      <link>http://arxiv.org/abs/2611.25271v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arash Vashagh, Roozbeh Razavi-Far&lt;/p&gt;&lt;p&gt;Adversarial example detectors often fail when attackers explicitly attempt to bypass them. We propose a dual-model approach that keeps the original classifier fixed and trains a separate verifier to assess its predictions. During training, we identify patterns of internal neural network activations that distinguish genuine examples of each class from adversarial examples targeting that class&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.25271v1</guid>
+      <pubDate>Wed, 18 Nov 2026 23:02:02 +0000</pubDate>
     </item>
     <item>
-      <title>STORM: A Lightweight Structure-Free Model for Binding Affinity Prediction</title>
-      <link>http://arxiv.org/abs/2611.23777v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ayush Pandit, Rohan V. Koodli, Wei Deng, Roxana Daneshjou, Ron O. Dror&lt;/p&gt;&lt;p&gt;Accurately predicting a small molecule's binding affinity to a protein, a critical task in drug discovery, remains challenging. Physics-based approaches like free-energy perturbation (FEP) have very high computational costs and require expert setup. Recent machine learning--based cofolding models have reported accuracy approaching that of FEP---and at least one of them, Boltz-2, has already been widely adopted for affinity prediction---but they remain expensive for large computational screens and even more expensive for retraining on newly collected experimental data&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.23777v1</guid>
-      <pubDate>Wed, 18 Nov 2026 03:34:08 +0000</pubDate>
+      <title>MS-Point: Multi-Modal Hierarchical Spectral Learning for Point Cloud Understanding</title>
+      <link>http://arxiv.org/abs/2611.25282v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hai-tao Yu, Jun Xia&lt;/p&gt;&lt;p&gt;Point-image alignment learns useful object representations, but different local feature patterns can produce the same pooled descriptor and receive the same alignment signal. We introduce MS-Point, a cross-modal pretraining framework that directly supervises intermediate point features and their neighborhood responses. At selected encoder stages, we compute neighborhood averages and residuals before pooling and align their branch descriptors with image features&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.25282v1</guid>
+      <pubDate>Wed, 18 Nov 2026 23:20:49 +0000</pubDate>
     </item>
     <item>
-      <title>TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning</title>
-      <link>http://arxiv.org/abs/2611.23779v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pau Mateo-Bernadó, Saivenkata Nagavyjayanthi Polapragada, David Bonet, Pol Arbiol Rakuljic, Laia Mogas Pladevall, Marçal Comajoan Cara, Jesus Gonzalez-Ferrer, Jordi Abante&lt;/p&gt;&lt;p&gt;Recent advances in machine learning have accelerated biomedical prediction, but evaluation on structured biomedical data remains fragmented, especially for datasets with high dimensionality, large sample size, missingness, and class imbalance. We introduce TabBioMed, a large-scale benchmark of 94 curated public biomedical tabular datasets spanning electronic health records, drug discovery, genomics, transcriptomics, proteomics, metabolomics, single-cell omics, and systems biology. TabBioMed unifies these datasets through a standardized, dataset-aware preprocessing and evaluation framework, ena&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.23779v1</guid>
-      <pubDate>Wed, 18 Nov 2026 03:35:35 +0000</pubDate>
+      <title>Falsifiable Compositional Reasoning in Time Series Forecasting</title>
+      <link>http://arxiv.org/abs/2611.25388v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hao Xue&lt;/p&gt;&lt;p&gt;Time series foundation models as well as the language-guided analytical agents achieve strong accuracy on standard chronological benchmarks. However, models that rank highest on historical validation splits often degrade across non-stationary regime transitions. We hypothesise that this gap arises from using historical backtesting as an open-ended search and model-selection objective instead of using it to test pre-specified compositional assumptions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.25388v1</guid>
+      <pubDate>Thu, 19 Nov 2026 02:34:09 +0000</pubDate>
     </item>
     <item>
-      <title>A State-Level Assessment of Space Weather Impact on the Virginia Power Grid: From Vulnerability to Mitigation Strategies</title>
-      <link>http://arxiv.org/abs/2611.23791v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Vedaang Verma, Dennies K. Bor, Lucy Wilkerson, Edward J. Oughton&lt;/p&gt;&lt;p&gt;Contemporary methodologies exist for assessing the nationwide impacts of geomagnetically induced currents (GICs), such as the Coupled Space Weather Impact Model (C-SWIM), which links power grid vulnerability with economic losses. Yet regional mitigation requires adapting the national model to the local transmission network so operators and planners can identify substations at risk and evaluate economic and population consequences and protective actions. We present the first adaptation of C-SWIM to Virginia, modeling the Pennsylvania-New Jersey-Maryland (PJM) Interconnection, which includes Dom&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.23791v1</guid>
-      <pubDate>Wed, 18 Nov 2026 03:58:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>CAFE-AQI: Coverage-Aware Day-Ahead AQI Forecasting with Early Warning and Conformal Uncertainty in Bangladesh</title>
-      <link>http://arxiv.org/abs/2611.23815v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Md Rafid Islam, Rafsan Jany, Rafid Bin Zaman, Mohammad Fahim Islam, Hafiz Abdur Rahman&lt;/p&gt;&lt;p&gt;Next-day air quality forecasting often assumes city records are equally complete and independent. However, an audit of a large Bangladesh dataset revealed a sharp coverage expansion after August 2022 and showed that 103 city labels correspond to only 61 unique AQI trajectories. To address these issues, this paper presents CAFE-AQI, a coverage-aware framework for forecasting next-day maximum AQI&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.23815v1</guid>
-      <pubDate>Wed, 18 Nov 2026 04:18:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>A System 1 Decision Model for Medical Multiple-Choice Questions Built on Frozen Language Models</title>
-      <link>http://arxiv.org/abs/2611.23832v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Pavan Kumar Mantha&lt;/p&gt;&lt;p&gt;A System 1 model answers a multiple-choice question in a single pass. A frozen language model turns the question and each option into vectors, two small, trained heads place them in a shared space, and the closest option wins. The design has been shown on agent decisions, but we are not aware of a study of how far it goes on exam questions that need medical knowledge, where the right option is often no more similar to the question than the wrong ones&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.23832v1</guid>
-      <pubDate>Wed, 18 Nov 2026 04:38:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding</title>
-      <link>http://arxiv.org/abs/2611.23835v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Alagappan Valliappan, Ankit More, Dheevatsa Mudigere, Jatin Mitra&lt;/p&gt;&lt;p&gt;Speculative decoding is widely used to speed up generation in large language models (LLMs), with a small draft model proposing tokens that one forward pass of the target model verifies. Draft models that read the target's hidden states, such as DFlash and EAGLE-3, typically inherit the target's hidden width. We show that the draft's whole residual stream can run at half or a quarter of that width while largely preserving acceptance&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.23835v1</guid>
-      <pubDate>Wed, 18 Nov 2026 04:40:10 +0000</pubDate>
+      <title>From Sequence Uncertainty to Phenotype Hypotheses: Uncertainty-Conditioned Inference over Biomedical Knowledge Graphs</title>
+      <link>http://arxiv.org/abs/2611.25422v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Huixin Zhan, Jason H. Moore&lt;/p&gt;&lt;p&gt;Genomic foundation models provide variant-level evidence, but connecting that evidence to phenotype hypotheses requires accounting for uncertainty throughout structured reasoning. We introduce an uncertainty-conditioned path-energy framework that converts sequence predictions and calibrated predictive uncertainty into explicit distributions over graph-supported phenotype hypotheses, without patient-level phenotype supervision. An interpretable learned energy scores admissible gene--disease--phenotype routes, query uncertainty controls the target temperature, and path probabilities are aggregat&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.25422v1</guid>
+      <pubDate>Thu, 19 Nov 2026 03:02:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
