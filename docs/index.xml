@@ -7,76 +7,111 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 02:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 02:13:56 +0000</lastBuildDate>
     <item>
-      <title>Evaluation of machine-learning and deep-learning SPEI drought forecasts against persistence across timescales and lead times in Bangladesh</title>
-      <link>http://arxiv.org/abs/2611.25075v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mahir Ahnaf, Showmitra Kumar Sarkar&lt;/p&gt;&lt;p&gt;Bangladesh, home to nearly 178 million people, is highly vulnerable to recurring droughts that threaten food security and rural livelihoods. Machine-learning and deep-learning models are increasingly used to forecast drought indices such as the Standardized Precipitation Evapotranspiration Index (SPEI). Most studies report accuracy without a persistence reference, although accumulated indices are strongly autocorrelated, and seldom test drought detection, longer leads or variation between training runs&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.25075v1</guid>
-      <pubDate>Wed, 18 Nov 2026 19:16:23 +0000</pubDate>
+      <title>Rigel-Ladon: An Option-Count Law for a One-Pass Decision Encoder, Tested on Held-Out Option Counts and Held-Out Schemas</title>
+      <link>http://arxiv.org/abs/2611.26332v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohammed Nayeem Khan, Vrishank Tiwari, Navin Kumar R&lt;/p&gt;&lt;p&gt;Laya is a small neural network that reads a text, a question and K written options, and returns one probability per option in a single pass. We ask how its accuracy falls as K grows from 2 to 35 and whether that can be predicted. We score nested option sets (every K-option question contains the smaller ones) on four question pools, for the released model (Base) and our fine-tune (FT), and score every item against each single rival&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26332v1</guid>
+      <pubDate>Thu, 19 Nov 2026 16:12:55 +0000</pubDate>
     </item>
     <item>
-      <title>Auditing Learned Dynamics in Weather Models</title>
-      <link>http://arxiv.org/abs/2611.25119v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Skylar Gu, Christina Last&lt;/p&gt;&lt;p&gt;Learned weather models are experimentally accessible computational systems whose internal representations can be inspected and manipulated. Using sparse autoencoder features from GraphCast, DeepMind's autoregressive weather forecasting model, we test whether causal relevance requires physical semantics, a question that matters for auditing whether AI forecasters used in high-assurance settings rely on reliable mechanisms. We also look at whether physically associated latent directions can be steered to improve extreme-event forecasts, where interventions are applied to the model's internal act&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.25119v1</guid>
-      <pubDate>Wed, 18 Nov 2026 19:58:01 +0000</pubDate>
+      <title>OceanCoder: A Verification-Guided Large Language Model for Automated Simulation Modelling in Ocean Engineering</title>
+      <link>http://arxiv.org/abs/2611.26333v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Can Xue, Changhong He, Ziyi Sun, Anliang Ge, Shimin Yu, Bingchen Liang&lt;/p&gt;&lt;p&gt;Numerical simulation is important in ocean engineering, but model construction requires expert knowledge. Large language models support automated modelling, but code syntax and successful execution alone do not establish whether generated models and results meet engineering requirements. We present OceanCoder, a Qwen3-8B-based large language model for automated simulation modelling in ocean engineering&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26333v1</guid>
+      <pubDate>Thu, 19 Nov 2026 16:13:20 +0000</pubDate>
     </item>
     <item>
-      <title>Temporal Extrapolation of Elastic Seismic Wave Propagation in Layered Media Using Neural Operators</title>
-      <link>http://arxiv.org/abs/2611.25130v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dibyajyoti Nayak, Yuze Pu, Kami Mohammadi, Somdatta Goswami&lt;/p&gt;&lt;p&gt;Temporal prediction of seismic velocity fields beyond the time interval represented in training remains challenging for neural operator models. This study develops a coupled neural operator framework for stress-conditioned temporal prediction in layered elastic media. A time-integrator-embedded Deep Operator Network (TI-DeepONet) advances the velocity field through an embedded fourth-order Runge-Kutta (RK4) scheme, while a Fourier Neural Operator (FNO) learns a residual correction to the predicted spatial field&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.25130v1</guid>
-      <pubDate>Wed, 18 Nov 2026 20:07:44 +0000</pubDate>
+      <title>Sirius-Tiamat: How Small Can a One-Pass Decision Encoder Get Before Its Decisions Change?</title>
+      <link>http://arxiv.org/abs/2611.26339v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mohammed Nayeem Khan, Vrishank Tiwari&lt;/p&gt;&lt;p&gt;A one-pass decision encoder reads a text, a question and several named options, and returns a probability for each option in a single forward pass. We ask how far Laya, a 421M-parameter encoder of this kind, can be compressed before its decisions change. We count decisions that differ from Laya's own full-precision (fp32) answer, and track calibration (how well confidence matches accuracy, measured by expected calibration error, ECE), on 1,221 synthetic items with the training schemas, 273 with an unseen schema, and 800 out-of-family questions from ARC, MMLU and HellaSwag&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26339v1</guid>
+      <pubDate>Thu, 19 Nov 2026 16:17:13 +0000</pubDate>
     </item>
     <item>
-      <title>A Verifier from the Past: Test-Time Compute for Time Series Foundation Models</title>
-      <link>http://arxiv.org/abs/2611.25171v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arjun Choudhry, Aditya Narayanan, Raghav Mallampalli, Po-han Li, Sai Shankar Narasimhan, Raimi Shah, B. Aditya Prakash, Shubhankar Agarwal&lt;/p&gt;&lt;p&gt;Test-time compute (TTC) improves language models by spending additional inference compute to generate, verify, and select among candidate outputs, but this recipe has not transferred directly to time series forecasting. A language model can verify a proof or vote across samples, but a forecaster must be causal; it cannot use future information to score a candidate. We propose Backtest-Gated Augmentation Averaging (BGAA), a TTC algorithm for time series forecasting that builds a causal verifier from the series's own history, using rolling-origin backtests to score structured views of the contex&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.25171v1</guid>
-      <pubDate>Wed, 18 Nov 2026 20:52:30 +0000</pubDate>
+      <title>Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and Electronic Band Prediction for First-Principle Calculation</title>
+      <link>http://arxiv.org/abs/2611.26349v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhiwei Li, Yuhao Zhou, Yikai Yang, Haonan Wang, Qing Ye, Jiancheng Lv, Kazunari Matsuda&lt;/p&gt;&lt;p&gt;First-principles structural relaxation and band calculations require substantial computation and expertise. Here we present Perfumer, a large language model-based agentic framework that couples Quantum ESPRESSO with two predictive models. Across tested structures, pre-relaxation with Perfumer-relax model followed by QE refinement yielded a 2.75-fold overall speedup over QE alone&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26349v1</guid>
+      <pubDate>Thu, 19 Nov 2026 16:23:33 +0000</pubDate>
     </item>
     <item>
-      <title>Stability Bands for Feature Attribution: The Core, the Nucleolus and the Bargaining Set of Explained-Variance Games</title>
-      <link>http://arxiv.org/abs/2611.25238v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fernando Delbianco, Fernando Tohmé&lt;/p&gt;&lt;p&gt;Shapley-value attributions are the default way of explaining machine-learning predictions in economics, but they report a single number per feature and say nothing about whether a coalition of features that jointly accounts for more than it receives could contest that allocation. We study feature attribution through the core, the nucleolus and the bargaining set of an explained-variance game, in which the worth of a set of features is the variance of the model's predictions that those features generate. For every feature we report a stability band (its range of shares over the core, or over th&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.25238v1</guid>
-      <pubDate>Wed, 18 Nov 2026 22:15:30 +0000</pubDate>
+      <title>Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields</title>
+      <link>http://arxiv.org/abs/2611.26355v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Cosmo Santoni, Giovanni Charles, Timothy James Hitge, Oliver Watson, Elizaveta Semenova&lt;/p&gt;&lt;p&gt;Interpolating a spatial field, such as daily maximum temperature, from sparse, irregularly located observations recurs across the environmental and health sciences. Standard Gaussian-process kriging refits hyperparameters and solves an $O(N^3)$ system for every new field. When many related fields are observed, such as daily maps from one sensor network, neural processes (NPs) instead learn the interpolation map from past fields and predict a new field in one forward pass&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26355v1</guid>
+      <pubDate>Thu, 19 Nov 2026 16:25:45 +0000</pubDate>
     </item>
     <item>
-      <title>When Objectives and Evaluators Disagree: Evaluating Transfer for Post-hoc Demographic Framing Mitigation</title>
-      <link>http://arxiv.org/abs/2611.25258v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tunazzina Islam&lt;/p&gt;&lt;p&gt;Post-hoc rewriting is used to reduce demographic disparities in LLM-generated text when the source model is inaccessible. A rewrite can look successful merely because it improved its own target or satisfied its selector. We study this as a transfer problem on 660 gender pairs and 1,980 age contrasts of demographic-conditioned climate messages&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.25258v1</guid>
-      <pubDate>Wed, 18 Nov 2026 22:42:03 +0000</pubDate>
+      <title>Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem</title>
+      <link>http://arxiv.org/abs/2611.26398v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Oriol Alàs, Ian Palacín, Iván Cester, Edgar Rubión&lt;/p&gt;&lt;p&gt;EU-funded projects produce extensive evidence in the form of deliverables, reports, and case studies. However, this knowledge is typically scattered across projects and document structures, making it difficult to locate relevant, contextual information when making decisions. This paper introduces an Agentic AI Ecosystem that consolidates heterogeneous project documentation into a domain-aware knowledge base and provides adaptive access through an agentic Retrieval-Augmented Generation pipeline&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26398v1</guid>
+      <pubDate>Thu, 19 Nov 2026 16:49:04 +0000</pubDate>
     </item>
     <item>
-      <title>Learning to Verify: Signature-Guided Training for Adaptive Adversarial Detection</title>
-      <link>http://arxiv.org/abs/2611.25271v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arash Vashagh, Roozbeh Razavi-Far&lt;/p&gt;&lt;p&gt;Adversarial example detectors often fail when attackers explicitly attempt to bypass them. We propose a dual-model approach that keeps the original classifier fixed and trains a separate verifier to assess its predictions. During training, we identify patterns of internal neural network activations that distinguish genuine examples of each class from adversarial examples targeting that class&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.25271v1</guid>
-      <pubDate>Wed, 18 Nov 2026 23:02:02 +0000</pubDate>
+      <title>FEA solver integration of a composite World Model with a Spiking Neural Network memory Block for computationally efficient modelling of defects and variabilities</title>
+      <link>http://arxiv.org/abs/2611.26419v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Bassam El Said, Adam Sobey&lt;/p&gt;&lt;p&gt;Each fibre-reinforced composite structure has a unique material architecture. The manufacturing methods used and the presence of defects lead to local variations which require material-scale models that can resolve the response in real time at every location in the structure. Concurrent multi-scale schemes provide this capability, but at a prohibitive computational cost for large structures as the number of integration points and time increments scales with size&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26419v1</guid>
+      <pubDate>Thu, 19 Nov 2026 17:02:29 +0000</pubDate>
     </item>
     <item>
-      <title>MS-Point: Multi-Modal Hierarchical Spectral Learning for Point Cloud Understanding</title>
-      <link>http://arxiv.org/abs/2611.25282v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hai-tao Yu, Jun Xia&lt;/p&gt;&lt;p&gt;Point-image alignment learns useful object representations, but different local feature patterns can produce the same pooled descriptor and receive the same alignment signal. We introduce MS-Point, a cross-modal pretraining framework that directly supervises intermediate point features and their neighborhood responses. At selected encoder stages, we compute neighborhood averages and residuals before pooling and align their branch descriptors with image features&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.25282v1</guid>
-      <pubDate>Wed, 18 Nov 2026 23:20:49 +0000</pubDate>
+      <title>Reasoning-Trace Analysis Using Large Language Models for Interpretable Q-Matrix Construction</title>
+      <link>http://arxiv.org/abs/2611.26422v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jihong Zhang, Zijing Jin, Mingfeng Xue&lt;/p&gt;&lt;p&gt;Large language models (LLMs) can generate Q-matrices for diagnostic classification models that approximate expert specifications, but evaluations have focused on the final matrices, leaving the basis of individual item-attribute assignments unexamined. This opacity limits the responsible use of AI in measurement. We propose Reasoning-Trace Analysis (RTA), a framework in which an LLM generates attribute-labeled reasoning steps through chain-of-thought (CoT) prompting and these steps are analyzed to reconstruct, compare, and inspect each assignment&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26422v1</guid>
+      <pubDate>Thu, 19 Nov 2026 17:03:16 +0000</pubDate>
     </item>
     <item>
-      <title>Falsifiable Compositional Reasoning in Time Series Forecasting</title>
-      <link>http://arxiv.org/abs/2611.25388v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hao Xue&lt;/p&gt;&lt;p&gt;Time series foundation models as well as the language-guided analytical agents achieve strong accuracy on standard chronological benchmarks. However, models that rank highest on historical validation splits often degrade across non-stationary regime transitions. We hypothesise that this gap arises from using historical backtesting as an open-ended search and model-selection objective instead of using it to test pre-specified compositional assumptions&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.25388v1</guid>
-      <pubDate>Thu, 19 Nov 2026 02:34:09 +0000</pubDate>
+      <title>Asuka-FM: A System-Architectural Co-Design Framework for Efficient Text-to-Image Pretraining on Consumer Hardware</title>
+      <link>http://arxiv.org/abs/2611.26437v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Víctor Rodrigo González, Pablo M. Olmos, Ignacio Peis, Alejandro Lancho&lt;/p&gt;&lt;p&gt;Frontier text-to-image (T2I) foundation models predominantly rely on multi-billion parameter Diffusion Transformers (DiTs) pretrained across massive compute clusters, creating an accessibility barrier for academic laboratories. When training DiTs from scratch on single consumer GPUs (e.g., an NVIDIA RTX 4090 with 24\,GB VRAM), practitioners encounter three primary bottlenecks: quadratic attention sequence costs, Just-In-Time (JIT) compilation graph breaks induced by variable aspect-ratio bucketing, and an autoencoder throughput wall where frozen Variational Autoencoder (VAE) operations dominat&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26437v1</guid>
+      <pubDate>Thu, 19 Nov 2026 17:12:34 +0000</pubDate>
     </item>
     <item>
-      <title>From Sequence Uncertainty to Phenotype Hypotheses: Uncertainty-Conditioned Inference over Biomedical Knowledge Graphs</title>
-      <link>http://arxiv.org/abs/2611.25422v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Huixin Zhan, Jason H. Moore&lt;/p&gt;&lt;p&gt;Genomic foundation models provide variant-level evidence, but connecting that evidence to phenotype hypotheses requires accounting for uncertainty throughout structured reasoning. We introduce an uncertainty-conditioned path-energy framework that converts sequence predictions and calibrated predictive uncertainty into explicit distributions over graph-supported phenotype hypotheses, without patient-level phenotype supervision. An interpretable learned energy scores admissible gene--disease--phenotype routes, query uncertainty controls the target temperature, and path probabilities are aggregat&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.25422v1</guid>
-      <pubDate>Thu, 19 Nov 2026 03:02:19 +0000</pubDate>
+      <title>Should Belgians Install an Advanced Energy Management System in Their Electrified Dwelling ?</title>
+      <link>http://arxiv.org/abs/2611.26441v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Julian Ruddick, Cedric De Cauwer, Thierry Coosemans, Maarten Messagie&lt;/p&gt;&lt;p&gt;As dwellings electrify and more complex electricity pricing spreads in Belgium, the question arises: What are the potential benefits of installing an advanced energy management systems in an electrified Belgian dwelling ?   To answer this question, we simulate 500 representative Belgian dwellings in which fossil systems are replaced by controllable electric technologies: space heating via air-to-air heat pumps, domestic hot water via electric boilers, and private transport via electric vehicles with home chargers. Photovoltaic systems are assigned according to current adoption rates.   We eval&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26441v1</guid>
+      <pubDate>Thu, 19 Nov 2026 17:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neural Conditional Gaussian Model: Efficient Data Assimilation with Sequential Uncertainty Quantification for Nonlinear Dynamics</title>
+      <link>http://arxiv.org/abs/2611.26463v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Chuanqi Chen, Nan Chen&lt;/p&gt;&lt;p&gt;Data assimilation (DA) in partially observed nonlinear systems requires repeated estimation of both hidden states and their uncertainty. Conventional nonlinear filtering can be computationally expensive and often relies on an explicit dynamical model. In this paper, we develop the Neural Conditional Gaussian Model (Neural CGM), a data-driven dynamical model that maps unobserved physical states into a learned latent space, where the dynamics of the latent states follow a conditional Gaussian structure&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26463v1</guid>
+      <pubDate>Thu, 19 Nov 2026 17:25:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Window Lever: Longer Observation Windows Outweigh the Observed Effects of Data, Capacity, and Architecture in Customer Behavior Forecasting</title>
+      <link>http://arxiv.org/abs/2611.26521v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tara Sowrirajan, Yanqiao Wang&lt;/p&gt;&lt;p&gt;In our experiments on long-horizon customer-behavior forecasting, a longer observation window outweighed the observed effects of more data, more capacity and newer architectures. The window is the weeks of history a model sees before the week it forecasts from. Going from an 8- to a 16-week window adds a raw +0.070 to 0.107 log-space $R^2$ in every family at 1M&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26521v1</guid>
+      <pubDate>Thu, 19 Nov 2026 18:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bio-PM-Guided Synthetic IMU Generation</title>
+      <link>http://arxiv.org/abs/2611.26607v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Deepali Singh, Deepesh Parpani, Aviral Gupta&lt;/p&gt;&lt;p&gt;Collecting and labeling inertial measurement unit (IMU) data for human activity recognition (HAR) is expensive, and models trained on one group of subjects often fail to generalize to unseen individuals. Even with balanced data, classifiers struggle to distinguish dynamically similar activity classes and benefit from targeted augmentation. We explore whether synthetic IMU data generated in the representation space of a pretrained biosignal encoder, Bio-PM \cite{b1}, can serve as a practical augmentation source&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26607v1</guid>
+      <pubDate>Thu, 19 Nov 2026 18:56:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning</title>
+      <link>http://arxiv.org/abs/2611.26617v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yuxin Jiang, Wenqiang Sun, Jiaqi Li, Yuchao Gu, Lvmin Zhang, Ivor Tsang, Mike Zheng Shou&lt;/p&gt;&lt;p&gt;Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratch. We ask whether a pretrained video generator can instead provide the prior for both inverse and forward dynamics&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26617v1</guid>
+      <pubDate>Thu, 19 Nov 2026 18:58:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>RL Post-Training in Diffusion Transformers Is Activation Steering</title>
+      <link>http://arxiv.org/abs/2611.26627v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Tuna Han Salih Meral, Kaan Oktay, Alec Helbling, Atakan Kara, Duen Horng Chau, Pinar Yanardag&lt;/p&gt;&lt;p&gt;Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them requires learning complex, input-dependent transformations. To isolate how much of these gains an input-independent shift explains, we probe each RL-tuned model with a deliberately simple parameterization: a fixed set of steering vectors added to the block outputs of the frozen base &lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.26627v1</guid>
+      <pubDate>Thu, 19 Nov 2026 18:59:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
