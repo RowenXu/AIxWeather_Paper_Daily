@@ -7,118 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 02:12:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:11:41 +0000</lastBuildDate>
     <item>
-      <title>Tempering and few-shot calibration of pathology foundation models improve digital biomarker reproducibility across slide scanners</title>
-      <link>http://arxiv.org/abs/2611.31536v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Frank T Wen, Kyler Rosen, Siddhi Ramesh, Michael Koo, Sara Kochanny, Sasha Jain-Liu, Emma Dyer, Alexander T Pearson&lt;/p&gt;&lt;p&gt;Pathology foundation models underpin a growing number of histology-based cancer biomarkers, but sensitivity to slide scanner-specific image signatures degrades cross-center reliability and reproducibility. We developed a foundation model fine-tuning method that improved consistency in head-and-neck cancer human papillomavirus (HPV) prediction, colorectal cancer microsatellite instability (MSI) identification, prostate cancer grading and breast cancer phenotyping. This tempering method decreased cross-scanner prediction differences by 67.5% for HPV (95% CI 59.0-73.9%), 69.3% for MSI (95% CI 51.&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31536v1</guid>
-      <pubDate>Mon, 23 Nov 2026 20:44:41 +0000</pubDate>
+      <title>FlowersBench: A FluidFlower-Inspired Dataset for Benchmarking Carbon Storage Surrogates Across Geological Structures</title>
+      <link>http://arxiv.org/abs/2611.33335v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Farah Rabie, Hannah Menke, Florian Doster, Amy Gough, Ahmed H. Elsheikh&lt;/p&gt;&lt;p&gt;Machine learning surrogates are emerging as a computationally efficient tool for uncertainty quantification in geological carbon storage (GCS). Geological structure constitutes a major source of uncertainty; however, existing benchmark simulation datasets predominantly vary petrophysical and operational parameters within a fixed geological setting. Generalisation to unseen geological structures therefore remains largely unexplored&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.33335v1</guid>
+      <pubDate>Tue, 24 Nov 2026 19:22:11 +0000</pubDate>
     </item>
     <item>
-      <title>Evaluation of Machine-Learning Weather Models in Reproducing Mesoscale Tornado-Favorable Convective Environments</title>
-      <link>http://arxiv.org/abs/2611.31564v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Yiding Luo, Rui Yuan, Shetian Xia, Royce Lee, Alexandra Anderson-Frey&lt;/p&gt;&lt;p&gt;Machine-learning (ML)-based weather prediction models have developed rapidly in recent years and are already being used in operational weather forecasting. These ML-based models' performance has exceeded that of traditional numerical weather prediction (NWP) methods in certain implementations, with substantially lower computational cost. However, most ML-based models were trained on global data at a horizontal grid spacing of 0.25 degrees, which may be too coarse to capture tornado-favorable parameters&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31564v1</guid>
-      <pubDate>Mon, 23 Nov 2026 21:09:08 +0000</pubDate>
+      <title>Benchmarking Segmentation Models for Scalable Mangrove Mapping with Sentinel-1/2 Imagery</title>
+      <link>http://arxiv.org/abs/2611.33369v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Damba Koné, Sara Mobsite, Joris Guérin, Élodie Blanchard, Thibault Catry&lt;/p&gt;&lt;p&gt;Mangroves are dynamic coastal ecosystems that contribute to carbon storage, coastal protection and biodiversity conservation, but are vulnerable to climate change. Very-high-resolution imagery such as Pléiades enables detailed mangrove mapping but it is costly and have a low revisit rate. Large-scale monitoring requires free and regularly available data such as Sentinel-1 and Sentinel-2 but their spatial resolution poses challenges for detailed mangrove mapping&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.33369v1</guid>
+      <pubDate>Tue, 24 Nov 2026 20:01:28 +0000</pubDate>
     </item>
     <item>
-      <title>Latent Channel Completion for Forecasting in Sensor Networks with Failed Detectors</title>
-      <link>http://arxiv.org/abs/2611.31575v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mehran Shabanpour, Sadaf Khademi, Maryam Hosseini, Haiyan Xu, Konstantinos N. Plataniotis, Arash Mohammadi&lt;/p&gt;&lt;p&gt;Monitoring networks for traffic and utility infrastructure lose sensors routinely, and forecasting models that couple sensors together to gain accuracy also inherit an exposure to those losses. When a detector stops reporting, the substituted value is embedded as though it were a reading and propagates through the shared representation that couples the network, degrading forecasts for sensors that are still healthy. Because these models are selected on benchmarks where every sensor reports, the exposure is absent from the numbers used to choose them&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31575v1</guid>
-      <pubDate>Mon, 23 Nov 2026 21:15:42 +0000</pubDate>
+      <title>Basin-Scale Nonlinear Dynamics of Thermohaline Ocean Circulation. Part I: Theory</title>
+      <link>http://arxiv.org/abs/2611.33383v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Conner W. Lester, Dylan E. McNamara, Till J. W. Wagner&lt;/p&gt;&lt;p&gt;Earth's thermohaline ocean circulation may support multiple equilibria and abrupt transitions. Similar bifurcation structures for different ocean models suggest common underlying dynamics across the model hierarchy. Here we propose a unifying framework from tracer conservation, in which surface fluxes are balanced by dissipative and advective tracer transport&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.33383v1</guid>
+      <pubDate>Tue, 24 Nov 2026 20:08:27 +0000</pubDate>
     </item>
     <item>
-      <title>What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models</title>
-      <link>http://arxiv.org/abs/2611.31619v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Arya Sikder, Sriram Pillutla&lt;/p&gt;&lt;p&gt;A foundation model for time series is pretrained once and then asked to forecast series it has never seen, so the evidence for it is its score on held-out datasets. Such datasets are scarce, and a few public leaderboards carry most comparisons, yet none of them states how small a difference its datasets can detect. We call that quantity the resolution of a board and introduce Vernier, a tool that computes it from the files a board already publishes&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31619v1</guid>
-      <pubDate>Mon, 23 Nov 2026 22:05:17 +0000</pubDate>
+      <title>Federated Learning with Uncertainty Quantification on Pseudo Label Exchange</title>
+      <link>http://arxiv.org/abs/2611.33395v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jingqiao Tang, Phuoc-Toan Huynh, Richard Archibald, Feng Bao&lt;/p&gt;&lt;p&gt;In this work, we investigate federated stochastic operator learning for stochastic partial differential equations (SPDEs), with an emphasis on heterogeneous client data distributions and uncertainty quantification. Federated learning enables clients to collaboratively train models without exchanging their original solution data, but conventional federated averaging can suffer significant performance degradation when client distributions differ, particularly when their input function supports are disjoint. To address these challenges, we propose the Federated Stochastic Operator Network (FedSON&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.33395v1</guid>
+      <pubDate>Tue, 24 Nov 2026 20:17:45 +0000</pubDate>
     </item>
     <item>
-      <title>Bayesian Data Integration and Model Updating in Probabilistic Digital Twins</title>
-      <link>http://arxiv.org/abs/2611.31620v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Dafydd Cotoarbă, Antonis Mavritsakis, Timo Schweckendiek, Ian FC Smith, Daniel Straub&lt;/p&gt;&lt;p&gt;This paper proposes a framework for sequential Bayesian updating in probabilistic digital twins using data from multiple sources collected over time. The framework distinguishes between property data and behavior data, according to how observations relate to the digital state. Property data directly inform a subset of the uncertain model parameters and can therefore be incorporated using efficient dedicated Bayesian updating methods&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31620v1</guid>
-      <pubDate>Mon, 23 Nov 2026 22:06:24 +0000</pubDate>
+      <title>Centered Kernel Distance: Dimension-Free Error Bounds for Comparing Neural Representations</title>
+      <link>http://arxiv.org/abs/2611.33447v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shujun Xiong, Sarah E. Harvey, Jacob Zavatone-Veth, Alexander H. Williams&lt;/p&gt;&lt;p&gt;The asymptotic error of representational similarity metrics such as centered kernel alignment (CKA) and representational similarity analysis (RSA) has been well-characterized, but there are no realistic bounds on how estimates of representational similarity $\textit{simultaneously}$ depend on the number of sampled neurons ($N$) and experimental conditions ($M$). We study the natural metric counterpart of CKA and RSA, which we call the Centered Kernel Distance (CKD). We show that CKD admits an unbiased estimator, whereas several popular similarity measures including CKA have no unbiased estimat&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.33447v1</guid>
+      <pubDate>Tue, 24 Nov 2026 21:10:35 +0000</pubDate>
     </item>
     <item>
-      <title>Anchoring VAE Fine-Tuning to Its Latent Diffusion Prior</title>
-      <link>http://arxiv.org/abs/2611.31651v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Rafael Bischof, Dominik Narnhofer, Julius Erbach, Michael Kraus, Konrad Schindler, Bernd Bickel&lt;/p&gt;&lt;p&gt;Pretrained latent diffusion models are effective priors for transfer learning, from geometry estimation to physics simulation. Existing approaches fine-tune the diffusion backbone but freeze the encoder of the VAE to preserve the latent distribution. However, a frozen encoder may miss salient details in non-RGB inputs and is limited to three channels&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31651v1</guid>
-      <pubDate>Mon, 23 Nov 2026 22:38:59 +0000</pubDate>
+      <title>Weak buoyancy and cold lithospheres decouple interior melting from seafloor volcanism on icy ocean worlds</title>
+      <link>http://arxiv.org/abs/2611.33478v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nahiz Hestaphin&lt;/p&gt;&lt;p&gt;On icy ocean worlds, deep silicate melting can generate sufficient pressure to open fractures while magma freezes before reaching the ocean. We identify a coupled transport regime by linking finite melt segregation and nonlinear rock relaxation to fracture flow, crystallisation and the ice-loaded ocean boundary. In a hot Europa endmember, increasing grain size from 1 to 10 mm raises relaxed excess pressure from 5.55 kPa to 10.2 MPa, overcoming the inherited-fracture opening threshold despite weak buoyancy&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.33478v1</guid>
+      <pubDate>Tue, 24 Nov 2026 21:55:08 +0000</pubDate>
     </item>
     <item>
-      <title>Boundary Representation-Driven Graph Transformer Modeling for Machining Operation Sequencing</title>
-      <link>http://arxiv.org/abs/2611.31661v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Fatemeh Elhambakhsh, Gaurav Ameta, Aditi Roy, Hyunwoong Ko&lt;/p&gt;&lt;p&gt;Machining process planning is inherently complex due to the interdependence between part geometry, machining operations, and evolving manufacturable states. Traditional approaches rely heavily on expert knowledge and rule-based systems, limiting scalability and automation. While recent machine learning methods have shown promise, most operate on simplified geometric representations, such as voxels or hand-crafted features, which fail to fully exploit the rich geometric and topological information encoded in Boundary Representation (B-Rep) models&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31661v1</guid>
-      <pubDate>Mon, 23 Nov 2026 22:45:26 +0000</pubDate>
+      <title>Pretraining for Forecasting in Relational Databases</title>
+      <link>http://arxiv.org/abs/2611.33645v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziyue Lin, Sebastian Regalado Lozano, Michael Guerzhoy, Ricardo Baptista, George Stein&lt;/p&gt;&lt;p&gt;Real-world forecasting increasingly relies on asynchronous transaction logs in relational databases rather than uniformly sampled arrays. While relational deep learning (RDL) models can forecast from these complex histories, they are typically trained separately for each specific target and root entity type. We introduce Query-Conditioned Relational pretraining (QCRP), a self-supervised framework that enables a standard RDL backbone to act as a universal forecaster across a database&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.33645v1</guid>
+      <pubDate>Wed, 25 Nov 2026 02:11:56 +0000</pubDate>
     </item>
     <item>
-      <title>Tokenization and Architecture Jointly Allocate Component Roles in Time Series Transformers</title>
-      <link>http://arxiv.org/abs/2611.31730v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mingyu Kim, Doguk Kim&lt;/p&gt;&lt;p&gt;Time series transformers have achieved strong forecasting performance, yet it remains unclear which of their components, attention or the feed-forward network (FFN), constructs temporal features, and how tokenization such as patching changes this. We propose a temporal probing framework that uses 15 token-level diagnostic tasks to measure feature construction as the gain in linear decodability of temporal properties from one sub-layer to the next (a matched MLP probe already saturates at the embedding). It targets models whose probed representations are read by a linear forecasting head&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31730v1</guid>
-      <pubDate>Tue, 24 Nov 2026 00:36:28 +0000</pubDate>
+      <title>Online Identification Can Replace a Floor-Plan Prior on Unseen Buildings</title>
+      <link>http://arxiv.org/abs/2611.33656v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Elias T. -H. Shieh, Chun Fu&lt;/p&gt;&lt;p&gt;The Smart Buildings Challenge asks for one HVAC control policy that runs office buildings and weather it has never seen, from the building's metadata and sensor streams alone. Our controller sees no data from the target building before it runs and is not tuned per building; its few global constants were set on development scenarios. Each zone has a first-order grey-box model that starts from coefficients computed from the floor plan and is updated online by recursive least squares, and a planner and a closed-form mapping turn the models into plant commands&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.33656v1</guid>
+      <pubDate>Wed, 25 Nov 2026 02:23:50 +0000</pubDate>
     </item>
     <item>
-      <title>Geo-SMILE: Statistical Model-Agnostic Interpretability with Local Explanations for Geospatial Machine Learning</title>
-      <link>http://arxiv.org/abs/2611.31731v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shadieh Mohammadi, Koorosh Aslansefat&lt;/p&gt;&lt;p&gt;Conventional post-hoc explanation methods were developed largely for non-spatial inputs and often provide limited explicit treatment of geographic context. We introduce Geo-SMILE, a model-agnostic framework that distinguishes substantive Feature explanation from geographic-position response through complementary perturbation branches. The Feature branch masks substantive predictors while retaining observed coordinates; the Geo branch relocates geographic units while holding substantive predictors fixed&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31731v1</guid>
-      <pubDate>Tue, 24 Nov 2026 00:36:49 +0000</pubDate>
+      <title>Understanding Mode Collapse in Diffusion Models under Classifier-Free Guidance</title>
+      <link>http://arxiv.org/abs/2611.33719v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daniel Pfrommer, Chenyang Yuan, Frank Permenter, Ali Jadbabaie&lt;/p&gt;&lt;p&gt;The use of classifier-free guidance in diffusion and flow models has proven critical to their empirical success, as it allows for the controllable generation of lower-temperature and higher-fidelity samples. Despite its widespread use, classifier-free guidance remains both empirically and theoretically poorly understood, owing to the difficulty of solving the associated transport equations for arbitrary normalizing flows. In this paper, we observe that the effects of classifier-free guidance arise from a mismatch between the representation capabilities of the conditional and unconditional dist&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.33719v1</guid>
+      <pubDate>Wed, 25 Nov 2026 03:30:37 +0000</pubDate>
     </item>
     <item>
-      <title>GreenDynaMix: Thermal-Aware Dynamic Mixed-Precision MoE LLM Inference Systems</title>
-      <link>http://arxiv.org/abs/2611.31737v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Han-Yi Lin, Kieran Griperay, Qiang Zhou, Xiangyu Zhou, Nate Bonacci, Zinachidi Achikeh, Li He, Shaofei Qi&lt;/p&gt;&lt;p&gt;Sustained Large Language Model (LLM) inference generates significant heat that exacerbates silicon aging and reduces GPU reliability. Because GPU temperature fluctuates continuously with workload intensity and ambient conditions, keeping it in a safe range requires real-time frequency scaling, which inevitably comes at the cost of either throughput or accuracy. To address this tightly coupled challenge, we propose GreenDynaMix, the first runtime system to jointly integrate a DVFS-based thermal manager with a dynamic precision-tuning throughput compensator&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31737v1</guid>
-      <pubDate>Tue, 24 Nov 2026 00:49:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>VISOR: A Vision-Language Selector for Multimodal Time-Series Forecasting</title>
-      <link>http://arxiv.org/abs/2611.31780v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Seunghan Lee, Jun Seo, Junhyeok Kang, Jaehoon Lee, Sangjun Han, Sungdong Yoo, Minjae Kim, Tae Yoon Lim&lt;/p&gt;&lt;p&gt;Recent time-series foundation models (TSFMs) forecast a distribution over futures, and multimodal time-series (TS) forecasting further exploits other modalities to improve forecasting accuracy. However, existing works have two limitations: 1) TSFMs reduce the predictive distribution to its median or mean, flattening diverse futures into a calm line, and 2) multimodal TS forecasting models incorporate text into the forecaster through TS-language alignment, which is substantially weaker than vision-language alignment. To address these limitations, we propose the VIsion-language SelectOR (VISOR),&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31780v1</guid>
-      <pubDate>Tue, 24 Nov 2026 01:31:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three-Dimensional Wake Reconstruction and Cross-Scale Transfer for Floating Offshore Wind Turbines via Physics-Informed Fourier Neural Operators</title>
-      <link>http://arxiv.org/abs/2611.31789v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Guodan Dong, Qi Qian, Feifei Xue, Jianhua Qin, Chang Xu, Wenzhong Shen&lt;/p&gt;&lt;p&gt;Coupled surge-pitch motions drive unsteady vortex interactions and dynamic wake meandering behind floating offshore wind turbines, complicating three-dimensional wake reconstruction from limited measurements and transfer across turbine scales. Large-eddy simulations coupled with an actuator line model generate fixed and surge-pitch wakes at motion-based Strouhal numbers $St=fD/U_\infty$ of 0.2-0.6 (where $f$, $D$, and $U_\infty$ are the motion frequency, rotor diameter, and inflow velocity) for the National Renewable Energy Laboratory 5 MW ($D=126$ m) and International Energy Agency 22 MW ($D=&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31789v1</guid>
-      <pubDate>Tue, 24 Nov 2026 01:42:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gaze World Model</title>
-      <link>http://arxiv.org/abs/2611.31836v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jiawen Zhang, Houze Yang, Xu Cao, Yifan Shen, Zhongyi Zhou, Steve Wong, Ismini Lourentzou, Inki Kim&lt;/p&gt;&lt;p&gt;Where a person looks indicates their focus of attention, and how their gaze shifts between targets reveals how that attention responds to a changing scene. Existing gaze target estimation methods largely operate frame by frame and do not model these shifts. Gaze shifts are often driven by dynamic changes in the scene, which is the kind of information world models are designed to encode&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31836v1</guid>
-      <pubDate>Tue, 24 Nov 2026 02:32:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>JECT: Addressing the Context Shortcut in Joint-Embedding Predictive Learning for Chest CT</title>
-      <link>http://arxiv.org/abs/2611.31849v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Hanbin Ko, Hong-Jun Choi, Jihun Kim, Young-Gon Kim, Dongheon Lee, Chang Min Park&lt;/p&gt;&lt;p&gt;Joint-embedding predictive architectures learn by predicting features of masked regions from visible context. In chest computed tomography, the findings that decide a diagnosis, such as a small nodule, are often not predictable from the surrounding anatomy. A hidden finding is then best predicted toward normal anatomy, and the prediction loss stops rewarding the encoder for representing it&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31849v1</guid>
-      <pubDate>Tue, 24 Nov 2026 02:49:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Explainable Deep Learning for Malaria Parasite Detection and Species Differentiation in Thick Blood Smear Images: A Pilot Feasibility Study</title>
-      <link>http://arxiv.org/abs/2611.31855v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Haimanot Bitew, Ayisheshim Almaw, Habtamu Zegeye, Demeke Alene&lt;/p&gt;&lt;p&gt;Species-level differentiation of Plasmodium falciparum (PF) and P. vivax (PV) determines treatment, yet deep learning detectors rarely test whether their explanations are reliable. In this pilot feasibility study of TRACE-Mal, a research prototype combining YOLOv8n-seg detection and a six-model soft-voting ensemble, we examined whether agreement among three post-hoc explanation methods (Grad-CAM, LIME and SHAP) is associated with the correctness of species calls&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31855v1</guid>
-      <pubDate>Tue, 24 Nov 2026 02:51:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEG-Jev: A Unified Single-Pass Decision Model for EEG</title>
-      <link>http://arxiv.org/abs/2611.31875v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Zhifei Zhu, Hongtao Zhang, Yu Ren, Wei Zhou, Zeping Xie, Yi He&lt;/p&gt;&lt;p&gt;EEG analysis spans choosing alternatives, judging statements, and rating ordered attributes, requiring calibratable probabilities with explicit meaning. We present EEG-Jev, a unified single-pass decision model for EEG. Given an EEG window, a question and an answer specification, one forward pass returns a typed readout: CHOICE gives a candidate distribution, NOUL a proposition probability, and SCORE an ordered-level distribution and expectation&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.31875v1</guid>
-      <pubDate>Tue, 24 Nov 2026 03:29:06 +0000</pubDate>
+      <title>CovNovBench: A Benchmark for Evaluating Time Series Foundation Models under Covariate Novelty</title>
+      <link>http://arxiv.org/abs/2611.33732v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wenhao Pan, Ravi Kiran Selvam, Michael W. Mahoney, Mayank Jauhari, Mengfei Cao, Dmitry Efimov, Boris N. Oreshkin&lt;/p&gt;&lt;p&gt;Covariate-aware time-series foundation models (TSFMs) condition their forecasts on additional input variables, called covariates, that are supplied over the future horizon. This capability makes them appealing for interventional forecasting, in which a target is predicted under a planned action such as a new product pricing policy or a new patient treatment schedule. We refer to covariates that encode such actions as treatment covariates&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.33732v1</guid>
+      <pubDate>Wed, 25 Nov 2026 03:53:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
