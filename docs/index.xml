@@ -7,76 +7,83 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 02:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:11:55 +0000</lastBuildDate>
     <item>
-      <title>FlowersBench: A FluidFlower-Inspired Dataset for Benchmarking Carbon Storage Surrogates Across Geological Structures</title>
-      <link>http://arxiv.org/abs/2611.33335v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Farah Rabie, Hannah Menke, Florian Doster, Amy Gough, Ahmed H. Elsheikh&lt;/p&gt;&lt;p&gt;Machine learning surrogates are emerging as a computationally efficient tool for uncertainty quantification in geological carbon storage (GCS). Geological structure constitutes a major source of uncertainty; however, existing benchmark simulation datasets predominantly vary petrophysical and operational parameters within a fixed geological setting. Generalisation to unseen geological structures therefore remains largely unexplored&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.33335v1</guid>
-      <pubDate>Tue, 24 Nov 2026 19:22:11 +0000</pubDate>
+      <title>CLM-JAX v3.2.46: a differentiable, GPU-accelerated land surface model numerically indistinguishable from the Community Land Model 5.0</title>
+      <link>http://arxiv.org/abs/2611.34574v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shijin Yuan, Zhen Wei, Tianyu Shen, Bin Mu, Bo Qin, Guokun Dai&lt;/p&gt;&lt;p&gt;The original Fortran implementation of the Community Land Model version 5.0 (CLM5.0) primarily targets CPUs and does not support GPU computation or automatic differentiation. We present CLM-JAX, a land surface model implemented in Python, based on the CLM5.0 BGC-Crop configuration in the Community Earth System Model version 2.1.3 (CESM2.1.3). CLM-JAX retains the original subgrid hierarchy, parameterizations and coupling among energy, water, carbon, nitrogen and crop processes, runs on CPUs and GPUs, and supports gradient backpropagation through multi-step time integration&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.34574v1</guid>
+      <pubDate>Wed, 25 Nov 2026 15:38:43 +0000</pubDate>
     </item>
     <item>
-      <title>Benchmarking Segmentation Models for Scalable Mangrove Mapping with Sentinel-1/2 Imagery</title>
-      <link>http://arxiv.org/abs/2611.33369v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Damba Koné, Sara Mobsite, Joris Guérin, Élodie Blanchard, Thibault Catry&lt;/p&gt;&lt;p&gt;Mangroves are dynamic coastal ecosystems that contribute to carbon storage, coastal protection and biodiversity conservation, but are vulnerable to climate change. Very-high-resolution imagery such as Pléiades enables detailed mangrove mapping but it is costly and have a low revisit rate. Large-scale monitoring requires free and regularly available data such as Sentinel-1 and Sentinel-2 but their spatial resolution poses challenges for detailed mangrove mapping&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.33369v1</guid>
-      <pubDate>Tue, 24 Nov 2026 20:01:28 +0000</pubDate>
+      <title>Predicting acute food crises and discovering actionable drivers with causal machine learning</title>
+      <link>http://arxiv.org/abs/2611.34629v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Mélissande Machefer, Michele Ronco, Michele Meroni, Jordi Cerdà-Bautista, Francesco Collivignarelli, Chungmann Kim, Nicolas Rost, Alessia Matanó&lt;/p&gt;&lt;p&gt;Acute food insecurity is driven by a compound of conflict, adverse climate events, displacement, and economic shocks. We enrich the open-access Harmonized Food Insecurity Dataset with driver variables (monthly, subnational, 80 countries, 2007--2024) and develop missing-data-resilient machine learning pipelines forecasting crisis occurrence at 3, 6, and 9-month lead times using both FEWS NET and, for the first time at scale, IPC/CH classifications. Pipelines, evaluated through nested cross-validation, outperform no-skill baselines by 15 to 50 percentage points in PR-AUC, with performance correl&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.34629v1</guid>
+      <pubDate>Wed, 25 Nov 2026 16:15:47 +0000</pubDate>
     </item>
     <item>
-      <title>Basin-Scale Nonlinear Dynamics of Thermohaline Ocean Circulation. Part I: Theory</title>
-      <link>http://arxiv.org/abs/2611.33383v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Conner W. Lester, Dylan E. McNamara, Till J. W. Wagner&lt;/p&gt;&lt;p&gt;Earth's thermohaline ocean circulation may support multiple equilibria and abrupt transitions. Similar bifurcation structures for different ocean models suggest common underlying dynamics across the model hierarchy. Here we propose a unifying framework from tracer conservation, in which surface fluxes are balanced by dissipative and advective tracer transport&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.33383v1</guid>
-      <pubDate>Tue, 24 Nov 2026 20:08:27 +0000</pubDate>
+      <title>From Shared Patterns to Individual Evidence: Two-Stage Reasoning for Emerging Entities in Temporal Knowledge Graphs</title>
+      <link>http://arxiv.org/abs/2611.34708v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jinchuan Zhang, Lei Gao, Hongyu Jiang, Chong Mu, Chenang Cai, Ke Yan&lt;/p&gt;&lt;p&gt;Temporal knowledge graphs (TKGs) continually introduce emerging entities whose interaction histories evolve from zero-shot debuts into sparse, bursty few-shot trajectories. However, current paradigms are fragmented: pattern-transfer methods lack catalog-wide event memory, whereas online memory models suffer from endpoint-role asymmetry that degrades unseen-answer ranking. Furthermore, sparse early interactions exhibit both long-range dispersion and local redundancy under skewed distribution&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.34708v1</guid>
+      <pubDate>Wed, 25 Nov 2026 17:01:07 +0000</pubDate>
     </item>
     <item>
-      <title>Federated Learning with Uncertainty Quantification on Pseudo Label Exchange</title>
-      <link>http://arxiv.org/abs/2611.33395v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Jingqiao Tang, Phuoc-Toan Huynh, Richard Archibald, Feng Bao&lt;/p&gt;&lt;p&gt;In this work, we investigate federated stochastic operator learning for stochastic partial differential equations (SPDEs), with an emphasis on heterogeneous client data distributions and uncertainty quantification. Federated learning enables clients to collaboratively train models without exchanging their original solution data, but conventional federated averaging can suffer significant performance degradation when client distributions differ, particularly when their input function supports are disjoint. To address these challenges, we propose the Federated Stochastic Operator Network (FedSON&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.33395v1</guid>
-      <pubDate>Tue, 24 Nov 2026 20:17:45 +0000</pubDate>
+      <title>ENSO-linked redistribution of post-monsoon tropical cyclone energy between the Arabian Sea and the Bay of Bengal: 1982--2025</title>
+      <link>http://arxiv.org/abs/2611.34718v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Prashant Saini, Rishikesh Yadav, Sarita Azad&lt;/p&gt;&lt;p&gt;Tropical cyclones in the North Indian Ocean (NIO) form in two sub-basins, the Arabian Sea (AS) and the Bay of Bengal (BoB), which are usually studied separately, with their relationship to the El Niño-Southern Oscillation (ENSO) treated as stationary. We develop a joint inter-basin statistical framework and apply it to 416 disturbances from quality-controlled IBTrACS best tracks for 1982--2025, with harmonised IMD and JTWC intensities, ERA5 and ERSSTv5. The framework tests whether ENSO changes the basin total or redistributes energy between the sub-basins, separates its effect on formation fro&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.34718v1</guid>
+      <pubDate>Wed, 25 Nov 2026 17:08:59 +0000</pubDate>
     </item>
     <item>
-      <title>Centered Kernel Distance: Dimension-Free Error Bounds for Comparing Neural Representations</title>
-      <link>http://arxiv.org/abs/2611.33447v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Shujun Xiong, Sarah E. Harvey, Jacob Zavatone-Veth, Alexander H. Williams&lt;/p&gt;&lt;p&gt;The asymptotic error of representational similarity metrics such as centered kernel alignment (CKA) and representational similarity analysis (RSA) has been well-characterized, but there are no realistic bounds on how estimates of representational similarity $\textit{simultaneously}$ depend on the number of sampled neurons ($N$) and experimental conditions ($M$). We study the natural metric counterpart of CKA and RSA, which we call the Centered Kernel Distance (CKD). We show that CKD admits an unbiased estimator, whereas several popular similarity measures including CKA have no unbiased estimat&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.33447v1</guid>
-      <pubDate>Tue, 24 Nov 2026 21:10:35 +0000</pubDate>
+      <title>Hierarchical Graph Metanetworks</title>
+      <link>http://arxiv.org/abs/2611.34726v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ioannis Kalogeropoulos, Giorgos Bouritsas, Yannis Panagakis&lt;/p&gt;&lt;p&gt;The emerging field of weight space learning has demonstrated the potential to enable metanetworks, i.e. models that process neural network (NN) data, to support several steps of the machine learning lifecycle, from model optimisation to evaluation and adaptation. However, this potential has yet to materialise beyond small-scale MLPs or CNNs: most current models, including message-passing based graph metanetworks (GMNs), operate exclusively at the finest level of granularity, processing every neuron and weight of the input model&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.34726v1</guid>
+      <pubDate>Wed, 25 Nov 2026 17:12:08 +0000</pubDate>
     </item>
     <item>
-      <title>Weak buoyancy and cold lithospheres decouple interior melting from seafloor volcanism on icy ocean worlds</title>
-      <link>http://arxiv.org/abs/2611.33478v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Nahiz Hestaphin&lt;/p&gt;&lt;p&gt;On icy ocean worlds, deep silicate melting can generate sufficient pressure to open fractures while magma freezes before reaching the ocean. We identify a coupled transport regime by linking finite melt segregation and nonlinear rock relaxation to fracture flow, crystallisation and the ice-loaded ocean boundary. In a hot Europa endmember, increasing grain size from 1 to 10 mm raises relaxed excess pressure from 5.55 kPa to 10.2 MPa, overcoming the inherited-fracture opening threshold despite weak buoyancy&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 摘要未提供更多细节，建议阅读原文。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.33478v1</guid>
-      <pubDate>Tue, 24 Nov 2026 21:55:08 +0000</pubDate>
+      <title>When to Trust a PFN: Detecting Harmful Shift in Tabular Foundation Models</title>
+      <link>http://arxiv.org/abs/2611.34767v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Viet Nguyen, Herman Bergström, Stephan Rabanser, Rahul G. Krishnan&lt;/p&gt;&lt;p&gt;Tabular prior-fitted networks (PFNs) work well across tabular classification problems but can fail silently at deployment when distributions shift. We propose CALD (Calibrated Anchor-Loss Disagreement), a lightweight unsupervised monitor that triggers an alarm to warn when a PFN might fail. By finetuning the decoder to maximize disagreement with the test-set prediction while maintaining accuracy on an ID anchor set, CALD identifies harmful OOD batches through the resulting anchor loss, requiring no labels on test batches&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.34767v1</guid>
+      <pubDate>Wed, 25 Nov 2026 17:34:16 +0000</pubDate>
     </item>
     <item>
-      <title>Pretraining for Forecasting in Relational Databases</title>
-      <link>http://arxiv.org/abs/2611.33645v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ziyue Lin, Sebastian Regalado Lozano, Michael Guerzhoy, Ricardo Baptista, George Stein&lt;/p&gt;&lt;p&gt;Real-world forecasting increasingly relies on asynchronous transaction logs in relational databases rather than uniformly sampled arrays. While relational deep learning (RDL) models can forecast from these complex histories, they are typically trained separately for each specific target and root entity type. We introduce Query-Conditioned Relational pretraining (QCRP), a self-supervised framework that enables a standard RDL backbone to act as a universal forecaster across a database&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.33645v1</guid>
-      <pubDate>Wed, 25 Nov 2026 02:11:56 +0000</pubDate>
+      <title>Comparative Study of Deep Learning Architectures for Brain Tumour Classification</title>
+      <link>http://arxiv.org/abs/2611.34781v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Prisha Gupta, Pradeep Kumar Gupta&lt;/p&gt;&lt;p&gt;Accurate and early classification of brain tumours from magnetic resonance imaging (MRI) is essential for treatment planning, yet many published deep learning studies are trained and tested on small, single-source datasets, reporting accuracies that may not hold outside these datasets. This study compares six deep learning architectures for four-class classification (healthy, meningioma, glioma and pituitary tumour): a baseline convolutional neural network (CNN), an attention-based CNN, ShuffleNet, and EfficientNet-B0, ResNet-50 and Xception augmented with the Convolutional Block Attention Mod&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.34781v1</guid>
+      <pubDate>Wed, 25 Nov 2026 17:40:22 +0000</pubDate>
     </item>
     <item>
-      <title>Online Identification Can Replace a Floor-Plan Prior on Unseen Buildings</title>
-      <link>http://arxiv.org/abs/2611.33656v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Elias T. -H. Shieh, Chun Fu&lt;/p&gt;&lt;p&gt;The Smart Buildings Challenge asks for one HVAC control policy that runs office buildings and weather it has never seen, from the building's metadata and sensor streams alone. Our controller sees no data from the target building before it runs and is not tuned per building; its few global constants were set on development scenarios. Each zone has a first-order grey-box model that starts from coefficients computed from the floor plan and is updated online by recursive least squares, and a planner and a closed-form mapping turn the models into plant commands&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.33656v1</guid>
-      <pubDate>Wed, 25 Nov 2026 02:23:50 +0000</pubDate>
+      <title>Guidance as Variance Matching</title>
+      <link>http://arxiv.org/abs/2611.34801v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ali Backour, Artem Lukoianov, Frank Permenter, Tommi Jaakkola, Justin Solomon, Vincent Sitzmann&lt;/p&gt;&lt;p&gt;Guidance repels the prediction of a diffusion model away from a weaker reference prediction. It substantially improves sample quality, but its mechanism remains poorly understood. We first find that, at the scales used in practice, guidance does not improve the prediction of the posterior mean (the model's training target); it makes the prediction worse, while samples improve&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.34801v1</guid>
+      <pubDate>Wed, 25 Nov 2026 17:53:37 +0000</pubDate>
     </item>
     <item>
-      <title>Understanding Mode Collapse in Diffusion Models under Classifier-Free Guidance</title>
-      <link>http://arxiv.org/abs/2611.33719v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Daniel Pfrommer, Chenyang Yuan, Frank Permenter, Ali Jadbabaie&lt;/p&gt;&lt;p&gt;The use of classifier-free guidance in diffusion and flow models has proven critical to their empirical success, as it allows for the controllable generation of lower-temperature and higher-fidelity samples. Despite its widespread use, classifier-free guidance remains both empirically and theoretically poorly understood, owing to the difficulty of solving the associated transport equations for arbitrary normalizing flows. In this paper, we observe that the effects of classifier-free guidance arise from a mismatch between the representation capabilities of the conditional and unconditional dist&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.33719v1</guid>
-      <pubDate>Wed, 25 Nov 2026 03:30:37 +0000</pubDate>
+      <title>HOG-WAM: Improving Visual Robustness through Future Gradient Prediction</title>
+      <link>http://arxiv.org/abs/2611.34811v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Boxuan Dong, Yupeng Qian, Ying Wu, Heshuai Li, Junhao Tan, Zhenxiong Tan, Weijia Wu, Weihao Yu&lt;/p&gt;&lt;p&gt;World-action models jointly predict future observations and actions, yet visual corruption can disrupt the resulting policies. We introduce HOG-WAM, which adds future Histograms of Oriented Gradients (HOG) as structural supervision derived directly from demonstration images. An auxiliary HOG diffusion transformer (DiT) module reads RGB features through asymmetric attention, allowing its objective to shape the visual representation used for control&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.34811v1</guid>
+      <pubDate>Wed, 25 Nov 2026 17:59:24 +0000</pubDate>
     </item>
     <item>
-      <title>CovNovBench: A Benchmark for Evaluating Time Series Foundation Models under Covariate Novelty</title>
-      <link>http://arxiv.org/abs/2611.33732v1</link>
-      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Wenhao Pan, Ravi Kiran Selvam, Michael W. Mahoney, Mayank Jauhari, Mengfei Cao, Dmitry Efimov, Boris N. Oreshkin&lt;/p&gt;&lt;p&gt;Covariate-aware time-series foundation models (TSFMs) condition their forecasts on additional input variables, called covariates, that are supplied over the future horizon. This capability makes them appealing for interventional forecasting, in which a target is predicted under a planned action such as a new product pricing policy or a new patient treatment schedule. We refer to covariates that encode such actions as treatment covariates&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 数据：包含再分析/卫星/观测等来源。&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;br/&gt;- 任务：降尺度/预报/临近预测等应用场景。&lt;/p&gt;</description>
-      <guid isPermaLink="false">2611.33732v1</guid>
-      <pubDate>Wed, 25 Nov 2026 03:53:23 +0000</pubDate>
+      <title>From Prediction to Decision: Decision-Focused Fine-Tuning of Autoregressive Tabular Transformers for Cost-Sensitive Financial Events</title>
+      <link>http://arxiv.org/abs/2611.34858v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Ashkan Golgoon, Giacomo Domeniconi, Samuel Atkins, Sergio Servantez, Zain Khandwala&lt;/p&gt;&lt;p&gt;Autoregressive transformers trained on tokenized tabular event streams are a simple and strong baseline for predicting financial events such as fraud. Yet institutions do not act on probabilities; they act on decisions whose consequences are asymmetric and heteroscedastic: the cost of a missed high-value fraud and that of a wrongly declined small purchase are not the same. The standard bridge is post-hoc Bayes-optimal thresholding of calibrated probabilities under a cost matrix&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.34858v1</guid>
+      <pubDate>Wed, 25 Nov 2026 18:27:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mixture-of-Loops Transformer</title>
+      <link>http://arxiv.org/abs/2611.34923v1</link>
+      <description>&lt;p&gt;&lt;b&gt;Authors:&lt;/b&gt; Lianghui Zhu, Shijie Wang, Xinggang Wang, Jinze Bai, Bo Wang, Xiang Bai&lt;/p&gt;&lt;p&gt;Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Transformer (MoLT), whose Mixture-of-Loops Attention (MoLA) uses keys and values (KV) as memory for selective reuse across depths and loops. Under loop residual, MoLT-R retains the residual stream and reads local KV across loops for expressivity&lt;br/&gt;&lt;br/&gt;要点：&lt;br/&gt;- 方法：采用机器学习/深度学习模型。&lt;/p&gt;</description>
+      <guid isPermaLink="false">2611.34923v1</guid>
+      <pubDate>Wed, 25 Nov 2026 18:58:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
